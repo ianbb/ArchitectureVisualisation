@@ -1,4 +1,4 @@
-# ArchitectureVisulaisation
+# ArchitectureVisualisation
 Some basic Visualisation Hacks
 
 This is the first very basic commit. Doesn't really work in IE. 
