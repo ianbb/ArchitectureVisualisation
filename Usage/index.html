@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html class="water-corp">
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> 
+<![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8"> 
+<![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
+
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
+    
+<head>
+        
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta charset="utf-8">
+    <title>Application Usage</title>    
+            
+    <link rel="stylesheet" href="./style.css">
+    <script src="./../d3/d3.v3.min.js"></script>
+      
+	</head>
+<body class="water-corp">
+   <div class="errors"></div>
+    <style>
+
+        .background {
+          fill: #fff;
+        }
+    
+         
+         .chart text {
+            font: normal 12px sans-serif;
+            color: black;
+         }
+          
+     text.active {
+       fill: #17becf;
+       
+     }
+     
+     line.stroke{
+        fill: red;
+      }
+       
+       div.tooltip {    
+           position: absolute;            
+           text-align: left;            
+           padding: 8px;                
+           font: 12px sans-serif;        
+           background: rgba(0, 0, 0, 0.8);
+           color: #fff;
+           border: 0px;        
+           border-radius: 4px;  
+           max-width: 25%;
+           min-width: 200px;
+       } 
+       
+       div.level {   
+           color: rgba(23, 190, 207, 1.0);
+       } 
+           
+        div.plabel {   
+            color: rgba(23, 190, 207, 1.0);
+            font: bold 12px sans-serif;
+            float: left;
+        } 
+
+        div.pvalue{
+            color: #fff;
+        }  
+     </style>
+ 
+    <script>
+
+        var hold=false;
+        
+        var margin = {top: 100, right: 0, bottom: 50, left: 100},
+                    width = 1500,
+                    height = 4000,
+                    barHeight = 20,
+                    cellWidth = 10,
+                    title = {top: 200, left: 250};
+    
+        var svg = d3.select("body").append("svg")
+                .attr("width", width + margin.left + title.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom +title.top )
+                .style("margin-left", margin.left + "px")
+                .style("margin-top", margin.top+ "px")
+                .attr("class", "chart")
+                .append("g")
+                    .attr("transform", "translate(" + (margin.left +title.left) + "," + (margin.top +title.top) + ")")
+        
+       var div = d3.select("body").append("div")    
+           .attr("class", "tooltip")                
+           .style("opacity", 0);       
+     
+ 
+        d3.json("svg.json", function(dataContent) {
+        var matrix = [],
+            nodes = dataContent.applications,
+            n = nodes.length;
+            processes = dataContent.processes;
+            p = dataContent.processes.length;
+      
+
+        var x = d3.scale.linear().domain([0, p]).range([0, width]);
+        var xx = d3.scale.linear().domain([0, n]).range([0, height]);
+        var c = d3.scale.category10().domain(d3.range(10));
+
+        // Compute index per node.
+        nodes.forEach(function(node, i) {
+          node.index = i;
+          node.count = 0;
+          matrix[i] = d3.range(p).map( function(j) { return {x: j, y: i, z: 0, n:"", u:"", i:""}; } );
+        });
+        
+        dataContent.links.forEach(function(link) {
+            try {
+               matrix[link.source][link.target].z += link.value;
+               matrix[link.source][link.target].n += link.notes;
+               matrix[link.source][link.target].u += link.usage;
+               matrix[link.source][link.target].i += link.importance;
+            }
+            catch(err) {
+               d3.select(".errors").append("div").text("s="+ link.source + ",t="+link.target);
+            }
+        }); 
+        
+        svg.append("rect")
+               .attr("class", "background")
+               .attr("width", width)
+               .attr("height", height);
+        
+        var chart = d3.select("g");
+        
+        var bar = chart.selectAll(".row")
+                .data(matrix)
+            .enter().append("g")
+                .attr("class", "row")
+                .attr("transform", function(d, i) { return "translate(0," + xx(i)  + ")"; })
+                .each(row);
+          
+            bar.append("text")
+                .attr("x", -6)
+                .attr("y", xx(1))
+                .attr("text-anchor", "end")
+                .text(function(d, i) { return nodes[i].name; });
+                           
+            bar.append("line")
+                     .attr("x2", width)
+                     .style("stroke","white");
+     
+        var column = chart.selectAll(".column")
+               .data(processes)
+             .enter().append("g")
+               .attr("class", "column")
+               .attr("transform", function(d, i) { return "translate(" + x(i) + ")rotate(-90)"; });
+               
+            column.append("line")
+                 .attr("x1", -height)
+                 .style("stroke","white");
+           
+             column.append("text")
+                 .attr("x", 6)
+                 .attr("y",xx(1))
+                 .attr("text-anchor", "start")
+                 .text(function(d,i) { return processes[i].name; });
+ 
+     
+        function row(row) {
+          var cell = d3.select(this).selectAll(".cell")
+              .data(row)
+            .enter().append("g")
+                .attr("transform", function(d, i) { return "translate(" + x(i) + ",0)"; });
+                
+            cell.append("rect")
+              .attr("x", 0)
+              .style("fill-opacity", function(d) { return d.z == 0 ? 0.4 : 1.0; } )
+              .style("fill", function(d) { return d.z == 0 ? c(7) : c(9) }) 
+              .attr("height", xx(1) + "px")
+              .attr("width", x(1) + "px")
+              .on("click", click)
+              .on("mouseover", mouseover)
+              .on("mouseout", mouseout);
+              
+        }
+        
+       function mouseover(p) {
+       
+             div.html("<div class='plabel'>Level II Process</div><div class='pvalue'>&nbsp;" + processes[p.x].name + "</div>" 
+                    + "<div class='plabel'>Application</div><div class='pvalue'>&nbsp;" + nodes[p.y].name + " </div>"
+                    + "<div class='plabel'>Importance</div><div class='pvalue'>&nbsp;" + p.i + " </div>" 
+                    + "<div class='plabel'>Usage</div><div class='pvalue'>&nbsp;" + p.u + " </div><br/>"
+             + decodeURIComponent(p.n))    
+                 .style("left", (d3.event.pageX + 10) + "px")        
+                 .style("top", (d3.event.pageY - 28) + "px"); 
+            div.transition()        
+                .duration(200)        
+                .style("opacity", .9);   
+        
+        if (hold) return;
+        d3.selectAll(".row text").classed("active", function(d, i) { return i == p.y; });
+        d3.selectAll(".column text").classed("active", function(d, i) { return i == p.x; });
+        d3.selectAll(".row rect").style("fill", function(d, i) { return d.y == p.y  || d.x == p.x  ? c(9) : d.z == 0 ? c(7) : c(9) ; });
+
+       }
+      
+       function click(p) {
+           hold = !hold;
+           if( !hold) mouseover(p);
+       }
+         
+       function mouseout(p) {
+              div.transition()        
+                 .duration(500)        
+                 .style("opacity", 0);    
+       }
+        if (hold) return;
+        d3.selectAll("text").classed("active", false);
+        d3.selectAll(".row rect").style("fill", function(d) { return d.z == 0 ? c(7) : c(9) }) ;
+       
+       
+    });
+
+    </script>
+
+	</body>
+</html>

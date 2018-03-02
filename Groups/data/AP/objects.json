@@ -1,0 +1,623 @@
+[	
+{    	
+"type"    : "Root",     	
+"name"    : "Manage Asset Planning",    	
+"notes"    : "",    	
+"depends" : [] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage R&D",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Planning"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Research and Development",    	
+"notes"    : "",    	
+"depends" : ["Manage R&D"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Waste Water Quality Management System (WWQMS)",    	
+"notes"    : "Manages%20the%20recording%2C%20monitoring%20and%20actions%20related%20to%20the%20analytical%20results%20of%20samples%20taken%20a%20various%20points%20throughout%20the%20state.%20The%20sample%20points%20are%20defined%20in%20licenses%20attached%20to%20each%20Wastewater%20Treatment%20Plant.",    	
+"depends" : ["Manage Strategic Direction for Water Supply",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Strategic Direction for Recycling",	
+"Plan and Investigate Asset Renewals",	
+"Manage Strategic Direction for Water Efficiency",	
+"Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP cFolders",    	
+"notes"    : "The%20Colloboration%20Folders%20module%20of%20the%20SAP%20Product%20Life%20Cycle%20maintenance%20suite",    	
+"depends" : ["Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP Supplier Relationship Management (SAP-SRM)",    	
+"notes"    : "",    	
+"depends" : ["Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Project Management Information System (PMIS)",    	
+"notes"    : "The%20Project%20Management%20Information%20System%20(PMIS)%20application%20has%20two%20main%20functional%20areas.%201.%20KPI%20Reports%3B%20and%202.%20Ad-hoc%20reporting%20on%20project%20status%20",    	
+"depends" : ["Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP Project System (SAP-PS)",    	
+"notes"    : "SAP%20module%20providing%20functionlaity%20related%20to%20project%20planning%2C%20monitoring%2C%20and%20controlling.",    	
+"depends" : ["Manage Program Capital",	
+"Manage Research and Development",	
+"Manage Scope"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP Business Warehouse (SAP BW)",    	
+"notes"    : "The%20Business%20Information%20Warehouse%20supplied%20by%20SAP.%20Designed%20to%20support%20decision%20making%20in%20an%20organisation.%20It%20is%20effectively%20a%20process%20and%20architecture%20which%20selects%20%2C%20converts%2C%20transforms%2C%20cleanses%20and%20summarises%20data%20from%20multiple%20data%20sources%2C%20and%20presents%20the%20data%20in%20structured%20form%20for%20query%20and%20analysis.",    	
+"depends" : ["Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP Materials Management (SAP-MM)",    	
+"notes"    : "Materials%20Management%20-%20contains%20all%20the%20functions%20required%20to%20simplify%20your%20business%20processes%20in%20Requirements%20Planning%2C%20Purchasing%2C%20Inventory%20Management%2C%20Warehouse%20Management%2C%20and%20Invoice%20Verification%2C%20but%20also%20introduces%20a%20high%20degree%20of%20automation%20into%20standard%20procedures",    	
+"depends" : ["Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP cProjects",    	
+"notes"    : "Collaboration%20Projects%20(cProjects)%20is%20a%20cross-industry%20tool%20you%20use%20to%20plan%20and%20monitor%20development%20and%20consultant%20projects.%20%20%20For%20Development%20projects%2C%20cProjects%20can%20help%20to%3A%20%20%20%C2%B7%20%20Increase%20customer%20satisfaction%20%20%C2%B7%20%20Deliver%20quality%20products%20on%20time%20with%20the%20lowest%20possible%20costs%20%20%C2%B7%20%20Reduce%20nonconformity%20costs%20by%20recognizing%20necessary%20changes%20early%20on%20%20%C2%B7%20%20Improve%20communication%20and%20decision%20making%20processes%20%20%C2%B7%20%20Increase%20the%20transparency%20of%20projects%20%20%20For%20consulting%20projecs%2C%20cProjects%20can%20help%20to%3A%20%20%20%C2%B7%20%20Plan%2C%20structure%2C%20and%20monitor%20projects%20efficiently%20%20%C2%B7%20%20Optimally%20staff%20resources%20for%20the%20individual%20project%20phases%20%20%C2%B7%20%20Achieve%20greater%20customer%20satisfaction%20%20%C2%B7%20%20Increase%20transparency%20between%20internal%20and%20external%20project%20members%20%20%C2%B7%20%20Optimize%20communication%20channels%20by%20supporting%20cooperation%20between%20project%20team%20members%20and%20partners%20using%20the%20Web%20%20%20This%20is%20component%20used%20with%20SAP%20SRM%20at%20the%20Water%20corporation%20to%20share%20project%20deliverables%20with%20service%20providers%20and%20partners.",    	
+"depends" : ["Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Yammer",    	
+"notes"    : "Yammer%20is%20the%20enterprise%20application%20for%20business-social%20collaboration%20among%20office-based%20employees.%20%20It%20is%20currently%20used%20by%20some%20business%20units%20at%20the%20Water%20Corporation%20for%20social%20announcements%20and%20discussions.",    	
+"depends" : ["Manage Research and Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Innovation",    	
+"notes"    : "",    	
+"depends" : ["Manage R&D"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Water Supply & Demand",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Planning"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategic Direction for Water Efficiency",    	
+"notes"    : "",    	
+"depends" : ["Manage Water Supply & Demand"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Water Quality Management System (WQMS)",    	
+"notes"    : "Manages%20the%20recording%2C%20monitoring%20and%20actions%20related%20to%20the%20quality%20of%20the%20States%20drinking%20water.",    	
+"depends" : ["Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Efficiency"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Asset Management Planning System (AMPS)",    	
+"notes"    : "The%20system%20provides%20asset%20management%20users%20a%20single%2Fcorporate%20site%20on%20to%20which%20they%20can%20publish%2C%20and%20from%20which%20they%20can%20access%20asset%20management%20information.",    	
+"depends" : ["Manage Drainage Performance",	
+"Manage Strategic Direction for Water Efficiency",	
+"Plan and Investigate Asset Renewals",	
+"Manage Strategic Direction for Recycling",	
+"Manage the Planning of Asset Operations",	
+"Manage Strategic Direction for Water Supply",	
+"Plan Asset Maintenance",	
+"Plan Strategic Asset Management",	
+"Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Hydstra (Kisters HydSys)",    	
+"notes"    : "HYDSYS%20(now%20known%20as%20Hydstra)%20is%20a%203rd%20party%20software%20package%20designed%20for%20the%20management%2C%20manipulation%20and%20storage%20of%20hydrological%20data.%20It%20has%20data%20compression%20techniques%20and%20a%20rudimentary%20GUI.%20HYDSYS%20is%20implemented%20at%20the%20Geraldton%20office%20on%20a%20personal%20computer%20networked%20to%20the%20Citech%20SCADA%20system%20and%20is%20also%20used%20within%20the%20Corporation%20for%20Time%20Series%20Data%20Storage.",    	
+"depends" : ["Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Supply",	
+"Manage Strategic Direction for Water Efficiency",	
+"Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Asset Management & Operations Support System (AMOSS)",    	
+"notes"    : "It%20is%20an%20Access%20Database%2C%20containing%20attribute%20information%20for%20Perth%20Region's%20Water%20Sewerage%20and%20Drainage%20system.%20The%20information%20held%20includes%20equipment%20configuration%2C%20specification%2C%20rating%20and%20some%20times-series%20information%20such%20as%20inflows%20and%20running%20times.%20AMOSS%20is%20used%20to%20for%20maintenance%20planning%2C%20incident%20management%20planning%2C%20and%20generates%20help%20screens%20for%20SCADA%20WW2%20and%20Ademco.%20%20%20%20%5BInformation%20from%20IT%20Store%5D%20AMOSS%20utilises%20a%20MS-Access%20database%20to%20record%20operational%20asset%20data%20such%20as%20pump%20running%20hours%2C%20pump%20settings%2C%20inflows%20and%20contingency%20planning%20information.%20Planning%20and%20Operations%20staff%20utilise%20an%20array%20of%20AMOSS%20data%20such%20as%20the%20Time%20To%20Overflow%20(TTO)%2C%20Pump%20Rates%20and%20Gen%20Set%20sizes%20to%20assist%20in%20the%20planning%2C%20design%20and%20the%20operation%20of%20wastewater%20and%20water%20pump%20stations%20and%20associated%20assets.",    	
+"depends" : ["Manage Drainage Performance",	
+"Manage Strategic Direction for Water Supply",	
+"Manage Strategic Direction for Water Efficiency",	
+"Manage Strategic Direction for Recycling",	
+"Plan Strategic Asset Management"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Operational Data Storage System (ODSS)",    	
+"notes"    : "To%20provide%20a%20Corporate%20repository%2Fwarehouse%20of%20information%20that%20supports%20operational%20functions%20of%20Water%20Supply%20and%20Distribution%2C%20and%20Water%20Quality.",    	
+"depends" : ["Manage Strategic Direction for Water Supply",	
+"Manage the Planning of Asset Operations",	
+"Plan Asset Maintenance",	
+"Manage Water Source Compliance",	
+"Manage Drainage Performance",	
+"Plan and Investigate Asset Renewals",	
+"Manage Strategic Direction for Water Efficiency",	
+"Manage Strategic Direction for Recycling"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategic Direction for Recycling",    	
+"notes"    : "",    	
+"depends" : ["Manage Water Supply & Demand"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Water Source Compliance",    	
+"notes"    : "",    	
+"depends" : ["Manage Water Supply & Demand"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategic Direction for Water Supply",    	
+"notes"    : "",    	
+"depends" : ["Manage Water Supply & Demand"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Times Manager",    	
+"notes"    : "Time%20sheet%20management%20system",    	
+"depends" : ["Manage Strategic Direction for Water Supply"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Infrastructure Assets",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Planning"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Plan and Investigate Asset Renewals",    	
+"notes"    : "",    	
+"depends" : ["Manage Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP Plant Maintenance (SAP-PM)",    	
+"notes"    : "SAP%20PM%20creates%20the%20work%20orders%20sent%20from%20Grange.%20If%20a%20work%20order%20is%20rejected%20(for%20example%2C%20because%20of%20an%20invalid%20street%2Fsuburb%20or%20invalid%20task%20code%20has%20been%20provided)%20SAP%20PM%20will%20flag%20the%20failure%20and%20request%20the%20work%20order%20be%20resent.",    	
+"depends" : ["Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Strategic Assets Lifecycle Value Optimisation (SALVO)",    	
+"notes"    : "The%20SALVO%20(Strategic%20Assets%20Life%20Cycle%20Value%20Optimisation)%20project%20(http%3A%2F%2Fwww.salvoproject.org)%20is%20an%20international%20cross%20industry%20R%26D%20project%2C%20which%20has%20seen%20a%20combination%20of%20leading%20edge%20asset%20owners%20and%20asset%20management%20practitioners%20working%20together%20to%20establish%20best%20practice%20approaches%20to%20address%20this%20key%20asset%20management%20issue.%20The%20Water%20Corporation%20has%20been%20an%20associate%20member%20in%20the%20project%20and%20involved%20in%20developing%20case%20studies%20for%20decisions%20on%20the%20optimal%20timing%20of%20asset%20renewal.%20%20Application%20custodian%3A%20Janet%20Ham%20%E2%80%93%20Renewals%20Planning%20Manager%20%20L1%20and%20L2%20business%20processes%20which%20use%20this%20application%3A%20%20Level%201%3A%20Manage%20Infrastructure%20Assets%20Level%202%3A%20Plan%20and%20Investigate%20Asset%20Renewals%20%20Application%20Tiering%20information%3A%20Unknown%20%20Service%20provider%3A%20Support%20and%20enquiries%20are%20made%20through%20http%3A%2F%2Fwww.salvoproject.org%2F%20%20Machine%20names%20or%20URLs%20where%20the%20application%20is%20running%20from%3A%20Currently%20separate%20to%20the%20corporate%20network%20in%20all%20ways%2C%20running%20from%20a%20standalone%20machine.%20%20g.%20Any%20links%20to%20manuals%2Fdesign%20documentation.%20http%3A%2F%2Fwww.salvoproject.org%2F",    	
+"depends" : ["Plan and Investigate Asset Renewals"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Asset Condition Assessment (ACA)",    	
+"notes"    : "ACA%20was%20developed%20as%20an%20integral%20part%20of%20the%20Corporation's%20overall%20strategy%20for%20managing%20its%20engineering%20assets.%20It%20provides%20the%20means%20by%20which%20the%20condition%20of%20the%20assets%20will%20be%20assessed%20routinely%20and%20in%20a%20uniform%20way%20throughout%20the%20Corporation.%20This%20assessment%20is%20used%20as%20a%20basis%20for%20decisions%20on%20maintenance%20planning%20and%20asset%20replacement%20(or%20refurbishment)%20and%20also%20provides%20the%20necessary%20consistency%20for%20Management%20Reporting%20for%20asset%20condition.",    	
+"depends" : ["Plan and Investigate Asset Renewals",	
+"Plan Strategic Asset Management",	
+"Assess Asset Capability"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "PI (Data Historian)",    	
+"notes"    : "The%20Data%20Historian%20is%20the%20Corporation%20repository%20for%20capturing%20and%20storing%20Historical%20Time%20Series%20Data%20(HTSD).%20Presently%20it%20is%20implemented%20at%20three%20sites%2C%20Metro%20Water%2C%20Waste%20Water%202%2C%20Wanneroo%20Ground%20Water%20Treatment%20plant.%0D%0A%0D%0AAquadoc%20Operations%20Manual%3A%20%231297639%0D%0A",    	
+"depends" : ["Manage Regional Asset Investment Planning ",	
+"Plan and Investigate Asset Renewals",	
+"Plan Infrastructure Assets",	
+"Manage Strategic Investment Prioritisation"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage the Planning of Asset Operations",    	
+"notes"    : "",    	
+"depends" : ["Manage Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Watsys",    	
+"notes"    : "Used%20in%20planning%20new%20water%20distribution%20networks%20and%20extensions%20to%20existing%20networks.%20It%20allows%20the%20simulation%20of%20the%20operation%20of%20a%20water%20supply%20network%20over%20an%20extended%20period%20allowing%20for%20variations%20in%20service%20demands%2C%20reservoir%20levels%20and%20device%20settings.",    	
+"depends" : ["Manage the Planning of Asset Operations",	
+"Plan Strategic Asset Management"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Power Allocation",    	
+"notes"    : "The%20system%20stores%20information%20on%20the%20cost%20and%20amount%20of%20power%20consumed%20by%20the%20different%20regions%20of%20the%20Corporation.%20Power%20consumption%20data%20is%20obtained%20on%20a%20monthly%20basis%20from%20Western%20Power.%20This%20provides%20the%20users%20with%20the%20capability%20to%20develop%20monthly%20budgets%20of%20power%20consumption%20by%20asset%20and%20region.%20Power%20allocation%20consists%20of%20three%20subsystems%3B%20-%20Power%20Allocation%20-%20Power%20Allocation%20Import%20-%20Power%20Allocation%20Payments.%20Power%20Allocation%20provides%20the%20ability%20to%20search%2C%20collate%20power%20consumption%20information%2C%20view%20account%20history%20and%20the%20ability%20to%20export%20data%20to%20MS-Excel%20or%20MS%20Access.%20Power%20Allocation%20Import%20provides%20functionality%20to%20import%20Western%20Power%20data.%20Power%20Allocation%20Payments%20provides%20the%20ability%20to%20manually%20maintain%20power%20account%20information%20in%20addition%20to%20the%20manual%20entry%20of%20accounts%20that%20do%20not%20normally%20come%20through%20the%20data%20file%20from%20Western%20Power.",    	
+"depends" : ["Manage the Planning of Asset Operations"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Plan Asset Maintenance",    	
+"notes"    : "",    	
+"depends" : ["Manage Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Drainage",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Planning"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategic Direction for Drainage",    	
+"notes"    : "",    	
+"depends" : ["Manage Drainage"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Corporate Document Management System (AQUA)",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategic Direction for Drainage"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Drainage Performance",    	
+"notes"    : "",    	
+"depends" : ["Manage Drainage"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Plan Infrastructure Assets",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Planning"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Infrastructure Asset Strategy",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Plan Strategic Asset Management",    	
+"notes"    : "",    	
+"depends" : ["Manage Infrastructure Asset Strategy"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Assess Asset Capability",    	
+"notes"    : "",    	
+"depends" : ["Manage Infrastructure Asset Strategy"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "System Capability Matrix (SCM)",    	
+"notes"    : "The%20System%20Capability%20Matrix%20(SCM)%20provides%20the%20user%20with%20the%20ability%20to%20view%20the%20current%20level%20of%20risk%20in%20each%20of%20the%20Corporation%E2%80%99s%20asset%20systems%20throughout%20the%20State.%20Using%20SCM%20you%20can%20detect%20where%20there%20are%20gaps%20in%20either%20risk%20assessments%20or%20risk%20treatments.%20The%20information%20shown%20on%20the%20SCM%20is%20gathered%20from%20a%20number%20of%20existing%20Corporation%20applications.%20This%20is%20a%20Waternet-based%20application.",    	
+"depends" : ["Assess Asset Capability"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "System Capability Forecasting",    	
+"notes"    : "Module%20of%20System%20Capability%20Matrix%20(SCM).%20%20Viewing%20platform%20for%20asset%20capability%20information.%20%20Used%20for%20monitoring%20and%20exception%20reporting%20",    	
+"depends" : ["Assess Asset Capability",	
+"Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Regional Asset Investment Planning ",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Development Services",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Building Service",    	
+"notes"    : "",    	
+"depends" : ["Manage Development Services"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Grange",    	
+"notes"    : "The%20Grange%20system%20was%20implemented%20on%2014%20April%2C%201998.%20The%20system%20is%20primarily%20a%20Revenue%20and%20Customer%20Service%20Information%20System%20(CSIS)%20that%20manages%20all%20aspects%20of%20the%20Water%20Corporation's%20customer%20contact%20services%20including%20billing%2C%20accounts%2C%20metering%2C%20property%2C%20applications%2C%20recovery%2C%20cash%20receipting.%20The%20system%20replaced%20the%20Metro%20and%20Country%20revenue%20systems%2C%20combining%20them%20into%20one.%20%20The%20system%20also%20interfaces%20to%20the%20Plant%20Maintenance%2C%20Financial%20and%20Human%20Resource%20modules%20of%20the%20System%20Applications%20%26%20Products%20(SAP)%20system.%20%20Interfaces%20also%20exist%20%20for%20invoicing%20with%20Industrial%20Waste%2C%20LDMS%20and%20Reprographics%20(STCR).%20%20Grange%20has%20been%20developed%20in%20conjunction%20with%20the%20Water%20Corporation's%20vision%20and%20strategies%20for%20achieving%20excellence%20in%20customer%20service.%20",    	
+"depends" : ["Manage Land Service",	
+"Manage Building Service"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Land Service",    	
+"notes"    : "",    	
+"depends" : ["Manage Development Services"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Facilities Mapping System (FMS)",    	
+"notes"    : "The%20Water%20Corporation%20Facilities%20Mapping%20System.%20This%20system%20is%20responsible%20for%20managing%20information%20relating%20to%20water%20and%20sewer%20assets%20of%20the%20Water%20Corporation.%20It%20is%20a%20spatial%20based%20system%20based%20upon%20the%20Smallworld%20GIS%20suite%20of%20products.",    	
+"depends" : ["Manage Land Service",	
+"Plan Land Servicing"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Buildernet (BPA)",    	
+"notes"    : "BuilderNet%20is%20an%20Internet%20application%20developed%20to%20streamline%20the%20approval%20of%20single%20residential%20building%20plans%20by%20the%20Water%20Corporation.%20Builders%20are%20required%20to%20submit%20proposed%20building%20plans%20and%20water%20service%20applications%20to%20the%20Water%20Corporation%2C%20to%20arrange%20for%20water%20services%20to%20be%20provided%20and%20to%20ensure%20buildings%20are%20not%20constructed%20over%2C%20or%20too%20near%2C%20Corporation%20assets.%20The%20Corporation%20processes%20on%20average%2030%2C000%20building%20plans%20annually%20for%20the%20metropolitan%20area%20and%2010%2C000%20for%20country%20regions.%20Around%20two-thirds%20of%20applications%20are%20for%20new%20buildings%20with%2080%25%20of%20these%20relating%20to%20single%20residential%20development.%20BuilderNet%20is%20the%20first%20business%20application%20to%20be%20built%20on%20the%20new%20E-Business%20Infrastructure%20(EBI)%20and%20incorporates%20online%20integration%20into%20the%20Corporation's%20Grange%20and%20Facilities%20Mapping%20Systems.%20BuilderNet%20largely%20automates%20the%20building%20plan%20approval%20and%20service%20application%20processes.%20In%20the%20majority%20of%20cases%2C%20straightforward%20applications%20will%20get%20immediate%20approval%20without%20the%20need%20for%20any%20manual%20handling.%20BuilderNet%20is%20already%20in%20operation%20and%20is%20currently%20being%20rolled%20out%20to%2016%20major%20building%20companies.%20BuilderNet%20was%20formally%20launched%20by%20the%20Minister%20Nick%20Griffiths%20on%2026th%20September%202003.%20",    	
+"depends" : ["Manage Land Service"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SiteMinder",    	
+"notes"    : "",    	
+"depends" : ["Buildernet (BPA)"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "DeveloperNet",    	
+"notes"    : "Records%2Fmanages%20the%20corporation's%20involvement%20in%20the%20land%20planning%20process.%20%20It%20specifically%20manages%20the%20corporation's%20involvement%20in%20the%20Western%20Australian%20Planning%20Commission's%20Subdivision%20process%20(this%20includes%20consultants%20asset%20design%20submissions%2C%20Financial%20Securities%20and%20land%20matters)%2C%20the%20zoning%20process%2C%20strategic%20land%20planning%20advice%2C%20the%20planning%20of%20scheme%20planning%20advice%2C%20water%20reticulation%20tasks%2C%20and%20the%20environmental%20review%20of%20external%20proposals.%20Assists%20in%20the%20management%20of%20the%20Land%20Development%20Process.%20Documents%20how%20land%20is%20acquired%20and%20for%20what%20purpose.",    	
+"depends" : ["Plan Land Servicing",	
+"Manage Land Service"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Public Web Site",    	
+"notes"    : "",    	
+"depends" : ["DeveloperNet"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Transfer of Digital Designs (TDD)",    	
+"notes"    : "This%20was%20the%20planned%20extension%20to%20ESINet.%20%20The%20project%20that%20delivered%20ESINet%20failed%20to%20deliver%20this%20part%20of%20the%20application%20due%20to%20difficulties%20with%20making%20translators%20work%20that%20were%20intended%20to%20automate%20the%20uploading%20of%20designs%20into%20FMS.%20%20%20More%20details%20to%20come%20from%20Jeff%20Jorgensen",    	
+"depends" : ["Manage Land Service"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "As Constructed Index",    	
+"notes"    : "Excel%20Spreadsheets%20which%20are%20updated%20with%20AS%20Contructed%20Information.",    	
+"depends" : ["Manage Land Service"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Water Office 4.3",    	
+"notes"    : "",    	
+"depends" : ["Plan Land Servicing",	
+"Manage Land Service"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Plan Land Servicing",    	
+"notes"    : "",    	
+"depends" : ["Manage Development Services"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Quote Generator",    	
+"notes"    : "Spreadsheet%20used%20to%20assist%20in%20the%20preparation%20of%20%20a%20Statement%20of%20Cost%20for%20non-standard%20re-imbursement%20work.%20%20%20The%20statement%20of%20costs%20are%20the%20only%20worksheets%20made%20available%20to%20customer%20when%20required%20for%20costings%20and%20district%20usage%20on%20quote%20for%20contact%20works.%20Used%20for%20labour%20rates%20witin%20different%20district%20offices%20and%20capture%20of%20materials%20and%20other%20experiences%20on%20the%20work%20order.%20%20It%20is%20also%20used%20for%20non-standard%20re-imbursement%20projects%2C%20and%20large%20projects.",    	
+"depends" : ["Plan Land Servicing"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Asset Investment",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Scope",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Investment"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage External Approvals",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Investment"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Program Capital",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Investment"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP Investment Management (SAP-IM)",    	
+"notes"    : "Investment%20Management%20-%20Investment%20planning%2C%20Cost%20estimation%2C%20cost%20control%20",    	
+"depends" : ["Formulate Capital Investment",	
+"Manage Program Capital"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Online Appropriation Request (OAR)",    	
+"notes"    : "Front%20end%20to%20SAP-IM%2C%20used%20for%20creating%20job%20requests%20in%20SAP-IM.%20%20",    	
+"depends" : ["Manage Program Capital",	
+"Formulate Capital Investment"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Corporate Financial Impact Statement Management System (CFIS)",    	
+"notes"    : "Application%20provides%20for%20management%20of%20spreadsheets%20containing%20Financial%20Impact%20Statements.%20Individual%20spreadsheets%20are%20created%20by%20any%20business%20unit%20for%20each%20significant%20development%20project%2Finitiative%20that%20it%20proposes%20to%20undertake.",    	
+"depends" : ["Formulate Capital Investment",	
+"Manage Program Capital"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategic Investment Prioritisation",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Investment"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Formulate Capital Investment",    	
+"notes"    : "",    	
+"depends" : ["Manage Asset Investment"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "CIP Prioritisation Interim Solution (CPS)",    	
+"notes"    : "The%20main%20objective%20with%20regards%20to%20the%20CIP%20Prioritisation%20Interim%20Solution%20is%20to%20provide%20a%20tool%20for%20the%20prioritisation%20of%20capital%20projects%20in%20the%205%20year%20Capital%20Investment%20Program%20(CIP)%20that%20will%20lead%20to%20a%20Board%20submission%20in%20October%202005.%20The%20CIP%20Prioritisation%20Interim%20Solution%20has%203%20major%20processes%3B%201.%20Import%20the%20data%20from%20PMIS%20and%20SAP%20%E2%80%A2%20The%20Senior%20Program%20Analyst%20will%20be%20responsible%20for%20manually%20requesting%20the%20importing%20of%20predefined%20PMIS%20and%20SAP%20content%20into%20the%20CIP%20Prioritisation%20Interim%20Solution.%202.%20Review%20and%20refine%20program%20investment%20%E2%80%A2%20The%20Program%20Manager%20will%20be%20responsible%20for%20the%20iterative%20process%20of%20reviewing%20and%20refining%20the%20Projects%20in%20the%20Program%20until%20the%20Project%20Manger%20has%20exhausted%20known%20refinement%20opportunities.%203.%20Report%20on%20accepted%20refinements%20to%20project%20investment%20for%20updating%20SAP%20%E2%80%A2%20Program%20Managers%20will%20be%20responsible%20for%20ensuring%20that%20SAP%20is%20updated%20with%20any%20accepted%20changes%20to%20investment%20and%20PPC%20date%20that%20have%20been%20trialled.%20The%20major%20process%20from%20the%20CIP%20Prioritisation%20Interim%20Solution%20being%20the%20%E2%80%9CReview%20and%20refine%20program%20investment%E2%80%9D%20is%20an%20iterative%20manual%20process%20where%20the%20Program%20Manager%20refines%20the%20financial%20year%20investment%20on%20projects%20within%20the%20programs%20for%20which%20they%20are%20responsible.%20%20Effectively%20this%20process%20has%20the%20projects%20prioritised%20based%20upon%20associated%20risk%20to%20identify%20those%20that%20can%20be%20postponed.%20The%20CIP%20Prioritisation%20Interim%20Solution%20application%20does%20not%20introduce%20new%20technology.%20%20It%20is%20based%20on%20prevailing%20Corporation%20technology%2C%20and%20uses%20a%20Microsoft%20Access%20front%20end%20and%20a%20Microsoft%20SQL%20Server%20database%20backend.%20%20Although%20the%20application%20is%20aimed%20primarily%20at%20Program%20Analysts%20and%20Program%20Managers%20located%20at%20the%20Water%20Corporation%20Head%20Office%20in%20Leederville%2C%20no%20controls%20exist%20over%20who%20can%20access%20it.%20The%20CIP%20Prioritisation%20Interim%20Solution%20application%20will%20be%20used%20as%20a%20production%20tool%20for%20at%20least%20one%20year%20following%20implementation.%20%20Its%20support%20will%20follow%20support%20arrangements%20for%20other%20applications%20accepted%20into%20production.%20",    	
+"depends" : ["Formulate Capital Investment"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Asset Cost Estimator (ACE)",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "REsource ALlocation Model (REALM)",    	
+"notes"    : "REALM%20(REsource%20ALlocation%20Model)%20is%20a%20water%20supply%20system%20simulation%20package.%20It%20is%20general%20in%20that%20any%20water%20supply%20system%20can%20be%20configured%20as%20a%20network%20of%20nodes%20and%20carriers%20representing%20reservoirs%2C%20demand%20centres%2C%20waterways%2C%20pipes%2C%20etc.%20It%20is%20flexible%20in%20that%20it%20can%20be%20used%20as%20a%20%E2%80%9Cwhat%20if%E2%80%9D%20tool%20to%20address%20various%20options%20(i.e.%20new%20operating%20rules%2C%20physical%20system%20modifications%2C%20etc.).%20System%20changes%20can%20be%20quickly%20and%20easily%20configured%20and%20investigated.%20A%20wide%20range%20of%20operating%20rules%20can%20be%20modelled%20either%20directly%20or%20indirectly%20by%20exploiting%20the%20basic%20set%20of%20node%20and%20carrier%20types%20and%20their%20corresponding%20attributes.%20It%20uses%20a%20fast%20network%20linear%20programming%20algorithm%20to%20optimise%20the%20water%20allocation%20within%20the%20network%20for%20each%20time%20step%20of%20the%20simulation%20period%2C%20in%20accordance%20with%20user-defined%20operating%20rules.%20The%20user%20can%20specify%20the%20desired%20level%20of%20detail%20of%20output%20from%20the%20model.%20Output%20can%20be%20presented%20graphically%2C%20either%20in%20raw%20form%20or%20after%20post-processing%20using%20a%20suite%20of%20utility%20programs%20separate%20from%20the%20simulation%20model.%20Input%20and%20output%20data%20(ASCII)%20files%20have%20the%20same%20format%20and%20can%20easily%20be%20transferred%20to%20commercially%20available%20word%20processing%20and%20spreadsheet%20packages%20such%20as%20Microsoft%20Office%20to%20enhance%20presentation%20and%2For%20to%20perform%20more%20detailed%20statistical%20analyses.",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "HydNet",    	
+"notes"    : "HydNet%20is%20used%20in%20the%20Water%20Supply%20section%20of%20IPB.%20Used%20in%20the%20planning%20of%20upgrades%20and%20extensions%20to%20the%20water%20distribution%20network.",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Watham",    	
+"notes"    : "Used%20to%20model%20the%20effect%20of%20water%20hammer.%20The%20package%20is%20used%20in%20planning%20to%20ensure%20that%20any%20transient%20fluctuations%20in%20pressure%20are%20within%20required%20bounds.",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Bore Pump Test",    	
+"notes"    : "The%20Bore%20Pump%20Test%20applciation%20provides%20an%20interface%20to%20a%20database%20of%20bore%20pump%20testing%20data.%20%20Users%20can%20view%20the%20results%20of%20previous%20testing%20and%20import%20new%20testing%20data.",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Planning Index",    	
+"notes"    : "Provides%20an%20index%20to%20Planning%20Reports%20and%20other%20documents%20created%20as%20part%20of%20the%20Planning%20Process.%20",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SewerNet/DTM",    	
+"notes"    : "Modelling%20tool%20for%20Wastewater.",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "MAPPA",    	
+"notes"    : "A%20suite%20of%20programs%20that%20perform%20a%20variety%20of%20operations%20on%20polygons.%20These%20polygons%20usually%20represent%20geographic%20features%20significant%20to%20IPB.%20(sewer%20catchment%2C%20declared%20areas%20etc)",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Pipe 10.0",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "AQTESOLV",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "PRAMS",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Sewer Pressure Mains Risk Model",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Water Mains Risk Model",    	
+"notes"    : "",    	
+"depends" : ["Plan Infrastructure Assets"] 		
+}	
+	
+]	

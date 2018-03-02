@@ -1,0 +1,243 @@
+[	
+{    	
+"type"    : "Root",     	
+"name"    : "Manage Strategy & Stakeholders",    	
+"notes"    : "",    	
+"depends" : [] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Legal Services",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Stakeholders"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Insurance",    	
+"notes"    : "",    	
+"depends" : ["Manage Legal Services"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "March ClearSight LLC",    	
+"notes"    : "",    	
+"depends" : ["Manage Insurance"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Marsh SharePoint",    	
+"notes"    : "",    	
+"depends" : ["Manage Insurance"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Legislation",    	
+"notes"    : "",    	
+"depends" : ["Manage Legal Services"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Corporate Document Management System (AQUA)",    	
+"notes"    : "",    	
+"depends" : ["Manage Legal Services",	
+"Manage Legislation"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Provision Legal Services",    	
+"notes"    : "",    	
+"depends" : ["Manage Legal Services"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Coordinate Board Governance",    	
+"notes"    : "",    	
+"depends" : ["Manage Legal Services"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Diligent Boardbooks",    	
+"notes"    : "",    	
+"depends" : ["Manage Board Liaison",	
+"Coordinate Board Governance"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Development of Non-Core Business Opportunities",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Stakeholders"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Works Holding Arrangements",    	
+"notes"    : "",    	
+"depends" : ["Manage Development of Non-Core Business Opportunities"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Business Development",    	
+"notes"    : "",    	
+"depends" : ["Manage Development of Non-Core Business Opportunities"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Affinitext",    	
+"notes"    : "Intelligent%20Documents",    	
+"depends" : ["Manage Business Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "@Risk",    	
+"notes"    : "Financial%20analysis",    	
+"depends" : ["Manage Business Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "SAP FI/CO",    	
+"notes"    : "",    	
+"depends" : ["Manage Business Development"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategic Direction",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Stakeholders"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategy & Corporate Analytics",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategic Direction"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Planning Corporate Strategic Direction",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Corporate Analytics"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Executive Calendar",    	
+"notes"    : "",    	
+"depends" : ["Manage Planning Corporate Strategic Direction"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Coordination of Approach to Business Analysis",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Corporate Analytics"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Monitoring of Corporate Strategic Direction",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Corporate Analytics"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Strategic Policy Direction",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Corporate Analytics"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Business Improvement",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategic Direction"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Use of Management Operating Systems",    	
+"notes"    : "",    	
+"depends" : ["Manage Business Improvement"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Corporate Change",    	
+"notes"    : "",    	
+"depends" : ["Manage Business Improvement"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Media Board & Government Liason",    	
+"notes"    : "",    	
+"depends" : ["Manage Strategy & Stakeholders"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Ministerial Liaison",    	
+"notes"    : "",    	
+"depends" : ["Manage Media Board & Government Liason"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Priority One Enquiry Management System (POEMS)",    	
+"notes"    : "The%20Priority%20One%20Enquiries%20Management%20System%20(POEMS)%20is%20also%20known%20as%20'MLU%20application'%20and%20'POEMS%20XP'%20within%20the%20Water%20Corporation.%20%20%20The%20Priority%20One%20Enquiry's%20Management%20System%20(POEMS)%20has%20been%20designed%20to%20assist%20staff%20responsible%20for%20preparing%20draft%20responses%20to%20Priority%20One%20Enquiries%20from%20the%20offices%20of%20the%20Minister%20and%20the%20Managing%20Director.%20%20%20%20",    	
+"depends" : ["Manage Board Liaison",	
+"Manage Ministerial Liaison"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Media Communications",    	
+"notes"    : "",    	
+"depends" : ["Manage Media Board & Government Liason"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Sitecore",    	
+"notes"    : "",    	
+"depends" : ["Manage Media Communications"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Grange",    	
+"notes"    : "The%20Grange%20system%20was%20implemented%20on%2014%20April%2C%201998.%20The%20system%20is%20primarily%20a%20Revenue%20and%20Customer%20Service%20Information%20System%20(CSIS)%20that%20manages%20all%20aspects%20of%20the%20Water%20Corporation's%20customer%20contact%20services%20including%20billing%2C%20accounts%2C%20metering%2C%20property%2C%20applications%2C%20recovery%2C%20cash%20receipting.%20The%20system%20replaced%20the%20Metro%20and%20Country%20revenue%20systems%2C%20combining%20them%20into%20one.%20%20The%20system%20also%20interfaces%20to%20the%20Plant%20Maintenance%2C%20Financial%20and%20Human%20Resource%20modules%20of%20the%20System%20Applications%20%26%20Products%20(SAP)%20system.%20%20Interfaces%20also%20exist%20%20for%20invoicing%20with%20Industrial%20Waste%2C%20LDMS%20and%20Reprographics%20(STCR).%20%20Grange%20has%20been%20developed%20in%20conjunction%20with%20the%20Water%20Corporation's%20vision%20and%20strategies%20for%20achieving%20excellence%20in%20customer%20service.%20",    	
+"depends" : ["Manage Media Communications"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_ApplicationComponent",     	
+"name"    : "Consultation Manager",    	
+"notes"    : "Web-based%20Stakeholder%20Engagement%20System%20-%20a%20database%20which%20stores%20contact%20details%20and%20communications%20with%20external%20stakeholders.%20%20There%20are%20more%20than%2016000%20stakeholders%20currently%20on%20the%20system.%20https%3A%2F%2Fwcwa.consultationmanager.com.au%20Used%20to%20support%3A%20%20stakeholder%20management%2C%20community%20engagement%2C%20key%20customer%20relationship%2C%20media%20relations%2C%20Water%20efficiency%20program%20relationships%2C%20including%20the%20Waterwise%20Schools%20program.%20",    	
+"depends" : ["Manage Media Communications"] 		
+}	
+,	
+{    	
+"type"    : "ArchiMate_BusinessProcess",     	
+"name"    : "Manage Board Liaison",    	
+"notes"    : "",    	
+"depends" : ["Manage Media Board & Government Liason"] 		
+}	
+	
+]	

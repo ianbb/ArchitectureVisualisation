@@ -1,0 +1,117 @@
+{        	
+"name" : "Water Corporation",         	
+"children" : [	
+{        	
+"name" : "Assets Delivery Group",         	
+"children" : [	
+{        	
+"name" : "Contracts",         	
+"children" : [	
+{"name": "Commercial Contract" },	
+{"name": "Governance & Strategy" },	
+{"name": "Principle Contract" }	
+] 	
+},	
+{        	
+"name" : "Infrastructure Design",         	
+"children" : [	
+{"name": "Dams & Dam Safety" },	
+{"name": "Electrical Mechanical & SCADA" },	
+{"name": "Wastewater Conveyance" },	
+{"name": "Water & Water Treatment" },	
+{"name": "Water Converyance" }	
+] 	
+},	
+{"name": "Executive Support" },	
+{"name": "Mechanical & Electrical Services" },	
+{"name": "Mechanical & Electrical Services" },	
+{"name": "Project Management" }	
+] 	
+},	
+{        	
+"name" : "Assets Planning Group",         	
+"children" : [	
+{"name": "Asset Investment Planning Metro" },	
+{"name": "Asset Investment Planning Regional" },	
+{"name": "Asset Strategy" },	
+{"name": "Development Services" }	
+] 	
+},	
+{        	
+"name" : "Customer and Community Group",         	
+"children" : [	
+{"name": "Contact Centre" },	
+{"name": "Customer & Industry Partnerships" },	
+{"name": "Customer Billing & Assurance" },	
+{"name": "Customer Strategy & Engagement" },	
+{"name": "Internal Communications" }	
+] 	
+},	
+{        	
+"name" : "Customers",         	
+"children" : [	
+{"name": "Key Stakeholder Users (Business & Commercial)" },	
+{"name": "Residential Users" }	
+] 	
+},	
+{        	
+"name" : "Finance & Corporate Services Group",         	
+"children" : [	
+{"name": "Business & Technology Solutions" },	
+{"name": "Financial Management" },	
+{"name": "Human Resources" },	
+{"name": "Pricing & Evaluation" },	
+{"name": "Procurement & Property" },	
+{"name": "Risk & Assurance" }	
+] 	
+},	
+{        	
+"name" : "Operations Group",         	
+"children" : [	
+{"name": "Alliance Management" },	
+{"name": "Field Services" },	
+{"name": "Goldfields & Agricultural Region" },	
+{"name": "Great Southern Region" },	
+{"name": "Mid West Region" },	
+{"name": "North West Region" },	
+{"name": "Operational Assurance" },	
+{"name": "South West Region" }	
+] 	
+},	
+{        	
+"name" : "Operations Services Group",         	
+"children" : [	
+{        	
+"name" : "Water Quality",         	
+"children" : [	
+{"name": "Existing Role ( New Role )" }	
+] 	
+},	
+{"name": "Operations Centre" },	
+{"name": "Operations Intergration" },	
+{"name": "Technology & Energy Management" }	
+] 	
+},	
+{        	
+"name" : "Strategy & Stakeholders Group",         	
+"children" : [	
+{"name": "Infrastructure Markets" },	
+{"name": "Legal Services" },	
+{"name": "Media & Government Relations" },	
+{"name": "Strategy & Corporate Analytics" },	
+{"name": "Transformations & Continuous Improvement" }	
+] 	
+},	
+{"name": "Builders" },	
+{"name": "Chief Executive" },	
+{"name": "Developers" },	
+{"name": "Meter Reader" },	
+{"name": "Students" },	
+{"name": "Suppliers" },	
+{"name": "Teachers" },	
+{"name": "WA Dept of Health" },	
+{"name": "WA Government" },	
+{"name": "Water Corporation Board" },	
+{"name": "Western Australian Planning Commission (WAPC)" }	
+] 	
+}	

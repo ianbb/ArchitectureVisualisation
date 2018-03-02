@@ -1,0 +1,42 @@
+{
+    "title" : "Water Corporation Architecture",
+    "graph" : {
+     	"linkDistance" : 100,
+        "charge"       : -800,
+        "height"       : 1200,
+        "width"       : 100,
+        "numColors"    : 9,
+        "labelPadding" : {
+            "left"   : 4,
+            "right"  : 4,
+            "top"    : 2,
+            "bottom" : 2
+        },
+        "labelMargin" : {
+            "left"   : 2,
+            "right"  : 2,
+            "top"    : 1,
+            "bottom" : 5
+        },
+        "ticksWithoutCollisions" : 25
+    },
+    "types" : { 	
+	"ArchiMate_ApplicationComponent"    : {
+            "short" : "Application",
+            "long"  : "Application Component"
+        },
+        "ArchiMate_BusinessProcess"         : {
+            "short" : "Business Process",
+            "long"  : "Business Process"
+        },      
+        "Root"        : {
+            "short" : "Map Centre",
+            "long"  : "Centre of the Graph"
+        }, 
+        "ArchiMate_ApplicationService"         : {
+            "short" : "Application Service",
+            "long"  : "Application Service"
+        }
+    },
+    "constraints" : []
+}

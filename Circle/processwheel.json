@@ -1,0 +1,1203 @@
+[
+
+	{
+
+		"name": "Manage Asset Planning",
+
+		"children": [
+
+			{
+
+				"name": "Manage R&D",
+
+				"children": [
+
+					{
+						"name": "Manage Research and Development",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Innovation",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Water Supply & Demand",
+
+				"children": [
+
+					{
+						"name": "Manage Strategic Direction for Water Efficiency",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Strategic Direction for Recycling",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Water Source Compliance",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Strategic Direction for Water Supply",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Infrastructure Assets",
+
+				"children": [
+
+					{
+						"name": "Plan and Investigate Asset Renewals",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage the Planning of Asset Operations",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Plan Asset Maintenance",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Drainage",
+
+				"children": [
+
+					{
+						"name": "Manage Strategic Direction for Drainage",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Drainage Performance",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Plan Infrastructure Assets",
+
+				"children": [
+
+					{
+
+						"name": "Manage Infrastructure Asset Strategy",
+
+						"children": [
+
+							{
+								"name": "Plan Strategic Asset Management",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Assess Asset Capability",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+						"name": "Manage Regional Asset Investment Planning ",
+						"colour": "#80CDC1"
+					},
+
+					{
+
+						"name": "Manage Development Services",
+
+						"children": [
+
+							{
+								"name": "Manage Building Service",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Land Service",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Plan Land Servicing",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+
+						"name": "Manage Asset Investment",
+
+						"children": [
+
+							{
+								"name": "Manage Scope",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage External Approvals",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Program Capital",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Strategic Investment Prioritisation",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Formulate Capital Investment",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					}
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Manage Strategy & Stakeholders",
+
+		"children": [
+
+			{
+
+				"name": "Manage Legal Services",
+
+				"children": [
+
+					{
+						"name": "Manage Insurance",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Legislation",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Provision Legal Services",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Coordinate Board Governance",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Development of Non-Core Business Opportunities",
+
+				"children": [
+
+					{
+						"name": "Manage Works Holding Arrangements",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Business Development",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Strategic Direction",
+
+				"children": [
+
+					{
+
+						"name": "Manage Strategy & Corporate Analytics",
+
+						"children": [
+
+							{
+								"name": "Manage Planning Corporate Strategic Direction",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Coordination of Approach to Business Analysis",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Monitoring of Corporate Strategic Direction",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Strategic Policy Direction",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+
+						"name": "Manage Business Improvement",
+
+						"children": [
+
+							{
+								"name": "Manage Use of Management Operating Systems",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Corporate Change",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Media Board & Government Liason",
+
+				"children": [
+
+					{
+						"name": "Manage Ministerial Liaison",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Media Communications",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Board Liaison",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Manage Customers & Community",
+
+		"children": [
+
+			{
+
+				"name": "Service Customers",
+
+				"children": [
+
+					{
+
+						"name": "Manage Customer Billing and Assurance",
+
+						"children": [
+
+							{
+								"name": "Manage the Billing of Customers",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Customer Records Maintenance",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Property Records Maintenance",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Contact Centre",
+
+				"children": [
+
+					{
+						"name": "Manage Single View of Customer",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage the Collection of Revenue",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Communications",
+
+				"children": [
+
+					{
+
+						"name": "Manage Customer Strategy & Engagement",
+
+						"children": [
+
+							{
+								"name": "Manage Customer Engagement",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Community Engagement",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Customer Strategy",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+
+						"name": "Manage Customer & Industry Partnerships",
+
+						"children": [
+
+							{
+								"name": "Manage Major Customer Agreements",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Delivery of Water Efficiency Projects",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Key Customer Relationships",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Stakeholder Engagement",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+						"name": "Manage Internal Communications",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Manage Finance & Corporate Services",
+
+		"children": [
+
+			{
+
+				"name": "Manage Property & Facilities",
+
+				"children": [
+
+					{
+						"name": "Manage Fleet",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Real Estate",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Corporate Goverance",
+
+				"children": [
+
+					{
+						"name": "Manage Risk Framework",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Compliance and Accountability Framework",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Provide Internal Review and Audit Services",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Operating License",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage People",
+
+				"children": [
+
+					{
+						"name": "Plan Workforce",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Equity and Diversity",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Employee Relations",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Employment Conditions Definition and Maintenance",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Maintain Employee Payroll, Details and Records",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Develop Employees",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Performance",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Recruit Employees",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Information Services",
+
+				"children": [
+
+					{
+						"name": "Implement IT Projects",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Develop IT Plans and Architecture",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Access to Information",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Provide Commercial I.T. Support",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage IT Infrastructure Operations",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Business Application Support",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Provision GIS Information",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Finance",
+
+				"children": [
+
+					{
+
+						"name": "Manage Financial Management",
+
+						"children": [
+
+							{
+								"name": "Manage Treasury and Taxation",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Accounting",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Performance Reporting",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Operating Budgets",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+
+						"name": "Manage Pricing & Evaluation",
+
+						"children": [
+
+							{
+								"name": "Manage Evaluation of Investments",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Pricing",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Procurement",
+
+				"children": [
+
+					{
+						"name": "Manage Procurement Agreements",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Inventory",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Suppliers",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Procurement Planning",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Purchase to Pay",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Manage Assets Delivery",
+
+		"children": [
+
+			{
+
+				"name": "Manage Mechanical & Electrical Services",
+
+				"children": [
+
+					{
+						"name": "Manage Mechanical & Electrical Safety",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Electrical Compliance",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Mechanical & Electrical Assets Compliance",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Aquire Infrastructure Assets",
+
+				"children": [
+
+					{
+
+						"name": "Manage Projects",
+
+						"children": [
+
+							{
+								"name": "Manage Delivery of Projects",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Transfer Assets and Close-out Project",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+
+						"name": "Manage Infrastructure Design",
+
+						"children": [
+
+							{
+								"name": "Design Assets",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+
+						"name": "Manage Asset Investment",
+
+						"children": [
+
+							{
+								"name": "Post Delivery Review",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Establish and Manage Contracts",
+
+				"children": [
+
+					{
+						"name": "Create Contracts",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Manage Operations",
+
+		"children": [
+
+			{
+
+				"name": "Manage Alliances",
+
+				"children": [
+
+					{
+						"name": "Chair ALT's",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Alliance Relationships",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Regions",
+
+				"children": [
+
+					{
+						"name": "Manage Great Southern Region",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Goldfields & Agricultural Region",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage North West Region",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage South West Region",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Mid West Region",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Field Services",
+
+				"children": [
+
+					{
+						"name": "Manage Inspection & Refurbishment Services",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Field Services program delivery",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Metering Services",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Commercial & Industrial Waste",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Asset Monitoring & Systems Investigations",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Operational Assurance",
+
+				"children": [
+
+					{
+						"name": "Manage Operational Alliance Goverance",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Relationship Contracts Goverance",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Manage Operations Services",
+
+		"children": [
+
+			{
+
+				"name": "Manage Waste Water & Alternative Water Quality",
+
+				"children": [
+
+					{
+
+						"name": "Manage WW and AWQ Supporting Requirements",
+
+						"children": [
+
+							{
+								"name": "Manage Ground Water Replenishment Reporting",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage PLOOM Reporting",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Biosolids Reporting",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Desludge Reporting",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+						"name": "Manage WW and AWQ Commitment",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage WW and AWQ System Analysis & Operations",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Review of WW and AWQ Processes",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Drinking Water Quality",
+
+				"children": [
+
+					{
+						"name": "Manage DWQ Supporting Requirements",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Review of DWQ Processes",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage DWQ System Analysis & Operations",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage DWQ Commitment",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Occupational Safety & Health",
+
+				"children": [
+
+					{
+						"name": "Manage OSH Strategic Corporate Direction",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Workers' Compensation, Health and Welfare",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Hazards and OSH Incidents",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Monitor, Analyse and Review OSH",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Deliver Services",
+
+				"children": [
+
+					{
+
+						"name": "Manage Operations Centre",
+
+						"children": [
+
+							{
+								"name": "Manage Water Scheme Planning",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Service Delivery Planning",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Field Work Schedule",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Field Work Planning",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Execution of Field Work",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Performance Optimisation of Deliver Services Process",
+								"colour": "#80CDC1"
+							},
+
+							{
+								"name": "Manage Incidents",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					},
+
+					{
+
+						"name": "Manage Energy",
+
+						"children": [
+
+							{
+								"name": "Manage Strategic Direction for Energy",
+								"colour": "#80CDC1"
+							}
+
+						]
+
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Environment & Aborignal Affairs",
+
+				"children": [
+
+					{
+						"name": "Manage Environmental Compliance",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Environmental Approvals",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Environmental Programs and Support",
+						"colour": "#80CDC1"
+					},
+
+					{
+						"name": "Manage Aboriginal Affairs",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			},
+
+			{
+
+				"name": "Manage Operational Alignment and Integration",
+
+				"children": [
+
+					{
+						"name": "Prioritise and Sequence Operational Change",
+						"colour": "#80CDC1"
+					}
+
+				]
+
+			}
+
+		]
+
+	}
+
+]

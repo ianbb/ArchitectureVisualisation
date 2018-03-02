@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html>
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> 
+<![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8"> 
+<![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9"> <![endif]--
+
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
+    
+<head>
+        
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        
+<meta charset="utf-8">
+        
+<title>Water Corporation Capability Map</title>    
+        
+<link rel="stylesheet" href="./capabilitymap.css">   
+</head>
+
+<body>
+<div class="errors"></div>
+<h1>Water Corporation Capability Map</h1>
+<div id="content"></div>    
+<table>
+    <tr>
+        <td valign="top">                                    
+            <br><br><br>   
+            <label class="nowrap">Importance Level&nbsp;&nbsp;<input id="searchField" onkeydown="changeImportance(event)" size="2" type="text" value="1" name="fname"> 
+            </label> 
+            <br>
+           <br> 
+            <svg class="legend"></svg>
+        </td>
+       <td>
+           <svg id="topsvg" class="map"></svg> 
+       </td>
+    </tr>
+</table>
+
+<script src="d3.v3.js"></script>
+<script src="accframework.js"></script>    
+<script src="pack.js"></script>
+<script src="legend.js"></script>   
+<script src="common.js"></script> 
+<script>
+
+var margin = {top: 0, right: 20, bottom: 30, left: 20},
+        width = 5000 - margin.left - margin.right;
+var unit = 40;
+var pad = 2;
+var border =5;
+var gridCell = { width:unit*2.5, height:unit};
+var canvas = { width:940, height:2000};
+var container = { single: unit*2.5, double:unit*5 };
+var pseudo = {start:100000 };
+var pseudoid = pseudo.start +1;
+var accframe = {start:610, height:600, width:1000};
+
+var svg = d3.select(".map")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height",5000)
+        .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+   /*  svg.append("rect")
+        .attr("class","bigregion")
+        .attr("width","900px")
+        .attr("height","650px"); */
+
+var color = ["#ffffff", "#81BDDB", "#1B475D"];
+var showall=true;
+var apps;
+var processtree;
+var links;
+var map;
+var allnodes;
+var clickHold ={};
+
+update();
+setmenu();
+makefilter(svg);
+makecrosshatch(svg);
+   
+
+function update(){        
+    d3.json("map.json", function(error,mapdetail) {
+    if (error) throw error;
+    map=mapdetail;
+    updateCapability(map);
+    });
+
+    updateapps(null,null);
+}
+
+function updateapps(appids,proids){  
+    d3.json("appsprocess.json", function(error,apps) {
+        if (error) throw error;
+
+        links=apps.links;
+        allnodes = apps.nodes;
+        updateProApp(apps,appids,proids);          
+        pseudoid = pseudo.start +1;
+    });
+}
+
+function updateProApp(map,appids,proids) {
+    
+    var xx=appids!=null ? 1.5 : 1;
+    var cellw=gridCell.width*xx;
+    var cellh=gridCell.height*xx;
+    if(proids==null) {    
+        updateaccframework();
+    }
+    else {
+        var subset1=filterNodes(2,map.nodes,proids)
+        var boxh=accframe.height;
+        area = subset1.length * (cellw+pad) * (cellh+pad);
+        height = boxh - (boxh % (cellh+pad));
+        width = area/height - (area/height % (cellw+pad)) + cellw+pad;
+
+        var pros=packset(subset1,width,height,cellw,cellh);
+
+        var region = d3.select(".proregion");
+        if(region.empty()) {
+            region= d3.select(".map")
+                    .append("g") 
+                        .attr("class", "proregion")
+                        .attr("transform", function(d) { return "translate("+(margin.left)+","+(accframe.start+unit)+")" ; }) ;
+        }
+
+
+        var pro=region.selectAll(".pro")
+                .data(pros, function(d) { return d.id; });
+
+        pro.transition().duration(1000) 
+                .attr("transform", function(d) { return "translate(" + d.fit.x + "," + d.fit.y + ")" ; }) ;
+
+        region.selectAll(".pro rect").transition().duration(1000)     
+                    .attr("height", cellh)
+                    .attr("width", cellw);
+
+        region.selectAll(".pro text").transition().delay(function(d,i) { return i*5 ; }) 
+                    .attr("dy",function(d,i){ return proids!=null ? 0 : -1 ;} )          
+                    .attr("class",function(d,i){ return proids!=null ? "bigtext" :"" ;} )                  
+                    .attr("transform", function(d) { return "translate(" + cellw/2 + "," + cellh/2 + ")" ; });
+                    
+        var gpro=pro.enter().append("g")
+                    .attr("class","pro")
+                    .attr("transform", function(d) { return "translate(" + d.fit.x + "," + d.fit.y + ")" ; }) ;
+                
+            gpro.append("rect")  
+                .attr("rx", 6)
+                .attr("ry", 6)             
+                .attr("class","inactive")            
+                .on("mouseover", promouseover)
+                .on("mouseout", promouseout)   
+                .attr("height", cellh)
+                .attr("width", cellw);   
+
+            gpro.append("text")  
+                .attr("x", 0)
+                    .attr("dy",-1)    
+                    .attr("transform", function(d) { return "translate(" + d.w/2 + "," + d.h/2 + ")" ; })  
+                    .text(function(d, i) { return d.name ; })            
+                .call(wrap,cellw);
+                
+            
+            pro.exit()
+                .transition()
+                .remove(); 
+    }
+    // *********************************************************************** 
+
+    var subset2=filterNodes(1,map.nodes,appids)
+    var boxh=accframe.start;
+    area = subset2.length * (cellw+pad) * (cellh+pad);
+    height = boxh - (boxh % (cellh+pad));
+    width = area/height - (area/height % (cellw+pad)) + cellw+pad;
+
+    apps=packset(subset2,width,height,cellw,cellh);
+
+    var region = d3.select(".appregion");
+    if(region.empty()) {
+       region= d3.select(".map")
+            .append("g") 
+                .attr("class", "appregion")
+                .attr("transform", function(d) { return "translate(" + 1000 + "," + 2*pad + ")" ; }) ;
+    }
+
+
+   var app=region.selectAll(".app")
+            .data(apps, function(d) { return d.id; });
+
+    app.transition().duration(1000)
+            .attr("transform", function(d) { return "translate(" + d.fit.x + "," + d.fit.y + ")" ; }) ;
+
+    region.selectAll(".app rect").transition().duration(1000)      
+                .attr("height", cellh)
+                .attr("width", cellw);
+
+    region.selectAll(".app text").transition().delay(function(d,i) { return i*5 ; }) 
+                .attr("dy",function(d,i){ return appids!=null ? 0 : -1 ;} )          
+                .attr("class",function(d,i){ return appids!=null ? "bigtext" :"" ;} )                  
+                .attr("transform", function(d) { return "translate(" + cellw/2 + "," + cellh/2 + ")" ; });
+                 
+   var gapp=app.enter().append("g")
+                .attr("class","app")
+                .attr("transform", function(d) { return "translate(" + d.fit.x + "," + d.fit.y + ")" ; }) ;
+            
+        gapp.append("rect")  
+            .attr("rx", 6)
+            .attr("ry", 6)             
+            .attr("class","inactive")            
+            .on("mouseover", appmouseover)                    
+            .on("click", appclick)
+            .on("mouseout", appmouseout)   
+            .attr("height", cellh)
+            .attr("width", cellw);   
+
+       gapp.append("text")  
+           .attr("x", 0)
+            .attr("dy",-1)    
+            .attr("transform", function(d) { return "translate(" + d.w/2 + "," + d.h/2 + ")" ; })  
+             .text(function(d, i) { return d.name ; })            
+           .call(wrap,cellw);
+       
+       
+    app.exit()
+        .transition()
+        .remove(); 
+
+}
+
+function updateaccframework(){        
+    d3.json("accountabilityTree.json", function(error, data) {
+        if (error) throw error;   
+        accountabilityframe(data,allnodes);
+    });
+}
+
+
+function updateCapability(map) {
+        
+    var n = map.accountable.length;
+    var xx = d3.scale.linear().domain([0, n]).range([0, width]);
+
+    packCapability(map);
+
+    svg.selectAll(".row")
+         .data(map.accountable.filter(function(d,i) { return i == 0; }))
+            .enter().append("g")
+                .attr("class","unhead")
+                .attr("transform", function(d,i) { return "translate("+unit+",0)" ; })
+                .each(head);
+   
+    var step=(unit+3*pad)*5;
+
+    leftHeader(step,map);
+
+    svg.selectAll(".content")
+            .data(map.accountable)
+              .enter().append("g")
+                  .attr("class","unrow")
+                  .attr("transform", function(d,i) { return "translate("+unit+","+ (i==0 ? unit+pad : step*i) + ")" ; })
+                  .each(row);
+
+}
+
+function changeImportance(event){
+    var e = e || window.event;
+    if (e.keyCode == 13)
+    {
+        update(map);
+    }
+}
+
+function head(head,j){
+    
+    var list = head.capability;
+ 
+    var hd= d3.select(this).selectAll(".toprowcell")
+            .data(list)
+                .enter().append("g") 
+                .attr("class","toprowcell")                 
+                .attr("transform", function(d,i) { return "translate(" + (d.x +pad) + ",0)" ; });
+
+    hd.append("rect")  
+            .attr("rx", 6)
+            .attr("ry", 6)
+            .attr("height", function(d) { return unit })
+            .attr("width", function(d) { return container.single*d.size;});
+                   
+    hd.append("text") 
+            .text(function(d, i) { return d.name; })
+            .attr("y", 0)
+            .attr("x", 0)
+            .attr("dy",1.5)
+            .attr("transform", function(d,i) { return "translate(" +  (container.single*d.size)/2 + ",0)" ; })
+            .call(wrap,container.single);           
+}
+
+function row(row,j) {
+    
+   var list = row.capability;
+        
+   var itm = d3.select(this).selectAll(".coll")
+             .data(list)
+           .enter().append("g")                   
+                .attr("class","coll")                                  
+                .attr("transform", function(d,i) { return "translate("+ (d.x +pad) +",0)" ; })
+                .each(col);
+  
+}
+
+function col(col) {
+    var comps = col.component;
+    var co = d3.select(this).selectAll(".cell")
+                .data(comps)
+            .enter().append("g")
+                .attr("class","cell")
+                .attr("transform", function(d) { return "translate(" + d.fit.x + "," + d.fit.y + ")" ; }) ;
+        
+        co.append("rect")  
+            .attr("rx", 6)
+            .attr("ry", 6)
+            .attr("class","main")  
+            .on("mouseover", capmouseover)
+            .on("mouseout", capmouseout)
+            .on("click",caponclick)
+            .attr("height", function(d) { return unit*d.size;})
+            .attr("width", function(d) { return container.single;})   
+            .style("fill",function(d) { return  color[d.type-1] ;});
+
+        co.append("text")  
+           .attr("x", 0)
+            .attr("dy",0)                         
+            .style("fill", function(d) { return d.type==3 ? "#fff" : "#000" ; } )  
+            .attr("transform", function(d) { return "translate(" + container.single/2 + "," + unit/2 + ")" ; })  
+             .text(function(d, i) { return d.name ; })             
+            .call(wrap,container.single);           
+
+        co.append("rect")
+              .attr("class","mature")
+              .style("fill",function(d, i) { return d.matu=="G" ? "#33a02c" : d.matu=="A" ? "#ff7f00" :"#e31a1c"; });
+
+        co.append("rect")
+               .attr("class","financial")
+              .style("fill","#0070c0");
+    
+        co.filter(function(d) { return d.risk !="-"; })
+              .append("rect")
+                    .attr("class", function(d, i) { return "risk" + (d.size==2 ? " riskdbl" : "") ;})
+                    .style("fill",function(d, i) { return d.risk=="H" ? "#7030a0" : d.risk=="M" ? "#ff0066" :"#ff6699" ; });
+        
+      
+}
+
+function leftHeader(step,map){
+       
+    var rh= svg.selectAll(".row")
+         .data(map.accountable)
+            .enter().append("g")
+                .attr("class","account")
+                .attr("transform", function(d,i) { return "translate(0,"+  (i==0 ? unit+pad : step*i) +")" ; });
+     
+     rh.append("rect")  
+            .attr("rx", 6)
+            .attr("ry", 6)
+            .attr("height",function(d,i) { return (i != 1 ? (unit+pad)*4 : (unit+pad)*5)  +"px"; })
+            .attr("width", "40px");
+                   
+    rh.append("text") 
+            .attr("transform", function(d,i) { return "translate(25,"+ (container.single + (i != 1 ? 0 : unit/2 )) +")rotate(-90)" ; })
+            .text(function(d, i) { return d.name; });
+}
+
+function caponclick(p){
+    
+    var sel= d3.select(this);
+    if(sel.classed("selected")){        
+        sel.attr("width",container.single)
+           .attr("height",  function(d,i) { return unit*d.size ; })
+           .classed("selected",false)
+           .attr("transform", function(d,i) { return "translate(0,0)" ; });
+        
+        var sib= this.nextSibling;
+        d3.select(sib).classed("bigtext",false);
+        for (var j=0 ; j < 3 ; j++){
+            sib= sib.nextSibling;
+            d3.select(sib).style("opacity",function(d) { return itemopacity(sib); } );
+        }        
+        updateapps(null,null);
+    }
+    else
+    {        
+        sel.attr("width",container.single*1.5)
+           .attr("height", unit*1.5)
+           .classed("selected",true)
+           .attr("transform", function(d,i) { return "translate(-"+(container.single/4)+",-"+(unit/4) +")" ; });
+
+       moveOnTop(this);
+        
+        var sib= this.nextSibling;
+        d3.select(sib).classed("bigtext",true);
+        for (var j=0 ; j < 3 ; j++){
+            sib= sib.nextSibling;
+            d3.select(sib).style("opacity","0");
+        }
+         var id=getcapid(allnodes,p);
+         var ids = getsources(id,null);
+         var rslt = {};
+         for (var key in ids) {
+            getsources(key,rslt);
+         }
+         
+         updateapps(rslt,ids);     
+        
+    }
+   
+}
+
+function itemopacity(sid){
+    var op=0;
+    if(d3.select(sid).attr("class").includes("risk") && document.getElementById("cbrisk").checked ) op=1.0;
+    if(d3.select(sid).attr("class").includes("financial") && document.getElementById("cbfin").checked ) op=1.0;
+    if(d3.select(sid).attr("class").includes("mature") && document.getElementById("cbmaturity").checked ) op=1.0;
+    return op;
+}
+
+
+function appclick(p){
+
+}
+
+function getsources(id,dic){
+      var sources={};
+      if(dic != null) sources=dic;
+      for( var i=0; i < links.length ; i++){  
+          if(id == links[i].target) sources[links[i].source]=links[i].source;          
+      }    
+      return sources;
+}
+
+function gettargets(id){
+      var sources={};
+      for( var i=0; i < links.length ; i++){  
+         if(id == links[i].source) sources[links[i].target]= links[i].target;           
+      }    
+      return sources;
+}
+
+function appmouseover(p) {
+      
+      moveOnTop(this);
+      
+      var sources =gettargets(p.id)
+            
+      var recs= d3.selectAll(".pro rect")
+        .filter(function(d, i) { return sources[d.id] != null ;} )
+        .classed("active",true)
+        .classed("inactive",false);
+    
+      recs.moveParentToFront();
+     
+      d3.selectAll(".pro text")
+       .filter(function(d, i) { return sources[d.id] != null ;} )
+       .style("fill", "#fff");
+   
+}
+ 
+function appmouseout(p) {
+
+      var sources =gettargets(p.id)
+  
+      d3.selectAll(".pro rect")
+        .filter(function(d, i) { return sources[d.id] != null ;} )
+        .classed("active",false)
+        .classed("inactive",true);
+    
+     d3.selectAll(".pro text")
+         .filter(function(d, i) { return sources[d.id] != null ;} )
+         .style("fill", "#000");
+}
+
+
+function getprosources(pid){
+      var sources={};
+      if (pid>= pseudo.start){
+        var f=find(pid,processtree)
+        if(f !=null){
+            var list =[];
+            listnodes(f,list);
+            for( var j=0; j < list.length ; j++){
+                 getsources(list[j].id,sources);
+            }
+        }      
+      }
+      else {
+          sources = getsources(pid,null);
+      }
+      return sources;
+}
+
+function promouseover(p) {      
+      var sources=getprosources(p.id);
+      
+      /*
+      var err=document.getElementById("errors");
+      err.innerHTML="";
+      for (var key in sources) err.innerHTML = err.innerHTML + "," + sources[key];
+      err.innerHTML = "["+ p.id+ "]" + err.innerHTML    
+      */
+   
+      moveOnTop(this);
+      
+      var recs= d3.selectAll(".app rect")
+        .filter(function(d, i) { return sources[d.id] != null ;} )
+        .classed("active",true)
+        .classed("inactive",false);
+    
+      recs.moveParentToFront();
+      
+      d3.selectAll(".app text")
+       .filter(function(d, i) { return sources[d.id] != null ;} )
+       .style("fill", "#fff");
+}
+ 
+function promouseout(p) {
+      
+     var sources=getprosources(p.id);
+
+     d3.selectAll(".app rect")
+        .filter(function(d, i) { return sources[d.id] != null ;} )
+        .classed("active",false)
+        .classed("inactive",true);
+     
+      d3.selectAll(".app text")
+          .filter(function(d, i) { return sources[d.id] != null ;} )
+          .style("fill", "#000");
+      
+
+}
+
+function capmouseover(p) {
+      
+      var id = getcapid(allnodes,p);
+      if (id==null) return;
+
+      var sources =getsources(id,null);
+    
+      d3.selectAll(".pro rect")
+        .filter(function(d, i) { return sources[d.id] != null ;} )
+        .classed("active",true)
+        .classed("inactive",false);
+        
+      d3.selectAll(".pro text")
+       .filter(function(d, i) { return sources[d.id] != null ;} )
+       .style("fill", "#fff");
+   
+}
+ 
+function capmouseout(p) {
+    
+      var id = getcapid(allnodes,p);
+      if (id==null) return;
+     
+      var sources =getsources(id,null);        
+
+      d3.selectAll(".pro rect")
+        .filter(function(d, i) { return sources[d.id] != null ;} )
+        .classed("active",false)
+        .classed("inactive",true);
+    
+     d3.selectAll(".pro text")
+         .filter(function(d, i) { return sources[d.id] != null ;} )
+         .style("fill", "#000");
+}   
+
+</script>
+</html>

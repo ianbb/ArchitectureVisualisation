@@ -1,0 +1,153 @@
+{
+  "root": "Water Corporation",
+  "accountable": [
+  {"name" : "Strategise",
+   "capability" : [
+      { "name" : "Strategy & Planning", "size" : 1, "auto" :"Y" , "set":1,
+        "component" : [
+          {"name":"Corporate Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size" : 1 ,"fin" : 0.37 ,"matu" : "A", "type":1},   
+          {"name":"Business Development Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size" : 1,"fin" : 0.05 ,"matu" : "A", "type":1},   
+          {"name":"Innovation, R&D Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size" : 1,"fin" : 0.26 ,"matu" : "A", "type":1},   
+          {"name":"Alliance Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size" : 1,"fin" : 0.06 ,"matu" : "G", "type":3} 
+          ]
+     },
+     {"name" : "Asset Management", "size" : 2, "auto" :"Y" , "set":2,
+      "component" : [
+        {"name": "Water Supply & Demand Strategy", "focus" : "P" , "customer" : "I" , "refresh" : "Y" , "risk" : "M", "size":2,"fin" : 0.29 ,"matu" : "A","type":3},
+        {"name": "Asset Operations Planning", "focus" : "P" , "customer" : "I" , "refresh" : "Y" , "risk" : "M", "size":1,"fin" : 0.57 ,"matu" : "A", "type":2},
+        {"name": "Asset Maintenance Planning", "focus" : "P" , "customer" : "I" , "refresh" : "Y" , "risk" : "H", "size":1,"fin" : 0.58 ,"matu" : "A", "type":3},
+        {"name": "Asset Strategy", "focus" : "P" , "customer" : "I" , "refresh" : "Y" , "risk" : "H", "size":2,"fin" : 0.43 ,"matu" : "A", "type":3},
+        {"name": "Asset Investment Planning", "focus" : "P" , "customer" : "I" , "refresh" : "Y" , "risk" : "H", "size":1,"fin" : 0.44 ,"matu" : "A", "type":2},
+        {"name": "Asset Renewal Planning", "focus" : "P" , "customer" : "I" , "refresh" : "Y" , "risk" : "M", "size":1,"fin" : 0.15 ,"matu" : "A", "type":2}
+        ]
+     }
+     ,
+     {"name" : "Operations","size" : 2, "auto" :"Y" , "set":3,
+      "component" : [
+          {"name": "Drinking Water Quality Standards", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "L", "size":2,"fin" : 0.34 ,"matu" : "A", "type":1},
+          {"name": "Waste Water Quality Standards", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "L", "size":2,"fin" : 0.34 ,"matu" : "A","type":1},
+          {"name": "Service Delivery Planning", "focus" : "S" , "customer" : "N" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 0.87 ,"matu" : "R", "type":2},
+          {"name": "OS&H Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.41 ,"matu" : "A", "type":1},
+          {"name": "Energy Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.12 ,"matu" : "G", "type":1}
+        ]
+     }
+     ,
+     {"name" : "Retail", "size" : 1, "auto" :"Y" , "set":4,
+      "component" : [
+          {"name": "Customer & Community Strategy", "focus" : "N" , "customer" : "I" , "refresh" : "N" , "risk" : "L", "size":2,"fin" : 0.04 ,"matu" : "G", "type":1},
+          {"name": "Channel Strategy", "focus" : "N" , "customer" : "I" , "refresh" : "N" , "risk" : "L", "size":2,"fin" : 0.04 ,"matu" : "G", "type":2}
+        ]
+     },
+     {"name" : "Coporate Services","size" : 2,  "auto" :"Y" , "set":5,
+      "component" : [
+        {"name": "Continuous Improvement", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.34 ,"matu" : "R", "type":1},
+        {"name": "Financial Planning", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 0.16 ,"matu" : "R", "type":1},
+        {"name": "Sourcing Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.22 ,"matu" : "A", "type":1},
+        {"name": "Corporate Goverance", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.08 ,"matu" : "A", "type":1},
+        {"name": "HR Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.23 ,"matu" : "A", "type":1},
+        {"name": "Business Technology Strategy", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 0.25 ,"matu" : "A", "type":2}
+        ]
+     }
+  ]},
+  {"name" : "Manage", 
+    "capability" : [
+      { "name" : "Strategy & Planning", "size" : 1, "auto" :"Y" , "set":6,
+        "component" : [
+        {"name": "External Affairs", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.67 ,"matu" : "A", "type":2},
+        {"name": "Alliance Management", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "L", "size":2,"fin" : 0.36 ,"matu" : "A", "type":2}
+        ]
+      },
+       {"name" : "Asset Management", "size" : 2, "auto" :"Y" , "set":7,
+        "component" : [
+          {"name": "Portfolio & Project Management", "focus" : "S" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.39 ,"matu" : "A", "type":2},
+          {"name": "Development Services Management", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 0.45 ,"matu" : "A", "type":1},
+          {"name": "Infrastructure & Design Management", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 1.08 ,"matu" : "A", "type":1},
+          {"name": "Asset Performance & Capability Assessment", "focus" : "P" , "customer" : "N" , "refresh" : "Y" , "risk" : "M", "size":1,"fin" : 0.65 ,"matu" : "R", "type":3},
+          {"name": "Asset Maintenance Management", "focus" : "P" , "customer" : "I" , "refresh" : "Y" , "risk" : "M", "size":1,"fin" : 0.19 ,"matu" : "R", "type":2},
+          {"name": "Electrical & Mechanical Service Management", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 0.73 ,"matu" : "A", "type":1}
+        ]
+       },
+        {"name" : "Operations", "size" : 2, "auto" :"Y" , "set":8,
+         "component" : [
+          {"name": "Drinking Water Quality Control", "focus" : "N" , "customer" : "I" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.52 ,"matu" : "A", "type":1},
+          {"name": "Waste Water Quality Control ", "focus" : "N" , "customer" : "I" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.32 ,"matu" : "A", "type":1},
+          {"name": "Environmental Compliance Management", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.16 ,"matu" : "A", "type":1},
+          {"name": "Operational Assurance Management", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "-", "size":1,"fin" : 0.17 ,"matu" : "A", "type":1},
+          {"name": "Service Delivery Management", "focus" : "S" , "customer" : "I" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 1.74 ,"matu" : "A", "type":2},
+          {"name": "Integrated Operations Management", "focus" : "N" , "customer" : "I" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 0.19 ,"matu" : "A", "type":1},
+          {"name": "Emergency & Incident Management", "focus" : "S" , "customer" : "I" , "refresh" : "Y" , "risk" : "M", "size":1,"fin" : 0.04 ,"matu" : "A", "type":2},
+          {"name": "OS&H Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.62 ,"matu" : "A", "type":1}
+        ]
+        },
+        {"name" : "Retail","size" : 1,  "auto" :"Y" , "set":9,
+          "component" : [
+          {"name": "Marketing", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.57 ,"matu" : "G", "type":1},
+          {"name": "Customer Relationship Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.57 ,"matu" : "G", "type":1},
+          {"name": "Community Relationship Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.57 ,"matu" : "G", "type":1},
+          {"name": "Customer Application & Assurance Management", "matu" : "G", "fin" : 0.74 ,"focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"type":1}
+        ]
+        },
+        {"name" : "Coporate Services", "size" : 2, "auto" :"Y" , "set":10,
+         "component" : [
+          {"name": "Financial Management", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 1.47 ,"matu" : "A", "type":1},
+          {"name": "Human Resource Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.38 ,"matu" : "R", "type":1},
+          {"name": "Business Technology Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.25 ,"matu" : "R", "type":1},
+          {"name": "Compliance & Risk Management", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "L", "size":1,"fin" : 0.57 ,"matu" : "A", "type":1},
+          {"name": "Legal Service Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.60 ,"matu" : "A", "type":1},
+          {"name": "Procurement Management", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 0.57 ,"matu" : "A", "type":1},
+          {"name": "Property Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.67 ,"matu" : "A", "type":1},
+          {"name": "Pricing & Evaluation Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.2 ,"matu" : "G", "type":1},
+          {"name": "Industrial Relationship Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.12 ,"matu" : "A", "type":1},
+          {"name": "Contract Management", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.35 ,"matu" : "G", "type":1}
+        ]
+        }
+     ]
+  },
+  {"name" : "Deliver", 
+   "capability" : [
+      { "name" : "Strategy & Planning", "size" : 1, "auto" :"Y" , "set":11,
+        "component" : [
+          {"name": "Corporate Analytics & Business Analysis", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":2,"fin" : 0.06 ,"matu" : "A", "type":1},
+          {"name": "Cororate Planning Support", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":2,"fin" : 0.06 ,"matu" : "R", "type":1}
+        ]
+      },
+       {"name" : "Asset Management", "size" : 2, "auto" :"N" , "set":12,
+        "component" : [
+          {"name": "Development Approval Processing", "focus" : "N" , "customer" : "D" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 0.45 ,"matu" : "A", "type":1},
+          {"name": "Infrastructure Design", "focus" : "N" , "customer" : "N" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 1.54 ,"matu" : "A", "type":1},
+           {"name": "Infrastructure Build", "focus" : "N" , "customer" : "D" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 4.56 ,"matu" : "A", "type":1},
+          {"name": "Preventative Asset Maintenance Execution", "focus" : "P" , "customer" : "D" , "refresh" : "Y" , "risk" : "L", "size":2,"fin" : 7.29 ,"matu" : "A", "type":2},
+          {"name": "Corrective Asset Maintenance Execution", "focus" : "P" , "customer" : "D" , "refresh" : "Y" , "risk" : "L", "size":2,"fin" : 7.14 ,"matu" : "A", "type":2}
+       ]
+       },
+        {"name" : "Operations", "size" : 2, "auto" :"N" , "set":13,
+         "component" : [
+          {"name": "Asset Monitoring & Control", "focus" : "P" , "customer" : "N" , "refresh" : "Y" , "risk" : "M", "size":2,"fin" : 8.79 ,"matu" : "A", "type":3},
+          {"name": "Asset Operations", "focus" : "P" , "customer" : "N" , "refresh" : "Y" , "risk" : "H", "size":2,"fin" : 25.51 ,"matu" : "A", "type":3},
+          {"name": "Non-residential Waste Permitting & Inspection", "focus" : "N" , "customer" : "D" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 0.59 ,"matu" : "A", "type":1},
+          {"name": "Inspection & Refurbishment", "focus" : "N" , "customer" : "D" , "refresh" : "Y" , "risk" : "L", "size":1,"fin" : 0.38 ,"matu" : "R", "type":1},
+          {"name": "Emergency & Incident Resolution", "focus" : "S" , "customer" : "D" , "refresh" : "Y" , "risk" : "M", "size":1,"fin" : 0.61 ,"matu" : "A", "type":2}
+        ]
+        },
+        {"name" : "Retail", "size" : 1, "auto" :"Y" , "set":14,
+          "component" : [
+          {"name": "Marketing Initiative Execution", "focus" : "N" , "customer" : "D" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.06 ,"matu" : "G", "type":1},
+          {"name": "Customer Billing & Collection", "focus" : "N" , "customer" : "D" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 0.93 ,"matu" : "A", "type":1},
+          {"name": "Customer Support", "focus" : "N" , "customer" : "D" , "refresh" : "I" , "risk" : "L", "size":1,"fin" : 1.04 ,"matu" : "G", "type":2}
+        ]
+        },
+        {"name" : "Coporate Services", "size" : 2, "auto" :"Y" , "set":15,
+         "component" : [
+          {"name": "Communication & Collaboration", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.65 ,"matu" : "G", "type":1},
+          {"name": "Fleet Maintenace", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 1.79 ,"matu" : "A", "type":1},
+          {"name": "Logistics & Warehouse", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 4.99 ,"matu" : "A", "type":1},
+          {"name": "Technology Delivery & Support", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "L", "size":1,"fin" : 5.32 ,"matu" : "R", "type":1},
+          {"name": "Internal Audit", "focus" : "N" , "customer" : "N" , "refresh" : "N" , "risk" : "-", "size":1,"fin" : 0.26 ,"matu" : "A", "type":1},
+          {"name": "Payroll", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 0.29 ,"matu" : "A", "type":1},
+          {"name": "People Recruitment & Development", "focus" : "N" , "customer" : "N" , "refresh" : "I" , "risk" : "-", "size":1,"fin" : 0.64 ,"matu" : "R", "type":1}
+        ]
+        }
+     ]
+  }
+  ]
+}

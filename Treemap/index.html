@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html class="water-corp">
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> 
+<![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8"> 
+<![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
+
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
+    
+<head>        
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">        
+    <meta charset="utf-8">        
+    <title>Application Portfolio</title>     
+</head>
+
+
+<style>
+
+form {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+svg {
+  font: 10px sans-serif;
+}
+
+rect{
+  stroke: rgba(0, 0, 0, 0.1);
+  stroke-width: 1px;
+}
+
+div.tooltip {    
+    position: absolute;            
+    text-align: left;            
+    padding: 8px;                
+    font: normal 12px sans-serif;        
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    border: 0px;        
+    border-radius: 4px;  
+    max-width: 30%;
+    min-width: 350px;
+} 
+
+div.plabel {   
+    color: rgba(23, 190, 207, 1.0);
+    font: bold 12px sans-serif;
+    float: left;
+} 
+
+text{
+  pointer-events: none;
+   font: bold 12px sans-serif;
+}
+
+div.pvalue {
+    color: #fff;
+}
+
+</style>
+
+<form>
+  <label><input type="radio" name="mode" value="biggestSize" checked> Size by Importance</label>
+  <label><input type="radio" name="mode" value="smallestSize"> Least</label>
+  
+</form>
+<br>
+
+<svg width="1800" height="825"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script>
+
+var ttip = d3.select("body").append("div")    
+            .attr("class", "tooltip")                
+            .style("opacity", 0); 
+var max=0;
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+
+var treemap = d3.treemap()
+    .tile(d3.treemapResquarify)
+    .size([width, height])
+    .round(true)
+    .paddingInner(1);
+
+d3.json("nodes.json", function(error, data) {
+  if (error) throw error;
+
+  data.children= data.children.filter(keep);
+
+  max=d3.max(data.children, function(d) { return d.size; });
+
+  var root = d3.hierarchy(data) 
+              .eachBefore(function(d) { d.data.id = (d.parent ? d.parent.data.id + "." : "") + d.data.name; })
+              .sum(biggestSize)
+              .sort(function(a, b) { return b.height - a.height || b.value - a.value; });
+
+  treemap(root);
+
+  var cell = svg.selectAll("g")
+      .data(root.leaves())  
+      .enter().append("g")  
+      .attr("transform", function(d) { return "translate(" + d.x0 + "," + d.y0 + ")"; }); 
+
+  cell.append("rect")
+      .attr("id", function(d) { return d.data.id; })
+      .attr("width", function(d) { return d.x1 - d.x0; })
+      .attr("height", function(d) { return d.y1 - d.y0; })
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout)      
+      .on("mousemove", mousemove)
+      .attr("fill", function(d) { return d3.interpolateGnBu(d.data.size/max);} ); 
+
+
+  cell.append("text")
+    .attr("x",1)
+    .attr("dy",1.2)     
+    .text(function(d) { return d.data.name; })
+    .call(wrap,100);
+
+  d3.selectAll("input")
+      .data([biggestSize, smallestSize], function(d) {  return d ? d.name : this.value; })
+      .on("change", changed);
+
+function changed(sum) {
+
+    treemap(root.sum(sum));
+
+    cell.transition()
+        .duration(750)
+        .attr("transform", function(d) { return "translate(" + d.x0 + "," + d.y0 + ")"; })
+      .select("rect")
+        .attr("width", function(d) { return d.x1 - d.x0; })
+        .attr("height", function(d) { return d.y1 - d.y0; });
+  }
+
+});
+
+function biggestSize(d) {
+  return d.size ;
+}
+
+function smallestSize(d) {
+  return   1; //max/d.size;
+}
+
+function keep(d) {
+   return d.pillar=="N"; 
+}
+
+Number.prototype.between = function(first,last){
+    return (first < last ? this >= first && this <= last : this >= last && this <= first);
+}
+
+function mouseover(d) {      
+  
+   if(d.data.name){
+          ttip.html("<div class='plabel'>Name : </div><div class='pvalue'>&nbsp;" + d.data.name + "</div>"
+	                 + "<div class='plabel'>Importance : </div><div class='pvalue'>&nbsp;" +  d.data.size + " </div>" )
+              .style("left", (d3.event.pageX + 20) + "px")        
+              .style("top", (d3.event.pageY - 20) + "px");         
+          ttip.transition()        
+             .duration(200)        
+             .style("opacity", .95);   
+     }
+
+}
+
+function mousemove() {
+  ttip.style("left", (d3.event.pageX + 20) + "px")        
+      .style("top", (d3.event.pageY - 20) + "px");  
+}
+
+function mouseout() {
+    ttip.transition()        
+        .duration(500)        
+        .style("opacity", 0);  
+}
+
+function wrap(text, width) {
+  text.each(function() {
+    var text = d3.select(this),
+        words = text.text().split(/\s+/).reverse(),
+        word,
+        line = [],
+        lineNumber = 0,
+        lineHeight = 1.1, // ems
+        y = text.attr("y"),
+        dy = parseFloat(text.attr("dy")),
+        tspan = text.text(null).append("tspan").attr("x", 4).attr("y", y).attr("dy", dy + "em");
+    while (word = words.pop()) {
+      line.push(word);
+      tspan.text(line.join(" "));
+      if (tspan.node().getComputedTextLength() > width) {
+        line.pop();
+        tspan.text(line.join(" "));
+        line = [word];
+        tspan = text.append("tspan").attr("x", 4).attr("y", y).attr("y", ++lineNumber * lineHeight + dy + "em").text(word);
+      }
+    }
+  });
+}
+</script>

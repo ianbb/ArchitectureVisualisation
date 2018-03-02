@@ -1,0 +1,50 @@
+@import url(//fonts.googleapis.com/css?family=PT+Serif|PT+Serif:b|PT+Serif:i|PT+Sans|PT+Sans:b);
+
+.water-corp body 
+{
+background:url(header.jpg) no-repeat top left fixed;	
+font-family: "PT Sans", sans-serif;
+margin-left: 100px;
+margin-top: 50px;
+}
+
+.water-corp header,
+.water-corp footer,
+.water-corp aside,
+.water-corp h1,
+.water-corp h2,
+.water-corp h3,
+.water-corp h4,
+.water-corp a {
+  font-family: "PT Sans", sans-serif;
+}
+
+.water-corp h1,
+.water-corp h2,
+.water-corp h3,
+.water-corp h4 {
+  color: #000;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: -2px;
+  margin: .3em 0 .1em 0;
+}
+
+h2 {
+  margin-top: 2em;
+}
+
+h1, h2 {
+  text-rendering: optimizeLegibility;
+}
+
+h2 a[name],
+h2 a[id] {
+  color: #ccc;
+  right: 100%;
+  padding: 0 .3em;
+  position: absolute;
+}
