@@ -1,0 +1,1939 @@
+{ 		
+"name": "Water Corporation Application Portfolio",		
+"children": [	
+{				
+"name" : "ANZ Bank", 				
+"children" : [	
+{"name": "ANZ Card Management", "type": "TOP", "owner": "ANZ Bank", "usage": 27, "custodian": "", "note": "0"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Alan Davies", 				
+"children" : [	
+{"name": "Buildernet (BPA)", "type": "TOP", "owner": "Alan Davies", "usage": 70, "custodian": "Lee Pearson", "note": "1"	
+}	
+,	
+{"name": "Customer Platform & CRM", "type": "TOP", "owner": "Alan Davies", "usage": 0, "custodian": "Lee Pearson", "note": "2"	
+}	
+,	
+{"name": "Electronic Advice of Sale 2 (EAS2)", "type": "TOP", "owner": "Alan Davies", "usage": 35, "custodian": "", "note": "3"	
+}	
+,	
+{"name": "Grange Information Access 2 (GIA2)", "type": "TOP", "owner": "Alan Davies", "usage": 36, "custodian": "", "note": "4"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Alan Davis", 				
+"children" : [	
+{"name": "Corporate Stakeholder Management System", "type": "TOP", "owner": "Alan Davis", "usage": 0, "custodian": "", "note": "5"	
+}	
+,	
+{"name": "Customer Contacts Dashboard (Operations)", "type": "TOP", "owner": "Alan Davis", "usage": 0, "custodian": "", "note": "6"	
+}	
+,	
+{"name": "DeveloperNet", "type": "TOP", "owner": "Alan Davis", "usage": 136, "custodian": "Lee Pearson", "note": "7"	
+,"children" : [	
+{"name": "Land Tenure Data within LDMS (DeveloperNet)", "type": "TOP", "owner": "Alan Davis", "usage": 0, "custodian": "", "note": "8"	
+}	
+	
+]	
+}	
+,	
+{"name": "Grange", "type": "TOP", "owner": "Alan Davis", "usage": 447, "custodian": "Nathan Regan", "note": "9"	
+}	
+,	
+{"name": "Land Tenure Data within LDMS (DeveloperNet)", "type": "TOP", "owner": "Alan Davis", "usage": 0, "custodian": "", "note": "10"	
+}	
+,	
+{"name": "Meter Reading System (MRS)", "type": "TOP", "owner": "Alan Davis", "usage": 0, "custodian": "", "note": "11"	
+,"children" : [	
+{"name": "Field Meter Reading System (FMRS)", "type": "TOP", "owner": "", "usage": 36, "custodian": "", "note": "12"	
+}	
+,	
+{"name": "Office Meter Reading System (OMRS)", "type": "WEB", "owner": "", "usage": 36, "custodian": "", "note": "13"	
+}	
+	
+]	
+}	
+,	
+{"name": "Western Power Fault Monitoring System (WPFMS)", "type": "WEB", "owner": "Alan Davis", "usage": 0, "custodian": "", "note": "14"	
+}	
+,	
+{"name": "Work Order Reporting & Reimbursement Billing (WORRB)", "type": "TOP", "owner": "Alan Davis", "usage": 23, "custodian": "", "note": "15"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Andrew Witkowski", 				
+"children" : [	
+{"name": "Magellan Mapsend Lite", "type": "TOP", "owner": "Andrew Witkowski", "usage": 0, "custodian": "", "note": "16"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Barry Holloway", 				
+"children" : [	
+{"name": "Solidworks 2011", "type": "TOP", "owner": "Barry Holloway", "usage": 0, "custodian": "", "note": "17"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Bernard Candy", 				
+"children" : [	
+{"name": "HydNet", "type": "TOP", "owner": "Bernard Candy", "usage": 31, "custodian": "Nathan Regan", "note": "18"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Bernie Sloan", 				
+"children" : [	
+{"name": "Citrix", "type": "TOP", "owner": "Bernie Sloan", "usage": 61, "custodian": "Brendan Hardy", "note": "19"	
+}	
+,	
+{"name": "Identity Manager", "type": "TOP", "owner": "Bernie Sloan", "usage": 20, "custodian": "", "note": "20"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Bianca Bishop", 				
+"children" : [	
+{"name": "SPSS 19", "type": "TOP", "owner": "Bianca Bishop", "usage": 11, "custodian": "", "note": "21"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Bianca Bishop ", 				
+"children" : [	
+{"name": "Pathwest direct archive", "type": "TOP", "owner": "Bianca Bishop ", "usage": 36, "custodian": "", "note": "22"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Brian Hutchison", 				
+"children" : [	
+{"name": "PCARD (CCMS)", "type": "TOP", "owner": "Brian Hutchison", "usage": 25, "custodian": "", "note": "23"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "CSC Person", 				
+"children" : [	
+{"name": "Bentley View", "type": "TOP", "owner": "CSC Person", "usage": 1, "custodian": "", "note": "24"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Charles Jeevaraj", 				
+"children" : [	
+{"name": "REsource ALlocation Model (REALM)", "type": "TOP", "owner": "Charles Jeevaraj", "usage": 19, "custodian": "", "note": "25"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Commonwealth Bank", 				
+"children" : [	
+{"name": "CommBiz", "type": "WEB", "owner": "Commonwealth Bank", "usage": 59, "custodian": "", "note": "26"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Danfoss (external vendor)", 				
+"children" : [	
+{"name": "MCT10", "type": "TOP", "owner": "Danfoss (external vendor)", "usage": 21, "custodian": "", "note": "27"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "David Low", 				
+"children" : [	
+{"name": "Spatial Asset System Management (SPASM) (Ellenbrook Data Management Program)", "type": "TOP", "owner": "David Low", "usage": 1, "custodian": "", "note": "28"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Don Taylor", 				
+"children" : [	
+{"name": "ChemAlert", "type": "TOP", "owner": "Don Taylor", "usage": 28, "custodian": "Brendan Hardy", "note": "29"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Emma Dalton", 				
+"children" : [	
+{"name": "Taleo Business Edition", "type": "WEB", "owner": "Emma Dalton", "usage": 0, "custodian": "Brendan Hardy", "note": "30"	
+,"children" : [	
+{"name": "Taleo Cloud", "type": "TOP", "owner": "Emma Dalton", "usage": 68, "custodian": "Brendan Hardy", "note": "31"	
+}	
+,	
+{"name": "Taleo Connect Client (TCC)", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "32"	
+}	
+	
+]	
+}	
+,	
+{"name": "Taleo Cloud", "type": "TOP", "owner": "Emma Dalton", "usage": 68, "custodian": "Brendan Hardy", "note": "33"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Faris Hernich", 				
+"children" : [	
+{"name": "Bore Pump Test", "type": "TOP", "owner": "Faris Hernich", "usage": 12, "custodian": "", "note": "34"	
+}	
+,	
+{"name": "GREX", "type": "TOP", "owner": "Faris Hernich", "usage": 0, "custodian": "", "note": "35"	
+}	
+,	
+{"name": "House File", "type": "TOP", "owner": "Faris Hernich", "usage": 1, "custodian": "", "note": "36"	
+}	
+,	
+{"name": "MAPPA", "type": "TOP", "owner": "Faris Hernich", "usage": 20, "custodian": "Nathan Regan", "note": "37"	
+}	
+,	
+{"name": "Planning Index", "type": "TOP", "owner": "Faris Hernich", "usage": 20, "custodian": "", "note": "38"	
+}	
+,	
+{"name": "SewerNet", "type": "TOP", "owner": "Faris Hernich", "usage": 30, "custodian": "Nathan Regan", "note": "39"	
+}	
+,	
+{"name": "Times Manager", "type": "TOP", "owner": "Faris Hernich", "usage": 1, "custodian": "", "note": "40"	
+}	
+,	
+{"name": "Watham", "type": "TOP", "owner": "Faris Hernich", "usage": 20, "custodian": "", "note": "41"	
+}	
+,	
+{"name": "Watsys", "type": "TOP", "owner": "Faris Hernich", "usage": 40, "custodian": "", "note": "42"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "GE (vendor)", 				
+"children" : [	
+{"name": "LogicMaster 8.2", "type": "TOP", "owner": "GE (vendor)", "usage": 30, "custodian": "", "note": "43"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Glenn Gerreyn", 				
+"children" : [	
+{"name": "Automated OSH Induction System (AOSH)", "type": "TOP", "owner": "Glenn Gerreyn", "usage": 0, "custodian": "", "note": "44"	
+}	
+,	
+{"name": "CIP Prioritisation Interim Solution (CPS)", "type": "TOP", "owner": "Glenn Gerreyn", "usage": 63, "custodian": "", "note": "45"	
+}	
+,	
+{"name": "Environment Task Tracker", "type": "WEB", "owner": "Glenn Gerreyn", "usage": 0, "custodian": "Brendan Hardy", "note": "46"	
+}	
+,	
+{"name": "H2O Honours Reward and Recognition", "type": "TOP", "owner": "Glenn Gerreyn", "usage": 23, "custodian": "", "note": "47"	
+}	
+,	
+{"name": "Microsoft Exchange", "type": "INFRASTRUCTURE", "owner": "Glenn Gerreyn", "usage": 0, "custodian": "", "note": "48"	
+}	
+,	
+{"name": "Microsoft Exchange", "type": "INFRASTRUCTURE", "owner": "Glenn Gerreyn", "usage": 0, "custodian": "", "note": "49"	
+}	
+,	
+{"name": "Priority One Enquiry Management System (POEMS)", "type": "TOP", "owner": "Glenn Gerreyn", "usage": 79, "custodian": "Brendan Hardy", "note": "50"	
+}	
+,	
+{"name": "SAP Asset Management (SAP-AM)", "type": "WEB", "owner": "Glenn Gerreyn", "usage": 1, "custodian": "Brendan Hardy", "note": "51"	
+}	
+,	
+{"name": "SAP Training and Event Management (SAP-TEM)", "type": "WEB", "owner": "Glenn Gerreyn", "usage": 26, "custodian": "", "note": "52"	
+}	
+,	
+{"name": "SAP cFolders", "type": "TOP", "owner": "Glenn Gerreyn", "usage": 77, "custodian": "", "note": "53"	
+}	
+,	
+{"name": "System Risk Assessment (SRA)", "type": "TOP", "owner": "Glenn Gerreyn", "usage": 1, "custodian": "", "note": "54"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Harry Wykstra", 				
+"children" : [	
+{"name": "Pool Vehicle Booking System", "type": "TOP", "owner": "Harry Wykstra", "usage": 24, "custodian": "Brendan Hardy", "note": "55"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Ian Thompson", 				
+"children" : [	
+{"name": "Inventor10", "type": "TOP", "owner": "Ian Thompson", "usage": 0, "custodian": "", "note": "56"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Janelle Armstrong", 				
+"children" : [	
+{"name": "Corporate Learning Directory", "type": "TOP", "owner": "Janelle Armstrong", "usage": 34, "custodian": "", "note": "57"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Janet Mulligan", 				
+"children" : [	
+{"name": "eLearning (Adobe Captivate 8)", "type": "WEB", "owner": "Janet Mulligan", "usage": 0, "custodian": "", "note": "58"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Jeremy Roberson", 				
+"children" : [	
+{"name": "gINT", "type": "TOP", "owner": "Jeremy Roberson", "usage": 23, "custodian": "", "note": "59"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "John Baiiley", 				
+"children" : [	
+{"name": "Tview+ Management Suite", "type": "TOP", "owner": "John Baiiley", "usage": 1, "custodian": "", "note": "60"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "John Bailey", 				
+"children" : [	
+{"name": "DOSBOX", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "61"	
+}	
+,	
+{"name": "ISaGRAF", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "62"	
+}	
+,	
+{"name": "MiriMap 2000+", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "63"	
+}	
+,	
+{"name": "PTS", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "64"	
+}	
+,	
+{"name": "Proficy PS", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "65"	
+}	
+,	
+{"name": "RTUTIL560", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "66"	
+}	
+,	
+{"name": "RTUtil15", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "67"	
+}	
+,	
+{"name": "RTUtil_2", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "68"	
+}	
+,	
+{"name": "SCADApack - E Series", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "69"	
+,"children" : [	
+{"name": "E-Series Configurator", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "70"	
+}	
+,	
+{"name": "E-Series Difference Generator", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "71"	
+}	
+,	
+{"name": "E-Series Security Administrator", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "72"	
+}	
+	
+]	
+}	
+,	
+{"name": "Step7 Professional", "type": "TOP", "owner": "John Bailey", "usage": 30, "custodian": "", "note": "73"	
+}	
+,	
+{"name": "Trio Radio D-Series", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "74"	
+}	
+,	
+{"name": "WinEDU2000", "type": "TOP", "owner": "John Bailey", "usage": 1, "custodian": "", "note": "75"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "John Bailey ", 				
+"children" : [	
+{"name": "KWSOFT Multiprog WT", "type": "TOP", "owner": "John Bailey ", "usage": 1, "custodian": "", "note": "76"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "John Druce", 				
+"children" : [	
+{"name": "Quest Estimating Tool", "type": "TOP", "owner": "John Druce", "usage": 22, "custodian": "", "note": "77"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "John Kinsey", 				
+"children" : [	
+{"name": "D transfer D load", "type": "TOP", "owner": "John Kinsey", "usage": 1, "custodian": "", "note": "78"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "John Ryan", 				
+"children" : [	
+{"name": "Telstra Instant Messaging", "type": "TOP", "owner": "John Ryan", "usage": 1, "custodian": "", "note": "79"	
+}	
+,	
+{"name": "Telstra Instant Messaging", "type": "TOP", "owner": "John Ryan", "usage": 1, "custodian": "", "note": "80"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "John Steyntjes", 				
+"children" : [	
+{"name": "Consultation Manager", "type": "WEB", "owner": "John Steyntjes", "usage": 109, "custodian": "Brendan Hardy", "note": "81"	
+,"children" : [	
+{"name": "Dashboard", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "82"	
+}	
+,	
+{"name": "Documents", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "83"	
+}	
+,	
+{"name": "Search", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "84"	
+}	
+,	
+{"name": "Workspaces", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "85"	
+}	
+	
+]	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Jon Parker", 				
+"children" : [	
+{"name": "Dolphin Plus", "type": "TOP", "owner": "Jon Parker", "usage": 1, "custodian": "", "note": "86"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "KOYO (vendor)", 				
+"children" : [	
+{"name": "DirectSoft 5", "type": "TOP", "owner": "KOYO (vendor)", "usage": 0, "custodian": "", "note": "87"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Karen McGregor", 				
+"children" : [	
+{"name": "Access Chamber Register", "type": "TOP", "owner": "Karen McGregor", "usage": 22, "custodian": "", "note": "88"	
+}	
+,	
+{"name": "GIMS", "type": "TOP", "owner": "Karen McGregor", "usage": 24, "custodian": "", "note": "89"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Karen Mcgregor", 				
+"children" : [	
+{"name": "AutoVue", "type": "TOP", "owner": "Karen Mcgregor", "usage": 35, "custodian": "", "note": "90"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Kim Bui", 				
+"children" : [	
+{"name": "Extend", "type": "TOP", "owner": "Kim Bui", "usage": 0, "custodian": "", "note": "91"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Leanne Pearce", 				
+"children" : [	
+{"name": "CRC-Forge", "type": "TOP", "owner": "Leanne Pearce", "usage": 30, "custodian": "", "note": "92"	
+}	
+,	
+{"name": "Flike", "type": "TOP", "owner": "Leanne Pearce", "usage": 22, "custodian": "", "note": "93"	
+}	
+,	
+{"name": "RORB", "type": "TOP", "owner": "Leanne Pearce", "usage": 22, "custodian": "", "note": "94"	
+}	
+,	
+{"name": "SWMOD", "type": "TOP", "owner": "Leanne Pearce", "usage": 21, "custodian": "", "note": "95"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Mark Fisher", 				
+"children" : [	
+{"name": "PayNet", "type": "WEB", "owner": "Mark Fisher", "usage": 1, "custodian": "", "note": "96"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Mark Gregor", 				
+"children" : [	
+	
+] 	
+}	
+,	
+{				
+"name" : "Michael Morrissey", 				
+"children" : [	
+{"name": "Business Performance Reporting (BPR)", "type": "TOP", "owner": "Michael Morrissey", "usage": 123, "custodian": "", "note": "97"	
+}	
+,	
+{"name": "Corporate Documents (CorDocs)", "type": "TOP", "owner": "Michael Morrissey", "usage": 226, "custodian": "", "note": "98"	
+,"children" : [	
+{"name": "Action Request", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "99"	
+}	
+,	
+{"name": "CorDocs Admin Report", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "100"	
+}	
+,	
+{"name": "Policies and Standards", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "101"	
+}	
+,	
+{"name": "Subscriptions", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "102"	
+}	
+	
+]	
+}	
+,	
+{"name": "SAP Employee Self Service (ESS)", "type": "WEB", "owner": "Michael Morrissey", "usage": 36, "custodian": "", "note": "103"	
+}	
+,	
+{"name": "TRACCESS", "type": "WEB", "owner": "Michael Morrissey", "usage": 142, "custodian": "", "note": "104"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Michael Smith", 				
+"children" : [	
+{"name": "MIKE-11", "type": "TOP", "owner": "Michael Smith", "usage": 30, "custodian": "", "note": "105"	
+}	
+,	
+{"name": "SLOPEW", "type": "TOP", "owner": "Michael Smith", "usage": 30, "custodian": "", "note": "106"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Michel Morrissey", 				
+"children" : [	
+{"name": "SAP Manager Self Service (SAP-MSS)", "type": "TOP", "owner": "Michel Morrissey", "usage": 35, "custodian": "", "note": "107"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Mike Canci", 				
+"children" : [	
+{"name": "ArcGIS", "type": "TOP", "owner": "Mike Canci", "usage": 131, "custodian": "", "note": "108"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Neil Formosa", 				
+"children" : [	
+{"name": "Affinitext", "type": "TOP", "owner": "Neil Formosa", "usage": 22, "custodian": "", "note": "109"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Noel Francis", 				
+"children" : [	
+{"name": "Shared Fleet Spreadsheet", "type": "TOP", "owner": "Noel Francis", "usage": 1, "custodian": "", "note": "110"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Peter Ryam", 				
+"children" : [	
+{"name": "Regulatory Condition Management System (RCMS)", "type": "TOP", "owner": "Peter Ryam", "usage": 19, "custodian": "", "note": "111"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Peter Ryan", 				
+"children" : [	
+{"name": "Asset Condition Assessment (ACA)", "type": "TOP", "owner": "Peter Ryan", "usage": 105, "custodian": "Brendan Hardy", "note": "112"	
+,"children" : [	
+{"name": "Assessment Planning", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "113"	
+}	
+,	
+{"name": "Assessments", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "114"	
+}	
+,	
+{"name": "Treatments", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "115"	
+}	
+	
+]	
+}	
+,	
+{"name": "Asset Management Planning System (AMPS)", "type": "TOP", "owner": "Peter Ryan", "usage": 361, "custodian": "Brendan Hardy", "note": "116"	
+}	
+,	
+{"name": "Asset Risk Assessment (ARA)", "type": "TOP", "owner": "Peter Ryan", "usage": 1, "custodian": "Decommissioned", "note": "117"	
+}	
+,	
+{"name": "Corporate Financial Impact Statement Management System (CFIS)", "type": "TOP", "owner": "Peter Ryan", "usage": 201, "custodian": "", "note": "118"	
+}	
+,	
+{"name": "Fatigue Management System", "type": "TOP", "owner": "Peter Ryan", "usage": 26, "custodian": "", "note": "119"	
+}	
+,	
+{"name": "Industrial Waste System (IWS) / Midas", "type": "TOP", "owner": "Peter Ryan", "usage": 25, "custodian": "Lee Pearson", "note": "120"	
+}	
+,	
+{"name": "Mobile Computing System (MCS2)", "type": "TOP", "owner": "Peter Ryan", "usage": 1, "custodian": "Brendan Hardy", "note": "121"	
+,"children" : [	
+{"name": "Bomgar", "type": "INFRASTRUCTURE", "owner": "", "usage": 1, "custodian": "", "note": "122"	
+}	
+,	
+{"name": "LiteSpatial", "type": "TOP", "owner": "Phil Beach", "usage": 62, "custodian": "Nathan Regan", "note": "123"	
+}	
+,	
+{"name": "SAP Afaria", "type": "INFRASTRUCTURE", "owner": "Peter Ryan", "usage": 1, "custodian": "", "note": "124"	
+}	
+	
+]	
+}	
+,	
+{"name": "ODSS/WQMS PDA", "type": "TOP", "owner": "Peter Ryan", "usage": 1, "custodian": "Brendan Hardy", "note": "125"	
+}	
+,	
+{"name": "Online Appropriation Request (OAR)", "type": "TOP", "owner": "Peter Ryan", "usage": 43, "custodian": "Brendan Hardy", "note": "126"	
+}	
+,	
+{"name": "Operational Data Storage System (ODSS)", "type": "TOP", "owner": "Peter Ryan", "usage": 360, "custodian": "Brendan Hardy", "note": "127"	
+,"children" : [	
+{"name": "Data Transfer from Laboratory (DTL)", "type": "COMPONENT", "owner": "Peter Ryan", "usage": 0, "custodian": "", "note": "128"	
+}	
+,	
+{"name": "Metropolitan Water Supply Statistics (MWSS)", "type": "COMPONENT", "owner": "", "usage": 1, "custodian": "", "note": "129"	
+}	
+,	
+{"name": "ODSS GDI", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "130"	
+}	
+,	
+{"name": "ODSS Generic Labs Interface (GLI)", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "131"	
+}	
+,	
+{"name": "Waste Water Quality Management System (WWQMS)", "type": "TOP", "owner": "Peter Ryan", "usage": 234, "custodian": "Brendan Hardy", "note": "132"	
+,"children" : [	
+{"name": "Administration", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "133"	
+}	
+,	
+{"name": "Reporting", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "134"	
+}	
+,	
+{"name": "Sampling", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "135"	
+}	
+	
+]	
+}	
+,	
+{"name": "Water Quality Management System (WQMS)", "type": "TOP", "owner": "Peter Ryan", "usage": 96, "custodian": "Brendan Hardy", "note": "136"	
+,"children" : [	
+{"name": "Administration", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "137"	
+}	
+,	
+{"name": "QAP", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "138"	
+}	
+,	
+{"name": "Reporting", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "139"	
+}	
+,	
+{"name": "Sampling", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "140"	
+}	
+	
+]	
+}	
+	
+]	
+}	
+,	
+{"name": "Operations Management System (OMS)", "type": "TOP", "owner": "Peter Ryan", "usage": 1, "custodian": "", "note": "141"	
+}	
+,	
+{"name": "Organisation Publisher", "type": "WEB", "owner": "Peter Ryan", "usage": 0, "custodian": "", "note": "142"	
+}	
+,	
+{"name": "PI (Data Historian)", "type": "WEB", "owner": "Peter Ryan", "usage": 193, "custodian": "Brendan Hardy", "note": "143"	
+,"children" : [	
+{"name": "Asset Framework/Automated Calculation Engine", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "144"	
+}	
+,	
+{"name": "Asset Framework/Automated Meter Reading", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "145"	
+}	
+,	
+{"name": "PI Interfaces", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "146"	
+,"children" : [	
+{"name": "PI Buffer Subsystem", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "147"	
+}	
+,	
+{"name": "PI Interface Configuration Utility", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "148"	
+}	
+,	
+{"name": "PI Interface Status Utility", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "149"	
+}	
+,	
+{"name": "PI OPC HDA/DA", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "150"	
+}	
+,	
+{"name": "PI SDK", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "151"	
+}	
+,	
+{"name": "PI UFL", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "152"	
+}	
+	
+]	
+}	
+,	
+{"name": "PI Server", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "153"	
+,"children" : [	
+{"name": "PI Advance Calculation Engine", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "154"	
+}	
+,	
+{"name": "PI Aggregation, Annotation, and Notification Tool (AANT)", "type": "COMPONENT", "owner": "Michael Morrissey", "usage": 0, "custodian": "", "note": "155"	
+}	
+,	
+{"name": "PI Asset Framework", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "156"	
+}	
+,	
+{"name": "PI Data Access", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "157"	
+}	
+,	
+{"name": "PI Notifications", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "158"	
+}	
+,	
+{"name": "PI System Explorer", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "159"	
+}	
+	
+]	
+}	
+,	
+{"name": "PI Visualization", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "160"	
+,"children" : [	
+{"name": "PI Coresight", "type": "TOP", "owner": "", "usage": 0, "custodian": "", "note": "161"	
+}	
+,	
+{"name": "PI DataLink", "type": "COMPONENT", "owner": "", "usage": 1, "custodian": "", "note": "162"	
+}	
+,	
+{"name": "PI ProcessBook", "type": "TOP", "owner": "", "usage": 1, "custodian": "", "note": "163"	
+,"children" : [	
+{"name": "Dam Reporting System", "type": "TOP", "owner": "", "usage": 1, "custodian": "", "note": "164"	
+}	
+	
+]	
+}	
+	
+]	
+}	
+	
+]	
+}	
+,	
+{"name": "Power Allocation", "type": "TOP", "owner": "Peter Ryan", "usage": 70, "custodian": "Brendan Hardy", "note": "165"	
+,"children" : [	
+{"name": "Power Allocation Import", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "166"	
+}	
+,	
+{"name": "Power Allocation Payments", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "167"	
+}	
+	
+]	
+}	
+,	
+{"name": "SAP Afaria", "type": "INFRASTRUCTURE", "owner": "Peter Ryan", "usage": 1, "custodian": "", "note": "168"	
+}	
+,	
+{"name": "SAP cProjects", "type": "TOP", "owner": "Peter Ryan", "usage": 71, "custodian": "", "note": "169"	
+}	
+,	
+{"name": "STORM", "type": "TOP", "owner": "Peter Ryan", "usage": 1, "custodian": "", "note": "170"	
+,"children" : [	
+{"name": "STORM Reporting", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "171"	
+}	
+	
+]	
+}	
+,	
+{"name": "Waste Water Quality Management System (WWQMS)", "type": "TOP", "owner": "Peter Ryan", "usage": 234, "custodian": "Brendan Hardy", "note": "172"	
+,"children" : [	
+{"name": "Administration", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "173"	
+}	
+,	
+{"name": "Reporting", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "174"	
+}	
+,	
+{"name": "Sampling", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "175"	
+}	
+	
+]	
+}	
+,	
+{"name": "Water Quality Management System (WQMS)", "type": "TOP", "owner": "Peter Ryan", "usage": 96, "custodian": "Brendan Hardy", "note": "176"	
+,"children" : [	
+{"name": "Administration", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "177"	
+}	
+,	
+{"name": "QAP", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "178"	
+}	
+,	
+{"name": "Reporting", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "179"	
+}	
+,	
+{"name": "Sampling", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "180"	
+}	
+	
+]	
+}	
+,	
+{"name": "Water Quality Performance and Operational Management Reporting (POPMAN)", "type": "WEB", "owner": "Peter Ryan", "usage": 0, "custodian": "", "note": "181"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Phil Beach", 				
+"children" : [	
+{"name": "Dam Safety Data Logger File Transfers", "type": "TOP", "owner": "Phil Beach", "usage": 31, "custodian": "Nathan Regan", "note": "182"	
+}	
+,	
+{"name": "Dial Before You Dig (DBYD)", "type": "TOP", "owner": "Phil Beach", "usage": 0, "custodian": "Lee Pearson", "note": "183"	
+}	
+,	
+{"name": "ECOMAPS", "type": "TOP", "owner": "Phil Beach", "usage": 0, "custodian": "", "note": "184"	
+}	
+,	
+{"name": "ERDAS Apollo", "type": "TOP", "owner": "Phil Beach", "usage": 0, "custodian": "", "note": "185"	
+}	
+,	
+{"name": "ERDAS ER Mapper", "type": "TOP", "owner": "Phil Beach", "usage": 1, "custodian": "", "note": "186"	
+}	
+,	
+{"name": "Electronic Submissions Interface (ESInet)", "type": "TOP", "owner": "Phil Beach", "usage": 20, "custodian": "Nathan Regan", "note": "187"	
+}	
+,	
+{"name": "Facilities Mapping System (FMS)", "type": "TOP", "owner": "Phil Beach", "usage": 184, "custodian": "", "note": "188"	
+}	
+,	
+{"name": "Job Register", "type": "TOP", "owner": "Phil Beach", "usage": 1, "custodian": "", "note": "189"	
+}	
+,	
+{"name": "LiteSpatial", "type": "TOP", "owner": "Phil Beach", "usage": 62, "custodian": "Nathan Regan", "note": "190"	
+}	
+,	
+{"name": "NetMaps", "type": "TOP", "owner": "Phil Beach", "usage": 31, "custodian": "Nathan Regan", "note": "191"	
+}	
+,	
+{"name": "Service Management Dashboard", "type": "TOP", "owner": "Phil Beach", "usage": 19, "custodian": "", "note": "192"	
+}	
+,	
+{"name": "Transfer of Digital Designs (TDD)", "type": "TOP", "owner": "Phil Beach", "usage": 20, "custodian": "", "note": "193"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Rob Macri", 				
+"children" : [	
+{"name": "Forcefield", "type": "TOP", "owner": "Rob Macri", "usage": 34, "custodian": "", "note": "194"	
+}	
+,	
+{"name": "Honeywell EBI", "type": "TOP", "owner": "Rob Macri", "usage": 26, "custodian": "", "note": "195"	
+}	
+,	
+{"name": "Indigo CCTV", "type": "TOP", "owner": "Rob Macri", "usage": 34, "custodian": "", "note": "196"	
+}	
+,	
+{"name": "Siemens Integrated ID Card", "type": "TOP", "owner": "Rob Macri", "usage": 36, "custodian": "", "note": "197"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Ross Mignacca", 				
+"children" : [	
+{"name": "@Risk", "type": "TOP", "owner": "Ross Mignacca", "usage": 21, "custodian": "", "note": "198"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Shannon Ford", 				
+"children" : [	
+{"name": "Primavera P6", "type": "TOP", "owner": "Shannon Ford", "usage": 25, "custodian": "", "note": "199"	
+,"children" : [	
+{"name": "Dashboards", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "200"	
+}	
+,	
+{"name": "Projects", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "201"	
+}	
+,	
+{"name": "Reporting", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "202"	
+}	
+	
+]	
+}	
+,	
+{"name": "Project Management Information System (PMIS)", "type": "TOP", "owner": "Shannon Ford", "usage": 71, "custodian": "", "note": "203"	
+,"children" : [	
+{"name": "Branch Management", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "204"	
+}	
+,	
+{"name": "Branch Performance Reporting", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "205"	
+}	
+,	
+{"name": "Capital Investment", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "206"	
+}	
+,	
+{"name": "Data Management", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "207"	
+}	
+,	
+{"name": "Portfolio Performance Management", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "208"	
+}	
+,	
+{"name": "Project Team Reports", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "209"	
+}	
+,	
+{"name": "Regional PMIS", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "210"	
+}	
+,	
+{"name": "Report Builder", "type": "COMPONENT", "owner": "", "usage": 0, "custodian": "", "note": "211"	
+}	
+	
+]	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Steve Little", 				
+"children" : [	
+{"name": "Gadget", "type": "TOP", "owner": "Steve Little", "usage": 0, "custodian": "", "note": "212"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Steve MacCarthy", 				
+"children" : [	
+{"name": "ADPRO Gold and ADPRO Lite CCTV Software", "type": "TOP", "owner": "Steve MacCarthy", "usage": 1, "custodian": "", "note": "213"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Tino Galati", 				
+"children" : [	
+{"name": "Asset Management & Operations Support System (AMOSS)", "type": "TOP", "owner": "Tino Galati", "usage": 185, "custodian": "", "note": "214"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Tino/Allan Deane", 				
+"children" : [	
+{"name": "Hydstra (Kisters HydSys)", "type": "WEB", "owner": "Tino/Allan Deane", "usage": 134, "custodian": "", "note": "215"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Touchpanel vendor", 				
+"children" : [	
+{"name": "QuickDesigner v5.70", "type": "TOP", "owner": "Touchpanel vendor", "usage": 21, "custodian": "", "note": "216"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Tough Panel vendor", 				
+"children" : [	
+{"name": "Uwin", "type": "TOP", "owner": "Tough Panel vendor", "usage": 0, "custodian": "", "note": "217"	
+}	
+	
+] 	
+}	
+,	
+{				
+"name" : "Water Quality Branch", 				
+"children" : [	
+{"name": "Oceanica CKAN", "type": "WEB", "owner": "Water Quality Branch", "usage": 0, "custodian": "BMT Oceanica", "note": "218"	
+}	
+	
+] 	
+}	
+]	
+,"listnotes" : [	
+{					
+"index" : "0", 					
+"description" : "Internet%20access%20package%20software%20supplied%20by%20ANZ%20Bank%20to%20support%20the%20management%20of%20Purchasing%20Cards%20and%20transactions."}	
+,	
+{					
+"index" : "1", 					
+"description" : "BuilderNet%20is%20an%20Internet%20application%20developed%20to%20streamline%20the%20approval%20of%20single%20residential%20building%20plans%20by%20the%20Water%20Corporation.%20Builders%20are%20required%20to%20submit%20proposed%20building%20plans%20and%20water%20service%20applications%20to%20the%20Water%20Corporation%2C%20to%20arrange%20for%20water%20services%20to%20be%20provided%20and%20to%20ensure%20buildings%20are%20not%20constructed%20over%2C%20or%20too%20near%2C%20Corporation%20assets.%20The%20Corporation%20processes%20on%20average%2030%2C000%20building%20plans%20annually%20for%20the%20metropolitan%20area%20and%2010%2C000%20for%20country%20regions.%20Around%20two-thirds%20of%20applications%20are%20for%20new%20buildings%20with%2080%25%20of%20these%20relating%20to%20single%20residential%20development.%20BuilderNet%20is%20the%20first%20business%20application%20to%20be%20built%20on%20the%20new%20E-Business%20Infrastructure%20(EBI)%20and%20incorporates%20online%20integration%20into%20the%20Corporation's%20Grange%20and%20Facilities%20Mapping%20Systems.%20BuilderNet%20largely%20automates%20the%20building%20plan%20approval%20and%20service%20application%20processes.%20In%20the%20majority%20of%20cases%2C%20straightforward%20applications%20will%20get%20immediate%20approval%20without%20the%20need%20for%20any%20manual%20handling.%20BuilderNet%20is%20already%20in%20operation%20and%20is%20currently%20being%20rolled%20out%20to%2016%20major%20building%20companies.%20BuilderNet%20was%20formally%20launched%20by%20the%20Minister%20Nick%20Griffiths%20on%2026th%20September%202003.%20"}	
+,	
+{					
+"index" : "2", 					
+"description" : ""}	
+,	
+{					
+"index" : "3", 					
+"description" : "The%20Electronic%20Advice%20of%20Sale%20system%20automates%20many%20of%20the%20processes%20supporting%20the%20sale%20of%20a%20property.%20Users%20of%20the%20system%20are%20predoninantly%20conveyencing%20agents%20who%20gain%20access%20via%20a%20Dept%20of%20Land%20Information%20Portal.%20%20%20%20Electronic%20Advice%20of%20Sale%20is%20a%20joint%20initiative%20between%20the%20Office%20of%20State%20Revenue%2C%20the%20Water%20Corporation%20of%20Western%20Australia%20and%20Landgate.%20The%20EAS2%20system%20provides%20Conveyancers%20throughout%20Western%20Australia%20with%20an%20Internet%20application%20allowing%20them%20to%20submit%20one%20request%20to%20obtain%20information%20for%20a%20settlement%20of%20land.%20%20%20%20Available%20in%20the%20Conveyancing%20channel%2C%20EAS2%20has%20the%20ability%20to%20receive%20online%20rates%20and%20tax%20information%2C%20and%20you%20can%20also%20lodge%20a%20rate%20enquiry%20where%20no%20sale%20of%20property%20is%20involved.%20%20The%20time%20required%20to%20gather%20information%20is%20greatly%20reduced%2C%20so%20that%20land%20and%20property%20transactions%20can%20occur%20more%20quickly.%20%20EAS2%20also%20allows%20multi-lot%20and%20multi-title%20transactions%20for%20contiguous%20properties%2C%20meaning%20only%20one%20enquiry%20is%20required%20to%20be%20submitted%20to%20deal%20with%20multiple%20titles%2Flots%20on%20the%20same%20Offer%20and%20Acceptance.%20"}	
+,	
+{					
+"index" : "4", 					
+"description" : "Full%20replication%20of%20GRANGE%20tables%20with%20the%20ability%20to%20record%20data%20changes%20and%20deletions%0D%0A%0D%0AOSI%20PI%20uses%20ODBC%20connection%20to%20query%20the%20GIA2%20database%20on%20a%20daily%20basis%0D%0A"}	
+,	
+{					
+"index" : "5", 					
+"description" : "Software%20as%20a%20Service%20for%20Stakeholder%20Relationship%20Management"}	
+,	
+{					
+"index" : "6", 					
+"description" : ""}	
+,	
+{					
+"index" : "7", 					
+"description" : "Records%2Fmanages%20the%20corporation's%20involvement%20in%20the%20land%20planning%20process.%20%20It%20specifically%20manages%20the%20corporation's%20involvement%20in%20the%20Western%20Australian%20Planning%20Commission's%20Subdivision%20process%20(this%20includes%20consultants%20asset%20design%20submissions%2C%20Financial%20Securities%20and%20land%20matters)%2C%20the%20zoning%20process%2C%20strategic%20land%20planning%20advice%2C%20the%20planning%20of%20scheme%20planning%20advice%2C%20water%20reticulation%20tasks%2C%20and%20the%20environmental%20review%20of%20external%20proposals.%20Assists%20in%20the%20management%20of%20the%20Land%20Development%20Process.%20Documents%20how%20land%20is%20acquired%20and%20for%20what%20purpose."}	
+,	
+{					
+"index" : "8", 					
+"description" : "This%20application%20is%20an%20import%20function%20that%20checks%20for%20new%20files%20on%20a%20shared%20drive%20and%20when%20it%20finds%20a%20new%20set%20of%20files%2C%20uploads%20them%20into%20DevelopNet"}	
+,	
+{					
+"index" : "9", 					
+"description" : "The%20Grange%20system%20was%20implemented%20on%2014%20April%2C%201998.%20The%20system%20is%20primarily%20a%20Revenue%20and%20Customer%20Service%20Information%20System%20(CSIS)%20that%20manages%20all%20aspects%20of%20the%20Water%20Corporation's%20customer%20contact%20services%20including%20billing%2C%20accounts%2C%20metering%2C%20property%2C%20applications%2C%20recovery%2C%20cash%20receipting.%20The%20system%20replaced%20the%20Metro%20and%20Country%20revenue%20systems%2C%20combining%20them%20into%20one.%20%20The%20system%20also%20interfaces%20to%20the%20Plant%20Maintenance%2C%20Financial%20and%20Human%20Resource%20modules%20of%20the%20System%20Applications%20%26%20Products%20(SAP)%20system.%20%20Interfaces%20also%20exist%20%20for%20invoicing%20with%20Industrial%20Waste%2C%20LDMS%20and%20Reprographics%20(STCR).%20%20Grange%20has%20been%20developed%20in%20conjunction%20with%20the%20Water%20Corporation's%20vision%20and%20strategies%20for%20achieving%20excellence%20in%20customer%20service.%20"}	
+,	
+{					
+"index" : "10", 					
+"description" : "This%20application%20is%20an%20import%20function%20that%20checks%20for%20new%20files%20on%20a%20shared%20drive%20and%20when%20it%20finds%20a%20new%20set%20of%20files%2C%20uploads%20them%20into%20DevelopNet"}	
+,	
+{					
+"index" : "11", 					
+"description" : "Mission%20critical%20component%20of%20the%20Corporations%20billing%20system.%20The%20system%20is%20essentially%20an%20interface%20between%20Grange%20and%20the%20Portable%20Data%20Entry%20(PDE)%20units%20used%20by%20readers%20to%20collect%20meter%20readings.%20The%20system%20extracts%20meter%20reading%20round%20information%20from%20Grange%20for%20uploading%20onto%20PDE's%20and%20the%20collected%20meter%20readings%20are%20then%20downloaded%20into%20MRS%20for%20uploading%20into%20Grange%20for%20processing.."}	
+,	
+{					
+"index" : "12", 					
+"description" : ""}	
+,	
+{					
+"index" : "13", 					
+"description" : ""}	
+,	
+{					
+"index" : "14", 					
+"description" : "WPFMS%20is%20used%20by%20the%20Operations%20Centre%20to%20monitor%20power%20faults%20affecting%20Water%20Corporation%20infrastructure."}	
+,	
+{					
+"index" : "15", 					
+"description" : "This%20system%20is%20used%20to%20identify%20Work%20Orders%20for%20which%20re-imbursement%20of%20costs%20is%20to%20be%20sought%20from%20the%20Customer.%0D%0A%0D%0AREDACT%20(MS%20Access%20application)%20uses%20ODBC%20connection%20to%20get%20the%20data%20from%20the%20WORRB%20database."}	
+,	
+{					
+"index" : "16", 					
+"description" : "GPS%20map%20software"}	
+,	
+{					
+"index" : "17", 					
+"description" : "3D%20Modelling%20tool.%20Design%20of%20remotely%20operated%20vehicles"}	
+,	
+{					
+"index" : "18", 					
+"description" : "HydNet%20is%20used%20in%20the%20Water%20Supply%20section%20of%20IPB.%20Used%20in%20the%20planning%20of%20upgrades%20and%20extensions%20to%20the%20water%20distribution%20network."}	
+,	
+{					
+"index" : "19", 					
+"description" : ""}	
+,	
+{					
+"index" : "20", 					
+"description" : "CA%20Identity%20Manager%20provides%20a%20comprehensive%20identity%20administration%20and%20user%20provisioning%20solution%20that%20manages%20all%20types%20of%20identities%20(internal%20and%20external%20users%2C%20and%20non%20user%20IDs)%20and%20covers%20a%20comprehensive%20set%20of%20target%20systems%20(from%20mainframe%20to%20web%20applications)%20across%20the%20full%20identity%20lifecycle%20(from%20creation%20to%20modification%20to%20removal).%20In%20addition%2C%20CA%20IdentityManager%20improves%20security%20by%20providing%20an%20authoritative%20point%20of%20identity%20administration%2C%20enforcing%20consistent%20identity%20policies%20and%20auditing%20identity-related%20actions."}	
+,	
+{					
+"index" : "21", 					
+"description" : "IBM%20software%20that%20randomly%20selects%20sites%20"}	
+,	
+{					
+"index" : "22", 					
+"description" : "HL7%20converter%20included.%20Stores%20all%20results%20in%20printable%20format%20on%20server%20in%20date%20order%20of%20testing%20(Pathwest%20is%20a%20vendor%2C%20conducting%20alcohol%20and%20drug%20tests%20randomly)."}	
+,	
+{					
+"index" : "23", 					
+"description" : "The%20PCARD%20(Purchasing%20Card)%20or%20Credit%20Card%20Management%20System%20(CCMS)%20provides%20credit%20card%20holders%20and%20coordinators%20direct%20access%20to%20purchase%20and%20corporate%20card%20transactions%20which%20are%20updated%20in%20the%20system%20daily%20from%20ANZ."}	
+,	
+{					
+"index" : "24", 					
+"description" : "CAD%20Viewer%20for%20IDB%20draft%20repositories"}	
+,	
+{					
+"index" : "25", 					
+"description" : "REALM%20(REsource%20ALlocation%20Model)%20is%20a%20water%20supply%20system%20simulation%20package.%20It%20is%20general%20in%20that%20any%20water%20supply%20system%20can%20be%20configured%20as%20a%20network%20of%20nodes%20and%20carriers%20representing%20reservoirs%2C%20demand%20centres%2C%20waterways%2C%20pipes%2C%20etc.%20It%20is%20flexible%20in%20that%20it%20can%20be%20used%20as%20a%20%E2%80%9Cwhat%20if%E2%80%9D%20tool%20to%20address%20various%20options%20(i.e.%20new%20operating%20rules%2C%20physical%20system%20modifications%2C%20etc.).%20System%20changes%20can%20be%20quickly%20and%20easily%20configured%20and%20investigated.%20A%20wide%20range%20of%20operating%20rules%20can%20be%20modelled%20either%20directly%20or%20indirectly%20by%20exploiting%20the%20basic%20set%20of%20node%20and%20carrier%20types%20and%20their%20corresponding%20attributes.%20It%20uses%20a%20fast%20network%20linear%20programming%20algorithm%20to%20optimise%20the%20water%20allocation%20within%20the%20network%20for%20each%20time%20step%20of%20the%20simulation%20period%2C%20in%20accordance%20with%20user-defined%20operating%20rules.%20The%20user%20can%20specify%20the%20desired%20level%20of%20detail%20of%20output%20from%20the%20model.%20Output%20can%20be%20presented%20graphically%2C%20either%20in%20raw%20form%20or%20after%20post-processing%20using%20a%20suite%20of%20utility%20programs%20separate%20from%20the%20simulation%20model.%20Input%20and%20output%20data%20(ASCII)%20files%20have%20the%20same%20format%20and%20can%20easily%20be%20transferred%20to%20commercially%20available%20word%20processing%20and%20spreadsheet%20packages%20such%20as%20Microsoft%20Office%20to%20enhance%20presentation%20and%2For%20to%20perform%20more%20detailed%20statistical%20analyses."}	
+,	
+{					
+"index" : "26", 					
+"description" : "Commonwealth%20Bank%20Web%20Service%20"}	
+,	
+{					
+"index" : "27", 					
+"description" : "Vendor%20Danfoss%0D%0A%0D%0AElectric%20motor%20control%20configuration%0D%0A%0D%0AMCT%2010%20-%20it%20is%20possible%20to%20monitor%20the%20entire%20system%20more%20effectively%20for%20faster%20diagnosis%2C%20and%20better%20preventive%20maintenance.%0D%0A%0D%0AMCT%2010%20Set-up%20Software%20is%20designed%20as%20an%20interactive%0D%0Acommissioning%20tool%20for%20%3A%0D%0A%0D%0A%E2%80%A2%20For%20commissioning%20frequency%20converters%20online%0D%0A%E2%80%A2%20For%20easy%20replacement%20of%20a%20frequency%20converter%0D%0A%E2%80%A2%20For%20easy%20expansion%20of%20network%20with%20more%20frequency%20converters%0D%0A%E2%80%A2%20For%20back-up%20of%20parameter%20settings%20of%20frequency%20converters%20in%20a%20communication%20network.%0D%0A%0D%0ACommunication%20from%20a%20PC%20can%20be%20established%20via%20%22RS-232%0D%0Ato%20RS-485%20converters%22%20or%20via%20%22USB%20to%20RS-485%20converters%22"}	
+,	
+{					
+"index" : "28", 					
+"description" : "Spatial%20Asset%20System%20%20Management%20(SPASM)%20(Ellenbrook%20Data%20Management%20Program).%20%20It%20has%20reporting%20%26%20reporting%20capabilities"}	
+,	
+{					
+"index" : "29", 					
+"description" : "A%20online%20repository%20for%20MSDS%20(Manufacture%20Safety%20Data%20Sheets)%2C%20mandatory%20occupational%20health%20and%20safety%20information."}	
+,	
+{					
+"index" : "30", 					
+"description" : ""}	
+,	
+{					
+"index" : "31", 					
+"description" : "This%20is%20a%20workforce%20planning%20and%20recruitment%20package."}	
+,	
+{					
+"index" : "32", 					
+"description" : ""}	
+,	
+{					
+"index" : "33", 					
+"description" : "This%20is%20a%20workforce%20planning%20and%20recruitment%20package."}	
+,	
+{					
+"index" : "34", 					
+"description" : "The%20Bore%20Pump%20Test%20applciation%20provides%20an%20interface%20to%20a%20database%20of%20bore%20pump%20testing%20data.%20%20Users%20can%20view%20the%20results%20of%20previous%20testing%20and%20import%20new%20testing%20data."}	
+,	
+{					
+"index" : "35", 					
+"description" : "This%20application%20extracts%20consumption%20data%20out%20of%20GIA2%20(a%20copy%20of%20GRANGE)%20for%20the%20purposes%20of%20scheme%20demand%20profiling%20and%20planning."}	
+,	
+{					
+"index" : "36", 					
+"description" : "Provides%20an%20index%20to%20a%20catalogue%20of%20House%20Files%20used%20within%20IPB."}	
+,	
+{					
+"index" : "37", 					
+"description" : "A%20suite%20of%20programs%20that%20perform%20a%20variety%20of%20operations%20on%20polygons.%20These%20polygons%20usually%20represent%20geographic%20features%20significant%20to%20IPB.%20(sewer%20catchment%2C%20declared%20areas%20etc)"}	
+,	
+{					
+"index" : "38", 					
+"description" : "Provides%20an%20index%20to%20Planning%20Reports%20and%20other%20documents%20created%20as%20part%20of%20the%20Planning%20Process.%20"}	
+,	
+{					
+"index" : "39", 					
+"description" : "Used%20in%20planning%20new%20wastewater%20networks%20and%20extensions%20to%20existing%20wastewater%20networks.%20The%20layout%20of%20a%20network%20is%20specified%20and%20various%20analysis%20routines%20are%20used%20to%20assist%20in%20pipe%20sizing%20and%20placement%20decisions.%0D%0A%0D%0A(also%20known%20as%20ServerNet%2FDTM%20%26amp%3B%20WIMS)"}	
+,	
+{					
+"index" : "40", 					
+"description" : "Time%20sheet%20management%20system"}	
+,	
+{					
+"index" : "41", 					
+"description" : "Used%20to%20model%20the%20effect%20of%20water%20hammer.%20The%20package%20is%20used%20in%20planning%20to%20ensure%20that%20any%20transient%20fluctuations%20in%20pressure%20are%20within%20required%20bounds."}	
+,	
+{					
+"index" : "42", 					
+"description" : "Used%20in%20planning%20new%20water%20distribution%20networks%20and%20extensions%20to%20existing%20networks.%20It%20allows%20the%20simulation%20of%20the%20operation%20of%20a%20water%20supply%20network%20over%20an%20extended%20period%20allowing%20for%20variations%20in%20service%20demands%2C%20reservoir%20levels%20and%20device%20settings."}	
+,	
+{					
+"index" : "43", 					
+"description" : "PLC%20(Program%20Logic%20Components)%20GE%20(General%20Electrics)%20component%20software%20for%20model%201930"}	
+,	
+{					
+"index" : "44", 					
+"description" : "The%20Automated%20OSH%20Induction%20system%20(Aosh)%20replaces%20the%20current%20manual%20system.%20It%20will%20allow%20site%20visitors%20to%20undertake%20inductions%20online%20via%20the%20web%2C%20either%20onsite%20or%20offsite.%20%20Visitors%20will%20be%20tested%20after%20undertaking%20inductions%20to%20ensure%20comprehension%20of%20the%20material.%20%20Completion%20of%20an%20Induction%20Course%20will%20be%20recorded%20then%20validated%20each%20time%20a%20visitor%20enters%20a%20site.%20%20In%20addition%20the%20system%20is%20expected%20to%20provide%20the%20necessary%20reports%20as%20required%20by%20the%20business%20unit%20and%20provide%20administration%20functions%20to%20manage%20third%20party%20induction%20content."}	
+,	
+{					
+"index" : "45", 					
+"description" : "The%20main%20objective%20with%20regards%20to%20the%20CIP%20Prioritisation%20Interim%20Solution%20is%20to%20provide%20a%20tool%20for%20the%20prioritisation%20of%20capital%20projects%20in%20the%205%20year%20Capital%20Investment%20Program%20(CIP)%20that%20will%20lead%20to%20a%20Board%20submission%20in%20October%202005.%20The%20CIP%20Prioritisation%20Interim%20Solution%20has%203%20major%20processes%3B%201.%20Import%20the%20data%20from%20PMIS%20and%20SAP%20%E2%80%A2%20The%20Senior%20Program%20Analyst%20will%20be%20responsible%20for%20manually%20requesting%20the%20importing%20of%20predefined%20PMIS%20and%20SAP%20content%20into%20the%20CIP%20Prioritisation%20Interim%20Solution.%202.%20Review%20and%20refine%20program%20investment%20%E2%80%A2%20The%20Program%20Manager%20will%20be%20responsible%20for%20the%20iterative%20process%20of%20reviewing%20and%20refining%20the%20Projects%20in%20the%20Program%20until%20the%20Project%20Manger%20has%20exhausted%20known%20refinement%20opportunities.%203.%20Report%20on%20accepted%20refinements%20to%20project%20investment%20for%20updating%20SAP%20%E2%80%A2%20Program%20Managers%20will%20be%20responsible%20for%20ensuring%20that%20SAP%20is%20updated%20with%20any%20accepted%20changes%20to%20investment%20and%20PPC%20date%20that%20have%20been%20trialled.%20The%20major%20process%20from%20the%20CIP%20Prioritisation%20Interim%20Solution%20being%20the%20%E2%80%9CReview%20and%20refine%20program%20investment%E2%80%9D%20is%20an%20iterative%20manual%20process%20where%20the%20Program%20Manager%20refines%20the%20financial%20year%20investment%20on%20projects%20within%20the%20programs%20for%20which%20they%20are%20responsible.%20%20Effectively%20this%20process%20has%20the%20projects%20prioritised%20based%20upon%20associated%20risk%20to%20identify%20those%20that%20can%20be%20postponed.%20The%20CIP%20Prioritisation%20Interim%20Solution%20application%20does%20not%20introduce%20new%20technology.%20%20It%20is%20based%20on%20prevailing%20Corporation%20technology%2C%20and%20uses%20a%20Microsoft%20Access%20front%20end%20and%20a%20Microsoft%20SQL%20Server%20database%20backend.%20%20Although%20the%20application%20is%20aimed%20primarily%20at%20Program%20Analysts%20and%20Program%20Managers%20located%20at%20the%20Water%20Corporation%20Head%20Office%20in%20Leederville%2C%20no%20controls%20exist%20over%20who%20can%20access%20it.%20The%20CIP%20Prioritisation%20Interim%20Solution%20application%20will%20be%20used%20as%20a%20production%20tool%20for%20at%20least%20one%20year%20following%20implementation.%20%20Its%20support%20will%20follow%20support%20arrangements%20for%20other%20applications%20accepted%20into%20production.%20"}	
+,	
+{					
+"index" : "46", 					
+"description" : "Environment%20Task%20Tracker%20is%20a%20web%20based%20Task%20Management%20System%20which%20runs%20as%20a%20WaterNet%20application.%20The%20web%20application%20is%20a%20customised%20version%20of%20Perfect%20Tracker%20and%20was%20developed%20with%20the%20WWTPE%20Task%20Tracker%20as%20the%20baseline.%20The%20Task%20Managament%20system%20provides%20an%20online%20Request%20form%20for%20users%20to%20fill%20in%20to%20create%20Activities%20in%20the%20system.%20Based%20on%20the%20Section%20selected%20when%20creating%20the%20Request%20the%20responsible%20Section%20Manager%20is%20alerted%20and%20assigned%20the%20Activity.%20From%20here%20common%20Task%20Management%20functions%20are%20available%20for%20Activites%20and%20Tasks%20such%20as%20New%20Task%2C%20Edit%2C%20Assign%2C%20Close%2C%20Divide%2C%20Respond%20and%20Follow-up.%20The%20Environment%20Task%20Tracker%20is%20different%20to%20WWTPE%20with%20the%20introduction%20of%20Activities%20and%20then%20Tasks%20created%20for%20an%20Activity.%20The%20web%20application%20also%20comes%20with%20some%20standard%20reports%20and%20a%20report%20builder%20which%20provides%20the%20user%20with%20a%20feature%20to%20create%20their%20own%20reports.%20Email%20alerting%20is%20supported%20with%20most%20Activity%20%2F%20Task%20actions.%20The%20system%20also%20comes%20with%20Knowledge%20Base%2C%20Discussion%20Boards%20and%20News%20modules.%0D%0A%0D%0A%0D%0AVMADJT1815%5CINST01%5Cebtask"}	
+,	
+{					
+"index" : "47", 					
+"description" : "Waternet%20application%20used%20to%20manage%20reward%20and%20recogonition%20nominations"}	
+,	
+{					
+"index" : "48", 					
+"description" : "Microsoft%20Exchange%20Mail%20Server.%20Water%20Corporation%20is%20currently%20using%20Exchange%205.5%20but%20will%20be%20upgrading%20to%20Exchange%202003%20by%20the%20end%20of%202004.%20%20%20Perfect%20Tracker%20uses%20Microsoft%20Exchange%20to%20forward%20the%20email%20to%20the%20User%20as%20perfect%20tracker%20uses%20Exchange%20to%20relay%20the%20mail."}	
+,	
+{					
+"index" : "49", 					
+"description" : "Microsoft%20Exchange%20Mail%20Server.%20Water%20Corporation%20is%20currently%20using%20Exchange%205.5%20but%20will%20be%20upgrading%20to%20Exchange%202003%20by%20the%20end%20of%202004.%20%20%20Perfect%20Tracker%20uses%20Microsoft%20Exchange%20to%20forward%20the%20email%20to%20the%20User%20as%20perfect%20tracker%20uses%20Exchange%20to%20relay%20the%20mail."}	
+,	
+{					
+"index" : "50", 					
+"description" : "The%20Priority%20One%20Enquiries%20Management%20System%20(POEMS)%20is%20also%20known%20as%20'MLU%20application'%20and%20'POEMS%20XP'%20within%20the%20Water%20Corporation.%20%20%20The%20Priority%20One%20Enquiry's%20Management%20System%20(POEMS)%20has%20been%20designed%20to%20assist%20staff%20responsible%20for%20preparing%20draft%20responses%20to%20Priority%20One%20Enquiries%20from%20the%20offices%20of%20the%20Minister%20and%20the%20Managing%20Director.%20%20%20%20"}	
+,	
+{					
+"index" : "51", 					
+"description" : ""}	
+,	
+{					
+"index" : "52", 					
+"description" : "The%20Training%20and%20Event%20Management%20component%20lets%20you%20plan%20and%20manage%20any%20kind%20of%20business%20event%3A%20training%20courses%2C%20conferences%2C%20lectures.%20Manages%20both%20internal%20and%20external%20events%2C%20and%20make%20bookings%2C%20prebookings%20and%20cancellations."}	
+,	
+{					
+"index" : "53", 					
+"description" : "The%20Colloboration%20Folders%20module%20of%20the%20SAP%20Product%20Life%20Cycle%20maintenance%20suite"}	
+,	
+{					
+"index" : "54", 					
+"description" : ""}	
+,	
+{					
+"index" : "55", 					
+"description" : "Records%20usage%20and%20charge%20details%20for%20Pool%20Vehicles.%20Vehicle%20usage%20recorded%20includes%20private%20V%20business%20use.%20Which%20vehicle%20is%20being%20used%20by%20whom%20and%20where%20the%20use%20should%20be%20charged.%20Built%20in%20ABAP%20with%20direct%20access%20to%20SAP.%20Replaced%20Pool%20Vehicles.%0D%0A%0D%0A%5C%5Cvmgwjt1804%5Ce%24%5CWebsites%5CWaterNet%5CP%5CPPB%20%20is%20this%20fileshare%20that%20contains%20the%20cold%20fusion%20files%20that%20generate%20the%20asp%20page%20.%20It%20looks%20like%20it%20sends%20an%20email%20upon%20submission%20of%20that%20pool%20vehicle%20booking%20form%20though"}	
+,	
+{					
+"index" : "56", 					
+"description" : "3D%20Modelling%20tool"}	
+,	
+{					
+"index" : "57", 					
+"description" : "Shows%20content%20of%20learning%20(courses)%2C%20it's%20considered%20as%20catalogue%20information.%20%20Allows%20managers%20and%20employees%20to%20see%20what%20training%20maybe%20available%20%20to%20adress%20skills%20shortages.%20%20It%20then%20can%20be%20linked%20directly%20to%20SAP%20to%20book%20the%20relevant%20training%20via%20Cascade."}	
+,	
+{					
+"index" : "58", 					
+"description" : "Publishes%20content%20-%20including%20audio%20files%20-%20to%20Waternet%20and%20SRM%20(Supply%20Relationship%20Management)"}	
+,	
+{					
+"index" : "59", 					
+"description" : "Bore%20logs"}	
+,	
+{					
+"index" : "60", 					
+"description" : "PLC%20(Program%20Logic%20Components)"}	
+,	
+{					
+"index" : "61", 					
+"description" : "DOSBOX%20is%20a%20shell%20application%20which%20is%20used%20to%20run%20applications%20such%20as%20PTS%2C%20RTUtil_2%2CRTUtil15.%0D%0A%0D%0AA%20DOS%20virtual%20machine%20on%20WC%20PC.%0D%0A%0D%0AThis%20application%20is%20installed%20on%20all%20the%20WC%20PC's%20as%20part%20of%20MDT%20AutoSave%20suite%20of%20product%20(Engineering%20Software)"}	
+,	
+{					
+"index" : "62", 					
+"description" : "RTU%20Programming%20Software%20Schneider%20(vendor)%20electrical%20circuit%20tool"}	
+,	
+{					
+"index" : "63", 					
+"description" : "RTU%20Programming%20Software"}	
+,	
+{					
+"index" : "64", 					
+"description" : "PLC%20(Program%20Logic%20Components)"}	
+,	
+{					
+"index" : "65", 					
+"description" : "PLC%20(Program%20Logic%20Components)%20GE%20(General%20electrics)%20component%20software%20Proficy%20ME%20LM90%20Proficy%20ME%20SIM%20Proficy%20ME%20SIM%209%20"}	
+,	
+{					
+"index" : "66", 					
+"description" : "RTU%20Programming%20Software%0D%0A%0D%0ACurrent%20version%20is%2010.5.2.0"}	
+,	
+{					
+"index" : "67", 					
+"description" : "RTU%20Programming%20Software"}	
+,	
+{					
+"index" : "68", 					
+"description" : "RTU%20Programming%20Software"}	
+,	
+{					
+"index" : "69", 					
+"description" : "E-Series%20Configurator%20is%20a%20Windows%C2%AE%20based%20software%20configuration%20tool%20for%20use%20with%20Control%20Microsystems%20SCADAPack%20E-Series%20RTU's.%20E-Series%20Configurator%20uses%20standard%20Windows%20features%20and%20styles%20such%20as%20tool%20bars%2C%20menus%20and%20property%20pages.%20The%20E-Series%20Configurator%20uses%20the%20DNP3%20protocol%20to%20communicate%20with%20E-Series%20RTU's.%0D%0A"}	
+,	
+{					
+"index" : "70", 					
+"description" : ""}	
+,	
+{					
+"index" : "71", 					
+"description" : ""}	
+,	
+{					
+"index" : "72", 					
+"description" : ""}	
+,	
+{					
+"index" : "73", 					
+"description" : "PLC%20(Program%20Logic%20Components)%20Siemenscomponent%20software"}	
+,	
+{					
+"index" : "74", 					
+"description" : "RTU%20(Remote%20Terminal%20Unit)%20%20Communication%20setup%20for%20wireless%20operation"}	
+,	
+{					
+"index" : "75", 					
+"description" : "PLC%20(Program%20Logic%20Components)"}	
+,	
+{					
+"index" : "76", 					
+"description" : "PLC%20(Program%20Logic%20Components)"}	
+,	
+{					
+"index" : "77", 					
+"description" : "Quest%20is%20an%20estimating%20tool%20to%20aid%20estimators%20in%20the%20preparation%20of%20capital%20cost%20estimates.%20The%20system%20does%20not%20preempt%20the%20important%20contribution%20the%20estimator%20makes%20to%20an%20estimate%2C%20however%2C%20the%20system%20does%20relieve%20the%20estimator%20of%20much%20of%20the%20number%20crunching%20that%20is%20inherent%20in%20the%20generation%20of%20an%20estimate.%20%20The%20system%20is%20designed%20essentially%20as%20a%20computerization%20of%20the%20steps%20normally%20undertaken%20manually%20in%20the%20preparation%20of%20an%20estimate.%20To%20achieve%20maximum%20benefit%20of%20the%20system%2C%20all%20estimate%20details%20should%20be%20input%20and%20%2F%20or%20updated%20by%20the%20individual%20estimator%20responsible%20for%20estimating%20that%20part%20of%20the%20scope%2C%20thus%20allowing%20the%20estimator%20to%20review%20and%20accept%20'standard'%20units%20from%20the%20uniform%20estimating%20guide.%20%20Potential%20Benefits%20%20-%20Automatic%20retrieval%20of%20standard%20information%20-%20Computer%20calculation%20reducing%20possible%20estimating%20errors%20-%20Late%20adjustments%20are%20easily%20incorporated%20-%20Automation%20of%20the%20budget%20consolidation%20and%20loading%20into%20CMS%20-%20Ability%20to%20copy%20previous%20estimates%20when%20multiple%20cases%20are%20being%20estimated%20-%20Multiuser%2C%20relational%20design%20-%20Enhanced%20control%20-%20Identifies%20and%20estimates%20trends%20and%20variations%20during%20project%20implantation%20%20Principle%20Functions%20%20-%20Provide%20development%20of%20standard%20estimating%20information.%20-%20Allow%20for%20interactive%20input%20of%20data%20by%20estimator%20-%20Specify%20project%20schedule%20for%20estimate%20details%20(future)%20-%20Generate%20standard%20reports%20using%20specific%20selections%2Fsorting%20of%20estimate%20details.%20-%20Interactive%20interface%20to%20the%20Construction%20Management%20System%20(CMS)"}	
+,	
+{					
+"index" : "78", 					
+"description" : "Data%20Transfer"}	
+,	
+{					
+"index" : "79", 					
+"description" : "Externally%20hosted%20application%20for%20purchasing%20Telstra%20sms%20online.%20"}	
+,	
+{					
+"index" : "80", 					
+"description" : "Externally%20hosted%20application%20for%20purchasing%20Telstra%20sms%20online.%20"}	
+,	
+{					
+"index" : "81", 					
+"description" : "CLOUD%20SOLUTION%0D%0A%0D%0AConsultation%20Manager%20is%20an%20easy-to-use%2C%20web-based%20system%20to%20help%20front-line%20staff%20to%20better%20manage%20relationships%20and%20communications%20with%20stakeholders%2C%20key%20customers%20and%20communities%20across%20the%20State.%0D%0A%0D%0AIt%20is%20the%20Corporation%E2%80%99s%20database%20for%20external%20stakeholders%20and%20the%20information%20system%20for%20managing%20engagement%20activities%20and%20issues.%20%20%20%0D%0A%0D%0AThere%20are%20more%20than%2016000%20stakeholders%20currently%20on%20the%20system.%20%0D%0A%0D%0Ahttps%3A%2F%2Fwcwa.consultationmanager.com.au%20Used%20to%20support%3A%20%0D%0A%0D%0ACurrently%20there%20are%20856%20logons%20created%20however%20only%20130%20users%20use%20this%20application.%20%0D%0A"}	
+,	
+{					
+"index" : "82", 					
+"description" : "This%20allows%20a%20user%20to%20have%20an%20overview%20of%20a%20single%20or%20multiple%20projects%20by%20providing%20a%20calendar%20view%2C%20action%20reminder%20calendar%2C%20pie%20chart%20of%20the%20top%205%20events%20(this%20can%20be%20changed%20to%20show%20top%205%20issues%2C%20or%20top%20stakeholder%20groups)%20it%20also%20gives%20project%20statistics%20which%20is%20a%20quick%20overview%20and%20summary%20of%20the%20numbers%20of%20stakeholders%2C%20events%20etc"}	
+,	
+{					
+"index" : "83", 					
+"description" : "This%20feature%20enables%20users%20to%20easily%20find%20documents%20linked%20to%20Consultation%20Manager%20that%20are%20stored%20in%20the%20Document%20Library%2C%20which%20includes%20items%20such%20as%20Consultation%20Manager%20Style%20Guide%2C%20Quick%20reference%20guides%20etc."}	
+,	
+{					
+"index" : "84", 					
+"description" : "Consultation%20Manager%20has%20extensive%20search%20capabilities%20for%20events%20or%20stakeholders.%20%20Users%20can%20select%20stakeholders%20or%20events%20by%20a%20combination%20of%20search%20criteria"}	
+,	
+{					
+"index" : "85", 					
+"description" : "This%20feature%20is%20similar%20to%20an%20Internet%20browser%2C%20a%20workspace%20is%20similar%20to%20a%20%E2%80%98tab%E2%80%99%20and%20refers%20to%20an%20open%20stakeholder%2C%20event%20etc.%20in%20tabbed%20browsing%20and%20allows%20users%20to%20work%20on%20multiple%20workspaces%20if%20required."}	
+,	
+{					
+"index" : "86", 					
+"description" : "Instrumentation%20interrogation%20software"}	
+,	
+{					
+"index" : "87", 					
+"description" : "Version%3A%205.3%0D%0A%0D%0APLC%20(Program%20Logic%20Components)%20KOYO%20component%20software%20%20%20DirectSoft%20supports%20all%20products%20made%20by%20Koyo%20Electronics%20including%20the%20SJ%20series%2C%20DL05%2C%20DL06%2C%20DL205%20series%2C%20PZ%20series%2C%20D4%20series%20and%20D3%20series.%20%20Although%20it%20is%20offered%20free%20of%20charge%2C%20this%20software%20is%20incredibly%20abundant%20programming%20and%20debugging%20features.%0D%0A%0D%0ADirectSOFTt%20is%20used%20to%20create%20ladder%20logic%20programs%20for%20PLC's%20belonging%20to%20the%20DirectLOGIC%20CPU%20family.%0D%0A%0D%0A%3Cfont%20color%3D%22%23231f20%22%3EConnect%20the%20programming%20cable%20from%20the%20serial%20port%20of%20the%20PC%20to%20the%20serial%20port%20of%20the%20PLC.%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3E%0D%0A%3C%2Ffont%3E%3Cfont%20color%3D%22%23231f20%22%3E***************************************************%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3E%0D%0A%3C%2Ffont%3E%3Cfont%20color%3D%22%23231f20%22%3EOnce%20the%20program%20has%20been%20edited%20and%20the%20communications%20link%20has%20been%20setup%2C%20it%20is%20time%20to%20go%20online%20with%20the%20PLC%20and%20load%20the%20program.%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3E%0D%0A%3C%2Ffont%3E%3Cfont%20color%3D%22%23231f20%22%3EWith%20the%20Ladder%20View%20displayed%20in%20the%20Programming%20window%2C%20either%20press%20the%20Connect%20button%20on%20the%20PLC%20toolbar%20or%20use%20PLC%20%26gt%3B%20Connect%20from%20the%20Menu%20bar.%20Select%20the%20communications%20link%20from%20the%20Select%20Link%20dialog%2C%20then%20select%20Use%20Disk%20from%20the%20Online%2FOffline%20Differences%20dialog.%20This%20will%20load%20the%20program%20into%20the%20PLC.%20The%20PLC%20will%20be%20in%20the%20Program%20Mode%20after%20DirectSOFT%205%20completes%20the%20download.%20Press%20the%20PLC%20Mode%20button%20on%20the%20Online%20toolbar%20and%20click%20on%20Run%20in%20the%20PLC%20Modes%20dialog%20to%20place%20the%20PLC%20online.%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3E%0D%0A%3C%2Ffont%3E%3Cfont%20color%3D%22%23231f20%22%3E%3Cb%3EInstalled%20for%20%3C%2Fb%3E%3A%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3E%0D%0A%3C%2Ffont%3E%3Cfont%20color%3D%22%23231f20%22%3EDirectLogic%2005%20Series%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3EDirectLogic%2006%20Series%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3EDirectLogic%20105%20Series%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3EDirectLogic%20205%20Series%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3EDirectLogic%20305%20Series%3C%2Ffont%3E%0D%0A%3Cfont%20color%3D%22%23231f20%22%3EDirectLogic%20405%20Series%3C%2Ffont%3E"}	
+,	
+{					
+"index" : "88", 					
+"description" : "Database%20for%20registration%20of%20access%20chambers%0D%0A%0D%0AMS%20Access%20based%20-%20need%20to%20confirm%20if%20this%20is%20still%20being%20used."}	
+,	
+{					
+"index" : "89", 					
+"description" : "Store%20of%20data%20used%20to%20draw%20Retic%20plans."}	
+,	
+{					
+"index" : "90", 					
+"description" : "AutoVue%20Enterprise%20Visualization%20is%20a%20suite%20of%20Oracle%20products%20designed%20to%20deliver%20a%20web-based%20capability%20to%20access%2C%20view%2C%20digitally%20annotate%20and%20collaborate%20on%20technical%20and%20business%20documents%2C%20without%20requiring%20investment%20in%20specialized%20computer-aided%20design%20(CAD)%20tools.%20By%20making%20the%20right%20documents%20available%20to%20the%20right%20resources%20at%20the%20right%20time%2C%20AutoVue%20can%20improve%20decision%20making%20and%20drive%20process%20improvements%20in%20customer's%20engineering%20and%20document%20intensive%20workflows%2C%20such%20as%20design%20reviews%20and%20approvals%2C%20asset%20management%2C%20and%20maintenance%20operations%20to%20name%20a%20few."}	
+,	
+{					
+"index" : "91", 					
+"description" : ""}	
+,	
+{					
+"index" : "92", 					
+"description" : "Estimates%20design%20rainfalls%20for%20WA"}	
+,	
+{					
+"index" : "93", 					
+"description" : "TUFLOW%20FLIKE%20is%20an%20extreme%20value%20analysis%20package%2C%20particularly%20suited%20to%20flood%20frequency%20analysis%2C%20although%20any%20extreme%20value%20analysis%20can%20be%20undertaken%20with%20TUFLOW%20FLIKE.%20%20Developed%20by%20Professor%20George%20Kuczera%20from%20the%20School%20of%20Civil%20Engineering%20at%20the%20University%20of%20Newcastle%20Australia%2C%20TUFLOW%20FLIKE%20is%20compliant%20with%20the%20recent%20major%20revision%20of%20industry%20guidelines%20for%20flood%20estimation%2C%20documented%20in%20the%20draft%20update%20of%20Australian%20Rainfall%20and%20Runoff%20(ARR).%20%20It%20is%20considered%20to%20be%20the%20most%20robust%20and%20defensible%20approach%20to%20frequency%20analysis%20available.%20%20Key%20features%3A%20%20%20%20%20%20A%20range%20of%20probability%20models%20including%20log%20normal%2C%20LPIII%2C%20Gumbel%2C%20GEV%20and%20Generalised%20Pareto%20distributions.%20%20%20%20%20Bayesian%20inference%20methodology%20for%20the%20estimation%20of%20distribution%20parameters%20which%20allows%20the%3A%20%20%20%20%20%20%20%20%20Use%20of%20historic%20data%20outside%20of%20the%20gauged%20record%20%20%20%20%20%20%20%20%20Ability%20to%20censor%20data%20%20%20%20%20%20%20%20%20Incorporation%20of%20the%20multiple%20Grubbs-Beck%20test%20for%20low%20outliers%20%20%20%20%20%20%20%20%20Ability%20to%20incorporate%20of%20regional%20information%20as%20prior%20knowledge%20%20%20%20%20Higher%20order%20L-moments%20for%20parameter%20estimation%20%20%20%20%20Defensible%20and%20compliant%20with%20latest%20industry%20guidelines.%20%20TUFLOW%20FLIKE%20is%20available%20free%20for%20a%20limited%20time%20from%20this%20website%20(the%20tab%20Use%20Flike).%20%20We%20value%20your%20opinion%20and%20feedback%20on%20TUFLOW%20FLIKE.%20Please%20tell%20us%20about%20your%20experiences%20and%20how%20we%20can%20improve!%20Contact%20support%40tuflow.com."}	
+,	
+{					
+"index" : "94", 					
+"description" : "Vendor%3A%20Freeware%20version%2C%20estimates%20flood%20peaks%20for%20design%20floods.%20RORB%20Version%206%20is%20a%20general%20runoff%20and%20streamflow%20routing%20program%20used%20to%20calculate%20flood%20hydrographs%20from%20rainfall%20and%20other%20channel%20inputs."}	
+,	
+{					
+"index" : "95", 					
+"description" : "Estimates%20soil%20losses%20for%20design%20floods"}	
+,	
+{					
+"index" : "96", 					
+"description" : "Software%20as%20a%20service%20offering%20by%20Hay%20Group%20to%20allow%20for%20remuneration%20analysis%20for%20individual%20or%20multiple%20jobs"}	
+,	
+{					
+"index" : "97", 					
+"description" : ""}	
+,	
+{					
+"index" : "98", 					
+"description" : "CorDocs%20provides%20a%20controlled%20repository%20of%20Corporate%20documentation%20such%20as%20Policy%2C%20Procedures%2C%20Standards%2C%20guidelines%20and%20templates.%20%20The%20documents%20are%20organised%20in%20line%20with%20the%20Corporation's%20accountability%20structure%20and%20responsibilities%20for%20document%20maintenance.%20Process%20Mangers%20have%20ownership%20responsibilities%20for%20documents%20relating%20to%20their%20process%20and%20delegate%20day%20to%20day%20responsibility%20for%20maintaining%20documentation%20to%20a%20document%20custodian.%20%20The%20document%20custodian's%20role%20is%20to%20ensure%20the%20efficacy%20of%20documentation%20under%20their%20control%20is%20maintained%20in%20a%20timely%2C%20controlled%20manner%20through%20a%20process%20of%20review%20and%20communication.%20The%20documents%20concerned%20are%20stored%20in%20the%20Corporations%20CDMS%20(AQUA).%20%20CorDocs%20supports%20access%20to%20documents%20using%20several%20methods%20via%3A%20a%20rudimentary%20tree%20structure%20of%20the%20accountability%20structure%2C%20a%20subscription%20and%20update%20notification%20services%20and%20access%20from%20other%20applications%3B%20Waternet%20and%20Cascade."}	
+,	
+{					
+"index" : "99", 					
+"description" : "Notify%20the%20Compliance%20Team%20to%3A%0D%0A%0D%0A-%20Have%20a%20CorDocs%20document%20published%20or%20withdrawn%20%0D%0A-%20Have%20changes%20made%20to%20the%20profile%20of%20an%20existing%20document%20%0D%0A%20%20%20by%20emailing%20CorDocs%40watercorporation.com.au%20"}	
+,	
+{					
+"index" : "100", 					
+"description" : "Reports%20based%20on%20%3A%0D%0A%0D%0A1)%20Documents%20with%20a%20review%20date%20in%20the%20past%0D%0A2)%20Documents%20with%20a%20review%20date%20within%20a%20selected%20range%0D%0A3)%20Documents%20with%20a%20review%20date%20within%20the%20following%20week"}	
+,	
+{					
+"index" : "101", 					
+"description" : "Displays%20Water%20Corporations%20Policy%20%26amp%3B%20Standards%20documents%20in%20the%20Portal."}	
+,	
+{					
+"index" : "102", 					
+"description" : "shows%20%3A%0D%0A%0D%0A-%20Owned%20Subscriptions%0D%0A-%20Received%20Subscriptions"}	
+,	
+{					
+"index" : "103", 					
+"description" : "A%20SAP%20component%20that%20allows%20employees%20direct%20access%20to%20view%20and%20update%20details%20includeding%20leave%2C%20overtime%2C%20qualifications%20and%20training%2C%20address%2C%20bank%20and%20emergency%20contact%20etails.%20%20In%20addition%2C%20employees%20can%20view%20personal%20details%2C%20tax%20super%20and%20other%20employee%20records%20about%20themselves.%20%20The%20capability%20is%20delivered%20via%20the%20SAP%20portal.%20%20The%20current%20version%20is%20heavily%20customised%20and%20out%20of%20support."}	
+,	
+{					
+"index" : "104", 					
+"description" : "Traccess%20is%20a%20Learning%20Management%20System%20which%20contains%20and%20tracks%20compliance%20training%20records.%20%20It%20also%20delivers%20on-line%20learning%2C%20learning%20resources%20and%20assessment%2C%20with%20automated%20records%20updating%20on%20successful%20completion.%0D%0A%0D%0A%3Cfont%20color%3D%22%231f497d%22%3EQlikView%20can%20query%20the%20TRACESS%20database%20directly%20via%20a%20OLEDB%20connection%20%E2%80%93%20no%20additional%20plugins%2Fdrivers%20are%20required.%3C%2Ffont%3E%0D%0A"}	
+,	
+{					
+"index" : "105", 					
+"description" : "Dam%20failure%20model"}	
+,	
+{					
+"index" : "106", 					
+"description" : "Dam%20failure%20model"}	
+,	
+{					
+"index" : "107", 					
+"description" : "A%20SAP%20module%20that%20alows%20managers%20direct%20access%20to%20specific%20hr%20information%20such%20as%20leave%2C%20qualifications%20and%20performance%20reviews."}	
+,	
+{					
+"index" : "108", 					
+"description" : "Related%20to%20AcrMap%2C%20ArcCatalog%2C%20ArcScene"}	
+,	
+{					
+"index" : "109", 					
+"description" : "Intelligent%20Documents"}	
+,	
+{					
+"index" : "110", 					
+"description" : "A%20spreadsheet%20containing%20fleet%20information%20(eg.%20Cylinders%2C%20replacement%20date%2C%20fuel%20type%2C%20type%20of%20fleet%2C%20home%20garaging%20form)"}	
+,	
+{					
+"index" : "111", 					
+"description" : "Analogous%20to%20Environment%20Task%20Tracker%20%20"}	
+,	
+{					
+"index" : "112", 					
+"description" : "ACA%20was%20developed%20as%20an%20integral%20part%20of%20the%20Corporation's%20overall%20strategy%20for%20managing%20its%20engineering%20assets.%20It%20provides%20the%20means%20by%20which%20the%20condition%20of%20the%20assets%20will%20be%20assessed%20routinely%20and%20in%20a%20uniform%20way%20throughout%20the%20Corporation.%20This%20assessment%20is%20used%20as%20a%20basis%20for%20decisions%20on%20maintenance%20planning%20and%20asset%20replacement%20(or%20refurbishment)%20and%20also%20provides%20the%20necessary%20consistency%20for%20Management%20Reporting%20for%20asset%20condition."}	
+,	
+{					
+"index" : "113", 					
+"description" : ""}	
+,	
+{					
+"index" : "114", 					
+"description" : ""}	
+,	
+{					
+"index" : "115", 					
+"description" : ""}	
+,	
+{					
+"index" : "116", 					
+"description" : "The%20system%20provides%20asset%20management%20users%20a%20single%2Fcorporate%20site%20on%20to%20which%20they%20can%20publish%2C%20and%20from%20which%20they%20can%20access%20asset%20management%20information."}	
+,	
+{					
+"index" : "117", 					
+"description" : "A%20risk%20model%20to%20be%20used%20to%20support%20the%20assessment%20of%20risk%20exposure%20for%20scheme%20assets%20with%20high%20criticality.%20The%20risk%20model%20will%20be%20used%20to%20determine%20the%20Coporation's%20dollar%20risk%20exposure%20across%20the%20scheme%20assets%20by%20analysis%20of%20failure%20modes%20of%20these%20assets.%20The%20model%20will%20be%20used%20to%20quantify%20the%20impact%20on%20the%20risk%20of%20deferring%20capital%20projects%20or%20maintenance%20expenditure%20resulting%20in%20the%20inability%20of%20assets%20to%20perform%20at%20the%20required%20level%20of%20service.%20The%20model%20will%20also%20define%20the%20residual%20risk%20exposure%20when%20works%20are%20carried%20out."}	
+,	
+{					
+"index" : "118", 					
+"description" : "Application%20provides%20for%20management%20of%20spreadsheets%20containing%20Financial%20Impact%20Statements.%20Individual%20spreadsheets%20are%20created%20by%20any%20business%20unit%20for%20each%20significant%20development%20project%2Finitiative%20that%20it%20proposes%20to%20undertake."}	
+,	
+{					
+"index" : "119", 					
+"description" : ""}	
+,	
+{					
+"index" : "120", 					
+"description" : "Enables%20the%20computerised%20storage%20and%20access%20of%20industrial%20waste%20related%20data.%20This%20ensures%20the%20management%20of%20Customer%20Data%20-%20Issuing%20of%20permits%2C%20management%20of%20inspections%2C%20sampling%20and%20laboratory%20analysis%20results%3B%20The%20management%20of%20fixtures%2Ffittings%20and%20monitoring%20devices%3B%20AND%20the%20production%20of%20bills%20relating%20to%20the%20content%20quality%20and%20disposal%20of%20industrial%20waste%20through%20the%20Corporations%20sewerage%20systems.%20The%20industrial%20waste%20bills%20are%20produced%20via%20an%20interface%20with%20Grange."}	
+,	
+{					
+"index" : "121", 					
+"description" : "The%20SKY%20Mobile%20Computing%20Application%20(MCA)%20supports%20the%20management%20of%20Work%20Orders%20performed%20by%20field%20crews.%20%20%20Also%20has%20a%20cut%20down%20version%20of%20view-a-map."}	
+,	
+{					
+"index" : "122", 					
+"description" : "Remote%20access%20support%20tool%2C%20used%20for%20Mobile%20devices%20and%20some%20SCADA%20use%20cases"}	
+,	
+{					
+"index" : "123", 					
+"description" : "LiteSpatial%20is%20an%20application%20that%20provides%20a%20simple%20and%20seamless%20view%20of%20the%20Water%20Corporation%20assets%20and%20their%20spatial%20location."}	
+,	
+{					
+"index" : "124", 					
+"description" : "Application%20which%20is%20utilised%20to%20manage%20mobile%20devices%20through%20the%20full%20device%20lifecycle.%20%20It%20can%20perform%20for%20example%20%20updates%20to%20devices%20over%20the%20air%2C%20support%20remote%20control%20of%20devices%20for%20support%2C%20and%20deliver%20and%20run%20custom%20scripts%20on%20devices."}	
+,	
+{					
+"index" : "125", 					
+"description" : "Downloads%20schedules%20from%20ODSS%20and%20WQMS%20to%20allow%20the%20manual%20collection%20of%20in-situ%20readings.%20These%20in-situ%20readings%20can%20then%20be%20uploaded%20into%20ODSS%20and%2For%20WQMS."}	
+,	
+{					
+"index" : "126", 					
+"description" : "Front%20end%20to%20SAP-IM%2C%20used%20for%20creating%20job%20requests%20in%20SAP-IM.%20%20"}	
+,	
+{					
+"index" : "127", 					
+"description" : "To%20provide%20a%20Corporate%20repository%2Fwarehouse%20of%20information%20that%20supports%20operational%20functions%20of%20Water%20Supply%20and%20Distribution%2C%20and%20Water%20Quality."}	
+,	
+{					
+"index" : "128", 					
+"description" : "Allows%20laboratories%20to%20record%20samples%20and%20sample%20results%20for%20transfer%20to%20the%20Water%20Corporation%20for%20processing%20by%20GLI.%20These%20laboratories%20can%20be%20external%20or%20internal%20to%20the%20Water%20Corporation."}	
+,	
+{					
+"index" : "129", 					
+"description" : "This%20is%20a%20reporting%20tool%20developed%20in%20.NET%20used%20to%20extract%20the%20rainfall%2C%20water%20supply%20data%20and%20other%20relevant%20data%20from%20ODSS."}	
+,	
+{					
+"index" : "130", 					
+"description" : "ODSS%20General%20Data%20Interface%0D%0AISL-244%0D%0AA%20Client%20GUI%20component%20used%20to%20upload%20data%20into%20ODSS."}	
+,	
+{					
+"index" : "131", 					
+"description" : "ISL-247%0D%0AOperations%20Manual%20aquadoc%20%233022675"}	
+,	
+{					
+"index" : "132", 					
+"description" : "Manages%20the%20recording%2C%20monitoring%20and%20actions%20related%20to%20the%20analytical%20results%20of%20samples%20taken%20a%20various%20points%20throughout%20the%20state.%20The%20sample%20points%20are%20defined%20in%20licenses%20attached%20to%20each%20Wastewater%20Treatment%20Plant."}	
+,	
+{					
+"index" : "133", 					
+"description" : ""}	
+,	
+{					
+"index" : "134", 					
+"description" : ""}	
+,	
+{					
+"index" : "135", 					
+"description" : ""}	
+,	
+{					
+"index" : "136", 					
+"description" : "Manages%20the%20recording%2C%20monitoring%20and%20actions%20related%20to%20the%20quality%20of%20the%20States%20drinking%20water."}	
+,	
+{					
+"index" : "137", 					
+"description" : ""}	
+,	
+{					
+"index" : "138", 					
+"description" : ""}	
+,	
+{					
+"index" : "139", 					
+"description" : ""}	
+,	
+{					
+"index" : "140", 					
+"description" : ""}	
+,	
+{					
+"index" : "141", 					
+"description" : ""}	
+,	
+{					
+"index" : "142", 					
+"description" : "OrgPublisher%20is%20an%20organisational%20charting%20software%20application%20provided%20by%20TimeVision.%20TimeVision%20is%20an%20Alliance%20Partner%20of%20SAP.%20OrgPublisher%20has%20a%20standard%20interface%20to%20SAP%20(SAP%20HR%20Connector).%20It%20can%20automatically%20build%20organisational%20charts%20from%20the%20information%20stored%20in%20the%20SAP%20database.%20However%2C%20not%20all%20the%20data%20required%20to%20be%20extracted%20by%20the%20Water%20Corporation%20is%20included%20in%20the%20standard%20extract.%20Hence%2C%20a%20custom-developed%20program%20to%20extract%20the%20specific%20data%20from%20SAP%20is%20part%20of%20the%20suite.%20A%20template%20defining%20different%20styles%20and%20views%20become%20part%20of%20the%20OrgPublishe%20set-upr.%20The%20template%20will%20then%20read%20the%20extract%20file%20produced%20from%20SAP%20to%20create%20the%20organisational%20charts.%20The%20resulting%20charts%20can%20be%20published%20on%20the%20Water%20Corporation's%20intranet%20(WaterNet).%20The%20data%20can%20be%20periodically%20refreshed%20to%20ensure%20the%20organisational%20charts%20reflect%20the%20changes%20that%20have%20been%20made%20in%20SAP.%20The%20entire%20process%20can%20be%20automated.%20OrgPublisher%20provides%20its%20own%20publishing%20object%2C%20PluginX%2C%20an%20activeX%20component%20which%20provides%20the%20end-user%20with%20search%2C%20print%20and%20navigation%20tools%20within%20the%20published%20chart.%20The%20Business%20Requirements%20consist%20of%20two%20major%20areas%2C%20-%20charting%20the%20organisational%20structure%20and%20displaying%20details%20relating%20to%20a%20highlighted%20position.%20This%20option%20relies%20on%20OrgPublisher%20to%20provide%20the%20solution%20for%20both%20requirements.%20"}	
+,	
+{					
+"index" : "143", 					
+"description" : "The%20Data%20Historian%20is%20the%20Corporation%20repository%20for%20capturing%20and%20storing%20Historical%20Time%20Series%20Data%20(HTSD).%20Presently%20it%20is%20implemented%20at%20three%20sites%2C%20Metro%20Water%2C%20Waste%20Water%202%2C%20Wanneroo%20Ground%20Water%20Treatment%20plant.%0D%0A%0D%0AAquadoc%20Operations%20Manual%3A%20%231297639%0D%0A"}	
+,	
+{					
+"index" : "144", 					
+"description" : "They%20are%20logical%20Water%20Corporation%20Components%20built%20using%20a%20standard%20set%20of%20PI%20Interface%20software.%0D%0A"}	
+,	
+{					
+"index" : "145", 					
+"description" : "They%20are%20logical%20Water%20Corporation%20Components%20built%20using%20a%20standard%20set%20of%20PI%20Interface%20software."}	
+,	
+{					
+"index" : "146", 					
+"description" : ""}	
+,	
+{					
+"index" : "147", 					
+"description" : ""}	
+,	
+{					
+"index" : "148", 					
+"description" : ""}	
+,	
+{					
+"index" : "149", 					
+"description" : ""}	
+,	
+{					
+"index" : "150", 					
+"description" : ""}	
+,	
+{					
+"index" : "151", 					
+"description" : ""}	
+,	
+{					
+"index" : "152", 					
+"description" : ""}	
+,	
+{					
+"index" : "153", 					
+"description" : ""}	
+,	
+{					
+"index" : "154", 					
+"description" : ""}	
+,	
+{					
+"index" : "155", 					
+"description" : "PI%20AANT%20is%20built%20in%20the%20PI%20environment%20to%20automatically%20validate%20and%20aggregate%20raw%20data.%20The%20tool%20raises%20notifications%20for%20manual%20review%20of%20questionable%20data.%0D%0A%0D%0APlease%20refer%20to%20the%20OSI%20PI%20-%20Application%20Structure%20and%20Implementation%20%26amp%3B%20Deployment%20models%0D%0A%0D%0AThis%20is%20renamed%20to%20%22Results%22."}	
+,	
+{					
+"index" : "156", 					
+"description" : ""}	
+,	
+{					
+"index" : "157", 					
+"description" : ""}	
+,	
+{					
+"index" : "158", 					
+"description" : ""}	
+,	
+{					
+"index" : "159", 					
+"description" : ""}	
+,	
+{					
+"index" : "160", 					
+"description" : ""}	
+,	
+{					
+"index" : "161", 					
+"description" : ""}	
+,	
+{					
+"index" : "162", 					
+"description" : ""}	
+,	
+{					
+"index" : "163", 					
+"description" : ""}	
+,	
+{					
+"index" : "164", 					
+"description" : "DRS%20is%20a%20Processbook%20Add-in%20which%20facilitates%20the%20access%20to%20the%20related%20ODSS%20data%20and%20improve%20the%20support%20of%20the%20data%20associated%20with%20electronic%20information%20at%20Water%20Corporation%20in%20WA.%0D%0A%0D%0AThis%20is%20a%20replacement%20for%20the%20earlier%20version%20of%20the%20DRS%20tool%20which%20was%20part%20of%20SAS.%0D%0A%0D%0AThe%20new%20addin(DRS)%20is%20scheduled%20to%20go%20live%20in%20july%202016.%0D%0A"}	
+,	
+{					
+"index" : "165", 					
+"description" : "The%20system%20stores%20information%20on%20the%20cost%20and%20amount%20of%20power%20consumed%20by%20the%20different%20regions%20of%20the%20Corporation.%20Power%20consumption%20data%20is%20obtained%20on%20a%20monthly%20basis%20from%20Western%20Power.%20This%20provides%20the%20users%20with%20the%20capability%20to%20develop%20monthly%20budgets%20of%20power%20consumption%20by%20asset%20and%20region.%20Power%20allocation%20consists%20of%20three%20subsystems%3B%20-%20Power%20Allocation%20-%20Power%20Allocation%20Import%20-%20Power%20Allocation%20Payments.%20Power%20Allocation%20provides%20the%20ability%20to%20search%2C%20collate%20power%20consumption%20information%2C%20view%20account%20history%20and%20the%20ability%20to%20export%20data%20to%20MS-Excel%20or%20MS%20Access.%20Power%20Allocation%20Import%20provides%20functionality%20to%20import%20Western%20Power%20data.%20Power%20Allocation%20Payments%20provides%20the%20ability%20to%20manually%20maintain%20power%20account%20information%20in%20addition%20to%20the%20manual%20entry%20of%20accounts%20that%20do%20not%20normally%20come%20through%20the%20data%20file%20from%20Western%20Power.%0D%0A%0D%0ACustom%20application%20created%20in%20ECC.%0D%0A%0D%0AAccessed%20through%20SAP%20backend%20or%20through%20Cascade"}	
+,	
+{					
+"index" : "166", 					
+"description" : "imports%20the%20data%20from%20the%20western%20power%0D%0A-%20consumption%20data%0D%0A-billing%20data"}	
+,	
+{					
+"index" : "167", 					
+"description" : "displays%20the%20payments%0D%0A"}	
+,	
+{					
+"index" : "168", 					
+"description" : "Application%20which%20is%20utilised%20to%20manage%20mobile%20devices%20through%20the%20full%20device%20lifecycle.%20%20It%20can%20perform%20for%20example%20%20updates%20to%20devices%20over%20the%20air%2C%20support%20remote%20control%20of%20devices%20for%20support%2C%20and%20deliver%20and%20run%20custom%20scripts%20on%20devices."}	
+,	
+{					
+"index" : "169", 					
+"description" : "Collaboration%20Projects%20(cProjects)%20is%20a%20cross-industry%20tool%20you%20use%20to%20plan%20and%20monitor%20development%20and%20consultant%20projects.%20%20%20For%20Development%20projects%2C%20cProjects%20can%20help%20to%3A%20%20%20%C2%B7%20%20Increase%20customer%20satisfaction%20%20%C2%B7%20%20Deliver%20quality%20products%20on%20time%20with%20the%20lowest%20possible%20costs%20%20%C2%B7%20%20Reduce%20nonconformity%20costs%20by%20recognizing%20necessary%20changes%20early%20on%20%20%C2%B7%20%20Improve%20communication%20and%20decision%20making%20processes%20%20%C2%B7%20%20Increase%20the%20transparency%20of%20projects%20%20%20For%20consulting%20projecs%2C%20cProjects%20can%20help%20to%3A%20%20%20%C2%B7%20%20Plan%2C%20structure%2C%20and%20monitor%20projects%20efficiently%20%20%C2%B7%20%20Optimally%20staff%20resources%20for%20the%20individual%20project%20phases%20%20%C2%B7%20%20Achieve%20greater%20customer%20satisfaction%20%20%C2%B7%20%20Increase%20transparency%20between%20internal%20and%20external%20project%20members%20%20%C2%B7%20%20Optimize%20communication%20channels%20by%20supporting%20cooperation%20between%20project%20team%20members%20and%20partners%20using%20the%20Web%20%20%20This%20is%20component%20used%20with%20SAP%20SRM%20at%20the%20Water%20corporation%20to%20share%20project%20deliverables%20with%20service%20providers%20and%20partners."}	
+,	
+{					
+"index" : "170", 					
+"description" : "STORM%20is%20a%20SAP%20Composite%20Application%20running%20on%20the%20NetWeaver%20Java%20Application%20Server.%20%20It%20provides%20an%20aggregated%20view%20of%20data%20from%20SCX6%2C%20AMOSS%2C%20SAP%20and%20Aqua.%20%20Its%20purpose%20is%20to%20assist%20alarm%20management%20in%20the%20event%20of%20Storms%20through%20providing%20a%20prioritised%20view%20of%20alarms%20based%20on%20Time%20to%20Overflow%20and%20Asset%20Criticality."}	
+,	
+{					
+"index" : "171", 					
+"description" : "The%20Reporting%20component%20provides%20the%20following%3A%0D%0A%0D%0A-%20Audit%20Data%20Report%0D%0A-%20Active%20Alarms%20Report%20"}	
+,	
+{					
+"index" : "172", 					
+"description" : "Manages%20the%20recording%2C%20monitoring%20and%20actions%20related%20to%20the%20analytical%20results%20of%20samples%20taken%20a%20various%20points%20throughout%20the%20state.%20The%20sample%20points%20are%20defined%20in%20licenses%20attached%20to%20each%20Wastewater%20Treatment%20Plant."}	
+,	
+{					
+"index" : "173", 					
+"description" : ""}	
+,	
+{					
+"index" : "174", 					
+"description" : ""}	
+,	
+{					
+"index" : "175", 					
+"description" : ""}	
+,	
+{					
+"index" : "176", 					
+"description" : "Manages%20the%20recording%2C%20monitoring%20and%20actions%20related%20to%20the%20quality%20of%20the%20States%20drinking%20water."}	
+,	
+{					
+"index" : "177", 					
+"description" : ""}	
+,	
+{					
+"index" : "178", 					
+"description" : ""}	
+,	
+{					
+"index" : "179", 					
+"description" : ""}	
+,	
+{					
+"index" : "180", 					
+"description" : ""}	
+,	
+{					
+"index" : "181", 					
+"description" : "To%20provide%20a%20Reporting%20Framework%20for%20key%20Drinking%20Water%20Quality%20performance%20and%20operational%20measures%20to%20facilitate%20improved%20management%20of%20Water%20Quality%2C%20enabling%20focus%20on%20critical%20results%20and%20earlier%20response%20to%20changes%20in%20quality%20data%20and%20trends.%20%20This%20will%20provide%20the%20ability%20to%20assess%20overall%20compliance%2Fauditability%20perfomance%2C%20identify%20operational%20issues%20and%20react%20proactively%20to%20prevent%20incidents.%20%20To%20provide%20management%20with%20a%20consolidated%20view%20of%20drinking%20water%20quality%20information%2C%20that%20highlights%20compliance%20to%20S010%20standards%20and%20display%20results%20and%20trends%20in%20water%20quality%20information%20requried%20for%20regulatory%20rcompliance.%20%20To%20provide%20a%20standard%2C%20single%20point%20of%20access%20to%20consolidated%20reporting%20addressing%20water%20quality%20from%20'catchment%20to%20tap'%20including%20compliance%2C%20operational%20and%20management%20information%3B%20that%20is%20repeatable%2C%20cost-effective%20for%20regular%20production."}	
+,	
+{					
+"index" : "182", 					
+"description" : "Measures%20dam%20wall%20movement%20over%20time."}	
+,	
+{					
+"index" : "183", 					
+"description" : ""}	
+,	
+{					
+"index" : "184", 					
+"description" : "Ecomaps%20is%20an%20application%20housed%20within%20NetMaps%20which%20offers%20users%20the%20ability%20to%20view%20and%20carry%20out%20an%20environmental%20assessment%20within%20an%20areas%20of%20interest.%20%20%20The%20Ecomaps%20functionalities%20provide%20an%20automated%20and%20consistent%20process%20for%20checking%20whether%20proposed%20works%20are%20in%20an%20environmentally%20significant%20area%20and%20assist%20in%20the%20preparation%20of%20the%20Referral%20Form%20required%20under%20Section%2038%20of%20the%20Environmental%20Protection%20Act.%20%20%20Ecomaps%20Section%2038%20and%20Summary%20Reports%20are%20derived%20from%20user%20created%20or%20systems%20generated%20Footprints%20and%20report%20on%20environmental%20constraints%20against%20the%20footprint."}	
+,	
+{					
+"index" : "185", 					
+"description" : "ERDAS%20APOLLO%20provides%20comprehensive%20data%20management%20and%20delivery.%20This%20includes%20organizing%20geospatial%20and%20business%20data%20into%20a%20centralized%20library%2C%20and%20distributing%20that%20data%20from%20the%20cloud%20or%20on-premise.%20Complete%20with%20a%20variety%20of%20delivery%20options%2C%20ERDAS%20APOLLO%20consistently%20delivers%20geospatial%20data%20faster%20and%20with%20less%20hardware%20than%20competing%20server-based%20products.%20Implementing%20an%20out-of-the-box%2C%20service-oriented%20architecture%20(SOA)%2C%20ERDAS%20APOLLO%20can%20be%20customized%20and%20extended%20to%20satisfy%20both%20your%20geospatial%20and%20business%20process%20requirements.%20%20%20ERDAS%20APOLLO%20is%20offered%20within%20the%20PROVIDER%20SUITE%20of%20the%20Power%20Portfolio.%20The%20Provider%20Suite%20allows%20you%20to%20easily%20store%2C%20discover%2C%20manage%20and%20deliver%20your%20data%20across%20desktop%2C%20web%20and%20mobile%20applications.%20It%20also%20alleviates%20pressures%20associated%20with%20expanding%20imagery%20data%20holdings%20through%20the%20optimization%20of%20disk%20space%20requirements.%20%20%20Image%20Web%20Server%20-%20ERDAS%2C%20Perth.%20%20Display%20and%20%20access%20to%20imagery"}	
+,	
+{					
+"index" : "186", 					
+"description" : "Image%20Web%20Server%20-%20ERDAS%2C%20Perth.%20Manage%20and%20process%20aerial%20imagery"}	
+,	
+{					
+"index" : "187", 					
+"description" : "The%20Electronic%20Submissions%20Interface%20(ESInet)%20enables%20the%20extraction%20of%20digital%20Water%20Corporation%20asset%20information%20in%20an%20'Autocad'%20design%20format."}	
+,	
+{					
+"index" : "188", 					
+"description" : "The%20Water%20Corporation%20Facilities%20Mapping%20System.%20This%20system%20is%20responsible%20for%20managing%20information%20relating%20to%20water%20and%20sewer%20assets%20of%20the%20Water%20Corporation.%20It%20is%20a%20spatial%20based%20system%20based%20upon%20the%20Smallworld%20GIS%20suite%20of%20products."}	
+,	
+{					
+"index" : "189", 					
+"description" : "MS%20Access%20applications%20to%20Records%20jobs%20performed%20in%20the%20Spatial%20Information%20Management%20Section%20of%20the%20Water%20Corporation.%20%20It%20is%20used%20by%20the%20Asset%20Registration%20team%20in%20the%20Asset%20Planning%20group%20to%20manage%20the%20work%20requests."}	
+,	
+{					
+"index" : "190", 					
+"description" : "LiteSpatial%20is%20an%20application%20that%20provides%20a%20simple%20and%20seamless%20view%20of%20the%20Water%20Corporation%20assets%20and%20their%20spatial%20location."}	
+,	
+{					
+"index" : "191", 					
+"description" : "NetMaps%20is%20a%20high%20level%20web%20based%20Geospatial%20application%20designed%20to%20provide%20intelligent%20access%20to%20the%20Water%20Corporations%20wide%20store%20of%20Asset%2C%20Land%20and%20Customer%20information."}	
+,	
+{					
+"index" : "192", 					
+"description" : "The%20Service%20Management%20Dashboard%20plots%20customer%20contacts%2C%20work%20orders%2C%20and%20other%20information%20on%20a%20map%20to%20assist%20with%20the%20identification%20and%20resolution%20of%20asset%20faults."}	
+,	
+{					
+"index" : "193", 					
+"description" : "This%20was%20the%20planned%20extension%20to%20ESINet.%20%20The%20project%20that%20delivered%20ESINet%20failed%20to%20deliver%20this%20part%20of%20the%20application%20due%20to%20difficulties%20with%20making%20translators%20work%20that%20were%20intended%20to%20automate%20the%20uploading%20of%20designs%20into%20FMS.%20%20%20More%20details%20to%20come%20from%20Jeff%20Jorgensen"}	
+,	
+{					
+"index" : "194", 					
+"description" : "Create%20Access%20Cards.%20Access%20to%20JTWC%20building%20"}	
+,	
+{					
+"index" : "195", 					
+"description" : "Energy%20and%20Aircondition%20Management%20at%20JTWC%20building"}	
+,	
+{					
+"index" : "196", 					
+"description" : "Observation%20JTWC%20Facilities"}	
+,	
+{					
+"index" : "197", 					
+"description" : "Create%20Access%20Cards.%20Access%20to%20JTWC%20building%20"}	
+,	
+{					
+"index" : "198", 					
+"description" : "Financial%20analysis"}	
+,	
+{					
+"index" : "199", 					
+"description" : "Package%20for%20project%20management%20used%20extensively%20in%20Project%20Management%20Branch.%20Tenancy%20feature%2C%20designed%20for%20huge%20volume%20(e.g.%20tasks)"}	
+,	
+{					
+"index" : "200", 					
+"description" : ""}	
+,	
+{					
+"index" : "201", 					
+"description" : ""}	
+,	
+{					
+"index" : "202", 					
+"description" : ""}	
+,	
+{					
+"index" : "203", 					
+"description" : "The%20Project%20Management%20Information%20System%20(PMIS)%20application%20has%20two%20main%20functional%20areas.%201.%20KPI%20Reports%3B%20and%202.%20Ad-hoc%20reporting%20on%20project%20status%20"}	
+,	
+{					
+"index" : "204", 					
+"description" : "Reports%20such%20as%3A%0D%0A%0D%0A-Management%20Operating%20Report%0D%0A-Branch%20Manager%20Pack%20Report%0D%0A-PMB%20Resource%20Forecasts%0D%0A-Significant%20Injury%20Frequency%20Rate%20(SIFR)%20Report%0D%0A-White%20Collar%20Cost%20Analysis%0D%0A-Cashflow%20Performance%20Charts%20Last%20Year%0D%0A-Cost%20Performance%20Reports%0D%0A-Project%20Status%20Reports"}	
+,	
+{					
+"index" : "205", 					
+"description" : "Reporting%20such%20as%20%0D%0A%0D%0A-%20End%20of%20year%20Performance%0D%0A-%20Weekly%20Status%20Report%20(Summary)%0D%0A-%20Acquisition%20Group%20Dashboard%20Data%0D%0A-Significant%20Milestone%20Performance%20Charts%0D%0A-Performance%20Indicator%20Reports%0D%0A-Quarterly%20Executive%20Report%0D%0A-Top%2050%20Projects%20Summary%0D%0A-Projects%20in%20Scope%20Time%20Perf.%20EWR%0D%0A-Close-out%20Reports"}	
+,	
+{					
+"index" : "206", 					
+"description" : "Program%20Manager%20Overview%20for%205-Year%20Capital%20Program%20Planned%20Cost%20Report%20(%24M)%20%0D%0A"}	
+,	
+{					
+"index" : "207", 					
+"description" : ""}	
+,	
+{					
+"index" : "208", 					
+"description" : "Reporting%20such%20as%3A%0D%0A%0D%0A-Cost%20Control%20Report%0D%0A-Project%20Manager%20KPIs%0D%0A-Project%20Period%20Cashflows%0D%0A-Project%20Period%20Cumulative%20Cashflows%0D%0A-Early%20Warning%20Reports%0D%0A-Milestones%20Lookahead%20Report%20%0D%0A-Projects%20Activated%20in%20the%20last%2030%20days%0D%0A-Business%20Case%20Report%0D%0A%0D%0A%0D%0A"}	
+,	
+{					
+"index" : "209", 					
+"description" : "Reports%20such%20as%3A%0D%0A%0D%0A-CA%20%26amp%3B%20CS%20Management%20Operating%20Report%0D%0A-Project%20Schedule%20Search%0D%0A-Construction%20Activities%0D%0A-Construction%20Activities%20with%20Task%20Cashflows"}	
+,	
+{					
+"index" : "210", 					
+"description" : "-Project%20Manager%20Statistics%0D%0A-%20Current%20Year%20Cumulative%20Cashflows%20for%20all%20regions%0D%0A"}	
+,	
+{					
+"index" : "211", 					
+"description" : ""}	
+,	
+{					
+"index" : "212", 					
+"description" : "Access%20database%20tracks%20sewerage%20site%20inspections."}	
+,	
+{					
+"index" : "213", 					
+"description" : "This%20software%20is%20installed%20on%20a%20WC%20PC%20(Op%20Center%20Staff)%20to%20monitor%20the%20CCTV's%20installed%20in%20Groundwater%20treatment%20plan%20and%20other%20GWAP%20plants%20(6%20sites%20-%20Mirabooka%20etc).%0D%0A%0D%0AHowever%2C%20this%20software%20is%20abandoned%2Fswitched%20off%20at%20more%20than%203%2F4th%20sites%20-%20not%20being%20maintained."}	
+,	
+{					
+"index" : "214", 					
+"description" : "It%20is%20an%20Access%20Database%2C%20containing%20attribute%20information%20for%20Perth%20Region's%20Water%20Sewerage%20and%20Drainage%20system.%20The%20information%20held%20includes%20equipment%20configuration%2C%20specification%2C%20rating%20and%20some%20times-series%20information%20such%20as%20inflows%20and%20running%20times.%20AMOSS%20is%20used%20to%20for%20maintenance%20planning%2C%20incident%20management%20planning%2C%20and%20generates%20help%20screens%20for%20SCADA%20WW2%20and%20Ademco.%20%20%20%20%5BInformation%20from%20IT%20Store%5D%20AMOSS%20utilises%20a%20MS-Access%20database%20to%20record%20operational%20asset%20data%20such%20as%20pump%20running%20hours%2C%20pump%20settings%2C%20inflows%20and%20contingency%20planning%20information.%20Planning%20and%20Operations%20staff%20utilise%20an%20array%20of%20AMOSS%20data%20such%20as%20the%20Time%20To%20Overflow%20(TTO)%2C%20Pump%20Rates%20and%20Gen%20Set%20sizes%20to%20assist%20in%20the%20planning%2C%20design%20and%20the%20operation%20of%20wastewater%20and%20water%20pump%20stations%20and%20associated%20assets."}	
+,	
+{					
+"index" : "215", 					
+"description" : "HYDSYS%20(now%20known%20as%20Hydstra)%20is%20a%203rd%20party%20software%20package%20designed%20for%20the%20management%2C%20manipulation%20and%20storage%20of%20hydrological%20data.%20It%20has%20data%20compression%20techniques%20and%20a%20rudimentary%20GUI.%20HYDSYS%20is%20implemented%20at%20the%20Geraldton%20office%20on%20a%20personal%20computer%20networked%20to%20the%20Citech%20SCADA%20system%20and%20is%20also%20used%20within%20the%20Corporation%20for%20Time%20Series%20Data%20Storage."}	
+,	
+{					
+"index" : "216", 					
+"description" : "Configuration%20tool%20used%20for%20older%20%20touchpanel%20models"}	
+,	
+{					
+"index" : "217", 					
+"description" : "Configure%20tough%20panels%20that%20are%20connected%20with%20the%20PLC%20(Program%20Logic%20Component)%20hardware"}	
+,	
+{					
+"index" : "218", 					
+"description" : "This%20is%20the%20application%20used%20by%20the%20BMT%20Oceanica%20to%20manage%20the%20environmental%20monitoring%20associated%20with%20the%20PLOOM%20program."}	
+	
+]	
+	
+ }	

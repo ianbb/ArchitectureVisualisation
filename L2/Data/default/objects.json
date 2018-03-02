@@ -1,0 +1,3252 @@
+[
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage R&D",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Water Source Compliance",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mechanical & Electrical Assets Compliance",        	
+"depends" : ["Manage Mechanical & Electrical Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Review of WW and AWQ Processes",        	
+"depends" : ["Manage Waste Water & Alternative Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operating Budgets",        	
+"depends" : ["Manage Financial Management"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ARCVIEW",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "AutoVue",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Citect Geraldton Ground Water Treatment Plant",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Curve Direct 3.4",        	
+"depends" : ["Manage Customer Engagement",	
+"Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ECOMAPS",        	
+"depends" : ["Manage Environmental Approvals",	
+"Manage Environmental Compliance"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Forcefield",        	
+"depends" : ["Manage Real Estate"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Industrial Waste System (IWS) / Midas",        	
+"depends" : ["Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "LIne Fault Reporting",        	
+"depends" : ["Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "NETOPT",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "PI Central Spreadsheet",        	
+"depends" : ["Manage Performance Reporting",	
+"Manage Alliance Relationships"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Quote Generator",        	
+"depends" : ["Plan Land Servicing",	
+"Manage Field Work Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Cross Application Time Sheet (CATS)",        	
+"depends" : ["SAP ECC"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Service Management Dashboard",        	
+"depends" : ["Manage Customer Engagement",	
+"Manage Execution of Field Work",	
+"Manage Field Work Schedule",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Survey Book Register",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Valuer General System",        	
+"depends" : ["Manage Property Records Maintenance"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Yammer",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage South West Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage the Billing of Customers",        	
+"depends" : ["Manage Customer Billing and Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Ditto",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "eDirectory",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "House File",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Identity Manager",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Enterprise Portal (Cascade)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "InfoNet",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "IT Program Management System (ITPM)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Jasper Reports",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Land Development Information Access System (LDMS IA)",        	
+"depends" : ["Manage Land Service",	
+"Manage Property Records Maintenance"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Sentinel",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Sewerage Head Loss Calculations",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Site SelectCAD",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Toad",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Water Treatment Register (WTR)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Pricing & Evaluation",        	
+"depends" : ["Manage Finance"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Accellion Kiteworks",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Adobe Document Server",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Aptana studio",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "aquaDoc Web services",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ARCSERVE",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Bentley View",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Box",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Capital Prioritisation System (Module of SCM)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Catchment Management System",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CIMAS",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Computer Hardware & Software System (CHASS) ",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CONTOUR to TIN",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Cosmotec calculation software",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Curve Direct 3.4 ",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Department of Land Information Customer Remote Search",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operations Centre",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Energy",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Planning",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operations",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Finance & Corporate Services",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategy & Stakeholders",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customers & Community",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Drainage",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Drainage",        	
+"depends" : ["Manage Drainage"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Drainage Performance",        	
+"depends" : ["Manage Drainage"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Infrastructure Assets",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan and Investigate Asset Renewals",        	
+"depends" : ["Manage Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Asset Maintenance",        	
+"depends" : ["Manage Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage the Planning of Asset Operations",        	
+"depends" : ["Manage Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Land Tenure Data within LDMS (DeveloperNet)",        	
+"depends" : ["DeveloperNet"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Content Server (SAP-CS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Vendor Inspection Management (SAP-VIM)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Linear Asset Risk Model (LARM)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Maintenance Effectiveness Analyser",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MDT Autosave",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MicroStation",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "NORM2 Convertor",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Pipeline Asset and Risk Management System (PARMS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Pool Vehicles",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "POWA",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Document Management System (DMS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAS",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Sewer Manhole Number Register",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SiteMinder",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "AquaDRAW",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Contractor Induction",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP PLM",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Process Orchestration (PO)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP BO & Dashboard ",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP BO Client Tools",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP BO Data Services",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CalculationModule (DeveloperNet - BuilderNet)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Fines Registration Enforcement Tracking System (FRETS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Grange Connector",        	
+"depends" : ["Grange"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SRS",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Strata Register",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Strategic Assets Lifecycle Value Optimisation (SALVO)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Water Allocation Database",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Water Quality Performance and Operational Management Reporting (POPMAN)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "WingIDE",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Pricing",        	
+"depends" : ["Manage Pricing & Evaluation"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP ERP",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP ECC",        	
+"depends" : ["SAP ERP"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Process Integration (PI)",        	
+"depends" : ["SAP Process Orchestration (PO)"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Business Rules Management (BRM)",        	
+"depends" : ["SAP Process Orchestration (PO)"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Business Process Management (BPM)",        	
+"depends" : ["SAP Process Orchestration (PO)"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Master Data Management (SAP-MDM)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP-TREX",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Solman",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Netweaver Developer Infrastructure (SAP-NWDI)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Provide Commercial I.T. Support",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Evaluation of Investments",        	
+"depends" : ["Manage Pricing & Evaluation"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Afaria",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Bomgar",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Centrelink Confirmation eServices (CCES)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Citrix",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Stakeholder Management System",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Crystal Reports",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CSIS/FMS Interface Support",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DGN to POL",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DXFClean",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Engineering Statistics Extracts and Report Utility",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Enterprise Portal (SharePoint)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Environmental Condition Compliance",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "FMSRef",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Freemind",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CLIENT - (CFIS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CIP Planning Layer",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SW Drainage & Irrigation Mapping System",        	
+"depends" : ["Manage Drainage Performance",	
+"Manage Strategic Direction for Drainage",	
+"Manage South West Region"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SWISS",        	
+"depends" : ["Manage South West Region"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SWMOD",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "System Capability Forecasting",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "System Capability Matrix (SCM)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "System Risk Assessment (SRA)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Taleo",        	
+"depends" : ["Recruit Employees"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Terra Explorer",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "TIMES",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Times Manager",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Touch Panel",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "TRACCESS",        	
+"depends" : ["Develop Employees"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Training Analysis Reporter (TAR)",        	
+"depends" : ["Develop Employees",	
+"Manage South West Region"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Transfer of Digital Designs (TDD)",        	
+"depends" : ["Manage Land Service",	
+"Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Trend Analyser for P1",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Trimble Business Center",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Trio Radio D-Series",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Tview+ Management Suite",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Uwin",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "VBS Edit & HTA Edit",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "VM1 Green Light - Minor Planet Fleet GPS",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Waste Water Quality Management System (WWQMS)",        	
+"depends" : ["Manage Delivery of Water Efficiency Projects",	
+"Manage Drainage Performance",	
+"Manage Strategic Direction for Drainage",	
+"Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Efficiency",	
+"Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Execution of Field Work",	
+"Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Incidents",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"Manage Field Work Planning",	
+"Manage Field Work Schedule",	
+"Manage Service Delivery Planning",	
+"Manage Strategic Direction for Water Supply",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Water Corporation Manuals & Guidelines",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Water Quality Management System (WQMS)",        	
+"depends" : ["Manage Delivery of Water Efficiency Projects",	
+"Manage Drainage Performance",	
+"Manage Strategic Direction for Drainage",	
+"Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Efficiency",	
+"Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Execution of Field Work",	
+"Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Incidents",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"Manage Field Work Planning",	
+"Manage Field Work Schedule",	
+"Manage Service Delivery Planning",	
+"Manage Strategic Direction for Water Supply",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Watham",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "WATOPT",        	
+"depends" : ["Manage the Planning of Asset Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Watsys",        	
+"depends" : ["Manage the Planning of Asset Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Web Content Management (WCM)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Western Power Fault Monitoring System (WPFMS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "WHISPIR SMS",        	
+"depends" : ["Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "WinEDU2000",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Winstart (Vendor Danfoss )",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Work Flow Tracker (WFT)",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Work Order Reporting & Reimbursement Billing (WORRB)",        	
+"depends" : ["Manage the Billing of Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Workforce Management System",        	
+"depends" : ["Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "WTPE Task Tracker",        	
+"depends" : ["Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "WWTPE Task Tracker",        	
+"depends" : ["Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ZI05 Extraction Updates System (ZEUS)",        	
+"depends" : ["Manage the Billing of Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Alliances",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Regions",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Services",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operational Assurance",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Alliance Relationships",        	
+"depends" : ["Manage Alliances"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Chair ALT's",        	
+"depends" : ["Manage Alliances"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operational Alliance Goverance",        	
+"depends" : ["Manage Operational Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Relationship Contracts Goverance",        	
+"depends" : ["Manage Operational Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Monitoring & Systems Investigations",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Commermcial & Industrial Waste",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Inspection & Refurbishment Services",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Metering Services",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Services program delivery",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Great Southern Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Goldfields & Agricultural Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage North West Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mid West Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Communications",        	
+"depends" : ["Manage Customers & Community"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Service Customers",        	
+"depends" : ["Manage Customers & Community"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Strategy & Engagement",        	
+"depends" : ["Manage Communications"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer & Industry Partnerships",        	
+"depends" : ["Manage Communications"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Internal Communications",        	
+"depends" : ["Manage Communications"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Engagement",        	
+"depends" : ["Manage Customer Strategy & Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Strategy",        	
+"depends" : ["Manage Customer Strategy & Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Community Engagement",        	
+"depends" : ["Manage Customer Strategy & Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Stakeholder Engagement",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Major Customer Agreements",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Key Customer Relationships",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Delivery of Water Efficiency Projects",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Billing and Assurance",        	
+"depends" : ["Service Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Records Maintenance",        	
+"depends" : ["Manage Customer Billing and Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Property Records Maintenance",        	
+"depends" : ["Manage Customer Billing and Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage the Collection of Revenue",        	
+"depends" : ["Manage Contact Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Single View of Customer",        	
+"depends" : ["Manage Contact Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Contact Centre",        	
+"depends" : ["Manage Customers & Community"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "@Risk",        	
+"depends" : ["Manage Business Development",	
+"Manage Operating Budgets",	
+"Manage Performance Reporting",	
+"Manage Accounting",	
+"Manage Treasury and Taxation",	
+"Manage Evaluation of Investments",	
+"Manage Pricing"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ABB",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Access Chamber Register",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Asset Cost Estimator (ACE)",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Acronis True Image Home 2010",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Active Tag Register",        	
+"depends" : ["Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ADAMView",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ADEMCO",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ADPRO Gold and ADPRO Lite CCTV Software",        	
+"depends" : ["Manage Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Affinitext",        	
+"depends" : ["Manage Business Development",	
+"Manage Operating Budgets",	
+"Manage Performance Reporting",	
+"Manage Accounting",	
+"Manage Treasury and Taxation",	
+"Manage Evaluation of Investments",	
+"Manage Pricing"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Altap Salamander",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ANZ Card Management",        	
+"depends" : ["Manage Purchase to Pay"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "aquaDraw",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ArcGIS",        	
+"depends" : ["Design Assets",	
+"Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ARIS Business Architect",        	
+"depends" : ["Develop IT Plans and Architecture"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "As Constructed Index",        	
+"depends" : ["Manage Land Service",	
+"Manage Alliance Relationships"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Asbestos Exposure Register",        	
+"depends" : ["Manage Hazards and OSH Incidents",	
+"Manage Mid West Region"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ASE Protocoll Tester",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Aspect",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage the Collection of Revenue",	
+"Manage Customer Records Maintenance",	
+"Manage Property Records Maintenance",	
+"Manage Customer Engagement",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Asset Condition Assessment (ACA)",        	
+"depends" : ["Plan and Investigate Asset Renewals"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Asset Disposal Register",        	
+"depends" : ["Manage Procurement Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Asset Management & Operations Support System (AMOSS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Asset Management Planning System (AMPS)",        	
+"depends" : ["Manage the Collection of Revenue",	
+"Manage Stakeholder Engagement",	
+"Manage Drainage Performance",	
+"Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Efficiency",	
+"Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Regional Asset Investment Planning ",	
+"Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage Delivery of Projects",	
+"Manage Strategic Direction for Water Supply",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Asset Risk Assessment (ARA)",        	
+"depends" : ["Plan and Investigate Asset Renewals"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "AutoCAD GEN",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "AutoCAD LT",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "AutoCAD Raster Design 2007",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Autodesk Civil 3D",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Autodesk Navisworks Freedom",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Autodesk Navisworks Simulate",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Automated Meter Reading",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage the Collection of Revenue",	
+"Manage Customer Records Maintenance",	
+"Manage Property Records Maintenance",	
+"Manage Customer Engagement",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Automated OSH Induction System (AOSH)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Backflow Prevention Management System (BPMS)",        	
+"depends" : ["Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Review of DWQ Processes"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Bill View",        	
+"depends" : ["Provide Commercial I.T. Support"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "BioWin (WWTP Modelling)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Bore Equipment Management Data Base",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Bore Pump Test",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Buildernet (BPA)",        	
+"depends" : ["Manage Property Records Maintenance",	
+"Manage Land Service"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Building Stage Headworks",        	
+"depends" : ["Manage Building Service"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Execution of Field Work",        	
+"depends" : ["Manage Operations Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Bureau of Meteorology suite of application systems 9 8",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Business Performance Reporting (BPR)",        	
+"depends" : ["Manage Performance Reporting"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Canningvale reporting systems",        	
+"depends" : ["Manage the Billing of Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Card Making Solution (Asure ID)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Cashiers System",        	
+"depends" : ["Manage the Collection of Revenue"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CDID Inspection System",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CDMS CAD Interface",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ChemAlert",        	
+"depends" : ["Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CIP Prioritisation Interim Solution (CPS)",        	
+"depends" : ["Formulate Capital Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Citect",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Citect Wanneroo Ground Water Treatment Plant",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Citect Wastewater Stage 2",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CommBiz",        	
+"depends" : ["Manage Purchase to Pay"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Conferences Register",        	
+"depends" : ["Develop Employees"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Consultation Manager",        	
+"depends" : ["Manage Media Communications",	
+"Manage Community Engagement",	
+"Manage Stakeholder Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate and Region Stakeholder List",        	
+"depends" : ["Manage Stakeholder Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Document Management System (AQUA)",        	
+"depends" : ["Manage Compliance and Accountability Framework",	
+"Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Documents (CorDocs)",        	
+"depends" : ["Manage Property Records Maintenance",	
+"Manage Compliance and Accountability Framework"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Financial Impact Statement Management System (CFIS)",        	
+"depends" : ["Formulate Capital Investment",	
+"Manage Program Capital",	
+"Post Delivery Review",	
+"Manage Evaluation of Investments"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Improvement System (CIS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate KeyDex",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Learning Directory",        	
+"depends" : ["Develop Employees"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Management Reporting (CMR)",        	
+"depends" : ["Manage Performance Reporting"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Property Register",        	
+"depends" : ["Manage Real Estate"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Corporate Risk Information System (CRIS)",        	
+"depends" : ["Manage Risk Framework",	
+"Post Delivery Review"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Cosmotec Selection Software",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "CRC-Forge",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Customer Contacts Dashboard (Operations)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "D transfer D load",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Dam Levels on the Internet",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage the Collection of Revenue",	
+"Manage Customer Records Maintenance",	
+"Manage Property Records Maintenance",	
+"Manage Community Engagement",	
+"Manage Customer Engagement",	
+"Manage Stakeholder Engagement",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Dam Safety Data Logger File Transfers",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Dam Specific Plans - Digital",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DAMIS/DRS",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Data Historian (PI)",        	
+"depends" : ["Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage Regional Asset Investment Planning ",	
+"Transfer Assets and Close-out Project"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Data Transfer from Laboratory (DTL)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Declared Area System",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DeveloperNet",        	
+"depends" : ["Plan Land Servicing",	
+"Manage Land Service"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Dial Before You Dig (DBYD)",        	
+"depends" : ["Manage Community Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Dipolar Professional Quest",        	
+"depends" : ["Develop Employees"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DirectSoft 5",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DNP Config",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DOSBOX",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "DrainNet",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "E-Billing Multiple Property Customers (EMA)",        	
+"depends" : ["Manage the Billing of Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ECO 2",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ECT-Promis-e 2007",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "eLearning (Adobe Captivate)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Electrified Water Service Register",        	
+"depends" : ["Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Electronic Advice of Sale 2 (EAS2)",        	
+"depends" : ["Manage Customer Records Maintenance"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Electronic Submissions Interface (ESInet)",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Environment Task Tracker",        	
+"depends" : ["Manage Environmental Approvals"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Epsilon",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ERDAS Apollo",        	
+"depends" : ["Manage IT Infrastructure Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ERDAS ER Mapper",        	
+"depends" : ["Manage IT Infrastructure Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Extend",        	
+"depends" : ["Manage the Planning of Asset Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Extran",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Facilities Mapping System (FMS)",        	
+"depends" : ["Manage Customer Records Maintenance",	
+"Manage Customer Engagement",	
+"Plan Land Servicing",	
+"Manage Land Service",	
+"Manage Business Application Support",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Fatigue Management System",        	
+"depends" : ["Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Fats, Oils and Grease Management System (FOGMan)",        	
+"depends" : ["Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Feature Manipulation Engine (FME)",        	
+"depends" : ["Manage IT Infrastructure Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Field Industrial Waste System (FIWS)",        	
+"depends" : ["Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Flike",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Fluke Mech Cal",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Gadget",        	
+"depends" : ["Manage the Planning of Asset Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "GetRORB",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "GIMS",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "GINT",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Grange",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage the Collection of Revenue",	
+"Manage Customer Records Maintenance",	
+"Manage Property Records Maintenance",	
+"Manage Customer Engagement",	
+"Manage Building Service",	
+"Manage Land Service",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Grange Information Access 2 (GIA2)",        	
+"depends" : ["Manage Property Records Maintenance",	
+"Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "GREX",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "H2O Honours Reward and Recognition",        	
+"depends" : ["Manage Internal Communications",	
+"Develop Employees",	
+"Manage Employee Relations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "HEAT",        	
+"depends" : ["Manage IT Infrastructure Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "HEC/RAS",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Honeywell EBI",        	
+"depends" : ["Manage Real Estate"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Horizon Library Management System",        	
+"depends" : ["Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "HR Masterfile",        	
+"depends" : ["Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "HydNet",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "HydroWorks",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "HydSys (Hydstra)",        	
+"depends" : ["Manage Delivery of Water Efficiency Projects",	
+"Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Efficiency",	
+"Manage Regional Asset Investment Planning ",	
+"Manage Strategic Direction for Water Supply"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Image Capture Utility (ICU)",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Incident Management System",        	
+"depends" : ["Manage Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Indigo CCTV",        	
+"depends" : ["Manage Real Estate"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "GDA Text File Transformation Utility",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "GE Smallworld Water Office",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Image Management system",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Inkscape",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Library Circulation",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Locality Guide",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Microscada",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Microsoft Expression Web",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Notepad ++",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Pinacle Video Studio",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "RCM Turbo",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Roxio Creator",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Business Objects",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Injury Management",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Instrumentation interrogation software",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Intranet (WaterNet)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Inventor10",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "IPB Digital Data Warehouse",        	
+"depends" : ["Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Irems",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ISaGRAF",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Interactive Voice Response (IVR)",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage the Collection of Revenue",	
+"Manage Customer Records Maintenance",	
+"Manage Property Records Maintenance",	
+"Manage Customer Engagement",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Job Management System(JMS)",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Job Register",        	
+"depends" : ["Manage IT Infrastructure Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Kelmscott Sample Sites",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "",        	
+"depends" : ["Manage Research and Development"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "KWSOFT Multiprog WT",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "LDB Digital Data Warehouse",        	
+"depends" : ["Manage Land Service"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Leaders Online",        	
+"depends" : ["Manage Insurance",	
+"Manage Legislation",	
+"Manage Provision Legal Services",	
+"Manage Compliance and Accountability Framework",	
+"Manage Risk Framework",	
+"Provide Internal Review and Audit Services",	
+"Manage Board Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Legacy Data Archive",        	
+"depends" : ["Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "LiteSpatial",        	
+"depends" : ["Manage Customer Engagement",	
+"Manage Execution of Field Work",	
+"Manage Incidents",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"Manage Field Work Planning",	
+"Manage Field Work Schedule",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "LogicMaster 8.2",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Lone Worker System",        	
+"depends" : ["Manage Execution of Field Work",	
+"Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Magellan Mapsend Lite",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MAPPA",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MatLab",        	
+"depends" : ["Manage Field Work Planning",	
+"Manage Field Work Schedule"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MCT31 Harmonic Calculation Software (Vendor Danfoss )",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MESB Task Tracker",        	
+"depends" : ["Manage Field Work Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "[Office] Meter Reading System (OMRS)",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage the Collection of Revenue",	
+"Manage Customer Records Maintenance",	
+"Manage Property Records Maintenance",	
+"Manage Customer Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Microsoft Exchange",        	
+"depends" : ["Manage Internal Communications",	
+"Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Microsoft Outlook Reporting",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Microsoft Project",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MIKE-11",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MiriMap 2000+",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Misconduct Reporting System (Clear conduct)",        	
+"depends" : ["Provide Internal Review and Audit Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Mobile Computing System (MCS2)",        	
+"depends" : ["Manage Purchase to Pay",	
+"Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MT10 (Vendor Danfoss)",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "NearMap",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "NetMaps",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "NETSOLVE",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "NHP / Terasaki - TemCurve 6 software",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Nice Voice Recorder",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage the Collection of Revenue",	
+"Manage Customer Records Maintenance",	
+"Manage Property Records Maintenance",	
+"Manage Customer Engagement",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ODSS/WQMS PDA",        	
+"depends" : ["Manage Delivery of Water Efficiency Projects",	
+"Manage Drainage Performance",	
+"Manage Strategic Direction for Drainage",	
+"Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Efficiency",	
+"Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Execution of Field Work",	
+"Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Incidents",	
+"Manage Review of DWQ Processes",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"Manage Field Work Planning",	
+"Manage Service Delivery Planning",	
+"Manage Strategic Direction for Water Supply",	
+"Manage WW and AWQ Supporting Requirements"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Online Appropriation Request (OAR)",        	
+"depends" : ["Formulate Capital Investment",	
+"Manage Program Capital"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Online Induction Solution (Moodle)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Operational Data Storage System (ODSS)",        	
+"depends" : ["Manage Drainage Performance",	
+"Manage Strategic Direction for Drainage",	
+"Manage Strategic Direction for Recycling",	
+"Manage Strategic Direction for Water Efficiency",	
+"Manage Water Source Compliance",	
+"Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Execution of Field Work",	
+"Manage DWQ Commitment",	
+"Manage DWQ Supporting Requirements",	
+"Manage DWQ System Analysis & Operations",	
+"Manage Incidents",	
+"Manage Review of WW and AWQ Processes",	
+"Manage WW and AWQ Commitment",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"Manage Field Work Planning",	
+"Manage Service Delivery Planning",	
+"Manage Strategic Direction for Water Supply",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Operations Management System (OMS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Organisation Publisher",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Pathwest direct archive",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "PayNet",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Payroll Termination Calculator",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "PCARD (CCMS)",        	
+"depends" : ["Manage Suppliers"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "PDF Exchange",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Pefect Tracker - Bug Tracker",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Performance Reporting System (PRS)",        	
+"depends" : ["Manage Performance Optimisation of Deliver Services Process"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Phonebook",        	
+"depends" : ["Manage Internal Communications"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "PI Aggregation, Annotation, and Notification Tool (AANT)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "",        	
+"depends" : ["Manage Regional Asset Investment Planning ",	
+"Manage Goldfields & Agricultural Region"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Pipe Flow 2",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Planning Index",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Pool Vehicle Booking System",        	
+"depends" : ["Manage Fleet"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Power Allocation",        	
+"depends" : ["Manage the Planning of Asset Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Primavera P6",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Priority One Enquiry Management System (POEMS)",        	
+"depends" : ["Manage Customer Engagement",	
+"Manage Board Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Process Control Web (PCW)",        	
+"depends" : ["Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Proficy ME",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Proficy ME LM90",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Project Management Information System (PMIS)",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Project Management Reporting System (PMRS)",        	
+"depends" : ["Manage Program Capital",	
+"Manage Delivery of Projects",	
+"Transfer Assets and Close-out Project"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "PTS",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Public Web Site",        	
+"depends" : ["Manage Community Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Publications Database",        	
+"depends" : ["Manage Community Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Quest Estimating Tool",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Questor",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "QuickDesigner v5.70",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "RAFTS",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "",        	
+"depends" : ["Manage Hazards and OSH Incidents",	
+"Manage OSH Strategic Corporate Direction"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Records Management System (RMS)",        	
+"depends" : ["Manage Access to Information"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Asset Management (SAP-AM)",        	
+"depends" : ["Manage Service Delivery Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "REgional Workorder INtergrated Data system (REWIND)",        	
+"depends" : ["Manage the Billing of Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Regulatory Condition Management System (RCMS)",        	
+"depends" : ["Manage Environmental Compliance"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Reimbursement Data and Control Tables (REDACT)",        	
+"depends" : ["Manage the Billing of Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "REsource ALlocation Model (REALM)",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "RORBWin",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "RTUtil_2",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "RTUtil15",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "RTUTIL560",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Activity Based Planning (ABP)",        	
+"depends" : ["Manage Operating Budgets",	
+"Manage Performance Reporting",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"SAP ECC",	
+"Manage Service Delivery Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Asset Management (SAP-AM)",        	
+"depends" : ["Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Execution of Field Work",	
+"Manage Incidents",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"Manage Field Work Planning",	
+"Manage Field Work Schedule"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Business Warehouse (SAP BW)",        	
+"depends" : ["Manage Customer Engagement",	
+"Manage Accounting",	
+"Manage Hazards and OSH Incidents"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Central Functions",        	
+"depends" : ["SAP ECC"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP cFolders",        	
+"depends" : ["Manage Procurement Agreements"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP cProjects",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Employee Self Service (ESS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP FI/CO",        	
+"depends" : ["Manage Business Development",	
+"Manage Operating Budgets",	
+"Manage Performance Reporting",	
+"Manage Accounting",	
+"SAP ECC",	
+"Manage Treasury and Taxation",	
+"Manage Evaluation of Investments",	
+"Manage Pricing"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Human Resources (SAP-HR)",        	
+"depends" : ["Manage Employment Conditions Definition and Maintenance",	
+"Plan Workforce",	
+"Recruit Employees",	
+"SAP ECC"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Investment Management (SAP-IM)",        	
+"depends" : ["Formulate Capital Investment",	
+"Manage Program Capital",	
+"SAP ECC"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Manager Self Service (SAP-MSS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Materials Management (SAP-MM)",        	
+"depends" : ["Manage Procurement Planning",	
+"SAP ECC"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Payroll",        	
+"depends" : ["SAP ECC"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Plant Maintenance (SAP-PM)",        	
+"depends" : ["Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Execution of Field Work",	
+"Manage Incidents",	
+"Manage Performance Optimisation of Deliver Services Process",	
+"Manage Field Work Planning",	
+"Manage Field Work Schedule",	
+"SAP ECC",	
+"Manage Real Estate",	
+"Manage Service Delivery Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Project System (SAP-PS)",        	
+"depends" : ["Manage Program Capital",	
+"Manage Delivery of Projects",	
+"Post Delivery Review",	
+"SAP ECC",	
+"Transfer Assets and Close-out Project"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Real Estate (SAP-RE)",        	
+"depends" : ["SAP ECC",	
+"Manage Real Estate"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Supplier Relationship Management (SAP-SRM)",        	
+"depends" : ["Manage Procurement Planning",	
+"SAP ERP"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Training and Event Management (SAP-TEM)",        	
+"depends" : ["Develop Employees"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP Workflow",        	
+"depends" : ["Plan and Investigate Asset Renewals",	
+"Plan Asset Maintenance",	
+"Manage the Planning of Asset Operations",	
+"Manage Employment Conditions Definition and Maintenance",	
+"Manage Procurement Agreements",	
+"Develop Employees",	
+"Manage Employee Relations",	
+"Manage Performance",	
+"Manage Suppliers",	
+"Manage Procurement Planning",	
+"Plan Workforce",	
+"Manage Purchase to Pay",	
+"Recruit Employees",	
+"Design Assets",	
+"Manage Delivery of Projects",	
+"Post Delivery Review",	
+"SAP ECC",	
+"Manage Equity and Diversity",	
+"Transfer Assets and Close-out Project",	
+"Manage Inventory"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SAP-PD (Personnel Development)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SCADApack - E Series",        	
+"depends" : ["Manage Execution of Field Work"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Schematics Generation & Management",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "ClearScada (SCX6-Serck Controls SCX V6)",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SeaBase",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Research and Development",        	
+"depends" : ["Manage R&D"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Innovation",        	
+"depends" : ["Manage R&D"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Infrastructure Assets",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Regional Asset Investment Planning ",        	
+"depends" : ["Plan Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Strategic Asset Management",        	
+"depends" : ["Manage Infrastructure Asset Strategy"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Assess Asset Capability",        	
+"depends" : ["Manage Infrastructure Asset Strategy"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Infrastructure Asset Strategy",        	
+"depends" : ["Plan Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Investment",        	
+"depends" : ["Plan Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Development Services",        	
+"depends" : ["Plan Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Land Servicing",        	
+"depends" : ["Manage Development Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Land Service",        	
+"depends" : ["Manage Development Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Building Service",        	
+"depends" : ["Manage Development Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Formulate Capital Investment",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Investment Prioritisation",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Program Capital",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Scope",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage External Approvals",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Water Supply & Demand",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SewerNet/DTM",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SewerNet/WIMS",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Shared Fleet Spreadsheet",        	
+"depends" : ["Manage Great Southern Region"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Siemens Dolphin",        	
+"depends" : ["Manage Delivery of Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Siemens Integrated ID Card",        	
+"depends" : ["Manage Real Estate"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SiteSafe OSH System",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SKM Power tools 6.5",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SLOPEW",        	
+"depends" : ["Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Social & Environmental Tool",        	
+"depends" : ["Manage Regional Asset Investment Planning ",	
+"Manage Evaluation of Investments"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MAGNET Office (SOKKIA)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Solidworks 2011",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Spatial Asset System Management (SPASM) (Ellenbrook Data Management Program)",        	
+"depends" : ["Manage WW and AWQ Commitment",	
+"Manage WW and AWQ Supporting Requirements",	
+"Manage WW and AWQ System Analysis & Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Spatial Intelligence",        	
+"depends" : ["Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "SPSS 19",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "State Wide Planning Program (SWPP)",        	
+"depends" : ["Plan and Investigate Asset Renewals",	
+"Manage Regional Asset Investment Planning "] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Static Account Balance",        	
+"depends" : ["Manage the Billing of Customers",	
+"Manage Single View of Customer"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Step7 Professional",        	
+"depends" : ["Manage Execution of Field Work",	
+"Design Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "STORM",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Water Supply",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Water Efficiency",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Recycling",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Assets Delivery",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Aquire Infrastructure Assets",        	
+"depends" : ["Manage Assets Delivery"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Infrastructure Design",        	
+"depends" : ["Aquire Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Design Assets",        	
+"depends" : ["Manage Infrastructure Design"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Projects",        	
+"depends" : ["Aquire Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Delivery of Projects",        	
+"depends" : ["Manage Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Transfer Assets and Close-out Project",        	
+"depends" : ["Manage Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Investment",        	
+"depends" : ["Aquire Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Post Delivery Review",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Establish and Manage Contracts",        	
+"depends" : ["Manage Assets Delivery"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Create Contracts",        	
+"depends" : ["Establish and Manage Contracts"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mechanical & Electrical Services",        	
+"depends" : ["Manage Assets Delivery"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Electrical Compliance",        	
+"depends" : ["Manage Mechanical & Electrical Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mechanical & Electrical Safety",        	
+"depends" : ["Manage Mechanical & Electrical Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Deliver Services",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operations Services",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operational Alignment and Integration",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Environment & Aborignal Affairs",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Environmental Programs and Support",        	
+"depends" : ["Manage Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Environmental Approvals",        	
+"depends" : ["Manage Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Environmental Compliance",        	
+"depends" : ["Manage Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Aboriginal Affairs",        	
+"depends" : ["Manage Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Drinking Water Quality",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage DWQ Commitment",        	
+"depends" : ["Manage Drinking Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage DWQ System Analysis & Operations",        	
+"depends" : ["Manage Drinking Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage DWQ Supporting Requirements",        	
+"depends" : ["Manage Drinking Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Review of DWQ Processes",        	
+"depends" : ["Manage Drinking Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage WW and AWQ Commitment",        	
+"depends" : ["Manage Waste Water & Alternative Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage WW and AWQ System Analysis & Operations",        	
+"depends" : ["Manage Waste Water & Alternative Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage WW and AWQ Supporting Requirements",        	
+"depends" : ["Manage Waste Water & Alternative Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Prioritise and Sequence Operational Change",        	
+"depends" : ["Manage Operational Alignment and Integration"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Service Delivery Planning",        	
+"depends" : ["Manage Operations Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Work Planning",        	
+"depends" : ["Manage Operations Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Work Schedule",        	
+"depends" : ["Manage Operations Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Performance Optimisation of Deliver Services Process",        	
+"depends" : ["Manage Operations Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Incidents",        	
+"depends" : ["Manage Operations Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Water Scheme Planning",        	
+"depends" : ["Manage Operations Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Energy",        	
+"depends" : ["Manage Energy"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Occupational Safety & Health",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage OSH Strategic Corporate Direction",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Hazards and OSH Incidents",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Workers' Compensation, Health and Welfare",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Monitor, Analyse and Review OSH",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Excel (Microsoft) ",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "MyWater",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Meter Reading System (MRS)",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "Field Meter Reading System",        	
+"depends" : ["Manage Customer Engagement",	
+"Meter Reading System (MRS)"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Corporate Goverance",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Finance",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Information Services",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage People",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Procurement",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Property & Facilities",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Risk Framework",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Compliance and Accountability Framework",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operating License",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Provide Internal Review and Audit Services",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Performance Reporting",        	
+"depends" : ["Manage Financial Management"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Accounting",        	
+"depends" : ["Manage Financial Management"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Treasury and Taxation",        	
+"depends" : ["Manage Financial Management"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Develop IT Plans and Architecture",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Implement IT Projects",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage IT Infrastructure Operations",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Access to Information",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Business Application Support",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Workforce",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Employment Conditions Definition and Maintenance",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Employee Relations",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Recruit Employees",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Business Improvement",        	
+"depends" : ["Manage Strategic Direction"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationRoot",         	
+"name"    : "Manage Water Corporation",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Maintain Employee Payroll, Details and Records",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Develop Employees",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Performance",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Equity and Diversity",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Procurement Planning",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Purchase to Pay",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Procurement Agreements",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Inventory",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Suppliers",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Real Estate",        	
+"depends" : ["Manage Property & Facilities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Fleet",        	
+"depends" : ["Manage Property & Facilities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Media Board & Government Liason",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Legal Services",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Development of Non-Core Business Opportunities",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Media Communications",        	
+"depends" : ["Manage Media Board & Government Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Board Liason",        	
+"depends" : ["Manage Media Board & Government Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Ministerial Liaison",        	
+"depends" : ["Manage Media Board & Government Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Provision Legal Services",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Legislation",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Insurance",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Coordinate Board Goverance",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Business Development",        	
+"depends" : ["Manage Development of Non-Core Business Opportunities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Works Holding Arrangements",        	
+"depends" : ["Manage Development of Non-Core Business Opportunities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Planning Corporate Strategic Direction",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Monitoring of Corporate Strategic Direction",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Cordination of Approach to Business Analysis ",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Policy Direction",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategy & Corporate Analytics",        	
+"depends" : ["Manage Strategic Direction"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Corporate Change",        	
+"depends" : ["Manage Business Improvement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Use of Management Operating Systems",        	
+"depends" : ["Manage Business Improvement"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "PIODSS",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationComponent",         	
+"name"    : "FMS Connector",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Waste Water & Alternative Water Quality",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Financial Management",        	
+"depends" : ["Manage Finance"] 			
+}
+]

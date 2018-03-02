@@ -1,0 +1,783 @@
+{
+    "name": "Manage Water Corporation",
+    "children": [
+        {
+            "name": "Manage Asset Planning",
+            "children": [
+                {
+                    "name": "Manage R&D",
+                    "children": [
+                        {
+                            "name": "Manage Research and Development",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Innovation",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Water Supply & Demand",
+                    "children": [
+                        {
+                            "name": "Manage Strategic Direction for Water Efficiency",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Strategic Direction for Recycling",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Water Source Compliance",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Strategic Direction for Water Supply",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Infrastructure Assets",
+                    "children": [
+                        {
+                            "name": "Plan and Investigate Asset Renewals",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Plan Asset Contingency Operations",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage the Planning of Asset Operations",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Plan Asset Maintenance",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Drainage",
+                    "children": [
+                        {
+                            "name": "Manage Strategic Direction for Drainage",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Drainage Performance",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Plan Infrastructure Assets",
+                    "children": [
+                        {
+                            "name": "Manage Infrastructure Asset Strategy",
+                            "children": [
+                                {
+                                    "name": "Plan Strategic Asset Management",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage and Assess Asset Risk",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Regional Asset Investment Planning ",
+                            "children": [
+                                {
+                                    "name": "Plan Assets",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Development Services",
+                            "children": [
+                                {
+                                    "name": "Manage Building Service",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Land Service",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Plan Land Servicing",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Asset Investment",
+                            "children": [
+                                {
+                                    "name": "Manage Scope",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage External Approvals",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Program Capital",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Strategic Investment Prioritisation",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Formulate Capital Investment",
+                                    "size": 3938
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Manage Assets Delivery",
+            "children": [
+                {
+                    "name": "Manage Mechanical & Electrical Services",
+                    "children": [
+                        {
+                            "name": "Manage Mechanical & Electrical Safety",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Electrical Compliance",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Mechanical & Electrical Assets Compliance",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Aquire Infrastructure Assets",
+                    "children": [
+                        {
+                            "name": "Manage Projects",
+                            "children": [
+                                {
+                                    "name": "Manage Delivery of Projects",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Transfer Assets and Close-out Project",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Infrastructure Design",
+                            "children": [
+                                {
+                                    "name": "Design Assets",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Asset Investment",
+                            "children": [
+                                {
+                                    "name": "Post Delivery Review",
+                                    "size": 3938
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Establish and Manage Contracts",
+                    "children": [
+                        {
+                            "name": "Create Contracts",
+                            "size": 3938
+                        }
+                    ]
+                }
+            ]
+        },
+           {
+            "name": "Manage Operations Services",
+            "children": [
+                {
+                    "name": "Manage Waste Water & Alternative Water Quality",
+                    "children": [
+                        {
+                            "name": "Manage WW and AWQ Supporting Requirements",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage WW and AWQ Commitment",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage WW and AWQ System Analysis & Operations",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Review of WW and AWQ Processes",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Drinking Water Quality",
+                    "children": [
+                        {
+                            "name": "Manage DWQ Supporting Requirements",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Review of DWQ Processes",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage DWQ System Analysis & Operations",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage DWQ Commitment",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Occupational Safety & Health",
+                    "children": [
+                        {
+                            "name": "Manage OSH Strategic Corporate Direction",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Workers' Compensation, Health and Welfare",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Hazards and OSH Incidents",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Monitor, Analyse and Review OSH",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Deliver Services",
+                    "children": [
+                        {
+                            "name": "Manage Operations Centre",
+                            "children": [
+                                {
+                                    "name": "Manage Water Scheme Planning",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Service Delivery Planning",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Field Work Schedule",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Field Work Planning",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Execution of Field Work",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Performance Optimisation of Deliver Services Process",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Incidents",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Energy",
+                            "children": [
+                                {
+                                    "name": "Manage Strategic Direction for Energy",
+                                    "size": 3938
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Environment & Aborignal Affairs",
+                    "children": [
+                        {
+                            "name": "Manage Environmental Compliance",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Environmental Approvals",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Environmental Programs and Support",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Aboriginal Affairs",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Operational Alignment and Integration",
+                    "children": [
+                        {
+                            "name": "Prioritise and Sequence Operational Change",
+                            "size": 3938
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Manage Operations",
+            "children": [
+                {
+                    "name": "Manage Alliances",
+                    "children": [
+                        {
+                            "name": "Chair ALT's",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Alliance Relationships",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Regions",
+                    "children": [
+                        {
+                            "name": "Manage Great Southern Region",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Goldfields & Agricultural Region",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage North West Region",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage South West Region",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Mid West Region",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Field Services",
+                    "children": [
+                        {
+                            "name": "Manage Inspection & Refurbishment Services",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Field Services program delivery",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Metering Services",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Commercial & Industrial Waste",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Asset Monitoring & Systems Investigations",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Operational Assurance",
+                    "children": [
+                        {
+                            "name": "Manage Operational Alliance Goverance",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Relationship Contracts Goverance",
+                            "size": 3938
+                        }
+                    ]
+                }
+            ]
+        },       
+        {
+            "name": "Manage Finance & Corporate Services",
+            "children": [
+                {
+                    "name": "Manage Property & Facilities",
+                    "children": [
+                        {
+                            "name": "Manage Fleet",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Real Estate",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Corporate Goverance",
+                    "children": [
+                        {
+                            "name": "Manage Risk Framework",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Compliance and Accountability Framework",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Provide Internal Review and Audit Services",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Operating License",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage People",
+                    "children": [
+                        {
+                            "name": "Plan Workforce",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Equity and Diversity",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Employee Relations",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Employment Conditions Definition and Maintenance",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Maintain Employee Payroll, Details and Records",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Develop Employees",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Performance",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Recruit Employees",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Information Services",
+                    "children": [
+                        {
+                            "name": "Implement IT Projects",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Provide Commercial I.T. Support",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Provision GIS Information",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Management of Business Information & Analytics",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Finance",
+                    "children": [
+                        {
+                            "name": "Manage Financial Management",
+                            "children": [
+                                {
+                                    "name": "Manage Treasury and Taxation",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Accounting",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Performance Reporting",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Operating Budgets",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Pricing & Evaluation",
+                            "children": [
+                                {
+                                    "name": "Manage Evaluation of Investments",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Pricing",
+                                    "size": 3938
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Procurement",
+                    "children": [
+                        {
+                            "name": "Manage Procurement Agreements",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Inventory",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Suppliers",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Procurement Planning",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Purchase to Pay",
+                            "size": 3938
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Manage Strategy & Stakeholders",
+            "children": [
+                {
+                    "name": "Manage Legal Services",
+                    "children": [
+                        {
+                            "name": "Manage Insurance",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Legislation",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Provision Legal Services",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Coordinate Board Governance",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Development of Non-Core Business Opportunities",
+                    "children": [
+                        {
+                            "name": "Manage Works Holding Arrangements",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Business Development",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Strategic Direction",
+                    "children": [
+                        {
+                            "name": "Manage Strategy & Corporate Analytics",
+                            "children": [
+                                {
+                                    "name": "Manage Planning Corporate Strategic Direction",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Coordination of Approach to Business Analysis",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Monitoring of Corporate Strategic Direction",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Strategic Policy Direction",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Business Improvement",
+                            "children": [
+                                {
+                                    "name": "Manage Use of Management Operating Systems",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Corporate Change",
+                                    "size": 3938
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Media Board & Government Liason",
+                    "children": [
+                        {
+                            "name": "Manage Ministerial Liaison",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Media Communications",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage Board Liaison",
+                            "size": 3938
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Manage Customers & Community",
+            "children": [
+                {
+                    "name": "Service Customers",
+                    "children": [
+                        {
+                            "name": "Manage Customer Billing and Assurance",
+                            "children": [
+                                {
+                                    "name": "Manage the Billing of Customers",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Customer Records Maintenance",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Property Records Maintenance",
+                                    "size": 3938
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Contact Centre",
+                    "children": [
+                        {
+                            "name": "Manage Single View of Customer",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Manage the Collection of Revenue",
+                            "size": 3938
+                        }
+                    ]
+                },
+                {
+                    "name": "Manage Communications",
+                    "children": [
+                        {
+                            "name": "Manage Customer Strategy & Engagement",
+                            "children": [
+                                {
+                                    "name": "Manage Customer Engagement",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Community Engagement",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Customer Strategy",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Customer & Industry Partnerships",
+                            "children": [
+                                {
+                                    "name": "Manage Major Customer Agreements",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Delivery of Water Efficiency Projects",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Key Customer Relationships",
+                                    "size": 3938
+                                },
+                                {
+                                    "name": "Manage Stakeholder Engagement",
+                                    "size": 3938
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manage Internal Communications",
+                            "size": 3938
+                        }
+                    ]
+                }
+            ]
+        }             
+    ]
+}

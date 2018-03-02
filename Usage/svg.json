@@ -1,0 +1,1692 @@
+{	
+"applications": [ 	
+{        "name" : "IBM Director", 		"group" : "10"}	
+,	
+{        "name" : "E-Forms", 		"group" : "4"}	
+,	
+{        "name" : "Dam Reporting System", 		"group" : "4"}	
+,	
+{        "name" : "Autodesk", 		"group" : "10"}	
+,	
+{        "name" : "ITRON Everblu", 		"group" : "10"}	
+,	
+{        "name" : "PI ProcessBook", 		"group" : "10"}	
+,	
+{        "name" : "Operations Management System (OMS)", 		"group" : "10"}	
+,	
+{        "name" : "Dial Before You Dig (DBYD)", 		"group" : "2"}	
+,	
+{        "name" : "Primavera P6", 		"group" : "10"}	
+,	
+{        "name" : "EMC", 		"group" : "10"}	
+,	
+{        "name" : "ViewX", 		"group" : "10"}	
+,	
+{        "name" : "Wireshark", 		"group" : "10"}	
+,	
+{        "name" : "PI Coresight", 		"group" : "10"}	
+,	
+{        "name" : "Palisade DecisionTools Suite", 		"group" : "10"}	
+,	
+{        "name" : "eProcurement", 		"group" : "10"}	
+,	
+{        "name" : "DWS iApply", 		"group" : "10"}	
+,	
+{        "name" : "Affinitext", 		"group" : "10"}	
+,	
+{        "name" : "MicroStation", 		"group" : "3"}	
+,	
+{        "name" : "ECT-Promis-e 2007", 		"group" : "7"}	
+,	
+{        "name" : "Land Tenure Data within LDMS (DeveloperNet)", 		"group" : "2"}	
+,	
+{        "name" : "Misconduct (Clear conduct)", 		"group" : "4"}	
+,	
+{        "name" : "Waste Water Quality Management System (WWQMS)", 		"group" : "6"}	
+,	
+{        "name" : "Asset Cost Estimator (ACE)", 		"group" : "6"}	
+,	
+{        "name" : "SiteCore", 		"group" : "10"}	
+,	
+{        "name" : "REMORA", 		"group" : "10"}	
+,	
+{        "name" : "Horizon View (VMWare)", 		"group" : "10"}	
+,	
+{        "name" : "WebSense", 		"group" : "10"}	
+,	
+{        "name" : "VMWare vSphere", 		"group" : "10"}	
+,	
+{        "name" : "Contact Central", 		"group" : "10"}	
+,	
+{        "name" : "SCADApack - E Series", 		"group" : "10"}	
+,	
+{        "name" : "GREX", 		"group" : "6"}	
+,	
+{        "name" : "Contractor Induction (Moodle)", 		"group" : "10"}	
+,	
+{        "name" : "SAP cFolders", 		"group" : "10"}	
+,	
+{        "name" : "Solidworks 2011", 		"group" : "10"}	
+,	
+{        "name" : "NetMaps (ESInet)", 		"group" : "2"}	
+,	
+{        "name" : "SAP Netweaver Developer Infrastructure (SAP-NWDI)", 		"group" : "10"}	
+,	
+{        "name" : "Extend", 		"group" : "6"}	
+,	
+{        "name" : "Facilities Mapping System (FMS)", 		"group" : "6"}	
+,	
+{        "name" : "Inventor10", 		"group" : "10"}	
+,	
+{        "name" : "Magellan Mapsend Lite", 		"group" : "7"}	
+,	
+{        "name" : "Proficy PS", 		"group" : "10"}	
+,	
+{        "name" : "Outage Management 4.3", 		"group" : "10"}	
+,	
+{        "name" : "Asset Risk Assessment (ARA)", 		"group" : "6"}	
+,	
+{        "name" : "ERDAS ER Mapper", 		"group" : "10"}	
+,	
+{        "name" : "QuickDesigner v5.70", 		"group" : "7"}	
+,	
+{        "name" : "ArcGIS", 		"group" : "7"}	
+,	
+{        "name" : "Microsoft Exchange", 		"group" : "10"}	
+,	
+{        "name" : "Siemens Integrated ID Card", 		"group" : "10"}	
+,	
+{        "name" : "DOSBOX", 		"group" : "10"}	
+,	
+{        "name" : "Business Performance Reporting (BPR)", 		"group" : "2"}	
+,	
+{        "name" : "PCARD (CCMS)", 		"group" : "10"}	
+,	
+{        "name" : "SAP Investment Management (SAP-IM)", 		"group" : "6"}	
+,	
+{        "name" : "Flike", 		"group" : "7"}	
+,	
+{        "name" : "Inkscape", 		"group" : "10"}	
+,	
+{        "name" : "Job Register", 		"group" : "10"}	
+,	
+{        "name" : "HEC/RAS", 		"group" : "6"}	
+,	
+{        "name" : "MatLab", 		"group" : "10"}	
+,	
+{        "name" : "Training Analysis Reporter (TAR)", 		"group" : "10"}	
+,	
+{        "name" : "Lone Worker System", 		"group" : "2"}	
+,	
+{        "name" : "SAP Real Estate (SAP-RE)", 		"group" : "5"}	
+,	
+{        "name" : "SWISS", 		"group" : "10"}	
+,	
+{        "name" : "Image Capture Utility (ICU)", 		"group" : "7"}	
+,	
+{        "name" : "RTUtil_2", 		"group" : "10"}	
+,	
+{        "name" : "Electronic Advice of Sale 2 (EAS2)", 		"group" : "2"}	
+,	
+{        "name" : "Fines Registration Enforcement Tracking System (FRETS)", 		"group" : "4"}	
+,	
+{        "name" : "Phonebook", 		"group" : "10"}	
+,	
+{        "name" : "Microscada", 		"group" : "10"}	
+,	
+{        "name" : "KWSOFT Multiprog WT", 		"group" : "10"}	
+,	
+{        "name" : "Solman", 		"group" : "10"}	
+,	
+{        "name" : "Bomgar", 		"group" : "10"}	
+,	
+{        "name" : "BioWin (WWTP Modelling)", 		"group" : "10"}	
+,	
+{        "name" : "Online Appropriation Request (OAR)", 		"group" : "6"}	
+,	
+{        "name" : "Telstra Instant Messaging", 		"group" : "10"}	
+,	
+{        "name" : "Ditto", 		"group" : "10"}	
+,	
+{        "name" : "myWorld", 		"group" : "3"}	
+,	
+{        "name" : "IT Store (Flexerra)", 		"group" : "10"}	
+,	
+{        "name" : "SuccessFactors Business Execution Suite", 		"group" : "10"}	
+,	
+{        "name" : "@Risk", 		"group" : "10"}	
+,	
+{        "name" : "Organisation Publisher", 		"group" : "10"}	
+,	
+{        "name" : "Computer Hardware & Software System (CHASS)", 		"group" : "10"}	
+,	
+{        "name" : "Electrified Water Service Register", 		"group" : "10"}	
+,	
+{        "name" : "RORB", 		"group" : "7"}	
+,	
+{        "name" : "Times Manager", 		"group" : "6"}	
+,	
+{        "name" : "FMS Connector", 		"group" : "2"}	
+,	
+{        "name" : "Accellion Kiteworks", 		"group" : "10"}	
+,	
+{        "name" : "Customer Contacts Dashboard (Operations)", 		"group" : "2"}	
+,	
+{        "name" : "SPSS 19", 		"group" : "10"}	
+,	
+{        "name" : "Step7 Professional", 		"group" : "7"}	
+,	
+{        "name" : "Compensation Management", 		"group" : "10"}	
+,	
+{        "name" : "Customer Platform & CRM", 		"group" : "6"}	
+,	
+{        "name" : "REC Registry", 		"group" : "10"}	
+,	
+{        "name" : "Azure ADFS", 		"group" : "10"}	
+,	
+{        "name" : "WWIMS", 		"group" : "10"}	
+,	
+{        "name" : "CitectScada", 		"group" : "10"}	
+,	
+{        "name" : "Automated OSH Induction System (AOSH)", 		"group" : "2"}	
+,	
+{        "name" : "SAP Employee Self Service (ESS)", 		"group" : "10"}	
+,	
+{        "name" : "Uwin", 		"group" : "7"}	
+,	
+{        "name" : "Workflow Tracker (WFT)", 		"group" : "7"}	
+,	
+{        "name" : "SAP Workflow", 		"group" : "7"}	
+,	
+{        "name" : "Water Quality Management System (WQMS)", 		"group" : "6"}	
+,	
+{        "name" : "Grange Information Access 2 (GIA2)", 		"group" : "1"}	
+,	
+{        "name" : "Asset Management Planning System (AMPS)", 		"group" : "7"}	
+,	
+{        "name" : "Bentley View", 		"group" : "10"}	
+,	
+{        "name" : "AceManager", 		"group" : "10"}	
+,	
+{        "name" : "C-more Programming Software", 		"group" : "10"}	
+,	
+{        "name" : "AirCard Watcher", 		"group" : "10"}	
+,	
+{        "name" : "Contractor Induction Service", 		"group" : "2"}	
+,	
+{        "name" : "Tview+ Management Suite", 		"group" : "10"}	
+,	
+{        "name" : "Cosmotec calculation software", 		"group" : "10"}	
+,	
+{        "name" : "Industrial Waste System (IWS) / Midas", 		"group" : "2"}	
+,	
+{        "name" : "SAP Plant Maintenance (SAP-PM)", 		"group" : "6"}	
+,	
+{        "name" : "Corporate Documents (CorDocs)", 		"group" : "10"}	
+,	
+{        "name" : "SLOPEW", 		"group" : "7"}	
+,	
+{        "name" : "Quote Generator", 		"group" : "6"}	
+,	
+{        "name" : "Gadget", 		"group" : "6"}	
+,	
+{        "name" : "NetMaps", 		"group" : "3"}	
+,	
+{        "name" : "ClearScada (SCX6-Serck Controls SCX V6)", 		"group" : "7"}	
+,	
+{        "name" : "Active Directory", 		"group" : "3"}	
+,	
+{        "name" : "Pathwest direct archive", 		"group" : "10"}	
+,	
+{        "name" : "DirectSoft 5", 		"group" : "7"}	
+,	
+{        "name" : "MyWater", 		"group" : "2"}	
+,	
+{        "name" : "CIP Prioritisation Interim Solution (CPS)", 		"group" : "6"}	
+,	
+{        "name" : "Asbestos Exposure Register", 		"group" : "10"}	
+,	
+{        "name" : "Smallworld 4.0", 		"group" : "3"}	
+,	
+{        "name" : "Buildernet (BPA)", 		"group" : "6"}	
+,	
+{        "name" : "ArcView", 		"group" : "10"}	
+,	
+{        "name" : "REsource ALlocation Model (REALM)", 		"group" : "6"}	
+,	
+{        "name" : "Microsoft Outlook Reporting", 		"group" : "4"}	
+,	
+{        "name" : "MCT10", 		"group" : "7"}	
+,	
+{        "name" : "Grange", 		"group" : "6"}	
+,	
+{        "name" : "NearMap", 		"group" : "10"}	
+,	
+{        "name" : "Hydstra (Kisters HydSys)", 		"group" : "6"}	
+,	
+{        "name" : "SAP Training and Event Management (SAP-TEM)", 		"group" : "5"}	
+,	
+{        "name" : "gINT", 		"group" : "7"}	
+,	
+{        "name" : "ARIS Business Architect", 		"group" : "10"}	
+,	
+{        "name" : "TRACCESS", 		"group" : "10"}	
+,	
+{        "name" : "Honeywell EBI", 		"group" : "10"}	
+,	
+{        "name" : "Meter Reading System (MRS)", 		"group" : "2"}	
+,	
+{        "name" : "Box", 		"group" : "10"}	
+,	
+{        "name" : "Curve Direct 3.4", 		"group" : "7"}	
+,	
+{        "name" : "SAP Supplier Relationship Management (SAP-SRM)", 		"group" : "5"}	
+,	
+{        "name" : "Bore Equipment Management Data Base", 		"group" : "10"}	
+,	
+{        "name" : "SAP Process Integration (PI)", 		"group" : "3"}	
+,	
+{        "name" : "DeveloperNet", 		"group" : "6"}	
+,	
+{        "name" : "Excel (Microsoft) ", 		"group" : "1"}	
+,	
+{        "name" : "Western Power Fault Monitoring System (WPFMS)", 		"group" : "2"}	
+,	
+{        "name" : "House File", 		"group" : "10"}	
+,	
+{        "name" : "SAP Afaria", 		"group" : "10"}	
+,	
+{        "name" : "Roxio Creator", 		"group" : "10"}	
+,	
+{        "name" : "Water Allocation Database", 		"group" : "10"}	
+,	
+{        "name" : "MiriMap 2000+", 		"group" : "10"}	
+,	
+{        "name" : "Shared Fleet Spreadsheet", 		"group" : "10"}	
+,	
+{        "name" : "SW Drainage & Irrigation Mapping System", 		"group" : "6"}	
+,	
+{        "name" : "Transfer of Digital Designs (TDD)", 		"group" : "7"}	
+,	
+{        "name" : "Project Management Information System (PMIS)", 		"group" : "7"}	
+,	
+{        "name" : "WaterNet  (Intranet)", 		"group" : "10"}	
+,	
+{        "name" : "Forcefield", 		"group" : "10"}	
+,	
+{        "name" : "Capital Prioritisation System (Module of SCM)", 		"group" : "4"}	
+,	
+{        "name" : "Dolphin Plus", 		"group" : "7"}	
+,	
+{        "name" : "SAP Payroll (SAP-PY)", 		"group" : "5"}	
+,	
+{        "name" : "Quest Estimating Tool", 		"group" : "7"}	
+,	
+{        "name" : "SAP PLM", 		"group" : "10"}	
+,	
+{        "name" : "Access Chamber Register", 		"group" : "7"}	
+,	
+{        "name" : "HydNet", 		"group" : "6"}	
+,	
+{        "name" : "ISaGRAF", 		"group" : "10"}	
+,	
+{        "name" : "AutoVue", 		"group" : "7"}	
+,	
+{        "name" : "Citrix", 		"group" : "10"}	
+,	
+{        "name" : "H2O Honours Reward and Recognition", 		"group" : "4"}	
+,	
+{        "name" : "CalculationModule (DeveloperNet - BuilderNet)", 		"group" : "2"}	
+,	
+{        "name" : "Office Meter Reading System (OMRS)", 		"group" : "2"}	
+,	
+{        "name" : "Asset Management & Operations Support System (AMOSS)", 		"group" : "10"}	
+,	
+{        "name" : "SAP Enterprise Portal (Cascade)", 		"group" : "10"}	
+,	
+{        "name" : "Mobile Computing System (MCS2)", 		"group" : "10"}	
+,	
+{        "name" : "SAP Master Data Management (SAP-MDM)", 		"group" : "10"}	
+,	
+{        "name" : "SAP Cross Application Time Sheet (CATS)", 		"group" : "5"}	
+,	
+{        "name" : "RTUtil15", 		"group" : "10"}	
+,	
+{        "name" : "SKM Power tools 6.5", 		"group" : "7"}	
+,	
+{        "name" : "System Capability Matrix (SCM)", 		"group" : "10"}	
+,	
+{        "name" : "Watham", 		"group" : "6"}	
+,	
+{        "name" : "ADPRO Gold and ADPRO Lite CCTV Software", 		"group" : "10"}	
+,	
+{        "name" : "SAP Project System (SAP-PS)", 		"group" : "7"}	
+,	
+{        "name" : "Trio Radio D-Series Programmer", 		"group" : "10"}	
+,	
+{        "name" : "aquaDRAW", 		"group" : "2"}	
+,	
+{        "name" : "Bore Pump Test", 		"group" : "6"}	
+,	
+{        "name" : "SAP Business Warehouse (SAP BW)", 		"group" : "3"}	
+,	
+{        "name" : "PayNet", 		"group" : "10"}	
+,	
+{        "name" : "SIMATIC ProTool", 		"group" : "10"}	
+,	
+{        "name" : "Enterprise Portal (SharePoint)", 		"group" : "10"}	
+,	
+{        "name" : "STORM", 		"group" : "10"}	
+,	
+{        "name" : "RCM Turbo", 		"group" : "10"}	
+,	
+{        "name" : "Microsoft Project", 		"group" : "10"}	
+,	
+{        "name" : "Watsys", 		"group" : "6"}	
+,	
+{        "name" : "Work Order Reporting & Reimbursement Billing (WORRB)", 		"group" : "4"}	
+,	
+{        "name" : "Customer Interaction Centre (CIC)", 		"group" : "10"}	
+,	
+{        "name" : "System Risk Assessment (SRA)", 		"group" : "4"}	
+,	
+{        "name" : "CommBiz", 		"group" : "10"}	
+,	
+{        "name" : "PIODSS", 		"group" : "4"}	
+,	
+{        "name" : "Cash Interfaces (DCS)", 		"group" : "4"}	
+,	
+{        "name" : "Unified Secrity Access CRE Design", 		"group" : "4"}	
+,	
+{        "name" : "Customer Complaints Dashboard", 		"group" : "10"}	
+,	
+{        "name" : "SAP EDW", 		"group" : "10"}	
+,	
+{        "name" : "Corporate Financial Impact Statement Management System (CFIS)", 		"group" : "7"}	
+,	
+{        "name" : "Touch Panel", 		"group" : "10"}	
+,	
+{        "name" : "GIMS", 		"group" : "7"}	
+,	
+{        "name" : "Pool Vehicle Booking System", 		"group" : "10"}	
+,	
+{        "name" : "Power Allocation", 		"group" : "6"}	
+,	
+{        "name" : "Corporate Risk Information System (CRIS)", 		"group" : "7"}	
+,	
+{        "name" : "Service Management Dashboard", 		"group" : "2"}	
+,	
+{        "name" : "Identity Manager", 		"group" : "10"}	
+,	
+{        "name" : "Strategic Assets Lifecycle Value Optimisation (SALVO)", 		"group" : "10"}	
+,	
+{        "name" : "Electronic Submissions Interface (ESInet)", 		"group" : "7"}	
+,	
+{        "name" : "Active Tag Register", 		"group" : "10"}	
+,	
+{        "name" : "Asset Condition Assessment (ACA)", 		"group" : "6"}	
+,	
+{        "name" : "Planning Index", 		"group" : "6"}	
+,	
+{        "name" : "SAP Manager Self Service (SAP-MSS)", 		"group" : "10"}	
+,	
+{        "name" : "ChemAlert", 		"group" : "4"}	
+,	
+{        "name" : "IT Program Management System (ITPM)", 		"group" : "10"}	
+,	
+{        "name" : "CIMAS", 		"group" : "10"}	
+,	
+{        "name" : "SAP Business Objects", 		"group" : "5"}	
+,	
+{        "name" : "Reimbursement Data and Control Tables (REDACT)", 		"group" : "1"}	
+,	
+{        "name" : "MIKE-11", 		"group" : "7"}	
+,	
+{        "name" : "Performance Reporting System (PRS)", 		"group" : "10"}	
+,	
+{        "name" : "SAP Materials Management (SAP-MM)", 		"group" : "5"}	
+,	
+{        "name" : "Consultation Manager", 		"group" : "10"}	
+,	
+{        "name" : "Bill View", 		"group" : "10"}	
+,	
+{        "name" : "D transfer D load", 		"group" : "7"}	
+,	
+{        "name" : "MCT31 Harmonic Calculation Software (Vendor Danfoss )", 		"group" : "7"}	
+,	
+{        "name" : "CRC-Forge", 		"group" : "7"}	
+,	
+{        "name" : "SewerNet", 		"group" : "6"}	
+,	
+{        "name" : "Grange Connector", 		"group" : "2"}	
+,	
+{        "name" : "WinEDU2000", 		"group" : "10"}	
+,	
+{        "name" : "SAP cProjects", 		"group" : "7"}	
+,	
+{        "name" : "Regulatory Condition Management System (RCMS)", 		"group" : "10"}	
+,	
+{        "name" : "As Constructed Index", 		"group" : "6"}	
+,	
+{        "name" : "Yammer", 		"group" : "10"}	
+,	
+{        "name" : "Centrelink Confirmation eServices (CCES)", 		"group" : "10"}	
+,	
+{        "name" : "Corporate Stakeholder Management System", 		"group" : "10"}	
+,	
+{        "name" : "System Capability Forecasting", 		"group" : "6"}	
+,	
+{        "name" : "LogicMaster 8.2", 		"group" : "7"}	
+,	
+{        "name" : "Bureau of Meteorology suite of application systems 9 8", 		"group" : "3"}	
+,	
+{        "name" : "SAP Document Management System (DMS)", 		"group" : "10"}	
+,	
+{        "name" : "ODSS/WQMS PDA", 		"group" : "6"}	
+,	
+{        "name" : "eDirectory", 		"group" : "3"}	
+,	
+{        "name" : "Taleo Cloud", 		"group" : "2"}	
+,	
+{        "name" : "Perfect Tracker", 		"group" : "10"}	
+,	
+{        "name" : "PI-SMT Tag Configurator", 		"group" : "10"}	
+,	
+{        "name" : "eLearning (Adobe Captivate 8)", 		"group" : "10"}	
+,	
+{        "name" : "Corporate Document Management System (AQUA)", 		"group" : "10"}	
+,	
+{        "name" : "Corporate Learning Directory", 		"group" : "10"}	
+,	
+{        "name" : "AutoCAD Raster Design", 		"group" : "7"}	
+,	
+{        "name" : "Indigo CCTV", 		"group" : "10"}	
+,	
+{        "name" : "LARMS2G", 		"group" : "10"}	
+,	
+{        "name" : "RTUTIL560", 		"group" : "10"}	
+,	
+{        "name" : "Water Quality Performance and Operational Management Reporting (POPMAN)", 		"group" : "10"}	
+,	
+{        "name" : "PDF-Xchange", 		"group" : "10"}	
+,	
+{        "name" : "SAP Process Orchestration (PO)", 		"group" : "5"}	
+,	
+{        "name" : "ERDAS Apollo", 		"group" : "10"}	
+,	
+{        "name" : "Field Meter Reading System (FMRS)", 		"group" : "2"}	
+,	
+{        "name" : "Operational Data Storage System (ODSS)", 		"group" : "6"}	
+,	
+{        "name" : "SiteMinder", 		"group" : "10"}	
+,	
+{        "name" : "SAP Asset Management (SAP-AM)", 		"group" : "6"}	
+,	
+{        "name" : "Sentinel", 		"group" : "10"}	
+,	
+{        "name" : "MAPPA", 		"group" : "6"}	
+,	
+{        "name" : "Jasper Reports", 		"group" : "10"}	
+,	
+{        "name" : "Line Fault Reporting", 		"group" : "10"}	
+,	
+{        "name" : "www.watercorporation.com.au", 		"group" : "10"}	
+,	
+{        "name" : "PTS", 		"group" : "10"}	
+,	
+{        "name" : "PI (Data Historian)", 		"group" : "6"}	
+,	
+{        "name" : "Winstart (Vendor Danfoss )", 		"group" : "7"}	
+,	
+{        "name" : "Corporate KeyDex", 		"group" : "10"}	
+,	
+{        "name" : "Dam Safety Data Logger File Transfers", 		"group" : "7"}	
+,	
+{        "name" : "ADEMCO Alarm Diallers", 		"group" : "10"}	
+,	
+{        "name" : "OpenText Vendor Invoice Management (VIM)", 		"group" : "5"}	
+,	
+{        "name" : "Spatial Asset System Management (SPASM) (Ellenbrook Data Management Program)", 		"group" : "10"}	
+,	
+{        "name" : "Priority One Enquiry Management System (POEMS) Administration", 		"group" : "10"}	
+,	
+{        "name" : "SWMOD", 		"group" : "7"}	
+,	
+{        "name" : "ECOMAPS", 		"group" : "10"}	
+,	
+{        "name" : "AutoCAD", 		"group" : "10"}	
+,	
+{        "name" : "Priority One Enquiry Management System (POEMS)", 		"group" : "4"}	
+,	
+{        "name" : "SAP FI/CO", 		"group" : "5"}	
+,	
+{        "name" : "Environment Task Tracker", 		"group" : "4"}	
+,	
+{        "name" : "Cosmotec Selection Software", 		"group" : "7"}	
+,	
+{        "name" : "SAP Activity Based Planning (ABP)", 		"group" : "5"}	
+,	
+{        "name" : "ANZ Card Management", 		"group" : "10"}	
+,	
+{        "name" : "Fatigue Management System", 		"group" : "10"}	
+,	
+{        "name" : "LiteSpatial", 		"group" : "3"}	
+,	
+{        "name" : "SAP Human Resources (SAP-HR)", 		"group" : "5"}	
+,	
+{        "name" : "CLIENT - (CFIS)", 		"group" : "2"}	
+,	
+{        "name" : "Smallworld Water Office 4.3", 		"group" : "3"}	
+,	
+{        "name" : "Dial Before You Dig(DBYD) *OLD*", 		"group" : "10"}	
+,	
+{        "name" : "SCCM (Microsoft System Center Configuration Manager)", 		"group" : "10"}	
+,	
+{        "name" : "NetBackup ", 		"group" : "10"}	
+,	
+{        "name" : "Easy IP", 		"group" : "10"}	
+,	
+{        "name" : "NESSUS", 		"group" : "10"}	
+,	
+{        "name" : "DELL OpenManage", 		"group" : "10"}	
+,	
+{        "name" : "QlikView Server", 		"group" : "10"}	
+,	
+{        "name" : "Clarity", 		"group" : "10"}	
+,	
+{        "name" : "Oceanica CKAN", 		"group" : "10"}	
+,	
+{        "name" : "QlikView NPrinting Server", 		"group" : "10"}	
+,	
+{        "name" : "Google Maps", 		"group" : "10"}	
+,	
+{        "name" : "Meter Reader Work Reporting System (MRWRS)", 		"group" : "10"}	
+,	
+{        "name" : "Qlikview", 		"group" : "10"}	
+,	
+{        "name" : "Pipe 10.0", 		"group" : "10"}	
+,	
+{        "name" : "AQTESOLV", 		"group" : "10"}	
+,	
+{        "name" : "PRAMS Groundwater Model", 		"group" : "10"}	
+,	
+{        "name" : "eConcessions", 		"group" : "10"}	
+,	
+{        "name" : "eSMR (Special Meter Read)", 		"group" : "10"}	
+,	
+{        "name" : "MDT AutoSave", 		"group" : "10"}	
+,	
+{        "name" : "Microsoft Access", 		"group" : "10"}	
+,	
+{        "name" : "M&E Task Tracker", 		"group" : "10"}	
+,	
+{        "name" : "Symantec Endpoint Protection (SEP)", 		"group" : "10"}	
+,	
+{        "name" : "NetScaler", 		"group" : "10"}	
+,	
+{        "name" : "Online Service Request (IT Support)", 		"group" : "10"}	
+,	
+{        "name" : "Taleo Business Edition", 		"group" : "10"}	
+,	
+{        "name" : "Service Management Dashboard 4.3", 		"group" : "10"}	
+,	
+{        "name" : "March ClearSight LLC", 		"group" : "10"}	
+,	
+{        "name" : "Navisworks", 		"group" : "10"}	
+,	
+{        "name" : "Marsh SharePoint", 		"group" : "10"}	
+,	
+{        "name" : "SIM- Treasury Reporting Software", 		"group" : "10"}	
+,	
+{        "name" : "Tax Integrator", 		"group" : "10"}	
+,	
+{        "name" : "Thomson Reuters FBT Software", 		"group" : "10"}	
+,	
+{        "name" : "GESB Online", 		"group" : "10"}	
+,	
+{        "name" : "ABS (Regulatory Reporting)", 		"group" : "10"}	
+,	
+{        "name" : "EEO Commission (Regulatory Reporting)", 		"group" : "10"}	
+,	
+{        "name" : "HR Benchmarking Surveys - HAY,Mercer,Geoff Nunn & Associates", 		"group" : "10"}	
+,	
+{        "name" : "PayPlan - Salary Packaging", 		"group" : "10"}	
+,	
+{        "name" : "AAS", 		"group" : "10"}	
+,	
+{        "name" : "Office of State Revenue", 		"group" : "10"}	
+,	
+{        "name" : "Genesis - Psych Testing", 		"group" : "10"}	
+,	
+{        "name" : "Job Board (Apply Direct, LinkedIn , Seek)", 		"group" : "10"}	
+,	
+{        "name" : "Thomas International - Psych Testing", 		"group" : "10"}	
+,	
+{        "name" : "Survey Monkey", 		"group" : "10"}	
+,	
+{        "name" : "VEIPLE", 		"group" : "10"}	
+,	
+{        "name" : "Auskey", 		"group" : "10"}	
+,	
+{        "name" : "SuperStream", 		"group" : "10"}	
+,	
+{        "name" : "360 Leadership Assessment Tool", 		"group" : "10"}	
+,	
+{        "name" : "HAY - Employee Effectiveness Survey", 		"group" : "10"}	
+,	
+{        "name" : "Federal Government National Register", 		"group" : "10"}	
+,	
+{        "name" : "Carson-Wagonlit Travel", 		"group" : "10"}	
+,	
+{        "name" : "RPData", 		"group" : "10"}	
+,	
+{        "name" : "Avis/Budget/Thrifty", 		"group" : "10"}	
+,	
+{        "name" : "Pickles", 		"group" : "10"}	
+,	
+{        "name" : "SGFleet", 		"group" : "10"}	
+,	
+{        "name" : "iAuditor", 		"group" : "10"}	
+,	
+{        "name" : "People Size 2008", 		"group" : "10"}	
+,	
+{        "name" : "SafetyLaw", 		"group" : "10"}	
+,	
+{        "name" : "Sparx Enterprise Architect", 		"group" : "10"}	
+,	
+{        "name" : "ServiceNow", 		"group" : "10"}	
+,	
+{        "name" : "Novell IManager", 		"group" : "10"}	
+,	
+{        "name" : "R", 		"group" : "10"}	
+,	
+{        "name" : "RStudio", 		"group" : "10"}	
+,	
+{        "name" : "Long Run Marginal Cost Model", 		"group" : "10"}	
+,	
+{        "name" : "Executive Calendar", 		"group" : "10"}	
+,	
+{        "name" : "Electrical Workers Register", 		"group" : "10"}	
+,	
+{        "name" : "Diligent Boardbooks", 		"group" : "10"}	
+,	
+{        "name" : "FM Interact", 		"group" : "10"}	
+,	
+{        "name" : "Aboriginal Heritage Approvals Tracker", 		"group" : "10"}	
+,	
+{        "name" : "Environmental Events Register", 		"group" : "10"}	
+,	
+{        "name" : "Non Compliance Registers Spreadsheet", 		"group" : "10"}	
+,	
+{        "name" : "Office Ergonomics Services Usage Tracking Spreadsheet", 		"group" : "10"}	
+,	
+{        "name" : "Workers Compensation Status Tally", 		"group" : "10"}	
+,	
+{        "name" : "Smallworld 4.3", 		"group" : "3"}	
+,	
+{        "name" : "Sewer Pressure Mains Risk Model", 		"group" : "10"}	
+,	
+{        "name" : "Water Mains Risk Model", 		"group" : "10"}	
+,	
+{        "name" : "CMS Historical Data Base", 		"group" : "10"}	
+,	
+{        "name" : "Evaluation Matrix and Compliance Check Spreadsheet", 		"group" : "10"}	
+,	
+{        "name" : "Financial Analysis Tools", 		"group" : "10"}	
+,	
+{        "name" : "CA-CMDB", 		"group" : "10"}	
+,	
+{        "name" : "CA Spectrum", 		"group" : "10"}	
+,	
+{        "name" : "CiscoWorks LAN Management Solution", 		"group" : "10"}	
+,	
+{        "name" : "Dameware", 		"group" : "10"}	
+,	
+{        "name" : "RSA SecurID", 		"group" : "10"}	
+,	
+{        "name" : "Transport Express", 		"group" : "10"}	
+,	
+{        "name" : "Spinifex", 		"group" : "10"}	
+,	
+{        "name" : "HURMIS archive data base (historical HR data pre 1998)", 		"group" : "10"}	
+,	
+{        "name" : "Sewex", 		"group" : "10"}	
+,	
+{        "name" : "Emissions and Energy Reporting System (EERS)", 		"group" : "10"}	
+,	
+{        "name" : "Western Power Portal", 		"group" : "10"}	
+,	
+{        "name" : "My Health", 		"group" : "10"}	
+,	
+{        "name" : "Prequalification database", 		"group" : "10"}	
+,	
+{        "name" : "CADO/SAP Spreadsheet", 		"group" : "10"}	
+,	
+{        "name" : "Injury Connect Database", 		"group" : "10"}	
+,	
+{        "name" : "NavMan AVL2", 		"group" : "10"}	
+,	
+{        "name" : "Route Planner", 		"group" : "10"}	
+,	
+{        "name" : "Cisco", 		"group" : "10"}	
+,	
+{        "name" : "Word (Microsoft)", 		"group" : "10"}	
+,	
+{        "name" : "Oracle", 		"group" : "10"}	
+,	
+{        "name" : "SQLServer (Microsoft SQLServer)", 		"group" : "10"}	
+,	
+{        "name" : "DOS Engineering", 		"group" : "10"}	
+,	
+{        "name" : "Outage Management 4.3", 		"group" : "10"}	
+,	
+{        "name" : "SAP Plant Maintenance (SAP-PM)", 		"group" : "6"}	
+,	
+{        "name" : "Telstra Instant Messaging", 		"group" : "10"}	
+,	
+{        "name" : "Microsoft Exchange", 		"group" : "10"}	
+,	
+{        "name" : "Smallworld 4.3", 		"group" : "3"}	
+,	
+{        "name" : "Trio Radio S-Series Programmer", 		"group" : "10"}	
+,	
+{        "name" : "Trio Stream Router", 		"group" : "10"}	
+,	
+{        "name" : "IP-MAN", 		"group" : "10"}	
+,	
+{        "name" : "RTU2xx Diagnostic and Transfer", 		"group" : "10"}	
+,	
+{        "name" : "SIMATIC PDM", 		"group" : "10"}	
+,	
+{        "name" : "Automation License Manager", 		"group" : "10"}	
+,	
+{        "name" : "WinCC Flexible", 		"group" : "10"}	
+,	
+{        "name" : "GE Proficy License", 		"group" : "10"}	
+,	
+{        "name" : "SAP Supplier Relationship Management (SAP-SRM)", 		"group" : "5"}	
+	
+],	
+
+"processes": [ 	
+{        "name" : "Manage Research and Development", 		"group" : "10"}	
+,	
+{        "name" : "Manage Innovation", 		"group" : "10"}	
+,	
+{        "name" : "Manage Strategic Direction for Water Efficiency", 		"group" : "10"}	
+,	
+{        "name" : "Manage Strategic Direction for Recycling", 		"group" : "10"}	
+,	
+{        "name" : "Manage Water Source Compliance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Strategic Direction for Water Supply", 		"group" : "10"}	
+,	
+{        "name" : "Plan and Investigate Asset Renewals", 		"group" : "10"}	
+,	
+{        "name" : "Manage the Planning of Asset Operations", 		"group" : "10"}	
+,	
+{        "name" : "Plan Asset Maintenance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Strategic Direction for Drainage", 		"group" : "10"}	
+,	
+{        "name" : "Manage Drainage Performance", 		"group" : "10"}	
+,	
+{        "name" : "Plan Strategic Asset Management", 		"group" : "10"}	
+,	
+{        "name" : "Manage and Assess Asset Risk", 		"group" : "10"}	
+,	
+{        "name" : "Manage Regional Asset Investment Planning ", 		"group" : "10"}	
+,	
+{        "name" : "Manage Building Service", 		"group" : "10"}	
+,	
+{        "name" : "Manage Land Service", 		"group" : "10"}	
+,	
+{        "name" : "Plan Land Servicing", 		"group" : "10"}	
+,	
+{        "name" : "Manage Scope", 		"group" : "10"}	
+,	
+{        "name" : "Manage External Approvals", 		"group" : "10"}	
+,	
+{        "name" : "Manage Program Capital", 		"group" : "10"}	
+,	
+{        "name" : "Manage Strategic Investment Prioritisation", 		"group" : "10"}	
+,	
+{        "name" : "Formulate Capital Investment", 		"group" : "10"}	
+,	
+{        "name" : "Manage Insurance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Legislation", 		"group" : "10"}	
+,	
+{        "name" : "Manage Provision Legal Services", 		"group" : "10"}	
+,	
+{        "name" : "Coordinate Board Governance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Works Holding Arrangements", 		"group" : "10"}	
+,	
+{        "name" : "Manage Business Development", 		"group" : "10"}	
+,	
+{        "name" : "Manage Planning Corporate Strategic Direction", 		"group" : "10"}	
+,	
+{        "name" : "Manage Coordination of Approach to Business Analysis", 		"group" : "10"}	
+,	
+{        "name" : "Manage Monitoring of Corporate Strategic Direction", 		"group" : "10"}	
+,	
+{        "name" : "Manage Strategic Policy Direction", 		"group" : "10"}	
+,	
+{        "name" : "Manage Use of Management Operating Systems", 		"group" : "10"}	
+,	
+{        "name" : "Manage Corporate Change", 		"group" : "10"}	
+,	
+{        "name" : "Manage Ministerial Liaison", 		"group" : "10"}	
+,	
+{        "name" : "Manage Media Communications", 		"group" : "10"}	
+,	
+{        "name" : "Manage Board Liaison", 		"group" : "10"}	
+,	
+{        "name" : "Manage the Billing of Customers", 		"group" : "10"}	
+,	
+{        "name" : "Manage Customer Records Maintenance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Property Records Maintenance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Single View of Customer", 		"group" : "10"}	
+,	
+{        "name" : "Manage the Collection of Revenue", 		"group" : "10"}	
+,	
+{        "name" : "Manage Customer Engagement", 		"group" : "10"}	
+,	
+{        "name" : "Manage Community Engagement", 		"group" : "10"}	
+,	
+{        "name" : "Manage Customer Strategy", 		"group" : "10"}	
+,	
+{        "name" : "Manage Major Customer Agreements", 		"group" : "10"}	
+,	
+{        "name" : "Manage Delivery of Water Efficiency Projects", 		"group" : "10"}	
+,	
+{        "name" : "Manage Key Customer Relationships", 		"group" : "10"}	
+,	
+{        "name" : "Manage Stakeholder Engagement", 		"group" : "10"}	
+,	
+{        "name" : "Manage Internal Communications", 		"group" : "10"}	
+,	
+{        "name" : "Manage Fleet", 		"group" : "10"}	
+,	
+{        "name" : "Manage Real Estate", 		"group" : "10"}	
+,	
+{        "name" : "Manage Risk Framework", 		"group" : "10"}	
+,	
+{        "name" : "Manage Compliance and Accountability Framework", 		"group" : "10"}	
+,	
+{        "name" : "Provide Internal Review and Audit Services", 		"group" : "10"}	
+,	
+{        "name" : "Manage Operating License", 		"group" : "10"}	
+,	
+{        "name" : "Plan Workforce", 		"group" : "10"}	
+,	
+{        "name" : "Manage Equity and Diversity", 		"group" : "10"}	
+,	
+{        "name" : "Manage Employee Relations", 		"group" : "10"}	
+,	
+{        "name" : "Manage Employment Conditions Definition and Maintenance", 		"group" : "10"}	
+,	
+{        "name" : "Maintain Employee Payroll, Details and Records", 		"group" : "10"}	
+,	
+{        "name" : "Develop Employees", 		"group" : "10"}	
+,	
+{        "name" : "Manage Performance", 		"group" : "10"}	
+,	
+{        "name" : "Recruit Employees", 		"group" : "10"}	
+,	
+{        "name" : "Implement IT Projects", 		"group" : "10"}	
+,	
+{        "name" : "Provide Commercial I.T. Support", 		"group" : "10"}	
+,	
+{        "name" : "Manage Treasury and Taxation", 		"group" : "10"}	
+,	
+{        "name" : "Manage Accounting", 		"group" : "10"}	
+,	
+{        "name" : "Manage Performance Reporting", 		"group" : "10"}	
+,	
+{        "name" : "Manage Operating Budgets", 		"group" : "10"}	
+,	
+{        "name" : "Manage Evaluation of Investments", 		"group" : "10"}	
+,	
+{        "name" : "Manage Pricing", 		"group" : "10"}	
+,	
+{        "name" : "Manage Procurement Agreements", 		"group" : "10"}	
+,	
+{        "name" : "Manage Inventory", 		"group" : "10"}	
+,	
+{        "name" : "Manage Suppliers", 		"group" : "10"}	
+,	
+{        "name" : "Manage Procurement Planning", 		"group" : "10"}	
+,	
+{        "name" : "Manage Purchase to Pay", 		"group" : "10"}	
+,	
+{        "name" : "Manage Mechanical & Electrical Safety", 		"group" : "10"}	
+,	
+{        "name" : "Manage Electrical Compliance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Mechanical & Electrical Assets Compliance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Delivery of Projects", 		"group" : "10"}	
+,	
+{        "name" : "Transfer Assets and Close-out Project", 		"group" : "10"}	
+,	
+{        "name" : "Design Assets", 		"group" : "10"}	
+,	
+{        "name" : "Post Delivery Review", 		"group" : "10"}	
+,	
+{        "name" : "Create Contracts", 		"group" : "10"}	
+,	
+{        "name" : "Chair ALT's", 		"group" : "10"}	
+,	
+{        "name" : "Manage Alliance Relationships", 		"group" : "10"}	
+,	
+{        "name" : "Manage Great Southern Region", 		"group" : "10"}	
+,	
+{        "name" : "Manage Goldfields & Agricultural Region", 		"group" : "10"}	
+,	
+{        "name" : "Manage North West Region", 		"group" : "10"}	
+,	
+{        "name" : "Manage South West Region", 		"group" : "10"}	
+,	
+{        "name" : "Manage Mid West Region", 		"group" : "10"}	
+,	
+{        "name" : "Manage Inspection & Refurbishment Services", 		"group" : "10"}	
+,	
+{        "name" : "Manage Field Services program delivery", 		"group" : "10"}	
+,	
+{        "name" : "Manage Metering Services", 		"group" : "10"}	
+,	
+{        "name" : "Manage Commercial & Industrial Waste", 		"group" : "10"}	
+,	
+{        "name" : "Manage Asset Monitoring & Systems Investigations", 		"group" : "10"}	
+,	
+{        "name" : "Manage Operational Alliance Goverance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Relationship Contracts Goverance", 		"group" : "10"}	
+,	
+{        "name" : "Manage WW and AWQ Supporting Requirements", 		"group" : "10"}	
+,	
+{        "name" : "Manage WW and AWQ Commitment", 		"group" : "10"}	
+,	
+{        "name" : "Manage WW and AWQ System Analysis & Operations", 		"group" : "10"}	
+,	
+{        "name" : "Manage Review of WW and AWQ Processes", 		"group" : "10"}	
+,	
+{        "name" : "Manage DWQ Supporting Requirements", 		"group" : "10"}	
+,	
+{        "name" : "Manage Review of DWQ Processes", 		"group" : "10"}	
+,	
+{        "name" : "Manage DWQ System Analysis & Operations", 		"group" : "10"}	
+,	
+{        "name" : "Manage DWQ Commitment", 		"group" : "10"}	
+,	
+{        "name" : "Manage OSH Strategic Corporate Direction", 		"group" : "10"}	
+,	
+{        "name" : "Manage Workers' Compensation, Health and Welfare", 		"group" : "10"}	
+,	
+{        "name" : "Manage Hazards and OSH Incidents", 		"group" : "10"}	
+,	
+{        "name" : "Monitor, Analyse and Review OSH", 		"group" : "10"}	
+,	
+{        "name" : "Manage Service Delivery Planning", 		"group" : "10"}	
+,	
+{        "name" : "Manage Field Work Schedule", 		"group" : "10"}	
+,	
+{        "name" : "Manage Field Work Planning", 		"group" : "10"}	
+,	
+{        "name" : "Manage Execution of Field Work", 		"group" : "10"}	
+,	
+{        "name" : "Manage Performance Optimisation of Deliver Services Process", 		"group" : "10"}	
+,	
+{        "name" : "Manage Environmental Compliance", 		"group" : "10"}	
+,	
+{        "name" : "Manage Environmental Approvals", 		"group" : "10"}	
+,	
+{        "name" : "Manage Environmental Programs and Support", 		"group" : "10"}	
+,	
+{        "name" : "Manage Aboriginal Affairs", 		"group" : "10"}	
+,	
+{        "name" : "Prioritise and Sequence Operational Change", 		"group" : "10"}	
+,	
+{        "name" : "Manage Scheme Operations", 		"group" : "10"}	
+,	
+{        "name" : "Manage Incidents", 		"group" : "10"}	
+,	
+{        "name" : "Manage Strategic Direction for Energy", 		"group" : "10"}	
+	
+],	
+"links": [ 	
+{"target": "0", 				"source": "21", 				"notes": "This%20uses%20ODSS%20data%20to%20identify%20technical%20opportunities%20for%20improvement.", 				"importance": "8", 				"usage": "4", 				"value": "10"},	
+{"target": "0", 				"source": "32", 				"notes": "", 				"importance": "5", 				"usage": "6", 				"value": "10"},	
+{"target": "0", 				"source": "140", 				"notes": "Provides%20a%20portal%20to%20manage%20purchase%20orders%2C%20track%20financial%20expenditure%2Fcommitments.", 				"importance": "4", 				"usage": "4", 				"value": "10"},	
+{"target": "0", 				"source": "154", 				"notes": "Provides%20portal%20for%20communication%20of%20research%20project%20progress%20to%20our%20team%20and%20project%20Clients", 				"importance": "5", 				"usage": "9", 				"value": "10"},	
+{"target": "0", 				"source": "180", 				"notes": "Provides%20capability%20to%20manage%20the%20Program%20at%20financial%2C%20milestone%20and%20reporting%20levels.", 				"importance": "6", 				"usage": "8", 				"value": "10"},	
+{"target": "0", 				"source": "184", 				"notes": "This%20is%20used%20for%20the%20BEX%20Asset%20Management%20and%20WEBI%20Report%20Designer%20modules%20and%20reporting%20on%20expenditure%20of%20key%20suppliers.", 				"importance": "6", 				"usage": "8", 				"value": "10"},	
+{"target": "0", 				"source": "222", 				"notes": "This%20displays%20Material%20Management%20data%20and%20data%20from%20the%20Aroona%20Alliance", 				"importance": "5", 				"usage": "6", 				"value": "10"},	
+{"target": "0", 				"source": "231", 				"notes": "This%20provides%20functionality%20to%20write%20and%20store%20documentation.", 				"importance": "5", 				"usage": "6", 				"value": "10"},	
+{"target": "0", 				"source": "234", 				"notes": "Provides%20functionality%20to%20convey%20research%20news%20and%20promote%20collaboration.", 				"importance": "5", 				"usage": "6", 				"value": "10"},	
+{"target": "2", 				"source": "21", 				"notes": "Provides%20reporting%20and%20analysis%20using%20ODSS%20waste%20water%20data%20to%20review%20water%20efficiency%20initiatives.", 				"importance": "8", 				"usage": "7", 				"value": "6"},	
+{"target": "2", 				"source": "99", 				"notes": "Provides%20reporting%20and%20analysis%20using%20ODSS%20data%20to%20review%20efficiency%20and%20update%20current%20state.", 				"importance": "8", 				"usage": "7", 				"value": "6"},	
+{"target": "2", 				"source": "101", 				"notes": "Provides%20central%20repository%20for%20asset%20related%20documentation.", 				"importance": "8", 				"usage": "9", 				"value": "6"},	
+{"target": "2", 				"source": "131", 				"notes": "5456", 				"importance": "7", 				"usage": "7", 				"value": "6"},	
+{"target": "2", 				"source": "170", 				"notes": "This%20records%20operational%20data%2C%20contingency%20planning%20and%20incident%20management%20information%20to%20review%20water%20efficiency%20of%20assets.", 				"importance": "7", 				"usage": "5", 				"value": "6"},	
+{"target": "2", 				"source": "258", 				"notes": "Provides%20historical%20information%20on%20sampling%20and%20operational%20data.", 				"importance": "8", 				"usage": "3", 				"value": "6"},	
+{"target": "3", 				"source": "21", 				"notes": "Provides%20reporting%20and%20analysis%20using%20ODSS%20waste%20water%20data%20to%20review%20recycling%20strategy.", 				"importance": "8", 				"usage": "7", 				"value": "6"},	
+{"target": "3", 				"source": "99", 				"notes": "Provides%20reporting%20and%20analysis%20using%20ODSS%20data%20to%20review%20recycling%20strategy.", 				"importance": "8", 				"usage": "7", 				"value": "6"},	
+{"target": "3", 				"source": "101", 				"notes": "Provides%20central%20repository%20for%20recycling%20asset%20related%20documentation.", 				"importance": "8", 				"usage": "9", 				"value": "6"},	
+{"target": "3", 				"source": "131", 				"notes": "5251", 				"importance": "7", 				"usage": "7", 				"value": "6"},	
+{"target": "3", 				"source": "170", 				"notes": "This%20records%20operational%20data%2C%20contingency%20planning%20and%20incident%20management%20information%20to%20review%20recycling%20capability.", 				"importance": "7", 				"usage": "5", 				"value": "6"},	
+{"target": "3", 				"source": "258", 				"notes": "Provides%20historical%20information%20on%20sampling%20and%20operational%20data.", 				"importance": "8", 				"usage": "3", 				"value": "6"},	
+{"target": "4", 				"source": "258", 				"notes": "This%20allows%20for%20reporting%20and%20analysis%20on%20sampling%20and%20operational%20data%20to%20review%20compliance.", 				"importance": "9", 				"usage": "8", 				"value": "1"},	
+{"target": "5", 				"source": "21", 				"notes": "Provides%20reporting%20and%20analysis%20using%20ODSS%20waste%20water%20data%20to%20review%20water%20supply.", 				"importance": "8", 				"usage": "7", 				"value": "6"},	
+{"target": "5", 				"source": "82", 				"notes": "ApplicationService1", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "5", 				"source": "101", 				"notes": "Provides%20central%20repository%20for%20asset%20related%20documentation.", 				"importance": "8", 				"usage": "9", 				"value": "6"},	
+{"target": "5", 				"source": "131", 				"notes": "5237", 				"importance": "7", 				"usage": "7", 				"value": "6"},	
+{"target": "5", 				"source": "170", 				"notes": "This%20records%20operational%20data%2C%20contingency%20planning%20and%20incident%20management%20information%20for%20assets.", 				"importance": "7", 				"usage": "5", 				"value": "6"},	
+{"target": "5", 				"source": "258", 				"notes": "Provides%20historical%20information%20on%20sampling%20and%20operational%20data.", 				"importance": "8", 				"usage": "3", 				"value": "6"},	
+{"target": "6", 				"source": "21", 				"notes": "This%20uses%20ODSS%20data%20to%20analyse%20assets%20for%20renewal%20by%20checking%20for%20asset%20degradation%20or%20number%20of%20violations.", 				"importance": "8", 				"usage": "7", 				"value": "7"},	
+{"target": "6", 				"source": "101", 				"notes": "Provides%20source%20for%20asset-related%20documents%20for%20planning%20asset%20renewals.", 				"importance": "8", 				"usage": "9", 				"value": "7"},	
+{"target": "6", 				"source": "110", 				"notes": "This%20is%20used%20to%20propose%20impacts%20and%20of%20project%20delay%2Fdeferral%20and%20treatment%20delay%2Fdeferral.", 				"importance": "8", 				"usage": "7", 				"value": "7"},	
+{"target": "6", 				"source": "209", 				"notes": "Decision%20support%20tool%20for%20decision%20making%20regarding%20timing%20of%20asset%20renewal.", 				"importance": "4", 				"usage": "3", 				"value": "7"},	
+{"target": "6", 				"source": "212", 				"notes": "Provides%20central%20repository%20for%20Asset%20Condition%20Assessments%20as%20part%20of%20asset%20investigations.", 				"importance": "7", 				"usage": "8", 				"value": "7"},	
+{"target": "6", 				"source": "258", 				"notes": "This%20provides%20data%20for%20reporting%20and%20analysis%20on%20sampling%20and%20operational%20data%20to%20plan%20asset%20renewals.", 				"importance": "9", 				"usage": "8", 				"value": "7"},	
+{"target": "6", 				"source": "267", 				"notes": "Historical%20data%20for%20assets", 				"importance": "9", 				"usage": "8", 				"value": "7"},	
+{"target": "7", 				"source": "21", 				"notes": "This%20uses%20ODSS%20data%20to%20analyse%20assets%20and%20identify%20operations%20tasks%20to%20be%20scheduled.", 				"importance": "9", 				"usage": "6", 				"value": "6"},	
+{"target": "7", 				"source": "101", 				"notes": "Provides%20source%20for%20asset-related%20documents%20used%20for%20planning%20operations.", 				"importance": "8", 				"usage": "9", 				"value": "6"},	
+{"target": "7", 				"source": "110", 				"notes": "Provides%20functionality%20to%20plan%20facility%20repairs%20and%20maintenance%20requests.", 				"importance": "9", 				"usage": "7", 				"value": "6"},	
+{"target": "7", 				"source": "191", 				"notes": "This%20supports%20planning%20of%20water%20distribution%20networks%20through%20the%20simulation%20of%20water%20supply%20networks.", 				"importance": "8", 				"usage": "5", 				"value": "6"},	
+{"target": "7", 				"source": "205", 				"notes": "Provides%20database%20and%20reporting%20capability%20about%20power%20usage%20and%20costs%20for%20assets%20consuming%20power.", 				"importance": "9", 				"usage": "8", 				"value": "6"},	
+{"target": "7", 				"source": "258", 				"notes": "Provides%20historical%20information%20on%20sampling%20and%20operational%20data%20for%20all%20assets.", 				"importance": "9", 				"usage": "8", 				"value": "6"},	
+{"target": "8", 				"source": "21", 				"notes": "This%20ODSS%20data%20to%20monitor%20and%20assess%20assets%20for%20planned%20or%20unplanned%20maintenance.", 				"importance": "8", 				"usage": "6", 				"value": "5"},	
+{"target": "8", 				"source": "101", 				"notes": "Provides%20source%20for%20asset-related%20documents%20for%20planning%20asset%20renewals.", 				"importance": "8", 				"usage": "9", 				"value": "5"},	
+{"target": "8", 				"source": "110", 				"notes": "This%20creates%20and%20maintains%20maintenance%20plans.", 				"importance": "8", 				"usage": "7", 				"value": "5"},	
+{"target": "8", 				"source": "258", 				"notes": "This%20allows%20for%20reporting%20and%20analysis%20on%20sampling%20and%20operational%20data%20to%20review%20asset%20maintenance%20schedules.", 				"importance": "9", 				"usage": "8", 				"value": "5"},	
+{"target": "9", 				"source": "247", 				"notes": "Upload%20and%20storage%20of%20meeting%20minutes%20and%20correspondance%2C%20findings%20and%20report%20on%20strategic%20direction.", 				"importance": "6", 				"usage": "2", 				"value": "1"},	
+{"target": "10", 				"source": "101", 				"notes": "This%20provides%20capability%20to%20produce%20planning%20reports%20based%20on%20drainage%20data%20and%20is%20used%20for%20Corporate%20reporting.", 				"importance": "8", 				"usage": "9", 				"value": "4"},	
+{"target": "10", 				"source": "170", 				"notes": "This%20records%20operational%20data%2C%20contingency%20planning%20and%20incident%20management%20information%20relating%20to%20Sewerage%2C%20Water%20and%20Drainage%20assets.", 				"importance": "8", 				"usage": "5", 				"value": "4"},	
+{"target": "10", 				"source": "258", 				"notes": "Provides%20historical%20information%20on%20sampling%20and%20operational%20data.", 				"importance": "9", 				"usage": "6", 				"value": "4"},	
+{"target": "10", 				"source": "267", 				"notes": "PI(DataHistorian)_ManageDrainagePerformance_AppSvc", 				"importance": "8", 				"usage": "6", 				"value": "4"},	
+{"target": "11", 				"source": "101", 				"notes": "Provides%20%20single%20gateway%20to%20asset%20management%20planning%20information%20held%20within%20the%20Water%20Corporation's%20information%20systems.", 				"importance": "8", 				"usage": "9", 				"value": "6"},	
+{"target": "11", 				"source": "146", 				"notes": "Used%20to%20find%20historical%20Hardcopy%20reports%20that%20are%20pre%20AMPS%20or%20SCM%20or%20aquaDOC.", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "11", 				"source": "149", 				"notes": "Provides%20source%20of%20information%20for%20record%20of%20Water%20Allocation%20Licences%20and%20their%20renewal%20dates%20along%20with%20other%20associated%20data.%0D%0A", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "11", 				"source": "170", 				"notes": "This%20records%20operational%20data%20such%20as%20asset%20attributes%2C%20measurements%20data%20collected%20from%20instruments%2C%20documents%2C%20pump%20settings%20and%20running%20hours%2C%20contingency%20planning%20and%20incident%20management%20information.", 				"importance": "9", 				"usage": "8", 				"value": "6"},	
+{"target": "11", 				"source": "191", 				"notes": "Used%20in%20planning%20new%20water%20distribution%20networks%20and%20extensions%20to%20existing%20networks.%20It%20allows%20the%20simulation%20of%20the%20operation%20of%20a%20water%20supply%20network%20over%20an%20extended%20period%20allowing%20for%20variations%20in%20service%20demands%2C%20reservoir%20levels%20and%20device%20setti", 				"importance": "0", 				"usage": "8", 				"value": "6"},	
+{"target": "11", 				"source": "212", 				"notes": "Provides%20storage%20of%20asset%20condition%20information.", 				"importance": "7", 				"usage": "8", 				"value": "6"},	
+{"target": "12", 				"source": "177", 				"notes": "Provides%20the%20user%20with%20the%20ability%20to%20view%20the%20current%20level%20of%20risk%20in%20each%20of%20the%20Corporation%E2%80%99s%20asset%20systems%20throughout%20the%20State.", 				"importance": "8", 				"usage": "6", 				"value": "4"},	
+{"target": "12", 				"source": "212", 				"notes": "Provides%20storage%20of%20asset%20condition%20information.", 				"importance": "7", 				"usage": "8", 				"value": "4"},	
+{"target": "12", 				"source": "237", 				"notes": "Used%20for%20the%20reporting%20and%20analysis%20of%20asset%20performance.", 				"importance": "8", 				"usage": "8", 				"value": "4"},	
+{"target": "13", 				"source": "267", 				"notes": "Efficiency%20Analysis%20%26%20Reporting", 				"importance": "0", 				"usage": "0", 				"value": "2"},	
+{"target": "14", 				"source": "129", 				"notes": "This%20manages%20Building%20%26%20Service%20Applications%20and%20approvals%20for%20servicing%20properties.", 				"importance": "7", 				"usage": "8", 				"value": "1"},	
+{"target": "15", 				"source": "37", 				"notes": "Provides%20database%20for%20spatial%20information%20*to%20be%20replaced%20by%20water%20office).", 				"importance": "8", 				"usage": "7", 				"value": "7"},	
+{"target": "15", 				"source": "124", 				"notes": "Provides%20a%20portal%20for%20customers%2Fbuilders%20to%20request%20standalone%20water%2C%20wastewater%20services%2C%20location%20of%20sewer%20mains%2C%20junctions%20and%20internal%20plumbing.", 				"importance": "7", 				"usage": "8", 				"value": "7"},	
+{"target": "15", 				"source": "129", 				"notes": "This%20manages%20billing%20to%20customers%20for%20service%20land%20activities.", 				"importance": "7", 				"usage": "7", 				"value": "7"},	
+{"target": "15", 				"source": "143", 				"notes": "Provides%20information%20about%20land%20serviced%20based%20on%20spatial%20data.", 				"importance": "7", 				"usage": "8", 				"value": "7"},	
+{"target": "15", 				"source": "153", 				"notes": "This%20processes%20requests%20for%20ESInet.", 				"importance": "5", 				"usage": "2", 				"value": "7"},	
+{"target": "15", 				"source": "233", 				"notes": "This%20manages%20the%20storage%20of%20as-constructed%20drawings%20and%20documents.", 				"importance": "5", 				"usage": "4", 				"value": "7"},	
+{"target": "15", 				"source": "288", 				"notes": "Provides%20centralised%20database%20for%20spatial%20information%20used%20by%20spatial%20applications.", 				"importance": "8", 				"usage": "7", 				"value": "7"},	
+{"target": "16", 				"source": "37", 				"notes": "Provides%20database%20for%20spatial%20information%20*to%20be%20replaced%20by%20water%20office.", 				"importance": "7", 				"usage": "7", 				"value": "4"},	
+{"target": "16", 				"source": "113", 				"notes": "This%20allows%20for%20estimating%20cost%20of%20work%20for%20field%20crews.", 				"importance": "6", 				"usage": "4", 				"value": "4"},	
+{"target": "16", 				"source": "143", 				"notes": "Provides%20information%20about%20land%20servicing%20based%20on%20spatial%20data.", 				"importance": "7", 				"usage": "8", 				"value": "4"},	
+{"target": "16", 				"source": "288", 				"notes": "Provides%20database%20for%20spatial%20information.", 				"importance": "7", 				"usage": "6", 				"value": "4"},	
+{"target": "17", 				"source": "180", 				"notes": "This%20tracks%20and%20controls%20milestones%2C%20work%20orders%20and%20budget%20of%20capital%20projects.", 				"importance": "7", 				"usage": "6", 				"value": "1"},	
+{"target": "19", 				"source": "51", 				"notes": "Provides%20reporting%20on%20planned%20future%20work%20and%20budget%20forecasts.", 				"importance": "6", 				"usage": "9", 				"value": "4"},	
+{"target": "19", 				"source": "71", 				"notes": "Provides%20forms%20required%20for%20Appropriation%20requests%20though%20SAP%20portal.", 				"importance": "3", 				"usage": "7", 				"value": "4"},	
+{"target": "19", 				"source": "180", 				"notes": "This%20tracks%20and%20controls%20milestones%2C%20work%20orders%20and%20budget%20of%20capital%20projects.", 				"importance": "8", 				"usage": "9", 				"value": "4"},	
+{"target": "19", 				"source": "201", 				"notes": "This%20is%20used%20to%20monitor%20and%20update%20the%20impact%20of%20significant%20development%20projects%20and%20initiatives.", 				"importance": "4", 				"usage": "8", 				"value": "4"},	
+{"target": "20", 				"source": "267", 				"notes": "DataHistorian(PI)_ManageStrategicInvestmentPrioritisation_AppSvc", 				"importance": "8", 				"usage": "7", 				"value": "1"},	
+{"target": "21", 				"source": "51", 				"notes": "Provides%20reporting%20on%20planned%20Capital%20investment%20and%20budget%20forecasts.", 				"importance": "8", 				"usage": "8", 				"value": "4"},	
+{"target": "21", 				"source": "71", 				"notes": "Provides%20forms%20required%20for%20Appropriation%20requests%20though%20SAP%20portal.", 				"importance": "4", 				"usage": "9", 				"value": "4"},	
+{"target": "21", 				"source": "121", 				"notes": "This%20supports%20the%20prioritisation%20process%20of%20incoming%20projects%20and%20Capital%20improvement%20projects.", 				"importance": "6", 				"usage": "5", 				"value": "4"},	
+{"target": "21", 				"source": "201", 				"notes": "This%20is%20created%20during%20the%20start%20of%20a%20capital%20project%20to%20outline%20corporate%20impact%20of%20project.", 				"importance": "4", 				"usage": "9", 				"value": "4"},	
+{"target": "22", 				"source": "315", 				"notes": "Insurance%20claims%20management%20and%20reporting%2C%20monthly%20reporting%20BPR%2C%20claims%20history.", 				"importance": "7", 				"usage": "8", 				"value": "2"},	
+{"target": "22", 				"source": "317", 				"notes": "Storage%20of%20insurance%20policies%20and%20wordings.", 				"importance": "7", 				"usage": "8", 				"value": "2"},	
+{"target": "23", 				"source": "247", 				"notes": "Storage%20and%20update%20of%20corporate%20legislation%20documentation%20for%20the%20corporation.", 				"importance": "2", 				"usage": "7", 				"value": "1"},	
+{"target": "25", 				"source": "354", 				"notes": "This%20is%20used%20for%20the%20upload%20of%20Board%20packs%20prior%20to%20Directors%20meetings.", 				"importance": "8", 				"usage": "5", 				"value": "1"},	
+{"target": "27", 				"source": "16", 				"notes": "Provides%20additional%20functionality%20for%20document%20navigation%20such%20as%20analysis%20tracker%2C%20notes%2C%20amendments%20and%20variations.", 				"importance": "4", 				"usage": "4", 				"value": "3"},	
+{"target": "27", 				"source": "77", 				"notes": "Used%20for%20risk%20analysis%20based%20on%20Monte%20Carlo%20simulation.", 				"importance": "4", 				"usage": "2", 				"value": "3"},	
+{"target": "27", 				"source": "279", 				"notes": "Manage%20payment%20settlement%20and%20project%20accounting.", 				"importance": "7", 				"usage": "7", 				"value": "3"},	
+{"target": "28", 				"source": "352", 				"notes": "Used%20to%20prepare%20papers%20for%20monthly%20meetings%20as%20per%20schedule%20to%20meet%20statutory%20requirements%20(SharePoint%20application).", 				"importance": "5", 				"usage": "7", 				"value": "1"},	
+{"target": "34", 				"source": "278", 				"notes": "This%20is%20used%20as%20a%20workflow%20client%20to%20send%20P1%20enquiries%20and%20approval%20tracking.%20Storage%20and%20search%20of%20historical%20enquiries.", 				"importance": "8", 				"usage": "9", 				"value": "1"},	
+{"target": "35", 				"source": "23", 				"notes": "Used%20to%20manage%20public%20website%20content.", 				"importance": "9", 				"usage": "9", 				"value": "3"},	
+{"target": "35", 				"source": "129", 				"notes": "Managing%20customer%20enquiries%20related%20to%20billing%20and%20complaints%20via%20the%20Energy%20%26%20Water%20Ombudsman.", 				"importance": "8", 				"usage": "8", 				"value": "3"},	
+{"target": "35", 				"source": "223", 				"notes": "Helps%20front-line%20staff%20better%20manage%20relationships%20and%20communication%20with%20key%20customers%20and%20stakeholders.", 				"importance": "2", 				"usage": "2", 				"value": "3"},	
+{"target": "36", 				"source": "278", 				"notes": "This%20is%20used%20for%20the%20consolidation%20and%20collection%20of%20information%20used%20for%20re-address%20(Briefing%20Note%20Request%2C%20Cabinet%20Submission%2C%20Letter%20from%20Ombudsman).", 				"importance": "6", 				"usage": "4", 				"value": "2"},	
+{"target": "36", 				"source": "354", 				"notes": "This%20is%20used%20for%20the%20upload%20of%20Board%20packs%20prior%20to%20Directors%20meetings.", 				"importance": "8", 				"usage": "7", 				"value": "2"},	
+{"target": "37", 				"source": "24", 				"notes": "This%20is%20used%20to%20update%20REDACT.", 				"importance": "7", 				"usage": "4", 				"value": "8"},	
+{"target": "37", 				"source": "64", 				"notes": "This%20is%20an%20access%20database%20used%20for%20fine%20enforcements%20(eg.%20Sprinkler%20breaches).", 				"importance": "5", 				"usage": "4", 				"value": "8"},	
+{"target": "37", 				"source": "109", 				"notes": "Provides%20database%20for%20trade%20waste%20customer%20permits%2C%20approvals%20compliance%20data%20and%20provides%20information%20for%20billing%20customers.", 				"importance": "6", 				"usage": "6", 				"value": "8"},	
+{"target": "37", 				"source": "120", 				"notes": "Allows%20customer%20to%20view%20bills%20online.", 				"importance": "8", 				"usage": "9", 				"value": "8"},	
+{"target": "37", 				"source": "129", 				"notes": "This%20creates%20customer%20billing%20invoices.", 				"importance": "9", 				"usage": "9", 				"value": "8"},	
+{"target": "37", 				"source": "192", 				"notes": "This%20pulls%20data%20from%20SAP%20and%20Grange%20for%20reimbursement%20billing.", 				"importance": "6", 				"usage": "5", 				"value": "8"},	
+{"target": "37", 				"source": "219", 				"notes": "This%20extracts%20data%20from%20WORRB%20for%20reimbursement%20generation.", 				"importance": "8", 				"usage": "5", 				"value": "8"},	
+{"target": "37", 				"source": "267", 				"notes": "Efficiency%20Analysis%20%26%20Reporting", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "38", 				"source": "63", 				"notes": "This%20is%20used%20to%20advise%20of%20sales%20from%20settlement%20agents%20and%20requests%20for%20special%20meter%20readings.", 				"importance": "7", 				"usage": "8", 				"value": "6"},	
+{"target": "38", 				"source": "120", 				"notes": "Allows%20customer%20to%20update%20personal%20and%20property%20details%20online.", 				"importance": "8", 				"usage": "9", 				"value": "6"},	
+{"target": "38", 				"source": "193", 				"notes": "This%20is%20a%20Service%20Desk%20functionality%20that%20allows%20for%20customer%20interaction%20via%20phone.", 				"importance": "7", 				"usage": "8", 				"value": "6"},	
+{"target": "38", 				"source": "235", 				"notes": "Confirm%20customer%20eligibility%20for%20rebates%2C%20concessions%20or%20services", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "38", 				"source": "235", 				"notes": "Used%20by%20Customer%20Services%20team%20to%20confirm%20customer%20eligibility%20for%20rebates%2C%20concessions%20or%20services.", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "38", 				"source": "305", 				"notes": "Used%20to%20manage%20customer%20concession%20information%20and%20profile.", 				"importance": "6", 				"usage": "7", 				"value": "6"},	
+{"target": "39", 				"source": "4", 				"notes": "Provides%20water%20meter%20readings%20from%20smart%20meters.", 				"importance": "7", 				"usage": "9", 				"value": "9"},	
+{"target": "39", 				"source": "100", 				"notes": "Provides%20a%20reporting%20repository%20from%20Grange%20for%20customer%20related%20reporting.", 				"importance": "7", 				"usage": "9", 				"value": "9"},	
+{"target": "39", 				"source": "111", 				"notes": "This%20provides%20storage%20of%20published%20documents%20with%20scheduled%20review%20cycles.", 				"importance": "6", 				"usage": "5", 				"value": "9"},	
+{"target": "39", 				"source": "124", 				"notes": "Used%20to%20submit%20Single%20Residential%20Building%20Applications%20or%20other%20building%20related%20applications.", 				"importance": "7", 				"usage": "8", 				"value": "9"},	
+{"target": "39", 				"source": "129", 				"notes": "This%20stores%20customer%20property%20information.", 				"importance": "8", 				"usage": "9", 				"value": "9"},	
+{"target": "39", 				"source": "143", 				"notes": "Provides%20and%20stores%20property%20information%20and%20spatial%20data.", 				"importance": "7", 				"usage": "7", 				"value": "9"},	
+{"target": "39", 				"source": "169", 				"notes": "5281", 				"importance": "8", 				"usage": "9", 				"value": "9"},	
+{"target": "39", 				"source": "193", 				"notes": "This%20is%20a%20Service%20Desk%20functionality%20that%20allows%20for%20customer%20interaction%20via%20phone.", 				"importance": "6", 				"usage": "9", 				"value": "9"},	
+{"target": "39", 				"source": "257", 				"notes": "This%20is%20used%20to%20record%20meter%20readings%20from%20properties.", 				"importance": "8", 				"usage": "9", 				"value": "9"},	
+{"target": "40", 				"source": "28", 				"notes": "Provides%20a%20single%20source%20of%20FAQs%20and%20articles%20to%20assist%20agents%20in%20answering%20customer%20queries.", 				"importance": "8", 				"usage": "9", 				"value": "5"},	
+{"target": "40", 				"source": "37", 				"notes": "This%20is%20a%20database%20of%20Spatial%20information%20which%20can%20be%20used%20to%20locate%20assets%20and%20properties.", 				"importance": "7", 				"usage": "7", 				"value": "5"},	
+{"target": "40", 				"source": "120", 				"notes": "Provides%20management%20of%20customer%20contact%20services%20(billing%2C%20accounts%2C%20metering%2C%20property%2C%20applications).", 				"importance": "8", 				"usage": "9", 				"value": "5"},	
+{"target": "40", 				"source": "129", 				"notes": "This%20stores%20customer%20property%20and%20billing%20information.", 				"importance": "8", 				"usage": "9", 				"value": "5"},	
+{"target": "40", 				"source": "193", 				"notes": "This%20is%20a%20Service%20Desk%20functionality%20that%20allows%20for%20customer%20interaction%20via%20phone.", 				"importance": "7", 				"usage": "8", 				"value": "5"},	
+{"target": "41", 				"source": "129", 				"notes": "Manages%20customer%20billing.", 				"importance": "9", 				"usage": "9", 				"value": "2"},	
+{"target": "41", 				"source": "197", 				"notes": "Used%20to%20receive%20payment%20acknowledgements%20from%20banks.", 				"importance": "8", 				"usage": "9", 				"value": "2"},	
+{"target": "42", 				"source": "23", 				"notes": "A%20Web%20Content%20Management%20System%20is%20used%20for%20publishing%20content%20to%20the%20public%20website.", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "42", 				"source": "37", 				"notes": "Uses%20spatial%20information%20to%20support%20management%20of%20key%20customer%20assets.", 				"importance": "6", 				"usage": "6", 				"value": "8"},	
+{"target": "42", 				"source": "120", 				"notes": "Allows%20customer%20to%20pay%20bills%20online%2C%20view%20and%20update%20property%20details%20and%20water%20use.", 				"importance": "9", 				"usage": "8", 				"value": "8"},	
+{"target": "42", 				"source": "129", 				"notes": "Manages%20customer%20contact%20services%20(billing%2C%20accounts%2C%20metering%2C%20property%2C%20applications%2C%20recovery)", 				"importance": "9", 				"usage": "7", 				"value": "8"},	
+{"target": "42", 				"source": "184", 				"notes": "Provides%20a%20tool%20for%20reporting%20on%20SAP%20data.", 				"importance": "6", 				"usage": "6", 				"value": "8"},	
+{"target": "42", 				"source": "193", 				"notes": "This%20is%20a%20Service%20Desk%20functionality%20that%20allows%20for%20customer%20interaction%20via%20phone.", 				"importance": "8", 				"usage": "7", 				"value": "8"},	
+{"target": "42", 				"source": "223", 				"notes": "Helps%20front-line%20staff%20better%20manage%20relationships%20and%20communication%20with%20customers.", 				"importance": "4", 				"usage": "2", 				"value": "8"},	
+{"target": "42", 				"source": "278", 				"notes": "This%20is%20used%20for%20the%20consolidation%20and%20collection%20of%20information%20used%20to%20analyse%20customer%20engagement.", 				"importance": "4", 				"usage": "3", 				"value": "8"},	
+{"target": "43", 				"source": "223", 				"notes": "Helps%20front-line%20staff%20better%20manage%20relationships%20and%20communication%20with%20communities.", 				"importance": "3", 				"usage": "3", 				"value": "2"},	
+{"target": "43", 				"source": "265", 				"notes": "This%20provides%20an%20interface%20for%20community%20to%20view%20Water%20Corporation%20news%20and%20contact%20information.", 				"importance": "8", 				"usage": "7", 				"value": "2"},	
+{"target": "45", 				"source": "129", 				"notes": "Used%20to%20raise%20Financial%20agreements%20with%20customers.", 				"importance": "9", 				"usage": "8", 				"value": "3"},	
+{"target": "45", 				"source": "223", 				"notes": "Supports%20staff%20manage%20relationships%20with%20customers.", 				"importance": "3", 				"usage": "3", 				"value": "3"},	
+{"target": "45", 				"source": "247", 				"notes": "This%20is%20used%20to%20store%20customer%20agreements.", 				"importance": "6", 				"usage": "8", 				"value": "3"},	
+{"target": "46", 				"source": "129", 				"notes": "Provides%20customer%20usage%20information.", 				"importance": "7", 				"usage": "7", 				"value": "2"},	
+{"target": "46", 				"source": "184", 				"notes": "Provides%20reporting%20functionality%20to%20review%20and%20track%20progress%20of%20water%20efficiency%20projects.", 				"importance": "8", 				"usage": "8", 				"value": "2"},	
+{"target": "47", 				"source": "129", 				"notes": "Stores%20and%20maintains%20financial%20agreements%20with%20key%20customers.", 				"importance": "9", 				"usage": "8", 				"value": "2"},	
+{"target": "47", 				"source": "223", 				"notes": "Supports%20staff%20manage%20relationships%20with%20customers.", 				"importance": "3", 				"usage": "4", 				"value": "2"},	
+{"target": "48", 				"source": "83", 				"notes": "This%20calls%20back%20spatial%20information%20used%20by%20Electronic%20Advice%20of%20Sales%202.", 				"importance": "8", 				"usage": "6", 				"value": "3"},	
+{"target": "48", 				"source": "223", 				"notes": "Helps%20front-line%20staff%20better%20manage%20relationships%20and%20communication%20with%20stakeholders.", 				"importance": "3", 				"usage": "3", 				"value": "3"},	
+{"target": "48", 				"source": "265", 				"notes": "This%20provides%20an%20interface%20for%20community%20to%20view%20Water%20Corporation%20news%20and%20contact%20information.", 				"importance": "9", 				"usage": "8", 				"value": "3"},	
+{"target": "49", 				"source": "167", 				"notes": "Provides%20a%20site%20for%20staff%20to%20nominate%20and%20recognise%20the%20hard%20work%20of%20others.", 				"importance": "4", 				"usage": "5", 				"value": "1"},	
+{"target": "50", 				"source": "204", 				"notes": "This%20manages%20booking%20from%20corporate%20vehicle%20pool.", 				"importance": "5", 				"usage": "6", 				"value": "6"},	
+{"target": "50", 				"source": "204", 				"notes": "USed%20to%20record%20and%20charge%20for%20vehicles%20taken%20from%20the%20vehicle%20pool%20by%20Water%20Corp%20personnel%20on%20WC%20business.", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "50", 				"source": "222", 				"notes": "This%20supports%20fleet%20inventory%20management%2C%20tracking%20of%20sales%20and%20purchases.", 				"importance": "8", 				"usage": "9", 				"value": "6"},	
+{"target": "50", 				"source": "340", 				"notes": "This%20is%20used%20to%20organise%20and%20book%20hire%20cars.", 				"importance": "5", 				"usage": "9", 				"value": "6"},	
+{"target": "50", 				"source": "341", 				"notes": "This%20is%20used%20to%20sell%20pool%20vehicles.", 				"importance": "2", 				"usage": "2", 				"value": "6"},	
+{"target": "50", 				"source": "342", 				"notes": "Provides%20a%20source%20for%20leasing%20vehicles.", 				"importance": "8", 				"usage": "6", 				"value": "6"},	
+{"target": "51", 				"source": "37", 				"notes": "Database%20for%20spatial%20information%20*being%20replaced%20by%20wateroffice.", 				"importance": "4", 				"usage": "4", 				"value": "19"},	
+{"target": "51", 				"source": "47", 				"notes": "This%20is%20used%20for%20printing%20of%20ID%20cards%20with%20security%20configuration.", 				"importance": "7", 				"usage": "9", 				"value": "19"},	
+{"target": "51", 				"source": "59", 				"notes": "This%20allows%20for%20the%20storage%20of%20information%20about%20properties%20owned%2C%20easements%20and%20leasing%20information%2Frenewals%2C%20rental%20and%20termination%20information.", 				"importance": "7", 				"usage": "8", 				"value": "19"},	
+{"target": "51", 				"source": "74", 				"notes": "Provides%20mapping%20information%20about%20Water%20Corporation%20assets.", 				"importance": "7", 				"usage": "3", 				"value": "19"},	
+{"target": "51", 				"source": "115", 				"notes": "Provides%20native%20title%20information%20used%20for%20planning%20projects%20and%20acquisitions.", 				"importance": "1", 				"usage": "1", 				"value": "19"},	
+{"target": "51", 				"source": "129", 				"notes": "This%20provides%20a%20billing%20system%20for%20collecting%20payment%20on%20leased%20and%20rented%20property%20or%20new%20lettings.", 				"importance": "9", 				"usage": "4", 				"value": "19"},	
+{"target": "51", 				"source": "130", 				"notes": "Provides%20up-to-date%20historical%20imagery%20service%20used%20for%20finding%20and%20back-charging%20trespassers.", 				"importance": "1", 				"usage": "1", 				"value": "19"},	
+{"target": "51", 				"source": "136", 				"notes": "Provides%20building%20management%20data%20system%20such%20as%20power%20usage%20and%20aircon%20functionality.", 				"importance": "6", 				"usage": "8", 				"value": "19"},	
+{"target": "51", 				"source": "156", 				"notes": "Provides%20state%20wide%20security%20system%20containing%20all%20personal%20security%20access%20information.", 				"importance": "7", 				"usage": "7", 				"value": "19"},	
+{"target": "51", 				"source": "180", 				"notes": "Provides%20reporting%20capability%20to%20view%20projects%20planned%20for%20current%20year%20and%20future%20(such%20as%205%20year%20plan).", 				"importance": "7", 				"usage": "9", 				"value": "19"},	
+{"target": "51", 				"source": "217", 				"notes": "Provides%20a%20central%20repository%20for%20reporting%20cleaning%20issues.", 				"importance": "8", 				"usage": "4", 				"value": "19"},	
+{"target": "51", 				"source": "222", 				"notes": "This%20is%20used%20by%20procurement%20to%20create%20purchase%20requisitions%20and%20work%20orders%20for%20managing%20real%20estate.", 				"importance": "8", 				"usage": "9", 				"value": "19"},	
+{"target": "51", 				"source": "250", 				"notes": "Provides%20CCTV%20video%20from%20cameras%20across%20JTWC.", 				"importance": "7", 				"usage": "7", 				"value": "19"},	
+{"target": "51", 				"source": "279", 				"notes": "This%20supports%20the%20Corporate%20Real%20Estate%20Statutory%20Charges%20and%20Triennial%20Review.", 				"importance": "9", 				"usage": "8", 				"value": "19"},	
+{"target": "51", 				"source": "285", 				"notes": "Used%20for%20detailed%20land%20information%20such%20as%20native%20title%20overlays%20and%20contamination%20overlays.", 				"importance": "4", 				"usage": "9", 				"value": "19"},	
+{"target": "51", 				"source": "288", 				"notes": "Database%20for%20Spatial%20information.", 				"importance": "7", 				"usage": "3", 				"value": "19"},	
+{"target": "51", 				"source": "327", 				"notes": "Used%20for%20the%20online%20payment%20of%20land%20tax%20and%20to%20view%20property%20details%20and%20land%20value.", 				"importance": "1", 				"usage": "2", 				"value": "19"},	
+{"target": "51", 				"source": "339", 				"notes": "Property%20reports%2C%20value%20estimates%2C%20track%20prospects%2Flistings%2C%20market%20trends%2C%20sale%20prices%2C%20commercial%20property%20prices.", 				"importance": "2", 				"usage": "4", 				"value": "19"},	
+{"target": "51", 				"source": "355", 				"notes": "Provides%20building%20plans%20and%20floor%20plans%20of%20all%20sites%20used%20for%20future%20planning%20and%20desk%20arrangement.", 				"importance": "5", 				"usage": "4", 				"value": "19"},	
+{"target": "52", 				"source": "206", 				"notes": "This%20is%20used%20to%20govern%20and%20manage%20corporate%20risk.", 				"importance": "8", 				"usage": "7", 				"value": "1"},	
+{"target": "56", 				"source": "159", 				"notes": "Provides%20source%20data%20used%20for%20workforce%20planning.", 				"importance": "6", 				"usage": "4", 				"value": "6"},	
+{"target": "56", 				"source": "184", 				"notes": "Provides%20the%20database%20of%20HR%20and%20employee%20information%20pulled%20from%20multiple%20sources%20for%20reporting%20and%20analytics.", 				"importance": "6", 				"usage": "3", 				"value": "6"},	
+{"target": "56", 				"source": "286", 				"notes": "Provides%20source%20data%20used%20for%20workforce%20planning.", 				"importance": "6", 				"usage": "4", 				"value": "6"},	
+{"target": "56", 				"source": "322", 				"notes": "Provides%20economic%20and%20demographic%20insights%20used%20for%20planning%20future%20workforce.", 				"importance": "4", 				"usage": "2", 				"value": "6"},	
+{"target": "56", 				"source": "323", 				"notes": "Provides%20workplace%20equity%20and%20diversity%20insights%20used%20as%20a%20consideration%20for%20planning%20workforce%20diversity%20targets.", 				"importance": "3", 				"usage": "2", 				"value": "6"},	
+{"target": "56", 				"source": "373", 				"notes": "Provides%20a%20reporting%20capability%20used%20to%20analyse%20workforce%20demographics%20and%20plan%20future%20workforce%20needs.", 				"importance": "6", 				"usage": "5", 				"value": "6"},	
+{"target": "57", 				"source": "243", 				"notes": "Taleo_ManageEquityandDiversity_AppSvc", 				"importance": "8", 				"usage": "7", 				"value": "6"},	
+{"target": "57", 				"source": "286", 				"notes": "This%20stores%20information%20from%20employee%20equity%20%26%20diversity%20forms.", 				"importance": "2", 				"usage": "5", 				"value": "6"},	
+{"target": "57", 				"source": "313", 				"notes": "TaleoBusinessEdition_ManageEquityandDiversity_AppSvc", 				"importance": "8", 				"usage": "7", 				"value": "6"},	
+{"target": "57", 				"source": "323", 				"notes": "This%20is%20required%20for%20the%20Water%20Corporation%20to%20provide%20data%20for%20EEO%20report%20about%20workplace%20equity%20and%20diversity.", 				"importance": "3", 				"usage": "2", 				"value": "6"},	
+{"target": "57", 				"source": "324", 				"notes": "Provides%20surveys%20to%20review%20diversity%20and%20demographics%20of%20Water%20Corporation%20workforce.", 				"importance": "3", 				"usage": "1", 				"value": "6"},	
+{"target": "57", 				"source": "373", 				"notes": "Provides%20reporting%20capability%20to%20review%20equity%20and%20diversity%20programs.", 				"importance": "6", 				"usage": "5", 				"value": "6"},	
+{"target": "59", 				"source": "159", 				"notes": "Build%20pay%20structure%20and%20pay%20brackets%2C%20calculate%20payments%20to%20employees%20based%20on%20employment%20conditions.", 				"importance": "6", 				"usage": "5", 				"value": "10"},	
+{"target": "59", 				"source": "185", 				"notes": "Supports%20remuneration%20and%20classification%20process", 				"importance": "0", 				"usage": "0", 				"value": "10"},	
+{"target": "59", 				"source": "185", 				"notes": "Comparison%20of%20renumeration%20amounts.", 				"importance": "0", 				"usage": "0", 				"value": "10"},	
+{"target": "59", 				"source": "286", 				"notes": "Defines%20employee%20job%20roles.", 				"importance": "9", 				"usage": "9", 				"value": "10"},	
+{"target": "59", 				"source": "322", 				"notes": "This%20supports%20the%20review%20of%20working%20conditions%2C%20remuneration%20and%20benefits.", 				"importance": "4", 				"usage": "2", 				"value": "10"},	
+{"target": "59", 				"source": "323", 				"notes": "This%20supports%20the%20review%2C%20implementation%2C%20monitoring%20of%20Remuneration%20Strategy.", 				"importance": "3", 				"usage": "2", 				"value": "10"},	
+{"target": "59", 				"source": "324", 				"notes": "Provides%20a%20comparison%20of%20remuneration%20packages.", 				"importance": "5", 				"usage": "2", 				"value": "10"},	
+{"target": "59", 				"source": "325", 				"notes": "This%20allows%20employees%20to%20view%20and%20change%20salary%20packaging%20options.", 				"importance": "5", 				"usage": "2", 				"value": "10"},	
+{"target": "59", 				"source": "326", 				"notes": "This%20provides%20a%20superannuation%20service%20for%20employees%20based%20on%20their%20employee%20information.", 				"importance": "6", 				"usage": "7", 				"value": "10"},	
+{"target": "60", 				"source": "76", 				"notes": "SuccessFactorsBusinessExecutionSuite_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "7", 				"usage": "7", 				"value": "16"},	
+{"target": "60", 				"source": "78", 				"notes": "OrganisationPublisher_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "7", 				"usage": "7", 				"value": "16"},	
+{"target": "60", 				"source": "95", 				"notes": "SAPEmployeeSelfService(ESS)_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "7", 				"usage": "9", 				"value": "16"},	
+{"target": "60", 				"source": "132", 				"notes": "SAPTrainingandEventManagement(SAP-TEM)_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "4", 				"usage": "3", 				"value": "16"},	
+{"target": "60", 				"source": "135", 				"notes": "TRACCESS_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "9", 				"usage": "7", 				"value": "16"},	
+{"target": "60", 				"source": "159", 				"notes": "SAPPayroll(SAP-PY)_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "8", 				"usage": "8", 				"value": "16"},	
+{"target": "60", 				"source": "185", 				"notes": "PayNet_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "16"},	
+{"target": "60", 				"source": "195", 				"notes": "CommBiz_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "1", 				"usage": "2", 				"value": "16"},	
+{"target": "60", 				"source": "214", 				"notes": "SAPManagerSelfService(SAP-MSS)_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "7", 				"usage": "8", 				"value": "16"},	
+{"target": "60", 				"source": "286", 				"notes": "SAPHumanResources(SAP-HR)_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "9", 				"usage": "9", 				"value": "16"},	
+{"target": "60", 				"source": "325", 				"notes": "PayPlan-SalaryPackaging_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "5", 				"usage": "2", 				"value": "16"},	
+{"target": "60", 				"source": "326", 				"notes": "AAS_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "6", 				"usage": "7", 				"value": "16"},	
+{"target": "60", 				"source": "333", 				"notes": "Auskey_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "9", 				"usage": "2", 				"value": "16"},	
+{"target": "60", 				"source": "334", 				"notes": "SuperStream_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "6", 				"usage": "8", 				"value": "16"},	
+{"target": "60", 				"source": "374", 				"notes": "HURMISarchivedatabase(historicalHRdatapre1998)_MaintainEmployeePayroll%2CDetailsandRecords_AppSvc", 				"importance": "1", 				"usage": "1", 				"value": "16"},	
+{"target": "61", 				"source": "76", 				"notes": "Provides%20an%20employee%20and%20manager%20self%20service%20portal%20replacing%20ESS%20and%20MSS.", 				"importance": "7", 				"usage": "6", 				"value": "8"},	
+{"target": "61", 				"source": "95", 				"notes": "This%20allows%20employees%20to%20book%20training%2C%20track%20training%20completed%20and%20qualifications%20*will%20be%20replaced%20by%20SuccessFactors.", 				"importance": "7", 				"usage": "9", 				"value": "8"},	
+{"target": "61", 				"source": "135", 				"notes": "This%20supports%20the%20identification%20of%20development%20needs%2C%20manages%20training%20records%20and%20maintains%20corporate%20compliance.", 				"importance": "9", 				"usage": "7", 				"value": "8"},	
+{"target": "61", 				"source": "214", 				"notes": "This%20allows%20managers%20to%20approve%20leave%2C%20overtime%20and%20training%20*will%20be%20replaced%20by%20SuccessFactors.", 				"importance": "7", 				"usage": "8", 				"value": "8"},	
+{"target": "61", 				"source": "248", 				"notes": "Allows%20you%20to%20search%20for%20internal%20and%20external%20training%20courses.", 				"importance": "7", 				"usage": "7", 				"value": "8"},	
+{"target": "61", 				"source": "335", 				"notes": "360LeadershipAssessmentTool_DevelopEmployees_AppSvc", 				"importance": "6", 				"usage": "1", 				"value": "8"},	
+{"target": "61", 				"source": "336", 				"notes": "This%20provides%20effectiveness%20and%20engagement%20insights%20to%20support%20initiatives%20and%20strategies%20to%20develop%20workforce.", 				"importance": "3", 				"usage": "1", 				"value": "8"},	
+{"target": "61", 				"source": "337", 				"notes": "This%20provides%20information%20from%20national%20register%20of%20all%20training%20packages%20and%20units%20of%20competence.", 				"importance": "1", 				"usage": "6", 				"value": "8"},	
+{"target": "62", 				"source": "159", 				"notes": "This%20is%20used%20to%20update%20employee%20details%20and%20payroll%20information%20following%20performance%20review.", 				"importance": "8", 				"usage": "4", 				"value": "3"},	
+{"target": "62", 				"source": "286", 				"notes": "This%20manages%20performance%20outcomes%20following%20performance%20review.", 				"importance": "8", 				"usage": "4", 				"value": "3"},	
+{"target": "63", 				"source": "159", 				"notes": "Provides%20tool%20for%20entering%20data%20for%20new%20recruits%20into%20system%2C%20budgeting%20and%20reporting.", 				"importance": "8", 				"usage": "8", 				"value": "12"},	
+{"target": "63", 				"source": "243", 				"notes": "5350", 				"importance": "8", 				"usage": "7", 				"value": "12"},	
+{"target": "63", 				"source": "286", 				"notes": "Provides%20tool%20for%20entering%20data%20for%20new%20recruits%20into%20system%2C%20utilises%20org%20structure%20and%20position%20%20management%20for%20employee%20placements%2C%20budgeting%20and%20reporting.", 				"importance": "9", 				"usage": "9", 				"value": "12"},	
+{"target": "63", 				"source": "313", 				"notes": "TaleoBusinessEdition_RecruitEmployees_AppSvc", 				"importance": "8", 				"usage": "7", 				"value": "12"},	
+{"target": "63", 				"source": "323", 				"notes": "Use%20of%20equity%20and%20diversity%20information%20in%20recruitment%20targets%20of%20new%20employees.", 				"importance": "3", 				"usage": "2", 				"value": "12"},	
+{"target": "63", 				"source": "324", 				"notes": "This%20provides%20information%20used%20to%20structure%20the%20remuneration%20packages%20for%20recruits.", 				"importance": "3", 				"usage": "4", 				"value": "12"},	
+{"target": "63", 				"source": "328", 				"notes": "This%20tool%20supports%20the%20interview%20process%20and%20evaluation%20of%20candidate.", 				"importance": "9", 				"usage": "6", 				"value": "12"},	
+{"target": "63", 				"source": "329", 				"notes": "Provides%20a%20resource%20to%20find%20potential%20candidates.", 				"importance": "8", 				"usage": "6", 				"value": "12"},	
+{"target": "63", 				"source": "330", 				"notes": "This%20tool%20supports%20the%20interview%20process%20and%20evaluation%20of%20candidate.", 				"importance": "5", 				"usage": "8", 				"value": "12"},	
+{"target": "63", 				"source": "331", 				"notes": "Provides%20tool%20for%20creating%20surveys%20used%20to%20review%20on%20boarding%20experience.", 				"importance": "5", 				"usage": "4", 				"value": "12"},	
+{"target": "63", 				"source": "332", 				"notes": "This%20tool%20provides%20video%20interviewing%20capability.", 				"importance": "3", 				"usage": "2", 				"value": "12"},	
+{"target": "63", 				"source": "373", 				"notes": "Provides%20reporting%20capability%20to%20review%20number%20of%20new%20hires%20or%20successful%20hires.", 				"importance": "6", 				"usage": "5", 				"value": "12"},	
+{"target": "64", 				"source": "53", 				"notes": "Open%20source%20vector%20graphics%20editor", 				"importance": "0", 				"usage": "0", 				"value": "20"},	
+{"target": "64", 				"source": "111", 				"notes": "This%20will%20provide%20a%20review%20process%20for%20formally%20managing%20the%20notification%2C%20review%20and%20update%20%20of%20published%20project%20documents.", 				"importance": "4", 				"usage": "2", 				"value": "20"},	
+{"target": "64", 				"source": "121", 				"notes": "Prioritisation%20process%20of%20incoming%20projects%20and%20Capital%20improvement%20projects.", 				"importance": "4", 				"usage": "2", 				"value": "20"},	
+{"target": "64", 				"source": "134", 				"notes": "The%20%20will%20provide%20the%20visibility%20of%20the%20architecture%20repository%20content%20to%20support%20architecture%20decision%20making.", 				"importance": "4", 				"usage": "1", 				"value": "20"},	
+{"target": "64", 				"source": "140", 				"notes": "Create%20purchase%20orders%20and%20maintain%20project%20invoicing%20and%20payments", 				"importance": "0", 				"usage": "0", 				"value": "20"},	
+{"target": "64", 				"source": "171", 				"notes": "This%20will%20enable%20for%20the%20management%20of%20workflow%20and%20approvals.", 				"importance": "8", 				"usage": "5", 				"value": "20"},	
+{"target": "64", 				"source": "180", 				"notes": "This%20provides%20for%20the%20cost%20structuring%20of%20project%20and%20controlling%20project%20budget%20and%20milestones.", 				"importance": "8", 				"usage": "4", 				"value": "20"},	
+{"target": "64", 				"source": "201", 				"notes": "Create%20a%20Financial%20Impact%20Statement%20prior%20to%20implementing%20project.", 				"importance": "7", 				"usage": "4", 				"value": "20"},	
+{"target": "64", 				"source": "206", 				"notes": "This%20will%20allow%20the%20ongoing%20alignment%20of%20IT%20planning%20with%20corporate%20risk.", 				"importance": "0", 				"usage": "0", 				"value": "20"},	
+{"target": "64", 				"source": "208", 				"notes": "Allows%20vendors%20to%20reset%20their%20own%20passwords%20to%20SRM%20Vendor%20Portal%20without%20helpdesk", 				"importance": "1", 				"usage": "1", 				"value": "20"},	
+{"target": "64", 				"source": "247", 				"notes": "This%20will%20enable%20the%20Upload%20and%20storage%20of%20Detailed%20Technical%20IT%20project%20%20and%20solution%20documentation.%20", 				"importance": "9", 				"usage": "9", 				"value": "20"},	
+{"target": "64", 				"source": "263", 				"notes": "Reporting%20Purposes", 				"importance": "0", 				"usage": "0", 				"value": "20"},	
+{"target": "64", 				"source": "279", 				"notes": "This%20allows%20for%20the%20management%20of%20payments%20and%20project%20accounting.", 				"importance": "9", 				"usage": "8", 				"value": "20"},	
+{"target": "64", 				"source": "296", 				"notes": "This%20will%20maintain%20Program%20%26%20Project%20status%20information%20and%20reporting.", 				"importance": "8", 				"usage": "8", 				"value": "20"},	
+{"target": "64", 				"source": "346", 				"notes": "This%20will%20allow%20for%20the%20maintenance%20of%20new%20Enterprise%20architecture%20repository%20content.%20", 				"importance": "0", 				"usage": "0", 				"value": "20"},	
+{"target": "64", 				"source": "347", 				"notes": "This%20will%20allow%20for%20the%20management%20of%20logged%20IT%20Service%20calls%20requests.", 				"importance": "0", 				"usage": "0", 				"value": "20"},	
+{"target": "64", 				"source": "367", 				"notes": "This%20allows%20for%20the%20maintenance%20of%20the%20IT%20Systems%20configuration.", 				"importance": "5", 				"usage": "9", 				"value": "20"},	
+{"target": "65", 				"source": "111", 				"notes": "This%20will%20provide%20a%20review%20process%20for%20formally%20managing%20the%20notification%2C%20review%20and%20update%20%20of%20Commercial%20%26%20Vendor%20management%20documentation.%20", 				"importance": "9", 				"usage": "9", 				"value": "14"},	
+{"target": "65", 				"source": "140", 				"notes": "This%20provides%20access%20to%20the%20standard%20procurement%20reports.", 				"importance": "5", 				"usage": "9", 				"value": "14"},	
+{"target": "65", 				"source": "171", 				"notes": "Workflow%20approval%20of%20commercial%20IT%20support.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "65", 				"source": "198", 				"notes": "Provides%20link%20between%20personnel%20ID%20cards%20(Photosync)%20and%20security%20systems%20for%20building%20access.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "65", 				"source": "201", 				"notes": "This%20provides%20a%20view%20of%20the%20FIS%20funding%20in%20support%20of%20the%20ARC%20process%20and%20project%20monitoring.", 				"importance": "9", 				"usage": "4", 				"value": "14"},	
+{"target": "65", 				"source": "224", 				"notes": "This%20allows%20for%20the%20management%20of%20the%20Telstra%20Corporate%20Accounts%20%26%20Billing.", 				"importance": "7", 				"usage": "9", 				"value": "14"},	
+{"target": "65", 				"source": "247", 				"notes": "This%20will%20enable%20the%20Upload%20and%20storage%20of%20IT%20Contract%20documentation.%20%20", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "65", 				"source": "279", 				"notes": "This%20provides%20a%20view%20of%20the%20invoice%20payment%20detail%20in%20support%20of%20Vendor%20Management%20activities.", 				"importance": "8", 				"usage": "8", 				"value": "14"},	
+{"target": "65", 				"source": "296", 				"notes": "This%20will%20allow%20C%26VM%20to%20monitor%20Program%20%26%20Project%20status.", 				"importance": "8", 				"usage": "9", 				"value": "14"},	
+{"target": "65", 				"source": "301", 				"notes": "This%20provides%20a%20dashboard%20view%20of%20the%20contract%20management%20data.", 				"importance": "7", 				"usage": "5", 				"value": "14"},	
+{"target": "65", 				"source": "347", 				"notes": "This%20will%20allow%20for%20the%20management%20and%20monitoring%20of%20Vendor%20Service%20Requests%2C%20ARC%20%2C%20RRC%20and%20minor%20works%20processes.%20", 				"importance": "4", 				"usage": "2", 				"value": "14"},	
+{"target": "65", 				"source": "367", 				"notes": "This%20allows%20for%20the%20validation%20of%20the%20Kinetic%20ARCs%20and%20RRCs.", 				"importance": "5", 				"usage": "9", 				"value": "14"},	
+{"target": "66", 				"source": "49", 				"notes": "This%20is%20used%20to%20input%20data%20related%20to%20Treasury%20and%20Taxation%20which%20is%20then%20used%20by%20other%20branches.", 				"importance": "7", 				"usage": "8", 				"value": "2"},	
+{"target": "66", 				"source": "279", 				"notes": "Provides%20the%20amount%20of%20future%20approved%20invoices%20due%20for%20payment%20and%20capital%20expenditure%20figures%2C%20which%20assists%20with%20the%20planning%20of%20daily%20cash%20balances.", 				"importance": "9", 				"usage": "8", 				"value": "2"},	
+{"target": "67", 				"source": "115", 				"notes": "Allows%20for%20the%20identification%20and%20verification%20of%20assets%20marked%20to%20be%20disposed.", 				"importance": "5", 				"usage": "3", 				"value": "10"},	
+{"target": "67", 				"source": "129", 				"notes": "This%20provides%20billing%20details%2C%20is%20used%20for%20revenue%20settlements%20and%20reconciliation%20of%20billing%20to%20SAP", 				"importance": "9", 				"usage": "3", 				"value": "10"},	
+{"target": "67", 				"source": "143", 				"notes": "Allows%20for%20the%20reconciliation%20of%20developer%20contributions%2C%20handover%2C%20reporting%20and%20capture%20of%20assets%20upon%20completion.", 				"importance": "7", 				"usage": "5", 				"value": "10"},	
+{"target": "67", 				"source": "184", 				"notes": "This%20provides%20reporting%20on%20billing%20for%20reconciliation%20purposes.", 				"importance": "7", 				"usage": "8", 				"value": "10"},	
+{"target": "67", 				"source": "195", 				"notes": "This%20is%20used%20for%20EFT%20transactions%20and%20data%20is%20reconciled%20against%20Grange%20and%20SAP.", 				"importance": "8", 				"usage": "7", 				"value": "10"},	
+{"target": "67", 				"source": "279", 				"notes": "This%20is%20used%20for%20banking%20reconciliation%20to%20Grange%2C%20post%20accrual%2C%20borrowing%20and%20interest%20entries.", 				"importance": "8", 				"usage": "8", 				"value": "10"},	
+{"target": "67", 				"source": "318", 				"notes": "This%20is%20required%20for%20the%20upload%20of%20budget%20actuals%20and%20accounting%20information%20to%20the%20Treasury%20for%20government%20reporting.", 				"importance": "6", 				"usage": "2", 				"value": "10"},	
+{"target": "67", 				"source": "319", 				"notes": "TaxIntegrator_ManageAccounting_AppSvc", 				"importance": "6", 				"usage": "2", 				"value": "10"},	
+{"target": "67", 				"source": "320", 				"notes": "This%20is%20used%20for%20the%20calculation%20of%20fringe%20benefits%20tax%20return%20resulting%20from%20the%20private%20use%20of%20corporate%20assets.", 				"importance": "6", 				"usage": "2", 				"value": "10"},	
+{"target": "67", 				"source": "321", 				"notes": "Allows%20for%20the%20payment%20of%20superannuation%20and%20other%20defined%20benefits%20for%20employees%20pre-dating%20the%20current%20Water%20Corporation%20Superannuation%20Plan.", 				"importance": "5", 				"usage": "1", 				"value": "10"},	
+{"target": "68", 				"source": "49", 				"notes": "This%20provides%20a%20performance%20reporting%20tool%20that%20pulls%20data%20from%20various%20systems%20and%20is%20used%20to%20create%20the%20monthly%20Board%2FExecutive%20report%20pack.", 				"importance": "9", 				"usage": "9", 				"value": "1"},	
+{"target": "69", 				"source": "279", 				"notes": "This%20provides%20financial%20information%20for%20reporting%20and%20management%20of%20budget%20from%20Branch%20to%20Corporate%20level.", 				"importance": "9", 				"usage": "8", 				"value": "1"},	
+{"target": "70", 				"source": "13", 				"notes": "Provides%20suite%20of%20data%20analytics%20and%20statistical%20modelling%20functionality%20(includes%20%40Risk%2C%20PrecisionTree%2C%20TopRank).", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "42", 				"notes": "Provides%20data%20required%20for%20evaluating%20Base%20Capital%20Maintenance%20(BC)%20business%20cases", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "77", 				"notes": "Provides%20data%20analytics%20and%20statistical%20modelling%20functionality.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "129", 				"notes": "This%20stores%20customer%20billing%20and%20property%20information%20which%20is%20used%20to%20support%20financial%20evaluations.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "154", 				"notes": "Provides%20information%20to%20analyse%20potential%20workload%20and%20prioritise%20projects", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "180", 				"notes": "Provides%20access%20to%20project%20information%20used%20to%20support%20financial%20evaluations.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "184", 				"notes": "Access%20and%20report%20on%20financial%20data.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "194", 				"notes": "Provides%20data%20required%20for%20evaluating%20Base%20Capital%20Maintenance%20(BC)%20business%20cases", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "201", 				"notes": "Maintenance%20of%20application%20which%20contains%20the%20Financial%20Impact%20Statements%20for%20projects.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "212", 				"notes": "Provides%20data%20required%20for%20evaluating%20Base%20Capital%20Maintenance%20(BC)%20business%20cases", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "279", 				"notes": "Provides%20access%20to%20project%20or%20asset%20financial%20information.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "349", 				"notes": "Provides%20data%20analytics%20and%20statistical%20modelling%20functionality.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "351", 				"notes": "Provides%20a%20Monte%20Carlo%20simulation%20model%20used%20to%20determine%20the%20Levelised%20Long%20Run%20Marginal%20Cost%20of%20increased%20demand%20and%20support%20strategic%20decisions%20regarding%20source%20development%20in%20Integrated%20Water%20Supply%20Scheme.", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "70", 				"source": "366", 				"notes": "Provides%20variety%20of%20tools%20used%20for%20calculating%20Net%20Present%20Value%20and%20solving%20optimisation%20problems", 				"importance": "0", 				"usage": "0", 				"value": "14"},	
+{"target": "71", 				"source": "49", 				"notes": "This%20is%20used%20to%20create%20reports%20on%20business%20performance.", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "71", 				"source": "129", 				"notes": "Access%20Grange%20to%20run%20reports%20related%20to%20customer%20details%2C%20usage", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "71", 				"source": "180", 				"notes": "View%20project%20information%2C%20extracts%20from%20Asset%20Investment%20Branch", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "71", 				"source": "184", 				"notes": "This%20provides%20reporting%20functionality", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "71", 				"source": "258", 				"notes": "Supply%20information%20by%20region", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "71", 				"source": "279", 				"notes": "This%20allows%20for%20the%20management%20of%20payments%2C%20view%20and%20extract%20data%20(cost%20centre%20and%20asset%20register)", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "71", 				"source": "318", 				"notes": "SIM-TreasuryReportingSoftware_ManagePricing_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "72", 				"source": "32", 				"notes": "Provides%20a%20repository%20for%20contract%20and%20tender%20documents%20able%20to%20be%20accessed%20by%20suppliers.", 				"importance": "5", 				"usage": "2", 				"value": "7"},	
+{"target": "72", 				"source": "140", 				"notes": "This%20supports%20contract%20management%20of%20requisitions%20and%20shopping%20carts%20when%20creating%20procurement%20agreement.", 				"importance": "9", 				"usage": "9", 				"value": "7"},	
+{"target": "72", 				"source": "184", 				"notes": "Provides%20reporting%20capability%20on%20contract%20spend%20and%20reporting%20by%20supplier.", 				"importance": "9", 				"usage": "7", 				"value": "7"},	
+{"target": "72", 				"source": "222", 				"notes": "This%20create%20purchase%20requisition%20and%20operational%20contracts%20for%20materials%20purchasing.", 				"importance": "8", 				"usage": "9", 				"value": "7"},	
+{"target": "73", 				"source": "140", 				"notes": "Allows%20for%20the%20creation%20of%20shopping%20carts%20for%20goods%20purchasing.", 				"importance": "9", 				"usage": "9", 				"value": "2"},	
+{"target": "73", 				"source": "222", 				"notes": "This%20catalogues%20and%20captures%20state%20wide%20inventory%20levels.", 				"importance": "8", 				"usage": "9", 				"value": "2"},	
+{"target": "74", 				"source": "140", 				"notes": "This%20stores%20and%20manages%20supplier%20contract%20and%20payment%20information.", 				"importance": "9", 				"usage": "9", 				"value": "8"},	
+{"target": "74", 				"source": "184", 				"notes": "Provides%20Program%20%26%20Project%20status%2C%20financial%20reporting%20and%20supplier%20evaluations.", 				"importance": "9", 				"usage": "7", 				"value": "8"},	
+{"target": "74", 				"source": "222", 				"notes": "This%20provides%20the%20tracking%20of%20goods%20received%20and%20invoice%20verification.", 				"importance": "8", 				"usage": "9", 				"value": "8"},	
+{"target": "74", 				"source": "279", 				"notes": "This%20is%20used%20for%20the%20management%20of%20payment%20to%20suppliers.", 				"importance": "9", 				"usage": "8", 				"value": "8"},	
+{"target": "74", 				"source": "338", 				"notes": "Provides%20business%20travel%20management%20and%20booking%20for%20staff%20and%20contractors.", 				"importance": "7", 				"usage": "6", 				"value": "8"},	
+{"target": "75", 				"source": "184", 				"notes": "Provides%20reporting%20capability%20for%20historical%20spend%20analysis%20reports.", 				"importance": "8", 				"usage": "5", 				"value": "2"},	
+{"target": "75", 				"source": "222", 				"notes": "Provides%20capability%20to%20forecast%20planned%20procurements%20based%20on%20inventory%20levels.", 				"importance": "7", 				"usage": "8", 				"value": "2"},	
+{"target": "76", 				"source": "50", 				"notes": "Provides%20a%20payment%20system%20for%20staff%2Fcontractors%20to%20allocate%20costs%20to%20correct%20business%20area%20or%20project.", 				"importance": "6", 				"usage": "7", 				"value": "10"},	
+{"target": "76", 				"source": "110", 				"notes": "This%20provides%20the%20cost%20assignment%20of%20purchase%20orders%20to%20PM%20orders.", 				"importance": "8", 				"usage": "5", 				"value": "10"},	
+{"target": "76", 				"source": "140", 				"notes": "Provides%20capability%20to%20create%20shopping%20carts%20%26%20purchase%20orders%2C%20receive%20claims%20for%20payment%20and%20register%20invoices.", 				"importance": "9", 				"usage": "9", 				"value": "10"},	
+{"target": "76", 				"source": "180", 				"notes": "This%20allows%20for%20the%20cost%20assignment%20of%20purchase%20orders%20to%20PS%20projects%20and%20financial%20approval%20workflows.", 				"importance": "9", 				"usage": "8", 				"value": "10"},	
+{"target": "76", 				"source": "184", 				"notes": "Provides%20reporting%20capability%20for%20spend%20analysis%20reports%20and%20supplier%20management%20reporting.", 				"importance": "7", 				"usage": "6", 				"value": "10"},	
+{"target": "76", 				"source": "195", 				"notes": "This%20is%20required%20by%20Business%20Services%20to%20make%20payments%20to%20suppliers.", 				"importance": "6", 				"usage": "7", 				"value": "10"},	
+{"target": "76", 				"source": "222", 				"notes": "Provides%20capability%20to%20create%20purchase%20requisition%2C%20invoice%20verification%2C%20interface%20with%20SAP%20SRM%20for%20supplier%20payments.", 				"importance": "8", 				"usage": "9", 				"value": "10"},	
+{"target": "76", 				"source": "283", 				"notes": "Provides%20reconciliation%20of%20corporate%20and%20purchasing%20cards.", 				"importance": "5", 				"usage": "9", 				"value": "10"},	
+{"target": "77", 				"source": "110", 				"notes": "SAPPlantMaintenance(SAP-PM)_ManageMechanical%26ElectricalSafety_AppSvc", 				"importance": "9", 				"usage": "9", 				"value": "7"},	
+{"target": "77", 				"source": "182", 				"notes": "aquaDRAW_ManageMechanical%26ElectricalSafety_AppSvc", 				"importance": "8", 				"usage": "7", 				"value": "7"},	
+{"target": "77", 				"source": "249", 				"notes": "AutoCADRasterDesign_ManageMechanical%26ElectricalSafety_AppSvc", 				"importance": "9", 				"usage": "8", 				"value": "7"},	
+{"target": "77", 				"source": "260", 				"notes": "SAPAssetManagement(SAP-AM)_ManageMechanical%26ElectricalSafety_AppSvc", 				"importance": "9", 				"usage": "9", 				"value": "7"},	
+{"target": "77", 				"source": "261", 				"notes": "Sentinel_ManageMechanical%26ElectricalSafety_AppSvc", 				"importance": "9", 				"usage": "7", 				"value": "7"},	
+{"target": "77", 				"source": "277", 				"notes": "AutoCAD_ManageMechanical%26ElectricalSafety_AppSvc", 				"importance": "9", 				"usage": "8", 				"value": "7"},	
+{"target": "77", 				"source": "309", 				"notes": "M%26ETaskTracker_ManageMechanical%26ElectricalSafety_AppSvc", 				"importance": "9", 				"usage": "9", 				"value": "7"},	
+{"target": "78", 				"source": "261", 				"notes": "Used%20for%20the%20reporting%20of%20hazards%20and%20incidents%20related%20to%20unsafe%20or%20non-compliant%20electrical%20installations.", 				"importance": "6", 				"usage": "5", 				"value": "3"},	
+{"target": "78", 				"source": "286", 				"notes": "This%20is%20used%20to%20record%20detail%20of%20Workers%20electrical%20licence.", 				"importance": "6", 				"usage": "3", 				"value": "3"},	
+{"target": "78", 				"source": "353", 				"notes": "This%20is%20accessed%20through%20LMS%20and%20is%20used%20for%20the%20storage%2C%20validation%20and%20tracking%20of%20workers%20electrical%20licences.", 				"importance": "8", 				"usage": "3", 				"value": "3"},	
+{"target": "79", 				"source": "10", 				"notes": "Used%20for%20commissioning%20and%20fault%20finding%20(Schneider%20devices).", 				"importance": "7", 				"usage": "5", 				"value": "17"},	
+{"target": "79", 				"source": "40", 				"notes": "Provides%20a%20PLC%20development%20environment", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "79", 				"source": "40", 				"notes": "Provides%20a%20PLC%20development%20environment", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "79", 				"source": "66", 				"notes": "Used%20for%20commissioning%20and%20fault%20finding%20(ABB%20devices).", 				"importance": "7", 				"usage": "5", 				"value": "17"},	
+{"target": "79", 				"source": "74", 				"notes": "Provides%20Asset%20information%20such%20as%20primarily%20location%20of%20asset%2Ffunctional%20location%20abd%20used%20for%20the%20creation%20of%20journey%20plans.", 				"importance": "5", 				"usage": "5", 				"value": "17"},	
+{"target": "79", 				"source": "110", 				"notes": "Tracking%20of%20functional%20locations%20for%20sites%2C%20equipment%20and%20work%20orders.", 				"importance": "7", 				"usage": "7", 				"value": "17"},	
+{"target": "79", 				"source": "154", 				"notes": "Used%20by%20Project%20managers%20to%20track%20budget%2C%20run%20reports%20and%20view%20portfolio%20information.", 				"importance": "6", 				"usage": "6", 				"value": "17"},	
+{"target": "79", 				"source": "166", 				"notes": "Used%20for%20remote%20access%20to%20assets%20at%20other%20sites.", 				"importance": "8", 				"usage": "7", 				"value": "17"},	
+{"target": "79", 				"source": "170", 				"notes": "Used%20to%20obtain%20asset%20information.", 				"importance": "6", 				"usage": "4", 				"value": "17"},	
+{"target": "79", 				"source": "180", 				"notes": "Provides%20functionality%20for%20updating%20of%20project%20information%20and%20tracking%20of%20budget.", 				"importance": "6", 				"usage": "8", 				"value": "17"},	
+{"target": "79", 				"source": "182", 				"notes": "Ths%20is%20used%20for%20obtaining%20and%20confirming%20asset%20information%20and%20updates%20to%20drawings.", 				"importance": "5", 				"usage": "4", 				"value": "17"},	
+{"target": "79", 				"source": "247", 				"notes": "Storage%20of%20project%20related%20information.", 				"importance": "3", 				"usage": "4", 				"value": "17"},	
+{"target": "79", 				"source": "258", 				"notes": "Used%20to%20obtain%20asset%20data%20information.", 				"importance": "8", 				"usage": "6", 				"value": "17"},	
+{"target": "79", 				"source": "261", 				"notes": "Reporting%20of%20hazards%20and%20incidents%20relating%20to%20mechanical%20or%20electrical%20asset%20non-compliance.", 				"importance": "6", 				"usage": "5", 				"value": "17"},	
+{"target": "79", 				"source": "267", 				"notes": "DataHistorian(PI)_ManageMechanical%26ElectricalAssetsCompliance_AppSvc", 				"importance": "7", 				"usage": "6", 				"value": "17"},	
+{"target": "79", 				"source": "307", 				"notes": "MDTAutosave_ManageMechanical%26ElectricalAssetsCompliance_AppSvc", 				"importance": "8", 				"usage": "8", 				"value": "17"},	
+{"target": "79", 				"source": "309", 				"notes": "MESBTaskTracker_ManageMechanical%26ElectricalAssetsCompliance_AppSvc", 				"importance": "6", 				"usage": "8", 				"value": "17"},	
+{"target": "80", 				"source": "8", 				"notes": "This%20is%20an%20internal%20project%20scheduling%20tool%20used%20to%20manage%20project%20time%20and%20cost%20forecasting", 				"importance": "6", 				"usage": "7", 				"value": "11"},	
+{"target": "80", 				"source": "32", 				"notes": "Provides%20management%20of%20contract%20and%20project%20documentation%20between%20Water%20Corporation%20and%20supplier.", 				"importance": "4", 				"usage": "2", 				"value": "11"},	
+{"target": "80", 				"source": "97", 				"notes": "This%20tracks%20project%20progress%20against%20baseline.%20Job%20management%20system%20for%20design%20managers%2C%20manages%20scope%2C%20cost%20and%20time.", 				"importance": "7", 				"usage": "8", 				"value": "11"},	
+{"target": "80", 				"source": "101", 				"notes": "This%20is%20required%20to%20update%20project%20data%20as%20part%20of%20Asset%20Handover%20Checklist.", 				"importance": "8", 				"usage": "9", 				"value": "11"},	
+{"target": "80", 				"source": "140", 				"notes": "Contract%20and%20purchase%20order%20management%20for%20external%20suppliers%20used%20to%20manage%20time%20and%20cost.", 				"importance": "7", 				"usage": "8", 				"value": "11"},	
+{"target": "80", 				"source": "154", 				"notes": "Provides%20portal%20for%20communication%20of%20project%20and%20portfolio%20information.%20Enables%20project%20overview%20and%20reporting%20from%20various%20systems%20(SAP%2C%20Primavera%2C%20Work%20Flow%20Tracker)", 				"importance": "4", 				"usage": "2", 				"value": "11"},	
+{"target": "80", 				"source": "160", 				"notes": "", 				"importance": "5", 				"usage": "4", 				"value": "11"},	
+{"target": "80", 				"source": "171", 				"notes": "Provides%20capability%20for%20project%20manager%20comments%2C%20project%20team%20member%20allocation%2C%20change%20control%20%20and%20project%20approved%20time%20and%20cost", 				"importance": "5", 				"usage": "8", 				"value": "11"},	
+{"target": "80", 				"source": "180", 				"notes": "This%20tracks%20and%20controls%20milestones%2C%20work%20orders%20and%20budget%2C%20time%2C%20status%20and%20resources%20of%20projects.%20", 				"importance": "7", 				"usage": "8", 				"value": "11"},	
+{"target": "80", 				"source": "206", 				"notes": "Provides%20a%20central%20repository%20for%20project%20risk%20registers%20which%20is%20updated%20and%20maintained%20during%20a%20project", 				"importance": "4", 				"usage": "5", 				"value": "11"},	
+{"target": "80", 				"source": "231", 				"notes": "Provides%20management%20of%20contract%20and%20project%20documentation%20between%20Water%20Corporation%20and%20supplier.", 				"importance": "5", 				"usage": "2", 				"value": "11"},	
+{"target": "81", 				"source": "180", 				"notes": "This%20documents%20asset%20data%20structures%2C%20functional%20locations%20and%20financial%20fixed%20asset%20register.", 				"importance": "7", 				"usage": "7", 				"value": "2"},	
+{"target": "81", 				"source": "267", 				"notes": "5229", 				"importance": "6", 				"usage": "7", 				"value": "2"},	
+{"target": "82", 				"source": "2", 				"notes": "Report%20on%20Dam%20Surveillance%20Data", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "44", 				"notes": "Used%20to%20configure%20operator%20interface%20panels.", 				"importance": "6", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "45", 				"notes": "This%20application%20consumes%20spatial%20data%20for%20asset%20mapping%20and%20reporting.", 				"importance": "5", 				"usage": "5", 				"value": "46"},	
+{"target": "82", 				"source": "45", 				"notes": "Spatial%20Data", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "52", 				"notes": "Provides%20functionality%20for%20on-site%20flood%20frequency%20analysis.", 				"importance": "6", 				"usage": "4", 				"value": "46"},	
+{"target": "82", 				"source": "55", 				"notes": "Perform%20flow%20calculations%2C%20sediment%20transport%20and%20water%20quality%20modelling", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "61", 				"notes": "Capture%20images%20from%20the%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "70", 				"notes": "Provides%20a%20wastewater%20treatment%20process%20simulator", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "81", 				"notes": "This%20supports%20hydrology%20studies.", 				"importance": "6", 				"usage": "4", 				"value": "46"},	
+{"target": "82", 				"source": "87", 				"notes": "Used%20to%20program%20Siemens%20PLC%E2%80%99s.", 				"importance": "8", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "102", 				"notes": "Used%20to%20view%20AutoCAD%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "112", 				"notes": "Provides%20functionality%20for%20dam%20stability%20calculations.", 				"importance": "7", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "116", 				"notes": "This%20captures%2C%20maintains%20and%20reports%20on%20SCADA%20data.", 				"importance": "9", 				"usage": "9", 				"value": "46"},	
+{"target": "82", 				"source": "128", 				"notes": "Used%20to%20select%20Danfoss%20variable%20speed%20drives.", 				"importance": "6", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "133", 				"notes": "This%20manage%20boring%20and%20well%20logs%20and%20reports%20on%20subsurface%20data.", 				"importance": "5", 				"usage": "5", 				"value": "46"},	
+{"target": "82", 				"source": "139", 				"notes": "Tool%20to%20determine%20tripping%20curves", 				"importance": "6", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "162", 				"notes": "Provides%20the%20database%20for%20registration%20of%20access%20chambers.", 				"importance": "4", 				"usage": "4", 				"value": "46"},	
+{"target": "82", 				"source": "165", 				"notes": "Used%20by%20aquaDRAW%20CAD%20users%20to%20view%20drawing%20files.", 				"importance": "7", 				"usage": "8", 				"value": "46"},	
+{"target": "82", 				"source": "176", 				"notes": "Used%20to%20carry%20out%20power%20system%20studies.", 				"importance": "7", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "182", 				"notes": "This%20manages%20engineering%20and%20asset%20drawings%2C%20creation%20and%20update%20of%20design%20assets.", 				"importance": "6", 				"usage": "5", 				"value": "46"},	
+{"target": "82", 				"source": "203", 				"notes": "This%20is%20an%20Auto-CAD%20add-on%20for%20civil%20designs.", 				"importance": "6", 				"usage": "6", 				"value": "46"},	
+{"target": "82", 				"source": "210", 				"notes": "Provides%20functionality%20for%20external%20contractors%20to%20extract%20digital%20data%20of%20existing%20assets%20for%20the%20design%20of%20new%20assets.", 				"importance": "5", 				"usage": "2", 				"value": "46"},	
+{"target": "82", 				"source": "220", 				"notes": "Provides%20functionality%20for%20dam%20break%20analysis.", 				"importance": "7", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "225", 				"notes": "Ttransfer%20of%20Dam%20Surveillance%20Data%20from%20loggers%20to%20ODSS%20and%20PI", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "226", 				"notes": "Used%20to%20design%20variable%20speed%20drive%20systems.", 				"importance": "6", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "227", 				"notes": "This%20supports%20hydrology%20studies.", 				"importance": "7", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "238", 				"notes": "Used%20to%20program%20GE%20PLC's", 				"importance": "8", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "249", 				"notes": "This%20tool%20is%20used%20to%20convert%20raster%20images%20into%20drawing%20files.", 				"importance": "7", 				"usage": "7", 				"value": "46"},	
+{"target": "82", 				"source": "268", 				"notes": "Used%20to%20select%20Danfoss%20soft%20starters.", 				"importance": "6", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "270", 				"notes": "This%20transfers%20data%20from%20loggers%20to%20database%20for%20analysis%20and%20support%20of%20Dam%20Safety%20Program.", 				"importance": "7", 				"usage": "4", 				"value": "46"},	
+{"target": "82", 				"source": "275", 				"notes": "This%20supports%20hydrology%20studies.", 				"importance": "6", 				"usage": "3", 				"value": "46"},	
+{"target": "82", 				"source": "277", 				"notes": "Update%20and%20Create%20engineering%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "82", 				"source": "309", 				"notes": "Tracking%20of%20jobs%20requested%20by%20a%20project", 				"importance": "0", 				"usage": "0", 				"value": "46"},	
+{"target": "83", 				"source": "180", 				"notes": "Provides%20functionality%20to%20review%20project%20milestones%2C%20delays%2C%20deliverables%20and%20final%20budget.", 				"importance": "7", 				"usage": "7", 				"value": "3"},	
+{"target": "83", 				"source": "201", 				"notes": "This%20manages%20corporate%20impact%20of%20projects%20and%20initiatives.", 				"importance": "5", 				"usage": "4", 				"value": "3"},	
+{"target": "83", 				"source": "206", 				"notes": "This%20manages%20and%20reviews%20risks%20raised%2C%20updates%20residual%20risk%2C%20risk%20assessments%20and%20risk%20controls.", 				"importance": "5", 				"usage": "7", 				"value": "3"},	
+{"target": "84", 				"source": "32", 				"notes": "Provides%20management%20of%20contract%20and%20tenders%20between%20Water%20Corporation%20and%20supplier.", 				"importance": "3", 				"usage": "4", 				"value": "8"},	
+{"target": "84", 				"source": "111", 				"notes": "Provides%20source%20for%20published%20contract%20documentation.", 				"importance": "7", 				"usage": "4", 				"value": "8"},	
+{"target": "84", 				"source": "140", 				"notes": "This%20is%20used%20for%20the%20creation%20and%20maintenance%20of%20contracts.", 				"importance": "9", 				"usage": "9", 				"value": "8"},	
+{"target": "84", 				"source": "184", 				"notes": "Provides%20reporting%20capability%20for%20finance%20and%20contract%20reporting.", 				"importance": "2", 				"usage": "2", 				"value": "8"},	
+{"target": "84", 				"source": "231", 				"notes": "Provides%20management%20of%20contract%20and%20tenders%20between%20Water%20Corporation%20and%20supplier.", 				"importance": "6", 				"usage": "9", 				"value": "8"},	
+{"target": "84", 				"source": "364", 				"notes": "This%20stores%20historical%20contracts%20(pre-2007)%20prior%20to%20SAP-SRM.", 				"importance": "9", 				"usage": "1", 				"value": "8"},	
+{"target": "86", 				"source": "233", 				"notes": "This%20manages%20as-constructed%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "2"},	
+{"target": "86", 				"source": "245", 				"notes": "Excel%20add-in%20to%20configure%20PI%20tags", 				"importance": "0", 				"usage": "0", 				"value": "2"},	
+{"target": "87", 				"source": "151", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "4"},	
+{"target": "87", 				"source": "169", 				"notes": "OfficeMeterReadingSystem(OMRS)_ManageGreatSouthernRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "4"},	
+{"target": "87", 				"source": "267", 				"notes": "PI(DataHistorian)_ManageGreatSouthernRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "4"},	
+{"target": "87", 				"source": "302", 				"notes": "Provides%20calculation%20capability%20of%20pipe%20sizes%20and%20properties", 				"importance": "0", 				"usage": "0", 				"value": "4"},	
+{"target": "88", 				"source": "169", 				"notes": "OfficeMeterReadingSystem(OMRS)_ManageGoldfields%26AgriculturalRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "2"},	
+{"target": "88", 				"source": "267", 				"notes": "PI(DataHistorian)_ManageGoldfields%26AgriculturalRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "2"},	
+{"target": "89", 				"source": "169", 				"notes": "OfficeMeterReadingSystem(OMRS)_ManageNorthWestRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "1"},	
+{"target": "90", 				"source": "57", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "90", 				"source": "60", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "90", 				"source": "152", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "90", 				"source": "169", 				"notes": "OfficeMeterReadingSystem(OMRS)_ManageSouthWestRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "90", 				"source": "267", 				"notes": "PI(DataHistorian)_ManageSouthWestRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "90", 				"source": "383", 				"notes": "RoutePlanner_ManageSouthWestRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "91", 				"source": "122", 				"notes": "This%20is%20used%20as%20a%20local%20register%20of%20asbestos%20exposure%20incidents", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "91", 				"source": "169", 				"notes": "OfficeMeterReadingSystem(OMRS)_ManageMidWestRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "91", 				"source": "267", 				"notes": "PI(DataHistorian)_ManageMidWestRegion_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "94", 				"source": "4", 				"notes": "ITRONEverblu_ManageMeteringServices_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "4", 				"notes": "This%20is%20an%20AMI%20network%20which%20is%20used%20to%20provide%20read%20data%20back%20to%20PI%20Data%20Historian.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "17", 				"notes": "Used%20for%20the%20creation%20and%20maintenance%20of%20segment%20maps%20and%20plans.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "69", 				"notes": "Provides%20remote%20access%20to%20PDA%20devices", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "72", 				"notes": "Provides%20messaging%20service%20to%20meter%20readers%20in%20metro%20area.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "100", 				"notes": "Provides%20data%20backed%20up%20from%20Grange%2C%20extracts%20are%20used%20for%20schedule%20creation.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "129", 				"notes": "Provides%20customer%20and%20property%20information%20to%20support%20work%20orders%20from%20SAP%2C%20contract%20creation%2C%20tracking%20and%20resolution%20and%20reporting.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "130", 				"notes": "Used%20to%20assist%20in%20investigations%20related%20to%20meter%20readings.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "147", 				"notes": "This%20is%20used%20for%20the%20asset%20management%20and%20tracking%20of%20PDA%20devices%2C%20deployment%20of%20software%20releases.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "169", 				"notes": "%5BOffice%5DMeterReadingSystem(OMRS)_ManageMeteringServices_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "171", 				"notes": "Used%20to%20generate%20work%20orders%20for%20audits%20and%20obstructions%2C%20inspections%20and%20operations%20work.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "182", 				"notes": "Used%20to%20store%20segment%20maps%20and%20plans.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "247", 				"notes": "Storage%20of%20photos%20associated%20with%20meter%20reading%20and%20investigation%20of%20meter%20reading%20issues.%20Also%20contains%20performance%20reports%20and%20meter%20reading%20registers", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "257", 				"notes": "", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "267", 				"notes": "DataHistorian(PI)_ManageMeteringServices_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "285", 				"notes": "Used%20by%20meter%20readers%20to%20locate%20correct%20property%20for%20meter%20reading%20and%20assist%20in%20investigations%20related%20to%20meter%20readings.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "300", 				"notes": "Used%20to%20generate%20details%20of%20hours%20worked%2C%20allowances%20and%20other%20activities%2C%20which%20is%20forwarded%20to%20respective%20agencies%20as%20a%20basis%20to%20pay%20their%20meter%20readers.%20", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "300", 				"notes": "Used%20to%20generate%20details%20of%20hours%20worked%2C%20allowances%20and%20other%20activities%2C%20which%20is%20forwarded%20to%20respective%20agencies%20as%20a%20basis%20to%20pay%20their%20meter%20readers.%20", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "94", 				"source": "383", 				"notes": "Provides%20car%20readers%20with%20capability%20to%20plan%20their%20next%20day%20of%20work%20and%20best%20route%20of%20travel.", 				"importance": "0", 				"usage": "0", 				"value": "19"},	
+{"target": "95", 				"source": "49", 				"notes": "Provides%20financial%20management%20and%20reporting%20on%20fat%20blockages%20(from%20SAP%20work%20orders).", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "74", 				"notes": "This%20is%20used%20to%20locate%20assets%20for%20trade%20waste%20assessments%20and%20backflow%20prevention%20requirements.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "109", 				"notes": "Provides%20database%20for%20trade%20waste%20customer%20permits%2C%20approvals%20compliance%20data%20and%20charges%20creation.%20Also%20provides%20backflow%20prevention%20customer%20database%20and%20compliance%20data.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "115", 				"notes": "This%20is%20used%20to%20locate%20assets%20for%20trade%20waste%20assessments%20and%20backflow%20prevention%20requirements.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "116", 				"notes": "Provides%20functionality%20to%20interrogate%20remote%20monitoring%20sensors%20for%20wastewater%20collection%20system%20", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "124", 				"notes": "Used%20in%20the%20review%20building%20applications%20that%20require%20trade%20waste%20or%20backflow%20prevention", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "129", 				"notes": "Create%20sundry%20accounts%20for%20trade%20waste%20customer%20billing%20and%20maintains%20trade%20waste%20customer%20billing%20details.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "135", 				"notes": "Provides%20training%20to%20support%20maintenance%20of%20team%20learning%20competencies.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "166", 				"notes": "Allows%20field%20teams%20to%20access%20the%20MIDAS%20application%20on%20Android%20tablet%20devices%20in%20the%20field.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "182", 				"notes": "Stores%20asset%20plans%20and%20drawings%2C%20provides%20functionality%20to%20update%20and%20edit%20drawing%20documents.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "218", 				"notes": "This%20extracts%20MIDAS%20database%20tables%20and%20provides%20reporting%20on%20MIDAS%20data.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "223", 				"notes": "This%20is%20used%20for%20managing%20key%20external%20stakeholder%20contacts.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "247", 				"notes": "Used%20to%20maintain%20corporate%20documents%20and%20process%20documents.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "261", 				"notes": "Used%20to%20store%20and%20maintain%20safety%20inspection%20records%2C%20hazards%20%26%20incident%20reporting", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "285", 				"notes": "This%20is%20used%20for%20basic%20mapping%20to%20locate%20assets.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "95", 				"source": "382", 				"notes": "This%20provides%20vehicle%20tracking%20and%20usage%20reporting.", 				"importance": "0", 				"usage": "0", 				"value": "17"},	
+{"target": "96", 				"source": "21", 				"notes": "Enable%20the%20customers%20and%20operators%20to%20schedule%20%26%20review%20of%20the%20water%20sampling%20schedules%20for%20waste%20water%20assets.", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "96", 				"source": "99", 				"notes": "Enable%20the%20customers%20and%20operators%20to%20schedule%20%26%20review%20of%20the%20water%20sampling%20schedules.", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "96", 				"source": "131", 				"notes": "HydSys(Hydstra)_ManageAssetMonitoring%26SystemsInvestigations_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "96", 				"source": "171", 				"notes": "Enables%20data%20entry%20and%20reporting%20on%20projects%2C%20cost%20allocation%2C%20stores%20etc.%20managed%20by%20AMSI.%C2%A0%20", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "96", 				"source": "258", 				"notes": "Provides%20a%20central%20data%20historian%20of%20water%20quality%20data%20that%20enable%20customers%20to%20analyse%20data.%20", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "99", 				"source": "21", 				"notes": "Provides%20functionality%20to%20govern%20QAP%20results%20%26%20process", 				"importance": "0", 				"usage": "0", 				"value": "10"},	
+{"target": "99", 				"source": "101", 				"notes": "Provides%20a%20repository%20for%20published%20documentation%20related%20to%20assets%2C%20maintenance%2C%20commissioning%20and%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "10"},	
+{"target": "99", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "10"},	
+{"target": "99", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%20and%20operational%20data", 				"importance": "0", 				"usage": "0", 				"value": "10"},	
+{"target": "99", 				"source": "273", 				"notes": "Provides%20governance%20and%20supports%20the%20maintenance%20of%20Spatial%20data", 				"importance": "0", 				"usage": "0", 				"value": "10"},	
+{"target": "100", 				"source": "21", 				"notes": "This%20manages%20email%20notifications%20in%20cases%20of%20quality%20violations%20to%20support%20WW%2FAW%20quality", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "100", 				"source": "92", 				"notes": "Allows%20for%20reporting%20and%20monitoring%20of%20Waste%20water%20sampling%20measurements", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "100", 				"source": "101", 				"notes": "Provides%20a%20repository%20for%20published%20documentation%20related%20to%20assets%2C%20maintenance%2C%20commissioning%20and%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "100", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "100", 				"source": "241", 				"notes": "This%20allows%20for%20the%20regular%20and%20scheduled%20measurements%20of%20waste%20water%20and%20alternative%20water%20assets", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "100", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%20and%20operational%20data", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "100", 				"source": "273", 				"notes": "Provides%20governance%20and%20supports%20the%20maintenance%20of%20Spatial%20data", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "101", 				"source": "21", 				"notes": "Provides%20functionality%20to%20conduct%20water%20quality%20testing%2C%20sampling%20and%20analysis%20of%20results%2C%20investigation%20and%20follow-up%20of%20QAP%20alerts", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "101", 				"source": "93", 				"notes": "Provides%20software%20automation%20functionality", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "101", 				"source": "101", 				"notes": "Provides%20asset%20management%20information%20for%20operations%20and%20maintenance", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "101", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "101", 				"source": "188", 				"notes": "Provides%20an%20aggregated%20view%20of%20data%20from%20SCX6%2C%20AMOSS%2C%20SAP%20and%20Aqua", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "101", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%20and%20operational%20data", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "101", 				"source": "273", 				"notes": "Provides%20governance%20and%20supports%20the%20maintenance%20of%20Spatial%20data", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "102", 				"source": "21", 				"notes": "This%20supports%20the%20annual%20review%20of%20the%20water%20sampling%20schedules", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "102", 				"source": "101", 				"notes": "This%20allows%20for%20the%20tracking%20and%20update%20of%20published%20asset%20management%20documentation", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "102", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "102", 				"source": "258", 				"notes": "Allows%20for%20the%20review%20of%20WA%20processes%20using%20historical%20information%20on%20sampling%20and%20operational%20data", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "103", 				"source": "99", 				"notes": "Provides%20a%20reporting%20module%20for%20drinking%20water%20compliance%20reporting", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "103", 				"source": "101", 				"notes": "Provides%20a%20repository%20for%20published%20documentation%20related%20to%20assets%2C%20maintenance%2C%20commissioning%20and%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "103", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "103", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%20and%20operational%20data", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "104", 				"source": "101", 				"notes": "This%20allows%20for%20the%20tracking%20and%20update%20of%20published%20asset%20management%20documentation", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "104", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "105", 				"source": "99", 				"notes": "Provides%20capability%20for%20reporting%20and%20analysis%20of%20drinking%20water%20assets", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "105", 				"source": "101", 				"notes": "Provides%20asset%20management%20information%20for%20operations%20and%20maintenance", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "105", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "105", 				"source": "253", 				"notes": "WaterQualityPerformanceandOperationalManagementReporting(POPMAN)_ManageDWQSystemAnalysis%26Operations_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "105", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%20and%20operational%20data", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "106", 				"source": "99", 				"notes": "Provides%20a%20reporting%20module%20for%20compliance%20reporting", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "106", 				"source": "101", 				"notes": "Provides%20a%20repository%20for%20published%20documentation%20related%20to%20assets%2C%20maintenance%2C%20commissioning%20and%20drawings", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "106", 				"source": "109", 				"notes": "Backflow%20prevention%20management%2C%20fats%2C%20oils%20and%20grease%20management%2C%20field%20industrial%20waste%20management", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "106", 				"source": "241", 				"notes": "This%20allows%20for%20the%20regular%20and%20scheduled%20sampling%20of%20drinking%20water%20assets", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "106", 				"source": "258", 				"notes": "This%20allows%20for%20Field%20Instrumentation%20Quality%20Assurance", 				"importance": "0", 				"usage": "0", 				"value": "6"},	
+{"target": "107", 				"source": "49", 				"notes": "Provides%20capability%20for%20monthly%20reporting%20and%20setting%20KPIs", 				"importance": "8", 				"usage": "1", 				"value": "4"},	
+{"target": "107", 				"source": "140", 				"notes": "Allows%20for%20the%20creation%20of%20purchase%20orders%20to%20support%20and%20maintain%20strategic%20direction", 				"importance": "9", 				"usage": "5", 				"value": "4"},	
+{"target": "107", 				"source": "206", 				"notes": "This%20supports%20the%20alignment%20of%20corporate%20strategic%20direction%20with%20identified%20corporate%20risks", 				"importance": "0", 				"usage": "0", 				"value": "4"},	
+{"target": "107", 				"source": "261", 				"notes": "Provides%20tracking%20and%20Corporate%20reporting%20of%20hazards%20and%20incidents", 				"importance": "8", 				"usage": "8", 				"value": "4"},	
+{"target": "108", 				"source": "261", 				"notes": "Sentinel_ManageWorkers'Compensation%2CHealthandWelfare_AppSvc", 				"importance": "8", 				"usage": "8", 				"value": "2"},	
+{"target": "108", 				"source": "381", 				"notes": "InjuryConnectDatabase_ManageWorkers'Compensation%2CHealthandWelfare_AppSvc", 				"importance": "0", 				"usage": "0", 				"value": "2"},	
+{"target": "109", 				"source": "31", 				"notes": "Register%20for%20OSH%2F%20Environment%20Induction", 				"importance": "7", 				"usage": "8", 				"value": "23"},	
+{"target": "109", 				"source": "31", 				"notes": "Perform%20self-assessment", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "109", 				"source": "31", 				"notes": "Perform%20OSH%2FEnvironment%20Induction", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "109", 				"source": "31", 				"notes": "Administer%20OSH%2FEnvironment%20Induction", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "109", 				"source": "58", 				"notes": "This%20allows%20the%20Operations%20centre%20to%20check%20up%20on%20workers%20in%20the%20field", 				"importance": "7", 				"usage": "7", 				"value": "23"},	
+{"target": "109", 				"source": "72", 				"notes": "Provides%20capability%20to%20send%20SMS%20messages%20to%20groups%20of%20people%20following%20significant%20incidents", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "109", 				"source": "80", 				"notes": "This%20supports%20the%20Operations%20Centre%20and%20the%20Bridging%20Conductor%20procedure", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "109", 				"source": "122", 				"notes": "This%20is%20used%20as%20a%20local%20register%20of%20asbestos%20exposure%20incidents", 				"importance": "9", 				"usage": "7", 				"value": "23"},	
+{"target": "109", 				"source": "132", 				"notes": "This%20supports%20the%20identification%20of%20OSH%20training%20needs%20and%20is%20used%20for%20the%20booking%20and%20tracking%20of%20training", 				"importance": "6", 				"usage": "8", 				"value": "23"},	
+{"target": "109", 				"source": "135", 				"notes": "This%20records%20and%20tracks%20progress%20of%20OSH%20learning%20and%20training", 				"importance": "8", 				"usage": "8", 				"value": "23"},	
+{"target": "109", 				"source": "211", 				"notes": "This%20register%20is%20used%20to%20support%20the%20Tagging%20and%20Isolation%20Procedure%20WC-OSH-109", 				"importance": "8", 				"usage": "6", 				"value": "23"},	
+{"target": "109", 				"source": "215", 				"notes": "Provides%20a%20search%20function%20for%20existing%20risk%20assessments%20and%20ability%20to%20raise%20new%20substance%20related%20risk%20assessments", 				"importance": "7", 				"usage": "1", 				"value": "23"},	
+{"target": "109", 				"source": "261", 				"notes": "Provides%20management%20and%20action%20tracking%20on%20reported%20hazards%20and%20incidents", 				"importance": "8", 				"usage": "8", 				"value": "23"},	
+{"target": "109", 				"source": "264", 				"notes": "5326", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "109", 				"source": "279", 				"notes": "Manage%20and%20settle%20payments%20resulting%20from%20hazard%20or%20incident", 				"importance": "8", 				"usage": "4", 				"value": "23"},	
+{"target": "109", 				"source": "284", 				"notes": "Allows%20for%20the%20tracking%20of%20employees%20exceeding%20working%20hours%20standard%20and%20houses%20the%20electronic%20version%20of%20fatigue%20risk%20assessments", 				"importance": "6", 				"usage": "8", 				"value": "23"},	
+{"target": "109", 				"source": "343", 				"notes": "This%20supports%20report%20writing%20of%20hazards%20and%20incidents", 				"importance": "5", 				"usage": "2", 				"value": "23"},	
+{"target": "109", 				"source": "344", 				"notes": "Provides%20information%20on%20visual%20anthropometry%20for%20ergonomics%20management", 				"importance": "6", 				"usage": "1", 				"value": "23"},	
+{"target": "109", 				"source": "378", 				"notes": "Provides%20reporting%20capability%20on%20%20employee%20health%2C%20wellbeing%20and%20mental%20health", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "109", 				"source": "379", 				"notes": "This%20allows%20for%20the%20assessment%20and%20storage%20of%20contractor%20OHS%20plans%20prior%20to%20commencing%20work", 				"importance": "9", 				"usage": "8", 				"value": "23"},	
+{"target": "109", 				"source": "380", 				"notes": "This%20reporting%20spreadsheet%20is%20used%20to%20monitor%20the%20long%20term%20visibility%20of%20employee%20working%20hours%20to%20ensure%20they%20are%20not%20breaching%20the%20code%20of%20practice%2Fworking%20hours%20standard", 				"importance": "0", 				"usage": "0", 				"value": "23"},	
+{"target": "110", 				"source": "86", 				"notes": "This%20supports%20the%20quarterly%20generation%20of%20random%20sites%20to%20be%20tested%20by%20ROAD%20procedure", 				"importance": "2", 				"usage": "2", 				"value": "11"},	
+{"target": "110", 				"source": "111", 				"notes": "Provides%20repository%20of%20published%20OSH%20documents%20-%20OSH%20Strategic%20Direction%2C%20manuals%20and%20policies", 				"importance": "7", 				"usage": "5", 				"value": "11"},	
+{"target": "110", 				"source": "118", 				"notes": "This%20downloads%20Path%20West%20test%20results%20directly%20to%20person%20responsible%20for%20RAOD%20program%20and%20Post%20Positive%20Testing", 				"importance": "8", 				"usage": "9", 				"value": "11"},	
+{"target": "110", 				"source": "135", 				"notes": "This%20supports%20the%20review%20of%20OSH%20training%20compliance%20for%20the%20organisation", 				"importance": "8", 				"usage": "8", 				"value": "11"},	
+{"target": "110", 				"source": "231", 				"notes": "Document%20Management", 				"importance": "0", 				"usage": "0", 				"value": "11"},	
+{"target": "110", 				"source": "261", 				"notes": "Provides%20capability%20for%20reporting%20of%20hazards%20and%20incidents%20for%20review%20of%20OSH%20strategy", 				"importance": "8", 				"usage": "8", 				"value": "11"},	
+{"target": "110", 				"source": "345", 				"notes": "Provides%20information%20on%20all%20OHS%2FWHS%20legal%20obligations", 				"importance": "4", 				"usage": "1", 				"value": "11"},	
+{"target": "111", 				"source": "110", 				"notes": "Uses%20PM%20data%20for%20forecasting%20and%20budgeting%20of%20operations%20and%20maintenance%20activities", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "111", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%20and%20operational%20data%2C%20licence%20details%20%26%20usage%20allowance", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "111", 				"source": "282", 				"notes": "This%20allows%20for%20the%20review%20of%20Load%20Approved%20Budgets%2C%20district%20unit%20rates%20tables%20as%20well%20as%20forecasting%20of%20budget", 				"importance": "0", 				"usage": "0", 				"value": "3"},	
+{"target": "112", 				"source": "56", 				"notes": "Provides%20platform%20on%20which%20Sewex%20runs", 				"importance": "7", 				"usage": "1", 				"value": "7"},	
+{"target": "112", 				"source": "99", 				"notes": "This%20allows%20for%20the%20creation%20of%20monitoring%20points%20and%20sampling%20schedule", 				"importance": "7", 				"usage": "0", 				"value": "7"},	
+{"target": "112", 				"source": "110", 				"notes": "This%20allows%20the%20scheduling%20and%20management%20of%20work%20orders", 				"importance": "8", 				"usage": "0", 				"value": "7"},	
+{"target": "112", 				"source": "207", 				"notes": "Spatial%20representation%20of%20customer%20activity%20*possibly%20decom.", 				"importance": "5", 				"usage": "0", 				"value": "7"},	
+{"target": "112", 				"source": "260", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "7"},	
+{"target": "112", 				"source": "285", 				"notes": "This%20allows%20for%20the%20basic%20mapping%20tool%20of%20Water%20Corporation%20assets%20*desktop%20version%20being%20replaced%20by%20myworld", 				"importance": "8", 				"usage": "7", 				"value": "7"},	
+{"target": "112", 				"source": "375", 				"notes": "Provides%20models%20of%20septicity%20and%20odour%20generation%20in%20wastewater%20conveyance%20systems", 				"importance": "7", 				"usage": "1", 				"value": "7"},	
+{"target": "113", 				"source": "56", 				"notes": "Provides%20platform%20on%20which%20Sewex%20runs", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "99", 				"notes": "This%20allows%20for%20planning%20of%20monitoring%20points%20and%20assets%20to%20be%20sampled", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "110", 				"notes": "Provides%20the%20capability%20to%20create%20planned%20work%20orders%20for%20field%20work", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "113", 				"notes": "Provides%20the%20ability%20to%20estimate%20cost%20of%20work%20for%20field%20crews", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "158", 				"notes": "ApplicationService1", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%20and%20operational%20data%2C%20licence%20details%20%26%20usage%20allowance", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "260", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "285", 				"notes": "This%20allows%20for%20the%20basic%20mapping%20tool%20of%20Water%20Corporation%20assets%20*desktop%20version%20being%20replaced%20by%20myworld", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "113", 				"source": "375", 				"notes": "Provides%20models%20of%20septicity%20and%20odour%20generation%20in%20wastewater%20conveyance%20systems", 				"importance": "0", 				"usage": "0", 				"value": "9"},	
+{"target": "114", 				"source": "29", 				"notes": "Provides%20aditional%20functionality%20and%20configuration%20environment%20for%20Schneider%20Electric%20RTUs.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "48", 				"notes": "Provides%20DOS%20environment%20to%20run%20applications%20in%20a%20windows%20environment.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "58", 				"notes": "Allows%20for%20Operations%20centre%20to%20monitor%20workers%20who%20are%20working%20in%20remote%20areas", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "62", 				"notes": "Provides%20aditional%20functionality%20and%20configuration%20environment%20for%20ABB%20RTU%20210%20Release%202.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "67", 				"notes": "Provides%20configuration%20environment%20for%20ABB%20RTUs.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "87", 				"notes": "Provides%20functionality%20to%20program%20Siemens%20PLCs.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "99", 				"notes": "This%20allows%20for%20the%20storage%20and%20analysis%20of%20water%20quality%20measurements", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "103", 				"notes": "graphical%20user%20interface%20to%20the%20configu%06ration%20options%20of%20Sierra%20Wireless%20AirLink%20modems", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "104", 				"notes": "This%20is%20used%20to%20configure%20C-more%20touch%20panel.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "107", 				"notes": "Provides%20programming%20functionality%20for%20E-series%20radios.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "110", 				"notes": "This%20allows%20for%20feedback%20on%20work%20orders", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "119", 				"notes": "create%20ladder%20logic%20programs%20for%20PLC", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "150", 				"notes": "Provides%20configuration%20environment%20for%20Miri%20RTUs.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "164", 				"notes": "Provides%20configuration%20environment%20for%20Schneider%20Electric%20RTUs.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "172", 				"notes": "Allows%20field%20to%20view%20work%20orders%2C%20record%20and%20claim%20allowances%20for%20materials%20used", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "175", 				"notes": "Provides%20aditional%20functionality%20and%20configuration%20environment%20for%20ABB%20RTU%20210%20Release%201.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "181", 				"notes": "Provides%20programming%20functionality%20for%20D-series%20radios.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "202", 				"notes": "Provides%20human%20interface%20panel.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "207", 				"notes": "Provides%20identification%20capability%20of%20all%20missed%20water%20source%20compliance%20monitoring.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "230", 				"notes": "Provides%20aditional%20functionality%20and%20configuration%20environment%20for%20ABB%20RTU%20211.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "241", 				"notes": "This%20allows%20the%20recording%20of%20field%20measurements%20and%20viewing%20sampling%20schedule", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "252", 				"notes": "Provides%20aditional%20functionality%20and%20configuration%20environment%20for%20ABB%20RTU%20560%20platform.", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "258", 				"notes": "This%20allows%20for%20field%20measurements%20to%20be%20stored%20for%20analysis", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "114", 				"source": "266", 				"notes": "Provides%20aditional%20functionality%20and%20configuration%20environment%20for%20older%20ABB%20RTUs%20(210%20and%20211).", 				"importance": "0", 				"usage": "0", 				"value": "24"},	
+{"target": "115", 				"source": "110", 				"notes": "Provides%20capability%20to%20review%20and%20report%20on%20historical%20work%20orders", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "115", 				"source": "221", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "115", 				"source": "260", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "115", 				"source": "282", 				"notes": "Manage%20and%20review%20approved%20budgets%2C%20modelling%20and%20forecasting%20capability%20used%20for%20optimising%20deliver%20services%20process", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "115", 				"source": "285", 				"notes": "Provides%20capability%20to%20simulate%20outages%20to%20plan%20and%20schedule%20work%20efficiently%20*desktop%20version%20being%20replaced%20by%20myworld", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "116", 				"source": "45", 				"notes": "Spatial%20data%20for%20mapping%20and%20reporting%20on%20project%20scope%20and%20environment%20%26%20heritage%20constraints", 				"importance": "8", 				"usage": "9", 				"value": "9"},	
+{"target": "116", 				"source": "74", 				"notes": "Provides%20basic%20mapping%20of%20Water%20Corporation%20assets%20and%20overlays%20for%20environmental%20compliance", 				"importance": "9", 				"usage": "6", 				"value": "9"},	
+{"target": "116", 				"source": "92", 				"notes": "Allows%20for%20reporting%20and%20monitoring%20of%20Waste%20water%20sampling%20measurements", 				"importance": "9", 				"usage": "2", 				"value": "9"},	
+{"target": "116", 				"source": "232", 				"notes": "This%20allows%20for%20the%20management%20of%20licence%20conditions%2C%20work%20approvals%20and%20clearing%20approvals", 				"importance": "6", 				"usage": "1", 				"value": "9"},	
+{"target": "116", 				"source": "247", 				"notes": "Storage%20of%20environmental%20compliance%20regulations%20and%20standards%20for%20the%20corporation.", 				"importance": "9", 				"usage": "9", 				"value": "9"},	
+{"target": "116", 				"source": "258", 				"notes": "This%20allows%20for%20the%20analysis%20of%20sampling%20and%20operational%20data%20to%20support%20environmental%20compliance", 				"importance": "9", 				"usage": "1", 				"value": "9"},	
+{"target": "116", 				"source": "261", 				"notes": "Provides%20capability%20to%20log%20and%20report%20environmental%20HSE%20hazards%20and%20incidents", 				"importance": "8", 				"usage": "5", 				"value": "9"},	
+{"target": "117", 				"source": "45", 				"notes": "Provides%20mapping%20and%20reporting%20on%20project%20scope%20about%20environment%20%26%20heritage%20related%20constraints.", 				"importance": "8", 				"usage": "9", 				"value": "2"},	
+{"target": "117", 				"source": "74", 				"notes": "Provides%20basic%20mapping%20of%20Water%20Corporation%20assets%20and%20overlays%20for%20environmental%20approvals.", 				"importance": "9", 				"usage": "6", 				"value": "2"},	
+{"target": "118", 				"source": "135", 				"notes": "Provides%20learning%20and%20training%20programs%20for%20HSEAA.", 				"importance": "5", 				"usage": "1", 				"value": "4"},	
+{"target": "118", 				"source": "206", 				"notes": "This%20supports%20the%20alignment%20of%20environmental%20programs%20to%20corporate%20risk%20and%20environmental%20regulations.", 				"importance": "7", 				"usage": "1", 				"value": "4"},	
+{"target": "118", 				"source": "232", 				"notes": "Provides%20a%20source%20for%20environmental%20conditions%20and%20regulatory%20requirements%20as%20well%20as%20Aboriginal%20heritage%20listings.", 				"importance": "0", 				"usage": "0", 				"value": "4"},	
+{"target": "118", 				"source": "280", 				"notes": "EnvironmentTaskTracker_ManageEnvironmentalProgramsandSupport_AppSvc", 				"importance": "5", 				"usage": "9", 				"value": "4"},	
+{"target": "119", 				"source": "59", 				"notes": "This%20allows%20for%20the%20management%20of%20assets%20or%20property%20on%20Aboriginal%20heritage%20sites%20and%20stores%20information%20on%20native%20title", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "119", 				"source": "110", 				"notes": "This%20allows%20for%20the%20management%20and%20tracking%20of%20negotiations%20and%20creation%20of%20PMOs", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "119", 				"source": "135", 				"notes": "This%20allows%20for%20the%20tracking%20and%20recording%20of%20Equity%20and%20diversity%2FCultural%20Awareness%20training", 				"importance": "5", 				"usage": "1", 				"value": "5"},	
+{"target": "119", 				"source": "171", 				"notes": "Provides%20a%20portal%20to%20access%20AA%20training%20and%20workflow%20approvals", 				"importance": "0", 				"usage": "0", 				"value": "5"},	
+{"target": "119", 				"source": "223", 				"notes": "This%20supports%20the%20management%20of%20relationships%20and%20communication%20with%20key%20stakeholders%20%26%20Aboriginal%20community", 				"importance": "8", 				"usage": "2", 				"value": "5"},	
+{"target": "121", 				"source": "5", 				"notes": "Display%20process%20graphics%20of%20PI%20data", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "6", 				"notes": "Shutdown%20process%20of%20schemes%20by%20displaying%20impact%20of%20shutting%20valves.", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "17", 				"notes": "Produce%20CAD%20based%20files%20and%20diagrams%20as%20models", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "41", 				"notes": "Simulate%20an%20outage%20due%20to%20water%20pipes%2C%20mains%20etc.", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "58", 				"notes": "Support%20safety%20of%20workers%20in%20the%20field%20by%20tracking%20time%20since%20they%20last%20checked%20in", 				"importance": "9", 				"usage": "9", 				"value": "21"},	
+{"target": "121", 				"source": "66", 				"notes": "Support%20management%20of%20water%20distribution%20network", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "74", 				"notes": "creation%20of%20work%20instructions%20to%20view%20assets%20and%20asset%20information", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "98", 				"notes": "Creation%20of%20jobs%20and%20work%20tasks", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "99", 				"notes": "Data%20for%20reporting%20and%20analysis%20on%20water%20scheme", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "115", 				"notes": "To%20locate%20Water%20Corporation%20assets.", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "116", 				"notes": "View%20and%20report%20on%20Scada%20data", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "163", 				"notes": "Design%20of%20future%20drinking%20water%20schemes%20based%20on%20hydraulic%20modelling%20principles", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "166", 				"notes": "Remote%20access%20into%20other%20assets", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "182", 				"notes": "Creation%20and%20maintenance%20of%20segment%20maps%20and%20plans", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "191", 				"notes": "Simulation%20of%20operational%20water%20supply%20network", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "246", 				"notes": "eLearning(AdobeCaptivate8)_ManageWaterSchemePlanning_AppSvc", 				"importance": "5", 				"usage": "5", 				"value": "21"},	
+{"target": "121", 				"source": "247", 				"notes": "Upload%20documents%20related%20to%20Water%20Scheme%20planning", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "258", 				"notes": "Historical%20storage%20of%20measurement%20data", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "271", 				"notes": "Record%20alarms%20and%20sends%20the%20data%20to%20ViewX%20and%20MicroScada%0D%0A", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "121", 				"source": "382", 				"notes": "Vehicle%20tracking%20of%20field%20workers", 				"importance": "0", 				"usage": "0", 				"value": "21"},	
+{"target": "122", 				"source": "99", 				"notes": "Provides%20the%20data%20required%20to%20report%20on%20water%20quality%20following%20an%20incident", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "122", 				"source": "110", 				"notes": "This%20allows%20for%20the%20creation%20of%20work%20orders%20in%20response%20to%20an%20incident%20and%20obtaining%20feedback%20on%20incident%20management", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "122", 				"source": "145", 				"notes": "Monitor%20power%20faults%20affecting%20Water%20Corporation%20infrastructure", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "122", 				"source": "179", 				"notes": "Unknown", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "122", 				"source": "258", 				"notes": "This%20allows%20for%20the%20analysis%20of%20field%20measurement%20data%20before%20and%20after%20an%20incident", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "122", 				"source": "260", 				"notes": "5235", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "122", 				"source": "285", 				"notes": "This%20allows%20for%20the%20planning%20of%20work%20as%20a%20result%20of%20an%20incident%20by%20providing%20maps%20of%20Water%20Corporation%20assets%20*desktop%20version%20being%20replaced%20by%20myworld", 				"importance": "0", 				"usage": "0", 				"value": "8"},	
+{"target": "123", 				"source": "90", 				"notes": "Unknown", 				"importance": "6", 				"usage": "8", 				"value": "6"},	
+{"target": "123", 				"source": "205", 				"notes": "Unknown", 				"importance": "9", 				"usage": "8", 				"value": "6"},	
+{"target": "123", 				"source": "258", 				"notes": "Provides%20historical%20information%20of%20sampling%2C%20operational%20data%20and%20usage%20information", 				"importance": "9", 				"usage": "9", 				"value": "6"},	
+{"target": "123", 				"source": "267", 				"notes": "Provides%20historical%20information%20of%20sampling%2C%20operational%20data%20and%20usage%20information", 				"importance": "9", 				"usage": "9", 				"value": "6"},	
+{"target": "123", 				"source": "376", 				"notes": "Required%20for%20the%20submission%20of%20energy%20and%20emissions%20report%20as%20per%20the%20National%20Greenhouse%20and%20Energy%20Reporting%20Act%202007", 				"importance": "9", 				"usage": "3", 				"value": "6"},	
+{"target": "123", 				"source": "377", 				"notes": "Online%20portal%20for%20metering%20services%20and%20work%20requests", 				"importance": "9", 				"usage": "7", 				"value": "6"}	
+	
+]	
+}	

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style type="text/css">
+@import url(//fonts.googleapis.com/css?family=PT+Serif|PT+Serif:b|PT+Serif:i|PT+Sans|PT+Sans:b);
+* { box-sizing: border-box; } 
+table {
+  font-family: sans-serif;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size:9px;
+}
+table {
+  align: left;
+}
+table, td, th {
+  padding: 5px;
+  border: 1px solid rgb(8,48,107);
+  align: left;
+}
+th {
+  background-color: rgb(8,81,156);
+  color: white;
+}
+
+
+.pro {  
+  font: 9px sans-serif;
+}
+
+.pro rect {
+  fill: #fff;
+  border-radius: 5px; 
+  stroke: #bbb; 
+  stroke-width: 1;
+}
+
+.pro text {
+  text-anchor:middle;  
+  pointer-events: none;
+}
+
+.bucket div{
+  width:4000px;
+  height:100px;
+}
+
+</style>
+<body> 
+
+   <div class="errors"></div>
+<svg class="bucket"></svg>
+<div class="framebody"></div>
+
+<script src="./../d3/d3.v3.min.js"></script>
+<script>
+
+ var jdata=[];
+ var pad=5;
+ var unit = 40;
+ var gridCell = { width:unit*2.5, height:unit}; 
+
+ var margin = {top: 50, right: 10, bottom: 10, left: 100};
+
+
+  var svg = d3.select(".bucket")
+              .attr("width", "4000px")
+              .attr("height","2000px")
+            .append("g")
+              .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.json("accountabilityTree.json", function(error, data) {
+  if (error) throw error;   
+  jdata = data;
+  update();
+});
+
+
+function update(){        
+    var body=d3.select(".framebody");
+    var n0={x:0,y:0,w:0,h:0,name:jdata.name,size:0, children:[]};
+    tree(jdata,n0);  
+
+    var n1={x:n0.x, y:n0.y, w:n0.w,h:n0.h, name: n0.name, children: n0.children.filter( function(d,i) { return i >= 0 && i < 3 ; })};  
+    layout(n1,0,0);
+    //print("--",n1);
+
+    var pro=svg.selectAll(".set1")
+            .data(n1.children)
+            .enter().append("g")            
+            .attr("class","set1")
+            .call(drawchild);
+
+    var n2={x:0, y:n1.h+pad, w:0,h:0, name: n0.name, children: n0.children.filter( function(d,i) { return i >= 3 && i <= 6 ; })}; 
+    layout(n2,0,0);
+    pro=svg.selectAll(".set2")
+            .data(n2.children)
+            .enter().append("g")
+            .attr("class","set2")
+            .attr("transform", function(d) { return "translate(0," + (n1.h+pad) + ")" ; }) 
+            .call(drawchild);
+}
+
+function tree(data,node){    
+   if(data.children){
+      for( var k=0; k < data.children.length ; k++){  
+          var nn={x:0,y:0,w:0,h:0,name:data.children[k].name,size:0, children:[]};  
+          if (data.children[k].size) nn.size=data.children[k].size;
+          node.children.push(nn);
+          tree(data.children[k],nn);
+      }  
+   }  
+}
+
+
+function print(indent,data){
+     d3.select(".errors").append("div").text(indent+data.x+","+data.y+","+data.w+","+data.h +","+data.name);
+     for( var k=0; k < data.children.length ; k++){           
+          print(indent+indent,data.children[k]);
+      }  
+}
+
+function layout(node) {
+      var x=pad,y=pad,z=gridCell.height/1.25;      
+      var count=0;
+      for( var k=0; k < node.children.length ; k++){  
+            count += node.children[k].children !=null ? node.children[k].children.length : 0;        
+      }    
+    
+     if(count==0) {
+        for( var k=0; k < node.children.length ; k++){  
+            node.children[k].w=gridCell.width;
+            node.children[k].h=gridCell.height; 
+            node.children[k].x=x;             
+            node.children[k].y=y; 
+            y+=gridCell.height+pad;
+       }
+       node.w = gridCell.width+2*pad;                            
+       node.h = pad+node.children.length*(gridCell.height+pad)+z; 
+     }
+     else {                     
+         for( var k=0; k < node.children.length ; k++){ 
+                node.children[k].x=x;
+                node.children[k].y=y;
+                layout(node.children[k]);
+                node.w += node.children[k].w;                            
+                node.h =  node.children[k].h > node.h ? node.children[k].h : node.h; 
+                x+=node.children[k].w+pad;                     
+          }
+          node.w+=(node.children.length+1)*pad;       
+          node.h+=gridCell.height;
+     }
+}
+
+function drawchild(sel){
+      sel.each(function(d) {
+
+      var gee=d3.select(this);
+      var gpro=gee.append("g")
+                  .attr("class","pro")
+                  .attr("transform", function(d) { return "translate(" + d.x + "," + (d.y+gridCell.height/1.25) + ")" ; }) ;
+          
+          gpro.append("rect")  
+              .attr("rx", 6)
+              .attr("ry", 6) 
+              .attr("height",d.h)
+              .attr("width",d.w)
+
+          gpro.append("text")  
+              .attr("x", 0)
+              .attr("dy",-1)                    
+              .style("fill","#000")  
+              .attr("transform", function(d) { return "translate(" + d.w/2 + "," + gridCell.height/2 + ")" ; })  
+              .text(function(d, i) { return d.name ; })            
+              .call(wrap,d.w);
+          
+      var cpro=gpro.selectAll(".gchildren")
+                      .data(d.children) 
+                      .enter().append("g") ;
+
+          cpro.call(drawchild);       
+    });
+}
+
+function wrap(text, width) {
+  text.each(function() {
+    var text = d3.select(this),
+        words = text.text().split(/\s+/).reverse(),
+        word,
+        line = [],
+        lineNumber = 0,
+        lineHeight = 1.1, // ems
+        y = text.attr("y"),
+        dy = parseFloat(text.attr("dy")),
+        tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
+    while (word = words.pop()) {
+      line.push(word);
+      tspan.text(line.join(" "));
+      if (tspan.node().getComputedTextLength() > width) {
+        line.pop();
+        tspan.text(line.join(" "));
+        line = [word];
+        tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("y", ++lineNumber * lineHeight + dy + "em").text(word);
+      }
+    }
+  });
+}
+
+
+</script>

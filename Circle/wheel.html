@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <title>Water Corporation Business Process Framework Wheel</title>
+  <meta name="description" content="A visualisation of coffee flavours.">
+  <style>
+    @import url(stylewheel.css);
+    path {
+      stroke: #ddd;
+      stroke-width: 1;
+      cursor: pointer;
+    }
+    
+    text {
+      font: 11px sans-serif;     
+      pointer-events: none;
+    }
+  
+    .wrapper {
+      margin-left: 20px;
+    }
+    
+    blockquote {
+      width: 20px;
+    }
+    
+    p#intro {
+      margin-left: 120px;
+    }
+
+    .wrap {
+      margin:10px 0px 0px 0px; 
+    }
+
+    .right {
+        float: left; 
+    }
+
+    .left {
+        float: left;   
+        width:300px; 
+    }
+
+
+  </style>
+</head>
+
+<body>
+
+  <h1>Water Corporation Business Process Framework Wheel</h1>
+  <div class="wrap">
+    <div class="left">Click to zoom!</div>
+    <div class="right" ><label class='nowrap'><input checked id=cbMode  type=checkbox />Hide Segments</label></div>
+  </div>  
+  <br>
+  <div id="vis"></div>
+  
+  <script src="wheel.d3.js"></script>
+  <script src="app.js"></script>
+
+ 
+  <br>
+  <br>
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html class="water-corp">
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> 
+<![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8"> 
+<![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
+
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
+    
+<head>
+        
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        
+<meta charset="utf-8">
+        
+<title>Portfolio Application & Processes Sankey Diagram</title>    
+        
+<link rel="stylesheet" href="./style.css">
+      
+</head>
+
+<style>
+
+#chart {
+  height: 1000px;
+}
+
+.node rect {
+  cursor: move;
+  fill-opacity: 1.0;
+  stroke-width: 0px;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  font: bold 11px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke-opacity: .3;
+}
+
+
+</style>
+<body>
+
+<header>
+</header>
+<div class="errors"></div>
+
+<p id="chart">
+
+<script src="./../d3/d3.v3.min.js"></script>
+<script src="sankey.js"></script>
+<script>
+
+var margin = {top: 10, right: 400, bottom: 6, left: 125},
+    width = 1500 - margin.left - margin.right,
+    height = 900 - margin.top - margin.bottom;
+
+var formatNumber = d3.format(",.0f"),
+    format = function(d) { return formatNumber(d); },
+    color = d3.scale.category20b();
+
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .style("margin-right", margin.right+ "px")
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var sankey = d3.sankey()
+    .nodeWidth(20)
+    .nodePadding(10)
+    .size([width, height]);
+
+var path = sankey.link();
+
+d3.json("sankey.json", function(energy) {
+
+   energy.links.forEach(function(x,i) { x.color = color(x.source); });
+
+  sankey
+      .nodes(energy.nodes)
+      .links(energy.links)
+      .layout(32);
+
+  var link = svg.append("g").selectAll(".link")
+      .data(energy.links)
+    .enter().append("path")
+      .attr("stroke",function(d) { return d.color; } )
+      .attr("class", "link")
+      .attr("d", path)
+      .on("mouseover", hoverover)
+      .on("mouseout", hoverout)
+      .style("stroke-width", function(d) { return Math.max(1, d.dy); })
+      .sort(function(a, b) { return b.dy - a.dy; });
+
+  link.append("title")
+      .text(function(d) { return d.source.name + " → " + d.target.name });
+
+  var node = svg.append("g").selectAll(".node")
+      .data(energy.nodes)
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+    .call(d3.behavior.drag()
+      .origin(function(d) { return d; })
+      .on("dragstart", function() { this.parentNode.appendChild(this); })
+      .on("drag", dragmove));
+
+  node.append("rect")
+      .attr("height", function(d) { return d.dy; })
+      .attr("width", sankey.nodeWidth())
+      .style("fill", function(d,i) { return color(i); })
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout)
+    .append("title")
+      .text(function(d) { return d.name ; });
+
+  node.append("text")
+      .attr("x", 30)
+      .attr("y", function(d) { return d.dy / 2; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", "start")
+      .attr("transform", null)
+      .text(function(d) { return d.name ; }) //+ " [" + d.id +"]"
+    .filter(function(d) { return d.x < width / 2; })
+      .attr("x", -30 + sankey.nodeWidth())
+      .attr("text-anchor", "end");
+
+  function dragmove(d) {
+    d3.select(this).attr("transform", "translate(" + d.x + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
+    sankey.relayout();
+    link.attr("d", path);
+  }
+  
+  function hoverover(p) {
+     d3.select(this)
+         .style("stroke-opacity",1.0)
+        .transition()
+        .duration(500); 
+  }
+  
+  function hoverout(p) {
+      d3.select(this)
+         .style("stroke-opacity",0.2)
+        .transition()
+        .duration(500);    
+  }
+  
+  function mouseover(p) {
+      var r=d3.select(this).style("fill");
+      d3.selectAll(".link").filter(function (d,i) { return p===d.source || p===d.target ;})
+         .style("stroke",d3.rgb(r))
+         .style("stroke-opacity",1.0)
+        .transition()
+        .duration(500);    
+  }
+ 
+  function mouseout(p) {
+    d3.selectAll(".link").filter(function (d,i) { return p===d.source || p===d.target ;})
+         .style("stroke",p.color)
+         .style("stroke-opacity",0.3)
+        .transition()
+        .duration(500);    
+  }
+});
+
+</script>
+</html>

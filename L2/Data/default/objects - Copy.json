@@ -1,0 +1,887 @@
+[
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Asset Maintenance",        	
+"depends" : ["Manage Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage WW and AWQ Commitment",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Strategic Asset Management",        	
+"depends" : ["Manage Asset Strategy"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Incidents",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Strategy",        	
+"depends" : ["Manage Customer Strategy & Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operational Alliance Goverance",        	
+"depends" : ["Manage Operational Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Planning",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Drainage",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Drainage",        	
+"depends" : ["Manage Drainage"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Drainage Performance",        	
+"depends" : ["Manage Drainage"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Infrastructure Assets",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan and Investigate Asset Renewals",        	
+"depends" : ["Manage Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Asset Operations",        	
+"depends" : ["Manage Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage R&D",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Research and Development",        	
+"depends" : ["Manage R&D"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Innovation",        	
+"depends" : ["Manage R&D"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Infrastructure Assets",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Scope",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage External Approvals",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Water Supply & Demand",        	
+"depends" : ["Manage Asset Planning"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Water Source Compliance",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Water Supply",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Water Efficiency",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Recycling",        	
+"depends" : ["Manage Water Supply & Demand"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Assets Delivery",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Aquire Infrastructure Assets",        	
+"depends" : ["Manage Assets Delivery"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Infrastructure Design",        	
+"depends" : ["Aquire Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Design Assets",        	
+"depends" : ["Manage Infrastructure Design"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Projects",        	
+"depends" : ["Aquire Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operational Alignment and Integration",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Safety, Environment & Aborignal Affairs",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Environmental Programs and Support",        	
+"depends" : ["Manage Safety, Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Environmental Approvals",        	
+"depends" : ["Manage Safety, Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Environmental Compliance",        	
+"depends" : ["Manage Safety, Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Aboriginal Affairs",        	
+"depends" : ["Manage Safety, Environment & Aborignal Affairs"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Water Quality",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage DWQ Commitment",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage DWQ System Analysis & Operations",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage DWQ Supporting Requirements",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Review of DWQ Processes",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage WW and AWQ System Analysis & Operations",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Hazards and OSH Incidents",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Workers' Compensation, Health and Welfare",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Monitor, Analyse and Review OSH",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Execution of Field Work",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Finance & Corporate Services",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Corporate Goverance",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Finance",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Information Services",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage People",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Procurement",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Property & Facilities",        	
+"depends" : ["Manage Finance & Corporate Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Risk Framework",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Employment Conditions Definition and Maintenance",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Employee Relations",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Recruit Employees",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Maintain Employee Payroll, Details and Records",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Develop Employees",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Performance",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Equity and Diversity",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Procurement Planning",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Purchase to Pay",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Procurement Agreements",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Inventory",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Strategy",        	
+"depends" : ["Plan Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Assess Asset Capability",        	
+"depends" : ["Manage Asset Strategy"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Assets",        	
+"depends" : ["Manage Asset Strategy"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Investment",        	
+"depends" : ["Plan Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Development Services",        	
+"depends" : ["Plan Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Land Servicing",        	
+"depends" : ["Manage Development Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Land Service",        	
+"depends" : ["Manage Development Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Building Service",        	
+"depends" : ["Manage Development Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Formulate Capital Investment",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Investment Prioritisation",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Program Capital",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Delivery of Projects",        	
+"depends" : ["Manage Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Transfer Assets and Close-out Project",        	
+"depends" : ["Manage Projects"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Investment",        	
+"depends" : ["Aquire Infrastructure Assets"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Post Delivery Review",        	
+"depends" : ["Manage Asset Investment"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Establish and Manage Contracts",        	
+"depends" : ["Manage Assets Delivery"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Create Contracts",        	
+"depends" : ["Establish and Manage Contracts"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mechanical & Electrical Services",        	
+"depends" : ["Manage Assets Delivery"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Electrical Compliance",        	
+"depends" : ["Manage Mechanical & Electrical Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mechanical & Electrical Safety",        	
+"depends" : ["Manage Mechanical & Electrical Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mechanical & Electrical Assets Compliance",        	
+"depends" : ["Manage Mechanical & Electrical Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operations Services",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Deliver Services",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage WW and AWQ Supporting Requirements",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Review of WW and AWQ Processes",        	
+"depends" : ["Manage Water Quality"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Prioritise and Sequence Operational Change",        	
+"depends" : ["Manage Operational Alignment and Integration"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Service Delivery Planning",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Work Planning",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Work Schedule",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Performance Optimisation of Deliver Services Process",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Water Scheme Planning",        	
+"depends" : ["Deliver Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction for Energy",        	
+"depends" : ["Deliver Services"] 			
+},		
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Occupational Safety & Health",        	
+"depends" : ["Manage Operations Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage OSH Strategic Corporate Direction",        	
+"depends" : ["Manage Occupational Safety & Health"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Compliance and Accountability Framework",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operating License",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Provide Internal Review and Audit Services",        	
+"depends" : ["Manage Corporate Goverance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operating Budgets",        	
+"depends" : ["Manage Finance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Performance Reporting",        	
+"depends" : ["Manage Finance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Accounting",        	
+"depends" : ["Manage Finance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Treasury and Taxation",        	
+"depends" : ["Manage Finance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Develop IT Plans and Architecture",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Implement IT Projects",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage IT Infrastructure Operations",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Access to Information",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Business Application Support",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Plan Workforce",        	
+"depends" : ["Manage People"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Suppliers",        	
+"depends" : ["Manage Procurement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Real Estate",        	
+"depends" : ["Manage Property & Facilities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Fleet",        	
+"depends" : ["Manage Property & Facilities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customers & Community",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Communications",        	
+"depends" : ["Manage Customers & Community"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Service Customers",        	
+"depends" : ["Manage Customers & Community"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Strategy & Engagement",        	
+"depends" : ["Manage Communications"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer & Industry Partnerships",        	
+"depends" : ["Manage Communications"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Internal Communications",        	
+"depends" : ["Manage Communications"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Engagement",        	
+"depends" : ["Manage Customer Strategy & Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Community Engagement",        	
+"depends" : ["Manage Customer Strategy & Engagement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Stakeholder Engagement",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operations",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Alliances",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Regions",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Services",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Operational Assurance",        	
+"depends" : ["Manage Operations"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Alliance Relationships",        	
+"depends" : ["Manage Alliances"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Chair ALT's",        	
+"depends" : ["Manage Alliances"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Relationship Contracts Goverance",        	
+"depends" : ["Manage Operational Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Asset Monitoring & Systems Investigations",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Commermcial & Industrial Waste",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Inspection & Refurbishment Services",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Metering Services",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Field Services program delivery",        	
+"depends" : ["Manage Field Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Great Southern Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Goldfields & Agricultural Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Major Customer Agreements",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Key Customer Relationships",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Delivery of Water Efficiency Projects",        	
+"depends" : ["Manage Customer & Industry Partnerships"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage South West Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage North West Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Mid West Region",        	
+"depends" : ["Manage Regions"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Billing and Assurance",        	
+"depends" : ["Service Customers"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Customer Records Maintenance",        	
+"depends" : ["Manage Customer Billing and Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Property Records Maintenance",        	
+"depends" : ["Manage Customer Billing and Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage the Billing of Customers",        	
+"depends" : ["Manage Customer Billing and Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage the Collection of Revenue",        	
+"depends" : ["Manage Customer Billing and Assurance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Call Centre",        	
+"depends" : ["Manage Customers & Community"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Single View of Customer",        	
+"depends" : ["Manage Call Centre"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategy & Stakeholders",        	
+"depends" : ["Manage Water Corporation"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Direction",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Business Improvement",        	
+"depends" : ["Manage Strategic Direction"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Media Board & Government Liason",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Legal Services",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategic Policy Direction",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Monitoring of Corporate Strategic Direction",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Planning Corporate Strategic Direction",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Corporate Change",        	
+"depends" : ["Manage Business Improvement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Use of Management Operating Systems",        	
+"depends" : ["Manage Business Improvement"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Development of Non-Core Business Opportunities",        	
+"depends" : ["Manage Strategy & Stakeholders"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Strategy & Corporate Analytics",        	
+"depends" : ["Manage Strategic Direction"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Media Communications",        	
+"depends" : ["Manage Media Board & Government Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Board Liason",        	
+"depends" : ["Manage Media Board & Government Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Ministerial Liaison",        	
+"depends" : ["Manage Media Board & Government Liason"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Provision Legal Services",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Legislation",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Insurance",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Coordinate Board Goverance",        	
+"depends" : ["Manage Legal Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Business Development",        	
+"depends" : ["Manage Development of Non-Core Business Opportunities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Works Holding Arrangements",        	
+"depends" : ["Manage Development of Non-Core Business Opportunities"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Cordination of Approach to Business Analysis ",        	
+"depends" : ["Manage Strategy & Corporate Analytics"] 			
+},	
+{        	
+"type"    : "ArchiMate_ApplicationRoot",         	
+"name"    : "Manage Water Corporation",        	
+"depends" : [] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Provide Commercial I.T. Support",        	
+"depends" : ["Manage Information Services"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Evaluate Investments",        	
+"depends" : ["Manage Finance"] 			
+},	
+{        	
+"type"    : "ArchiMate_BusinessProcess",         	
+"name"    : "Manage Pricing",        	
+"depends" : ["Manage Finance"] 			
+}
+]

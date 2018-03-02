@@ -1,0 +1,408 @@
+﻿<!DOCTYPE html>
+<html class="water-corp">
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> 
+<![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8"> 
+<![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
+
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
+    
+<head>        
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">        
+    <meta charset="utf-8">        
+    <title>Application Portfolio</title>            
+    <link rel="stylesheet" href="./style.css">      
+</head>
+
+<style>
+.node rect{
+  cursor: pointer;
+  stroke: rgba(0, 0, 0, 0.1);
+}
+
+.node text{
+  font: bold 12px sans-serif;
+  pointer-events: none;
+}
+
+expand {
+    fill: #03090d;
+    background:url(has.gif) no-repeat left fixed;    
+}
+
+empty
+{
+    fill : #112e44;
+    background:url(empty.gif) no-repeat left fixed;    
+}
+
+div.tooltip {    
+    position: absolute;            
+    text-align: left;            
+    padding: 8px;                
+    font: normal 12px sans-serif;        
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    border: 0px;        
+    border-radius: 4px;  
+    max-width: 30%;
+    min-width: 250px;
+} 
+
+div.plabel {   
+    color: rgba(23, 190, 207, 1.0);
+    font: bold 12px sans-serif;
+    float: left;
+} 
+
+div.pvalue {
+    color: #fff;
+}
+
+.wrap {
+    margin:10px 0px 0px 0px; 
+}
+
+.right {
+    float: left; 
+}
+
+.left {
+    float: left;   
+    width:300px; 
+}
+
+</style>
+<body>
+
+
+<h1>Water Corporation - Application Portfolio</h1>
+<div class="wrap">
+    <div class="left">
+        Order &nbsp;<select id="order">
+            <option value="application">Alphabetically </option>
+            <option value="owner">by Application owner</option>
+        </select>
+    </div>
+    <div class="right">
+        Search &nbsp;&nbsp;<input id="searchField" onkeyup="search(this)" type="text" name="fname"> 
+    </div>
+</div>
+<script src="./../d3/d3.v3.min.js"></script>
+<script>
+var margin = {top: 30, right: 20, bottom: 30, left: 0},
+    width = 800 - margin.left - margin.right,
+    barHeight = 20,
+    barWidth = width * .7;
+
+var i = 0,
+    duration = 400,
+    root;
+
+var tree = d3.layout.tree()
+    .nodeSize([0, 20]);
+
+var diagonal = d3.svg.diagonal()
+    .projection(function(d) { return [d.y, d.x]; });
+
+var div = d3.select("body").append("div")    
+            .attr("class", "tooltip")                
+            .style("opacity", 0);       
+
+var svg = d3.select("body").append("svg")
+    .attr("width", (width + margin.left + margin.right)*2  )
+  .append("g")
+    .attr("class","listregion")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+ var notes = [] ;
+ var keynodes =[];
+
+fill("application");
+
+function fill(order){
+    notes = [] ;
+    keynodes =[];
+
+    d3.select("svg")
+        .append("g") 
+        .attr("class", "searchregion")
+        .attr("transform", function(d) { return "translate(" + margin.left + "," + margin.top + ")"; }) ;
+
+    d3.json(order+".json", function(error, apptree) {
+    if (error) throw error;
+
+    var nn = tree.nodes(apptree);
+    nn.forEach(function(n, i) {
+            keynodes[i] =  {node: n, id: i, y:0};
+    });
+
+    apptree.x0 = 0;
+    apptree.y0 = 0;
+    notes= apptree.listnotes;
+    update(root=apptree);
+    });
+}
+
+function update(source) {
+
+  var re="";
+  // Compute the flattened node list. 
+  var nodes = tree.nodes(root); 
+
+  var height = Math.max(500, nodes.length * barHeight + margin.top + margin.bottom);
+
+  d3.select("svg").transition()
+      .duration(duration)
+      .attr("height", height);
+
+  d3.select(self.frameElement).transition()
+      .duration(duration)
+      .style("height", height + "px");
+
+  // Compute the "layout".
+  nodes.forEach(function(n, i) {
+    n.x = i * barHeight;
+  });
+
+
+  // Update the nodes
+  var node = svg.selectAll("g.node")
+      .data(nodes, function(d) { return d.id || (d.id = ++i); });
+
+  var nodeEnter = node.enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+      .style("opacity", 1e-6);
+
+  // Enter any new nodes at the parent's previous position.
+
+    nodeEnter.append("rect")
+      .attr("y", -barHeight / 2)
+      .attr("x", 0)
+      .attr("height", barHeight)
+      .attr("width", function(d) { return barWidth-d.y; })
+      .style("fill", function(d) { return d.name.match(re) ? color : "black"; })
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout)
+      .on("click", click);
+ 
+    nodeEnter.append("image")
+        .attr("x",2 )
+        .attr("y",-8)
+        .attr("height",16)
+        .attr("width",16)
+        .attr("xlink:href",expandy)
+        .on("click", click);
+
+  nodeEnter.append("text")
+      .attr("dy", 3.5)
+      .attr("dx", 5.5)
+      .attr("x", 20)
+      .text(function(d) { return d.name; });
+  
+  nodeEnter.append("image")
+      .attr("x", function(d) { return barWidth - d.y - 40; })
+      .attr("y",-7)
+      .attr("height",16)
+      .attr("width",16)
+      .attr("xlink:href",typey);
+
+  // Transition nodes to their new position.
+  nodeEnter.transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+      .style("opacity", 1);
+
+  node.transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+      .style("opacity", 1)
+    .select("rect")
+      .style("fill", color);
+
+  // Transition exiting nodes to the parent's new position.
+  node.exit().transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
+      .style("opacity", 1e-6)
+      .remove();
+
+  // Stash the old positions for transition.
+  nodes.forEach(function(d) {
+    d.x0 = d.x;
+    d.y0 = d.y;
+  });
+}
+
+d3.select("#order").on("change", function () {   
+    d3.json(this.value, function (error, port) {
+        if (error) throw error;
+
+        port.x0 = 0;
+        port.y0 = 0;
+        update(root=port);
+    });
+});
+
+function mouseover(d) {   
+   
+   if( d3.select(this).classed("searching") )return;
+    var p=d;
+    if(d.node) p=d.node;
+    var note = notes[p.note] !=null ? notes[p.note].description : "";
+    if(p.type){
+          div.html("<div class='plabel'>Name</div><div class='pvalue'>&nbsp;" + p.name + "</div>" 
+	  + "<div class='plabel'>Type</div><div class='pvalue'>&nbsp;" + convert(p.type) + " </div>" 
+          + "<div class='plabel'>Custodian</div><div class='pvalue'>&nbsp;" +p.custodian + "</div>" 
+          + "<div class='plabel'>Application Owner</div><div class='pvalue'>&nbsp;" + p.owner + " </div>" 
+          + "<div class='plabel'>Importance & Usage</div><div class='pvalue'>&nbsp;" + usage(p.usage) + " </div><br/>" 
+          + decodeURIComponent(note))    
+              .style("left", (d3.event.pageX + 20) + "px")        
+              .style("top", (d3.event.pageY - 28) + "px"); 
+         div.transition()        
+             .duration(200)        
+             .style("opacity", .95);   
+     }
+
+}
+
+function convert(input){
+	if(input=="TOP") return "Business Application";
+	if(input=="INFRASTRUCTURE") return "Infrastructure Application";
+	if(input=="WEB") return "Web Application";
+	if(input=="COMPONENT") return "Component";
+	if(input=="ABSTRACT") return "Application Suite";		
+	return "";	
+}
+
+
+function search (data) {
+  
+   var reg=data.value;
+   var regex=new RegExp(reg,"gi");
+   d3.select(".listregion").transition().attr("opacity",function(d) { return reg.length == 0 ? 1.0 :1e-6 ;});    
+   var region = d3.select(".searchregion").attr("opacity",function(d) { return reg.length == 0 ? 1e-6 : 1.0 ;});
+   
+   d3.select(".listregion").selectAll(".node rect")
+        .classed("searching", function(d) { return reg.length == 0 ? false : true ;});
+
+    var sub=[];
+    for(var k =0; k < keynodes.length; k++){
+        if(keynodes[k].node.name.match(regex)){ 
+            keynodes[k].y=sub.length;
+            sub.push(keynodes[k]);                
+        }
+    }
+
+    var apps = region.selectAll(".node")
+                    .data(sub,function(d) { return d.id; }); 
+
+    apps.transition().delay(250)
+            .attr("transform", function(d) { return "translate(0," +(barHeight*d.y) + ")"; });
+
+    var gapp= apps.enter().append("g")
+            .attr("class","node")
+            .attr("transform", function(d) { return "translate(0," +(barHeight*d.y) + ")"; });
+
+    gapp.append("rect")
+            .attr("y", -barHeight / 2)
+            .attr("x", 0)
+            .attr("height", barHeight)
+            .attr("width", barWidth)
+            .attr("fill","#fff") //green")
+            .on("mouseover", mouseover)
+            .on("mouseout", mouseout);            
+
+    gapp.append("text")
+            .attr("dy", 3.5)
+            .attr("dx", 5.5)
+            .attr("x", 0)
+            .text(function(d) { return d.node.name ; }) ;
+
+    apps.exit().transition()
+            .duration(250)
+            .remove();   
+   
+}
+
+function usage(score)
+{
+    var imgs="";
+    var num = weight(score);
+    for( var j=0; j < num; j++){
+        imgs+= "<img src='star.png' height='10' width='10'>";
+    }
+    return imgs;
+}
+
+function weight(score)
+{
+    if(score==null) return 1;
+    if (score.between(0,50)) return "1";
+    if (score.between(50,100)) return "2";
+    if (score.between(150,200)) return "3";
+    if (score.between(200,300)) return "4";
+    if (score.between(300,1000)) return "5";
+}
+
+Number.prototype.between = function(first,last){
+    return (first < last ? this >= first && this <= last : this >= last && this <= first);
+}
+
+function noaction() {
+    var ihdhn=2;    
+}
+
+function mouseout() {
+    div.transition()        
+          .duration(500)        
+          .style("opacity", 0);  
+    
+}
+
+// Toggle children on click.
+function click(d) {
+  if (d.children) {
+    d._children = d.children;
+    d.children = null;
+  } else {
+    d.children = d._children;
+    d._children = null;
+  }
+  update(d);
+}
+
+function color(d) { 
+  return  "#fff" ;
+}
+
+function expandy(d) {
+  return d._children ? "plus.png" : d.children ? "plus.png" : d.type =="COMPONENT" ? "component.png"  : "empty.png"  ;
+}
+
+function typey(d) {
+
+  var img="notype.gif";
+  
+  switch (d.type) {
+      case "WEB":
+          img="web.png";
+          break;
+      case "INFRASTRUCTURE":
+          img="infr.png";
+          break;
+      case "NOT IN USE":
+          img="cut.png";
+          break;
+  }
+  return img;
+}
+
+
+ d3.select("#order").on("change", function() {
+    fill(this.value);
+  });
+
+</script>
