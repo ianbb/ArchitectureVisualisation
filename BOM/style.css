@@ -1,0 +1,91 @@
+    body { font: 12px Arial;}
+
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .x.axis path {
+        display: none;
+    }
+
+    .line {
+        fill: none;
+        stroke: steelblue;
+        stroke-width: 2px;
+    }
+
+    .circle {
+        fill: white;
+        stroke: steelblue;
+        stroke-width: 2px;
+    }   
+
+    .area {
+        fill: steelblue;
+        stroke: none;
+        opacity: 0.1;
+    }
+
+    .overlay {
+        fill: none;
+        stroke: none;
+        pointer-events: all;
+    }
+
+    .focusLine {
+        fill: none;
+        stroke: orangered;
+        stroke-width: 0.5px;
+    }
+
+    .focusCircle {
+        fill: orangered;        
+        stroke: orange;
+    }
+
+    td{
+        padding: 1px 10px 1px 10px;            
+    }
+
+    th{
+        font-weight: bold;
+        padding: 1px 10px 1px 10px;
+        color:steelblue;
+    }
+
+    .container {
+        display: flex;
+        margin: 20px 20px 20px 20px; 
+        flex-wrap: wrap;
+    }
+ 
+    div { 
+        padding: 20px 20px 20px 20px; 
+        border: 1px lightsteelblue solid;
+    }
+
+    .selected{
+        color: orangered;
+    }
+
+    .node {
+        position: absolute; 
+        list-style: none;
+        cursor: default;
+    }
+
+    .node span {
+        margin-right: 5px;
+    }
+    
+    .node .caret {
+        font-size: 10px;
+    }
+    
+    div.districts {                      
+        width : 300px;
+    } 
+       
