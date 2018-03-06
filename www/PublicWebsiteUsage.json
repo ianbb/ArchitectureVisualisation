@@ -1,0 +1,5600 @@
+[
+  {
+    "Name": "Pay my bill",
+    "Index": 1,
+    "Visits": 318815,
+    "Path": "Home/Residential/My account/I want to/Pay my bill"
+  },
+  {
+    "Name": "Rainfall",
+    "Index": 2,
+    "Visits": 256120,
+    "Path": "Home/Residential/Water supply/Rainfall and dams/Rainfall"
+  },
+  {
+    "Name": "Watering days",
+    "Index": 3,
+    "Visits": 169662,
+    "Path": "Home/Residential/Save water/Watering days"
+  },
+  {
+    "Name": "Contact Us",
+    "Index": 4,
+    "Visits": 129064,
+    "Path": "Home/Residential/About us/Contact Us"
+  },
+  {
+    "Name": "Dam levels",
+    "Index": 5,
+    "Visits": 107736,
+    "Path": "Home/Residential/Water supply/Rainfall and dams/Dam levels"
+  },
+  {
+    "Name": "My account",
+    "Index": 6,
+    "Visits": 80916,
+    "Path": "Home/Residential/My account"
+  },
+  {
+    "Name": "Rainfall and dams",
+    "Index": 7,
+    "Visits": 78399,
+    "Path": "Home/Residential/Water supply/Rainfall and dams"
+  },
+  {
+    "Name": "Check for water outages",
+    "Index": 8,
+    "Visits": 55549,
+    "Path": "Home/Residential/Faults/Check for water outages"
+  },
+  {
+    "Name": "Waterwise Garden Rewards",
+    "Index": 9,
+    "Visits": 36167,
+    "Path": "Home/Residential/Save water/Water saving programs/Waterwise Garden Rewards"
+  },
+  {
+    "Name": "Apply for a meter reading",
+    "Index": 10,
+    "Visits": 33320,
+    "Path": "Home/Business/Property and settlement agents/Apply for a meter reading"
+  },
+  {
+    "Name": "Careers with us",
+    "Index": 11,
+    "Visits": 31249,
+    "Path": "Home/Residential/About us/Careers with us"
+  },
+  {
+    "Name": "Your bill and charges",
+    "Index": 12,
+    "Visits": 30577,
+    "Path": "Home/Residential/My account/Your bill and charges"
+  },
+  {
+    "Name": "Faults",
+    "Index": 13,
+    "Visits": 26486,
+    "Path": "Home/Residential/Faults"
+  },
+  {
+    "Name": "Winter sprinkler ban",
+    "Index": 14,
+    "Visits": 21622,
+    "Path": "Home/Residential/Save water/Watering days/Winter sprinkler ban"
+  },
+  {
+    "Name": "How are my watering days determined",
+    "Index": 15,
+    "Visits": 21294,
+    "Path": "Home/FAQs/Saving water/How are my watering days determined"
+  },
+  {
+    "Name": "*",
+    "Index": 16,
+    "Visits": 21103,
+    "Path": "About us/News/Media statements/Media release/*"
+  },
+  {
+    "Name": "Say Yes to Paperless",
+    "Index": 17,
+    "Visits": 19908,
+    "Path": "Residential/Landing/Other/Say Yes to Paperless/Say Yes to Paperless"
+  },
+  {
+    "Name": "Media statements",
+    "Index": 18,
+    "Visits": 18266,
+    "Path": "Home/Residential/About us/News/Media statements"
+  },
+  {
+    "Name": "Water use calculator",
+    "Index": 19,
+    "Visits": 17217,
+    "Path": "Home/Residential/Save water/Water use calculator"
+  },
+  {
+    "Name": "Water supply",
+    "Index": 20,
+    "Visits": 15751,
+    "Path": "Home/Residential/Water supply"
+  },
+  {
+    "Name": "Dam levels individual",
+    "Index": 21,
+    "Visits": 14890,
+    "Path": "Residential/Water supply/Rainfall and dams/Dam levels/Dam levels individual"
+  },
+  {
+    "Name": "Apply for a concession",
+    "Index": 22,
+    "Visits": 13909,
+    "Path": "Residential/My account/I want to/Concessions/Apply for a concession"
+  },
+  {
+    "Name": "*",
+    "Index": 23,
+    "Visits": 13477,
+    "Path": "Residential/Save water/Waterwise plants search/Plants Details/*"
+  },
+  {
+    "Name": "Our water sources",
+    "Index": 24,
+    "Visits": 13379,
+    "Path": "Home/Residential/Water supply/Our water sources"
+  },
+  {
+    "Name": "Report a fault",
+    "Index": 25,
+    "Visits": 13008,
+    "Path": "Home/Residential/Faults/Report a fault"
+  },
+  {
+    "Name": "Pay my bill",
+    "Index": 26,
+    "Visits": 12027,
+    "Path": "Home/Business/My account/I want to/Pay my bill"
+  },
+  {
+    "Name": "Need help with your bill",
+    "Index": 27,
+    "Visits": 11606,
+    "Path": "Home/Residential/My account/Need help with your bill"
+  },
+  {
+    "Name": "Update property management details",
+    "Index": 28,
+    "Visits": 11287,
+    "Path": "Home/Business/Property and settlement agents/Update property management details"
+  },
+  {
+    "Name": "Waterwise plants search",
+    "Index": 29,
+    "Visits": 10646,
+    "Path": "Home/Residential/Save water/Waterwise plants search"
+  },
+  {
+    "Name": "Water and sewer connections",
+    "Index": 30,
+    "Visits": 10094,
+    "Path": "Home/Residential/Moving buying and building/Water and sewer connections"
+  },
+  {
+    "Name": "Set up direct debit",
+    "Index": 31,
+    "Visits": 9995,
+    "Path": "Home/Residential/My account/I want to/Set up direct debit"
+  },
+  {
+    "Name": "Drinking water quality",
+    "Index": 32,
+    "Visits": 9192,
+    "Path": "Home/Residential/About us/Our performance/Drinking water quality"
+  },
+  {
+    "Name": "*",
+    "Index": 33,
+    "Visits": 9087,
+    "Path": "Education/Teaching resources/Find a lesson plan/Lesson plan/*"
+  },
+  {
+    "Name": "Watering days",
+    "Index": 34,
+    "Visits": 8689,
+    "Path": "Home/Business/Saving water/Watering days"
+  },
+  {
+    "Name": "Regional office locations",
+    "Index": 35,
+    "Visits": 7851,
+    "Path": "Home/Residential/About us/Contact Us/Regional office locations"
+  },
+  {
+    "Name": "Procurement",
+    "Index": 36,
+    "Visits": 7684,
+    "Path": "Home/Suppliers/Procurement"
+  },
+  {
+    "Name": "Water saving tips",
+    "Index": 37,
+    "Visits": 7491,
+    "Path": "Home/Residential/Save water/Water saving tips"
+  },
+  {
+    "Name": "Save water",
+    "Index": 38,
+    "Visits": 7322,
+    "Path": "Home/Residential/Save water"
+  },
+  {
+    "Name": "Change my details",
+    "Index": 39,
+    "Visits": 6975,
+    "Path": "Home/Residential/My account/I want to/Change my details"
+  },
+  {
+    "Name": "Pipes for Perth",
+    "Index": 40,
+    "Visits": 6874,
+    "Path": "Home/Residential/Water supply/Ongoing works/Pipes for Perth"
+  },
+  {
+    "Name": "Property and settlement agents",
+    "Index": 41,
+    "Visits": 6268,
+    "Path": "Home/Business/Property and settlement agents"
+  },
+  {
+    "Name": "Rainfall at Perth Dams",
+    "Index": 42,
+    "Visits": 6182,
+    "Path": "Residential/Water supply/Rainfall and dams/Rainfall/Rainfall at Perth Dams"
+  },
+  {
+    "Name": "Desalination",
+    "Index": 43,
+    "Visits": 6155,
+    "Path": "Home/Residential/Water supply/Our water sources/Desalination"
+  },
+  {
+    "Name": "Organise a refund",
+    "Index": 44,
+    "Visits": 6085,
+    "Path": "Home/Residential/My account/I want to/Organise a refund"
+  },
+  {
+    "Name": "Exemptions",
+    "Index": 45,
+    "Visits": 6016,
+    "Path": "Home/Residential/Save water/Watering days/Exemptions"
+  },
+  {
+    "Name": "Streamflow",
+    "Index": 46,
+    "Visits": 5489,
+    "Path": "Home/Residential/Water supply/Rainfall and dams/Streamflow"
+  },
+  {
+    "Name": "Our wastewater treatment plants",
+    "Index": 47,
+    "Visits": 5216,
+    "Path": "Home/Residential/Water supply/Wastewater services/Our wastewater treatment plants"
+  },
+  {
+    "Name": "Perth Seawater Desalination Plant",
+    "Index": 48,
+    "Visits": 5044,
+    "Path": "Residential/Water supply/Our water sources/Desalination/Perth Seawater Desalination Plant"
+  },
+  {
+    "Name": "Low water pressure",
+    "Index": 49,
+    "Visits": 5043,
+    "Path": "Home/Residential/Faults/Low water pressure"
+  },
+  {
+    "Name": "Design standards",
+    "Index": 50,
+    "Visits": 5003,
+    "Path": "Home/Suppliers/Procurement/Design standards"
+  },
+  {
+    "Name": "Apply for a watering exemption",
+    "Index": 51,
+    "Visits": 4992,
+    "Path": "Residential/Save water/Watering days/Exemptions/Apply for a watering exemption"
+  },
+  {
+    "Name": "All other enquiries",
+    "Index": 52,
+    "Visits": 4987,
+    "Path": "Home/Residential/About us/Contact Us/All other enquiries"
+  },
+  {
+    "Name": "Report a sprinkler breach",
+    "Index": 53,
+    "Visits": 4981,
+    "Path": "Home/Residential/Save water/Report a sprinkler breach"
+  },
+  {
+    "Name": "Submit a meter reading",
+    "Index": 54,
+    "Visits": 4817,
+    "Path": "Home/Residential/My account/Reading your meter/Submit a meter reading"
+  },
+  {
+    "Name": "Detecting leaks",
+    "Index": 55,
+    "Visits": 4759,
+    "Path": "Home/Residential/Faults/Detecting leaks"
+  },
+  {
+    "Name": "Billing and payment enquiries",
+    "Index": 56,
+    "Visits": 4724,
+    "Path": "Home/Residential/About us/Contact Us/Billing and payment enquiries"
+  },
+  {
+    "Name": "How long should I have my sprinkler on for",
+    "Index": 57,
+    "Visits": 4693,
+    "Path": "Home/FAQs/Saving water/How long should I have my sprinkler on for"
+  },
+  {
+    "Name": "Reading your meter",
+    "Index": 58,
+    "Visits": 4662,
+    "Path": "Home/Residential/My account/Reading your meter"
+  },
+  {
+    "Name": "Supplier portal",
+    "Index": 59,
+    "Visits": 4551,
+    "Path": "Home/Suppliers/Procurement/Supplier portal"
+  },
+  {
+    "Name": "Health and safety for contractors",
+    "Index": 60,
+    "Visits": 4302,
+    "Path": "Home/Suppliers/Health and safety for contractors"
+  },
+  {
+    "Name": "Sprinklers and irrigation",
+    "Index": 61,
+    "Visits": 4201,
+    "Path": "Home/Residential/Save water/In the garden/Sprinklers and irrigation"
+  },
+  {
+    "Name": "Mundaring Weir",
+    "Index": 62,
+    "Visits": 4163,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Mundaring Weir"
+  },
+  {
+    "Name": "My account",
+    "Index": 63,
+    "Visits": 4120,
+    "Path": "Home/Business/My account"
+  },
+  {
+    "Name": "Tenders",
+    "Index": 64,
+    "Visits": 3988,
+    "Path": "Home/Suppliers/Procurement/Tenders"
+  },
+  {
+    "Name": "I want to",
+    "Index": 65,
+    "Visits": 3818,
+    "Path": "Home/Residential/My account/I want to"
+  },
+  {
+    "Name": "Sign up for paperless billing",
+    "Index": 66,
+    "Visits": 3816,
+    "Path": "Home/Residential/My account/I want to/Sign up for paperless billing"
+  },
+  {
+    "Name": "Competitions",
+    "Index": 67,
+    "Visits": 3812,
+    "Path": "Home/Residential/About us/In the community/Competitions"
+  },
+  {
+    "Name": "North Dandalup Dam",
+    "Index": 68,
+    "Visits": 3726,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/North Dandalup Dam"
+  },
+  {
+    "Name": "Moving home",
+    "Index": 69,
+    "Visits": 3669,
+    "Path": "Home/Residential/Moving buying and building/Moving home"
+  },
+  {
+    "Name": "Plants Directory",
+    "Index": 70,
+    "Visits": 3578,
+    "Path": "Home/Residential/Save water/Waterwise plants search/Plants Directory"
+  },
+  {
+    "Name": "Dos and donts",
+    "Index": 71,
+    "Visits": 3523,
+    "Path": "Home/Residential/Save water/Watering days/Dos and donts"
+  },
+  {
+    "Name": "Hard water",
+    "Index": 72,
+    "Visits": 3521,
+    "Path": "Home/Residential/Faults/Water quality/Hard water"
+  },
+  {
+    "Name": "When is the sprinkler ban in place",
+    "Index": 73,
+    "Visits": 3494,
+    "Path": "Home/FAQs/Saving water/When is the sprinkler ban in place"
+  },
+  {
+    "Name": "Groundwater replenishment",
+    "Index": 74,
+    "Visits": 3420,
+    "Path": "Home/Residential/Water supply/Our water sources/Groundwater replenishment"
+  },
+  {
+    "Name": "Fresh water thinking",
+    "Index": 75,
+    "Visits": 3363,
+    "Path": "Home/Residential/About us/Fresh water thinking"
+  },
+  {
+    "Name": "Order eplans",
+    "Index": 76,
+    "Visits": 3355,
+    "Path": "Home/Builders and developers/Building/Order eplans"
+  },
+  {
+    "Name": "Apprenticeships",
+    "Index": 77,
+    "Visits": 3254,
+    "Path": "Residential/About us/Careers with us/Career entry programs/Apprenticeships"
+  },
+  {
+    "Name": "Backflow prevention",
+    "Index": 78,
+    "Visits": 3181,
+    "Path": "Home/Builders and developers/Building/Backflow prevention"
+  },
+  {
+    "Name": "How many litres of water do people in Perth use each year",
+    "Index": 79,
+    "Visits": 3138,
+    "Path": "Home/FAQs/Saving water/How many litres of water do people in Perth use each year"
+  },
+  {
+    "Name": "Wungong Dam",
+    "Index": 80,
+    "Visits": 3122,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Wungong Dam"
+  },
+  {
+    "Name": "Water quality",
+    "Index": 81,
+    "Visits": 3023,
+    "Path": "Home/Residential/Faults/Water quality"
+  },
+  {
+    "Name": "Backflow test report online lodgement",
+    "Index": 82,
+    "Visits": 2970,
+    "Path": "Home/Builders and developers/Building/Backflow prevention/Backflow test report online lodgement"
+  },
+  {
+    "Name": "Products Directory",
+    "Index": 83,
+    "Visits": 2907,
+    "Path": "Home/Residential/Save water/Water saving products search/Products Directory"
+  },
+  {
+    "Name": "Pricing variations",
+    "Index": 84,
+    "Visits": 2898,
+    "Path": "Home/Residential/My account/Your bill and charges/Pricing variations"
+  },
+  {
+    "Name": "Water pressure management",
+    "Index": 85,
+    "Visits": 2860,
+    "Path": "Home/Residential/Water supply/Ongoing works/Water pressure management"
+  },
+  {
+    "Name": "A to Z of water words",
+    "Index": 86,
+    "Visits": 2769,
+    "Path": "Home/Education/Students/A to Z of water words"
+  },
+  {
+    "Name": "Water supply services",
+    "Index": 87,
+    "Visits": 2750,
+    "Path": "Home/Builders and developers/Building/New water services/Water supply services"
+  },
+  {
+    "Name": "Discoloured water",
+    "Index": 88,
+    "Visits": 2747,
+    "Path": "Home/Residential/Faults/Water quality/Discoloured water"
+  },
+  {
+    "Name": "Trade waste",
+    "Index": 89,
+    "Visits": 2714,
+    "Path": "Home/Business/Trade waste"
+  },
+  {
+    "Name": "Leaking meter",
+    "Index": 90,
+    "Visits": 2698,
+    "Path": "Home/Residential/Faults/Leaking meter"
+  },
+  {
+    "Name": "My Water",
+    "Index": 91,
+    "Visits": 2654,
+    "Path": "Home/Residential/Legal/Using our systems/My Water"
+  },
+  {
+    "Name": "Visiting our dams",
+    "Index": 92,
+    "Visits": 2597,
+    "Path": "Residential/Water supply/Our water sources/Dams/Visiting our dams"
+  },
+  {
+    "Name": "Graduate program",
+    "Index": 93,
+    "Visits": 2589,
+    "Path": "Residential/About us/Careers with us/Career entry programs/Graduate program"
+  },
+  {
+    "Name": "How prices are set",
+    "Index": 94,
+    "Visits": 2559,
+    "Path": "Home/Residential/My account/Your bill and charges/How prices are set"
+  },
+  {
+    "Name": "Undergrad vacation program",
+    "Index": 95,
+    "Visits": 2526,
+    "Path": "Residential/About us/Careers with us/Career entry programs/Undergrad vacation program"
+  },
+  {
+    "Name": "Special meter reading",
+    "Index": 96,
+    "Visits": 2497,
+    "Path": "Home/Business/Property and settlement agents/Apply for a meter reading/Special meter reading"
+  },
+  {
+    "Name": "Meters",
+    "Index": 97,
+    "Visits": 2474,
+    "Path": "Home/Residential/Moving buying and building/Meters"
+  },
+  {
+    "Name": "Groundwater",
+    "Index": 98,
+    "Visits": 2469,
+    "Path": "Home/Residential/Water supply/Our water sources/Groundwater"
+  },
+  {
+    "Name": "How to use BuilderNet",
+    "Index": 99,
+    "Visits": 2411,
+    "Path": "Home/Builders and developers/Building/How to use BuilderNet"
+  },
+  {
+    "Name": "Serpentine Dam",
+    "Index": 100,
+    "Visits": 2403,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Serpentine Dam"
+  },
+  {
+    "Name": "Hand watering",
+    "Index": 101,
+    "Visits": 2357,
+    "Path": "Home/Residential/Save water/Watering days/Hand watering"
+  },
+  {
+    "Name": "Sewer blockage or overflow",
+    "Index": 102,
+    "Visits": 2347,
+    "Path": "Home/Residential/Faults/Sewer blockage or overflow"
+  },
+  {
+    "Name": "Programming your irrigation",
+    "Index": 103,
+    "Visits": 2329,
+    "Path": "Home/Residential/Save water/Watering days/Programming your irrigation"
+  },
+  {
+    "Name": "Ongoing works",
+    "Index": 104,
+    "Visits": 2254,
+    "Path": "Home/Residential/Water supply/Ongoing works"
+  },
+  {
+    "Name": "Woodman Point Wastewater Treatment Plant Upgrade",
+    "Index": 105,
+    "Visits": 2236,
+    "Path": "Home/Residential/Water supply/Ongoing works/Woodman Point Wastewater Treatment Plant Upgrade"
+  },
+  {
+    "Name": "Board of directors",
+    "Index": 106,
+    "Visits": 2235,
+    "Path": "Home/Residential/About us/The way we work/Board of directors"
+  },
+  {
+    "Name": "About us",
+    "Index": 107,
+    "Visits": 2207,
+    "Path": "Home/Residential/About us"
+  },
+  {
+    "Name": "Traineeships",
+    "Index": 108,
+    "Visits": 2162,
+    "Path": "Residential/About us/Careers with us/Career entry programs/Traineeships"
+  },
+  {
+    "Name": "Lodging a building application",
+    "Index": 109,
+    "Visits": 2123,
+    "Path": "Home/Builders and developers/Building/Lodging a building application"
+  },
+  {
+    "Name": "Garden design",
+    "Index": 110,
+    "Visits": 2113,
+    "Path": "Home/Residential/Save water/In the garden/Garden design"
+  },
+  {
+    "Name": "Billing",
+    "Index": 111,
+    "Visits": 2107,
+    "Path": "Home/Business/Property and settlement agents/Billing"
+  },
+  {
+    "Name": "Churchman Brook Dam",
+    "Index": 112,
+    "Visits": 2084,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Churchman Brook Dam"
+  },
+  {
+    "Name": "Your bill and charges",
+    "Index": 113,
+    "Visits": 2006,
+    "Path": "Home/Business/My account/Your bill and charges"
+  },
+  {
+    "Name": "Search for Waterwise services",
+    "Index": 114,
+    "Visits": 1965,
+    "Path": "Home/Residential/Save water/Search for Waterwise services"
+  },
+  {
+    "Name": "Community water saving programs",
+    "Index": 115,
+    "Visits": 1943,
+    "Path": "Home/Residential/Save water/Water saving programs/Community water saving programs"
+  },
+  {
+    "Name": "Prequalification",
+    "Index": 116,
+    "Visits": 1872,
+    "Path": "Home/Suppliers/Health and safety for contractors/Prequalification"
+  },
+  {
+    "Name": "Waterwise Irrigation Controller Offer",
+    "Index": 117,
+    "Visits": 1837,
+    "Path": "Home/Residential/Save water/Water saving programs/Waterwise Irrigation Controller Offer"
+  },
+  {
+    "Name": "Recycled water",
+    "Index": 118,
+    "Visits": 1817,
+    "Path": "Home/Residential/Water supply/Our water sources/Recycled water"
+  },
+  {
+    "Name": "Access to your meter",
+    "Index": 119,
+    "Visits": 1798,
+    "Path": "Home/Residential/My account/Reading your meter/Access to your meter"
+  },
+  {
+    "Name": "Reasons for a high bill",
+    "Index": 120,
+    "Visits": 1778,
+    "Path": "Home/Residential/My account/Your bill and charges/Reasons for a high bill"
+  },
+  {
+    "Name": "Cant shut off your water",
+    "Index": 121,
+    "Visits": 1771,
+    "Path": "Home/Residential/Faults/Cant shut off your water"
+  },
+  {
+    "Name": "Request online payment",
+    "Index": 122,
+    "Visits": 1735,
+    "Path": "Home/Builders and developers/Subdividing/Fees and charges/Request online payment"
+  },
+  {
+    "Name": "Set up direct debit from a bank account",
+    "Index": 123,
+    "Visits": 1669,
+    "Path": "Residential/My account/I want to/Set up direct debit/Set up direct debit from a bank account"
+  },
+  {
+    "Name": "The Golden Pipeline",
+    "Index": 124,
+    "Visits": 1665,
+    "Path": "Home/Education/Students/The Golden Pipeline"
+  },
+  {
+    "Name": "eLearning",
+    "Index": 125,
+    "Visits": 1664,
+    "Path": "Home/Education/Teaching resources/eLearning"
+  },
+  {
+    "Name": "Land development applications and submissions",
+    "Index": 126,
+    "Visits": 1634,
+    "Path": "Home/Builders and developers/Subdividing/Land development applications and submissions"
+  },
+  {
+    "Name": "Products",
+    "Index": 127,
+    "Visits": 1632,
+    "Path": "Residential/Save water/Water saving programs/Waterwise Garden Rewards/Products"
+  },
+  {
+    "Name": "Water supply",
+    "Index": 128,
+    "Visits": 1589,
+    "Path": "Home/Education/Students/Water supply"
+  },
+  {
+    "Name": "Faulty damaged or stolen meter",
+    "Index": 129,
+    "Visits": 1553,
+    "Path": "Home/Residential/Faults/Faulty damaged or stolen meter"
+  },
+  {
+    "Name": "South West",
+    "Index": 130,
+    "Visits": 1550,
+    "Path": "Home/Residential/Water supply/Our regional water supply/South West"
+  },
+  {
+    "Name": "Relocate a water meter",
+    "Index": 131,
+    "Visits": 1531,
+    "Path": "Home/Builders and developers/Applying for services/Existing water services/Relocate a water meter"
+  },
+  {
+    "Name": "In the garden",
+    "Index": 132,
+    "Visits": 1523,
+    "Path": "Home/Residential/Save water/In the garden"
+  },
+  {
+    "Name": "The water cycle",
+    "Index": 133,
+    "Visits": 1519,
+    "Path": "Home/Education/Students/The water cycle"
+  },
+  {
+    "Name": "Thank you ERN",
+    "Index": 134,
+    "Visits": 1515,
+    "Path": "Residential/Landing/Other/Say Yes to Paperless/Thank you ERN"
+  },
+  {
+    "Name": "Annual report",
+    "Index": 135,
+    "Visits": 1491,
+    "Path": "Home/Residential/About us/Our performance/Annual report"
+  },
+  {
+    "Name": "Showerhead Swap Terms and Conditions",
+    "Index": 136,
+    "Visits": 1473,
+    "Path": "Home/Residential/Save water/Water saving programs/Showerhead Swap Terms and Conditions"
+  },
+  {
+    "Name": "Sewerage and drainage services",
+    "Index": 137,
+    "Visits": 1469,
+    "Path": "Home/Residential/Water supply/Sewerage and drainage services"
+  },
+  {
+    "Name": "Managing your bill in My Water",
+    "Index": 138,
+    "Visits": 1463,
+    "Path": "Home/Residential/My account/Managing your bill in My Water"
+  },
+  {
+    "Name": "Creating a waterwise verge",
+    "Index": 139,
+    "Visits": 1450,
+    "Path": "Home/Residential/Save water/In the garden/Creating a waterwise verge"
+  },
+  {
+    "Name": "Ellenbrook tank",
+    "Index": 140,
+    "Visits": 1449,
+    "Path": "Home/Residential/Water supply/Ongoing works/Ellenbrook tank"
+  },
+  {
+    "Name": "Career entry programs",
+    "Index": 141,
+    "Visits": 1444,
+    "Path": "Home/Residential/About us/Careers with us/Career entry programs"
+  },
+  {
+    "Name": "Search results",
+    "Index": 142,
+    "Visits": 1438,
+    "Path": "Home/FAQs/Search results"
+  },
+  {
+    "Name": "Success",
+    "Index": 143,
+    "Visits": 1430,
+    "Path": "Residential/Save water/Water saving programs/Waterwise Garden Rewards/Success"
+  },
+  {
+    "Name": "Hydrant standpipes",
+    "Index": 144,
+    "Visits": 1427,
+    "Path": "Home/Business/Starting up/Hydrant standpipes"
+  },
+  {
+    "Name": "Applying to discharge",
+    "Index": 145,
+    "Visits": 1404,
+    "Path": "Home/Business/Trade waste/Applying to discharge"
+  },
+  {
+    "Name": "What is the Integrated Water Supply Scheme",
+    "Index": 146,
+    "Visits": 1404,
+    "Path": "Home/FAQs/Water supply and services/What is the Integrated Water Supply Scheme"
+  },
+  {
+    "Name": "Our structure",
+    "Index": 147,
+    "Visits": 1379,
+    "Path": "Home/Residential/About us/The way we work/Our structure"
+  },
+  {
+    "Name": "Water saving programs",
+    "Index": 148,
+    "Visits": 1363,
+    "Path": "Home/Residential/Save water/Water saving programs"
+  },
+  {
+    "Name": "School talks",
+    "Index": 149,
+    "Visits": 1348,
+    "Path": "Home/Education/School talks and excursions/School talks"
+  },
+  {
+    "Name": "Are there restrictions for bore water users",
+    "Index": 150,
+    "Visits": 1326,
+    "Path": "Home/FAQs/Saving water/Are there restrictions for bore water users"
+  },
+  {
+    "Name": "Media contacts",
+    "Index": 151,
+    "Visits": 1305,
+    "Path": "Home/Residential/About us/News/Media contacts"
+  },
+  {
+    "Name": "Usage",
+    "Index": 152,
+    "Visits": 1299,
+    "Path": "Home/Residential/Water supply/Rainfall and dams/Usage"
+  },
+  {
+    "Name": "The way we work",
+    "Index": 153,
+    "Visits": 1262,
+    "Path": "Home/Residential/About us/The way we work"
+  },
+  {
+    "Name": "Canning Dam",
+    "Index": 154,
+    "Visits": 1244,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Canning Dam"
+  },
+  {
+    "Name": "Infill sewerage program",
+    "Index": 155,
+    "Visits": 1244,
+    "Path": "Home/Residential/Water supply/Ongoing works/Infill sewerage program"
+  },
+  {
+    "Name": "Dams",
+    "Index": 156,
+    "Visits": 1243,
+    "Path": "Home/Residential/Water supply/Our water sources/Dams"
+  },
+  {
+    "Name": "Why Water Corporation",
+    "Index": 157,
+    "Visits": 1225,
+    "Path": "Home/Residential/About us/Careers with us/Why Water Corporation"
+  },
+  {
+    "Name": "Typical drawings",
+    "Index": 158,
+    "Visits": 1199,
+    "Path": "Home/Business/Trade waste/Typical drawings"
+  },
+  {
+    "Name": "Sources",
+    "Index": 159,
+    "Visits": 1184,
+    "Path": "Home/Residential/Water supply/Rainfall and dams/Sources"
+  },
+  {
+    "Name": "Planning for the future",
+    "Index": 160,
+    "Visits": 1182,
+    "Path": "Home/Residential/About us/Planning for the future"
+  },
+  {
+    "Name": "Find a lesson plan",
+    "Index": 161,
+    "Visits": 1158,
+    "Path": "Home/Education/Teaching resources/Find a lesson plan"
+  },
+  {
+    "Name": "Fees and charges",
+    "Index": 162,
+    "Visits": 1149,
+    "Path": "Home/Builders and developers/Applying for services/Fees and charges"
+  },
+  {
+    "Name": "Mid West",
+    "Index": 163,
+    "Visits": 1142,
+    "Path": "Home/Residential/Water supply/Our regional water supply/Mid West"
+  },
+  {
+    "Name": "Groundwater Replenishment Scheme",
+    "Index": 164,
+    "Visits": 1118,
+    "Path": "Home/Residential/Water supply/Ongoing works/Groundwater Replenishment Scheme"
+  },
+  {
+    "Name": "Taste and smell",
+    "Index": 165,
+    "Visits": 1107,
+    "Path": "Home/Residential/Faults/Water quality/Taste and smell"
+  },
+  {
+    "Name": "Water Literacy Full Width Page",
+    "Index": 166,
+    "Visits": 1070,
+    "Path": "Residential/Landing/Summer 2017/Water Literacy/Water Literacy Full Width Page"
+  },
+  {
+    "Name": "Backflow online lodgement",
+    "Index": 167,
+    "Visits": 1051,
+    "Path": "Home/Residential/Legal/Using our systems/Backflow online lodgement"
+  },
+  {
+    "Name": "School talks booking form",
+    "Index": 168,
+    "Visits": 1034,
+    "Path": "Home/Education/School talks and excursions/School talks/School talks booking form"
+  },
+  {
+    "Name": "Installation of a backflow prevention device",
+    "Index": 169,
+    "Visits": 1025,
+    "Path": "Home/Builders and developers/Building/Backflow prevention/Installation of a backflow prevention device"
+  },
+  {
+    "Name": "StreamflowHistorical",
+    "Index": 170,
+    "Visits": 1022,
+    "Path": "Residential/Water supply/Rainfall and dams/Streamflow/StreamflowHistorical"
+  },
+  {
+    "Name": "Our roles",
+    "Index": 171,
+    "Visits": 1021,
+    "Path": "Home/Residential/About us/Careers with us/Our roles"
+  },
+  {
+    "Name": "Health and safety",
+    "Index": 172,
+    "Visits": 1012,
+    "Path": "Home/Suppliers/Health and safety for contractors/Health and safety"
+  },
+  {
+    "Name": "Retail food industry",
+    "Index": 173,
+    "Visits": 1009,
+    "Path": "Home/Business/Trade waste/Retail food industry"
+  },
+  {
+    "Name": "Moving buying and building",
+    "Index": 174,
+    "Visits": 998,
+    "Path": "Home/Residential/Moving buying and building"
+  },
+  {
+    "Name": "Aboriginal careers",
+    "Index": 175,
+    "Visits": 979,
+    "Path": "Home/Residential/About us/Careers with us/Aboriginal careers"
+  },
+  {
+    "Name": "Rainfall at Individual Dams",
+    "Index": 176,
+    "Visits": 968,
+    "Path": "Residential/Water supply/Rainfall and dams/Rainfall/Rainfall at Individual Dams"
+  },
+  {
+    "Name": "Southern Seawater Desalination Plant",
+    "Index": 177,
+    "Visits": 968,
+    "Path": "Residential/Water supply/Our water sources/Desalination/Southern Seawater Desalination Plant"
+  },
+  {
+    "Name": "How to read an eplan",
+    "Index": 178,
+    "Visits": 959,
+    "Path": "Home/Builders and developers/Building/Order eplans/How to read an eplan"
+  },
+  {
+    "Name": "Waterwise Schools Program",
+    "Index": 179,
+    "Visits": 959,
+    "Path": "Home/Education/Waterwise Schools Program"
+  },
+  {
+    "Name": "Privacy",
+    "Index": 180,
+    "Visits": 954,
+    "Path": "Home/Residential/Legal/Privacy"
+  },
+  {
+    "Name": "Harding Dam",
+    "Index": 181,
+    "Visits": 942,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Harding Dam"
+  },
+  {
+    "Name": "Infrastructure contributions",
+    "Index": 182,
+    "Visits": 935,
+    "Path": "Home/Builders and developers/Subdividing/Fees and charges/Infrastructure contributions"
+  },
+  {
+    "Name": "North West",
+    "Index": 183,
+    "Visits": 921,
+    "Path": "Home/Residential/Water supply/Our regional water supply/North West"
+  },
+  {
+    "Name": "Our climate",
+    "Index": 184,
+    "Visits": 917,
+    "Path": "Home/Residential/Landing/Our climate"
+  },
+  {
+    "Name": "Passive grease arrestors",
+    "Index": 185,
+    "Visits": 914,
+    "Path": "Home/Business/Trade waste/Pre treatment products/Passive grease arrestors"
+  },
+  {
+    "Name": "Wastewater services",
+    "Index": 186,
+    "Visits": 908,
+    "Path": "Home/Residential/Water supply/Wastewater services"
+  },
+  {
+    "Name": "Harvey Dam",
+    "Index": 187,
+    "Visits": 904,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Harvey Dam"
+  },
+  {
+    "Name": "What happens if I dont pay my bill",
+    "Index": 188,
+    "Visits": 896,
+    "Path": "Home/FAQs/Accounts/What happens if I dont pay my bill"
+  },
+  {
+    "Name": "Water recycling around the world",
+    "Index": 189,
+    "Visits": 894,
+    "Path": "Home/Residential/Water supply/Water recycling/Water recycling around the world"
+  },
+  {
+    "Name": "Building",
+    "Index": 190,
+    "Visits": 878,
+    "Path": "Home/Builders and developers/Building"
+  },
+  {
+    "Name": "Reading your meter",
+    "Index": 191,
+    "Visits": 854,
+    "Path": "Home/Business/My account/Reading your meter"
+  },
+  {
+    "Name": "Installation guidelines for grease arrestors",
+    "Index": 192,
+    "Visits": 818,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Installation guidelines for grease arrestors"
+  },
+  {
+    "Name": "Victoria Dam",
+    "Index": 193,
+    "Visits": 813,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Victoria Dam"
+  },
+  {
+    "Name": "Concessions",
+    "Index": 194,
+    "Visits": 811,
+    "Path": "Home/Residential/My account/I want to/Concessions"
+  },
+  {
+    "Name": "How do I request to have my meter moved and how much does it cost",
+    "Index": 195,
+    "Visits": 807,
+    "Path": "Home/FAQs/Buying selling and building/How do I request to have my meter moved and how much does it cost"
+  },
+  {
+    "Name": "Monster Landing Page",
+    "Index": 196,
+    "Visits": 797,
+    "Path": "Home/Residential/Landing/Summer 2016/Monster Landing Page"
+  },
+  {
+    "Name": "Meter renewal program",
+    "Index": 197,
+    "Visits": 793,
+    "Path": "Home/Residential/Water supply/Ongoing works/Meter renewal program"
+  },
+  {
+    "Name": "Drainage for Liveability program",
+    "Index": 198,
+    "Visits": 786,
+    "Path": "Home/Residential/Water supply/Ongoing works/Drainage for Liveability program"
+  },
+  {
+    "Name": "Thank you default",
+    "Index": 199,
+    "Visits": 779,
+    "Path": "Residential/Landing/Other/Say Yes to Paperless/Thank you default"
+  },
+  {
+    "Name": "What is an easement and how does it affect my proposed building",
+    "Index": 200,
+    "Visits": 761,
+    "Path": "Home/FAQs/Buying selling and building/What is an easement and how does it affect my proposed building"
+  },
+  {
+    "Name": "What happens to the salt from seawater during desalination is it harming the environment",
+    "Index": 201,
+    "Visits": 746,
+    "Path": "Home/FAQs/Water supply and services/What happens to the salt from seawater during desalination is it harming the environment"
+  },
+  {
+    "Name": "How to subdivide",
+    "Index": 202,
+    "Visits": 738,
+    "Path": "Home/Builders and developers/Subdividing/How to subdivide"
+  },
+  {
+    "Name": "Swimming Pools and Spas",
+    "Index": 203,
+    "Visits": 733,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Swimming Pools and Spas"
+  },
+  {
+    "Name": "Water saving products search",
+    "Index": 204,
+    "Visits": 722,
+    "Path": "Home/Residential/Save water/Water saving products search"
+  },
+  {
+    "Name": "I want to build xxx how close can I be to the sewer pipe",
+    "Index": 205,
+    "Visits": 705,
+    "Path": "Home/FAQs/Buying selling and building/I want to build xxx how close can I be to the sewer pipe"
+  },
+  {
+    "Name": "Buying or selling",
+    "Index": 206,
+    "Visits": 699,
+    "Path": "Home/Residential/Moving buying and building/Buying or selling"
+  },
+  {
+    "Name": "Smart meters",
+    "Index": 207,
+    "Visits": 695,
+    "Path": "Home/Residential/My account/Reading your meter/Smart meters"
+  },
+  {
+    "Name": "Great Southern",
+    "Index": 208,
+    "Visits": 693,
+    "Path": "Home/Residential/Water supply/Our regional water supply/Great Southern"
+  },
+  {
+    "Name": "Pits and traps",
+    "Index": 209,
+    "Visits": 691,
+    "Path": "Home/Business/Trade waste/Pre treatment products/Pits and traps"
+  },
+  {
+    "Name": "Application submitted",
+    "Index": 210,
+    "Visits": 679,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Application submitted"
+  },
+  {
+    "Name": "Request land planning advice",
+    "Index": 211,
+    "Visits": 666,
+    "Path": "Home/Builders and developers/Subdividing/How to subdivide/Request land planning advice"
+  },
+  {
+    "Name": "I would like the account for water use changed into my tenants name",
+    "Index": 212,
+    "Visits": 663,
+    "Path": "Home/FAQs/Accounts/I would like the account for water use changed into my tenants name"
+  },
+  {
+    "Name": "National Water Week",
+    "Index": 213,
+    "Visits": 653,
+    "Path": "Home/Education/Events/National Water Week"
+  },
+  {
+    "Name": "How to stay safe online",
+    "Index": 214,
+    "Visits": 652,
+    "Path": "Home/Residential/My account/Managing your bill in My Water/How to stay safe online"
+  },
+  {
+    "Name": "Tell us how we did",
+    "Index": 215,
+    "Visits": 634,
+    "Path": "Home/Residential/Water supply/Ongoing works/Tell us how we did"
+  },
+  {
+    "Name": "Installing a pool or spa",
+    "Index": 216,
+    "Visits": 633,
+    "Path": "Home/Residential/Moving buying and building/Installing a pool or spa"
+  },
+  {
+    "Name": "Efficiently watering your garden",
+    "Index": 217,
+    "Visits": 631,
+    "Path": "Home/Residential/Save water/In the garden/Efficiently watering your garden"
+  },
+  {
+    "Name": "Staff customer details",
+    "Index": 218,
+    "Visits": 631,
+    "Path": "Residential/Landing/Other/Customer details/Staff customer details"
+  },
+  {
+    "Name": "Customer survey terms and conditions",
+    "Index": 219,
+    "Visits": 630,
+    "Path": "Residential/About us/In the community/Competitions/Customer survey terms and conditions"
+  },
+  {
+    "Name": "Pre treatment products",
+    "Index": 220,
+    "Visits": 623,
+    "Path": "Home/Business/Trade waste/Pre treatment products"
+  },
+  {
+    "Name": "Teaching resources",
+    "Index": 221,
+    "Visits": 622,
+    "Path": "Home/Education/Teaching resources"
+  },
+  {
+    "Name": "Elevated levels of lead in water at Perth Childrens Hospital",
+    "Index": 222,
+    "Visits": 621,
+    "Path": "Home/Residential/Faults/Water quality/Elevated levels of lead in water at Perth Childrens Hospital"
+  },
+  {
+    "Name": "Save water in your school",
+    "Index": 223,
+    "Visits": 621,
+    "Path": "Home/Education/Waterwise Schools Program/Save water in your school"
+  },
+  {
+    "Name": "Saving water",
+    "Index": 224,
+    "Visits": 618,
+    "Path": "Home/Business/Saving water"
+  },
+  {
+    "Name": "*",
+    "Index": 225,
+    "Visits": 614,
+    "Path": "Residential/Save water/Water saving products search/Products Details/*"
+  },
+  {
+    "Name": "Understanding your bill",
+    "Index": 226,
+    "Visits": 611,
+    "Path": "Home/Residential/My account/Your bill and charges/Understanding your bill"
+  },
+  {
+    "Name": "Oil water separators",
+    "Index": 227,
+    "Visits": 601,
+    "Path": "Home/Business/Trade waste/Pre treatment products/Oil water separators"
+  },
+  {
+    "Name": "Improving your soil",
+    "Index": 228,
+    "Visits": 599,
+    "Path": "Home/Residential/Save water/In the garden/Improving your soil"
+  },
+  {
+    "Name": "South Dandalup Dam",
+    "Index": 229,
+    "Visits": 593,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/South Dandalup Dam"
+  },
+  {
+    "Name": "Grants",
+    "Index": 230,
+    "Visits": 591,
+    "Path": "Home/Residential/About us/In the community/Grants"
+  },
+  {
+    "Name": "Terms and conditions",
+    "Index": 231,
+    "Visits": 584,
+    "Path": "Residential/Landing/Other/Say Yes to Paperless/Terms and conditions"
+  },
+  {
+    "Name": "Fees and charges",
+    "Index": 232,
+    "Visits": 583,
+    "Path": "Home/Builders and developers/Subdividing/Fees and charges"
+  },
+  {
+    "Name": "Water refill stations",
+    "Index": 233,
+    "Visits": 583,
+    "Path": "Home/Residential/About us/In the community/Water refill stations"
+  },
+  {
+    "Name": "Food waste disposal units",
+    "Index": 234,
+    "Visits": 578,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Food waste disposal units"
+  },
+  {
+    "Name": "Standard terms and conditions",
+    "Index": 235,
+    "Visits": 576,
+    "Path": "Home/Residential/Legal/Standard terms and conditions"
+  },
+  {
+    "Name": "Learn about our free resources",
+    "Index": 236,
+    "Visits": 572,
+    "Path": "Home/Education/Teaching resources/Order resources/Learn about our free resources"
+  },
+  {
+    "Name": "Customer complaint resolution",
+    "Index": 237,
+    "Visits": 569,
+    "Path": "Residential/About us/Our commitments/Customer service commitments/Customer complaint resolution"
+  },
+  {
+    "Name": "Establishing a new lawn",
+    "Index": 238,
+    "Visits": 563,
+    "Path": "Home/Residential/Save water/In the garden/Establishing a new lawn"
+  },
+  {
+    "Name": "Subdividing",
+    "Index": 239,
+    "Visits": 533,
+    "Path": "Home/Builders and developers/Subdividing"
+  },
+  {
+    "Name": "Fire hydrant and valve replacement programs",
+    "Index": 240,
+    "Visits": 526,
+    "Path": "Home/Residential/Water supply/Ongoing works/Fire hydrant and valve replacement programs"
+  },
+  {
+    "Name": "Popular garden designs for Perth and the South West",
+    "Index": 241,
+    "Visits": 526,
+    "Path": "Residential/Save water/In the garden/Garden design/Popular garden designs for Perth and the South West"
+  },
+  {
+    "Name": "Customer service commitments",
+    "Index": 242,
+    "Visits": 525,
+    "Path": "Home/Residential/About us/Our commitments/Customer service commitments"
+  },
+  {
+    "Name": "Students",
+    "Index": 243,
+    "Visits": 520,
+    "Path": "Home/Education/Students"
+  },
+  {
+    "Name": "Results",
+    "Index": 244,
+    "Visits": 518,
+    "Path": "Home/Residential/Save water/Search for Waterwise services/Results"
+  },
+  {
+    "Name": "Using BuilderNet as a guest",
+    "Index": 245,
+    "Visits": 518,
+    "Path": "Home/Builders and developers/Building/How to use BuilderNet/Using BuilderNet as a guest"
+  },
+  {
+    "Name": "Online water efficiency training",
+    "Index": 246,
+    "Visits": 510,
+    "Path": "Home/Business/Saving water/Training and events/Online water efficiency training"
+  },
+  {
+    "Name": "Building applications",
+    "Index": 247,
+    "Visits": 502,
+    "Path": "Home/Builders and developers/Building/Fees and charges/Building applications"
+  },
+  {
+    "Name": "Are headworks and infrastructure contributions the same",
+    "Index": 248,
+    "Visits": 494,
+    "Path": "Home/FAQs/Builders and developers/Are headworks and infrastructure contributions the same"
+  },
+  {
+    "Name": "Stirling Dam pipeline and pump station",
+    "Index": 249,
+    "Visits": 493,
+    "Path": "Home/Residential/Water supply/Ongoing works/Stirling Dam pipeline and pump station"
+  },
+  {
+    "Name": "Disconnect a service",
+    "Index": 250,
+    "Visits": 490,
+    "Path": "Home/Builders and developers/Applying for services/Existing water services/Disconnect a service"
+  },
+  {
+    "Name": "Do you offer a leak allowance",
+    "Index": 251,
+    "Visits": 487,
+    "Path": "Home/FAQs/Faults/Do you offer a leak allowance"
+  },
+  {
+    "Name": "Sizing of grease arrestors for the retail food industry",
+    "Index": 252,
+    "Visits": 485,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Sizing of grease arrestors for the retail food industry"
+  },
+  {
+    "Name": "Esinet",
+    "Index": 253,
+    "Visits": 477,
+    "Path": "Home/Residential/Legal/Using our systems/Esinet"
+  },
+  {
+    "Name": "Settlements charges",
+    "Index": 254,
+    "Visits": 477,
+    "Path": "Home/Business/Property and settlement agents/Settlements charges"
+  },
+  {
+    "Name": "Development fees",
+    "Index": 255,
+    "Visits": 471,
+    "Path": "Home/Builders and developers/Subdividing/Fees and charges/Development fees"
+  },
+  {
+    "Name": "Infrastructure contributions",
+    "Index": 256,
+    "Visits": 468,
+    "Path": "Home/Builders and developers/Building/Fees and charges/Infrastructure contributions"
+  },
+  {
+    "Name": "Water conservation",
+    "Index": 257,
+    "Visits": 467,
+    "Path": "Home/Education/Students/Water conservation"
+  },
+  {
+    "Name": "Vehicle and machinery wash down areas",
+    "Index": 258,
+    "Visits": 466,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Vehicle and machinery wash down areas"
+  },
+  {
+    "Name": "Water pressure exemptions",
+    "Index": 259,
+    "Visits": 462,
+    "Path": "Home/Residential/Water supply/Water pressure exemptions"
+  },
+  {
+    "Name": "Beenyup Wastewater Treatment Plant Works",
+    "Index": 260,
+    "Visits": 462,
+    "Path": "Home/Residential/Water supply/Ongoing works/Beenyup Wastewater Treatment Plant Works"
+  },
+  {
+    "Name": "Account Information",
+    "Index": 261,
+    "Visits": 458,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Account Information"
+  },
+  {
+    "Name": "Flow metering",
+    "Index": 262,
+    "Visits": 451,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Flow metering"
+  },
+  {
+    "Name": "Waterwise council program",
+    "Index": 263,
+    "Visits": 444,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Waterwise council program"
+  },
+  {
+    "Name": "Serpentine Pipehead Dam",
+    "Index": 264,
+    "Visits": 443,
+    "Path": "Water supply/Our water sources/Dams/Visiting our dams/Serpentine Pipehead Dam"
+  },
+  {
+    "Name": "FAQs",
+    "Index": 265,
+    "Visits": 441,
+    "Path": "Home/Residential/FAQs"
+  },
+  {
+    "Name": "School talks and excursions",
+    "Index": 266,
+    "Visits": 437,
+    "Path": "Home/Education/School talks and excursions"
+  },
+  {
+    "Name": "Ways to pay",
+    "Index": 267,
+    "Visits": 432,
+    "Path": "Home/Builders and developers/Building/Fees and charges/Ways to pay"
+  },
+  {
+    "Name": "Why is an easement required over the sewer that already existed on my property",
+    "Index": 268,
+    "Visits": 427,
+    "Path": "Home/FAQs/Builders and developers/Why is an easement required over the sewer that already existed on my property"
+  },
+  {
+    "Name": "Can I test my irrigation system",
+    "Index": 269,
+    "Visits": 426,
+    "Path": "Home/FAQs/Saving water/Can I test my irrigation system"
+  },
+  {
+    "Name": "Apply for approval to work near our assets",
+    "Index": 270,
+    "Visits": 424,
+    "Path": "Home/Builders and developers/Working near our assets/Approval for works/Apply for approval to work near our assets"
+  },
+  {
+    "Name": "Trade waste in your business",
+    "Index": 271,
+    "Visits": 422,
+    "Path": "Home/Business/Trade waste/Trade waste in your business"
+  },
+  {
+    "Name": "Metering options for stratas",
+    "Index": 272,
+    "Visits": 422,
+    "Path": "Builders and developers/Subdividing/Strata and green title subdivisions/Strata subdivisions/Metering options for stratas"
+  },
+  {
+    "Name": "Our spatial database",
+    "Index": 273,
+    "Visits": 420,
+    "Path": "Home/Builders and developers/Subdividing/Our spatial database"
+  },
+  {
+    "Name": "Why dont you build the Kimberley pipeline or canal",
+    "Index": 274,
+    "Visits": 419,
+    "Path": "Home/FAQs/Water supply and services/Why dont you build the Kimberley pipeline or canal"
+  },
+  {
+    "Name": "Can I get fined if I water outside of my rostered watering days",
+    "Index": 275,
+    "Visits": 418,
+    "Path": "Home/FAQs/Saving water/Can I get fined if I water outside of my rostered watering days"
+  },
+  {
+    "Name": "Customer service",
+    "Index": 276,
+    "Visits": 416,
+    "Path": "Residential/About us/Careers with us/Career entry programs/Customer service"
+  },
+  {
+    "Name": "Early childhood",
+    "Index": 277,
+    "Visits": 413,
+    "Path": "Home/Education/Teaching resources/Early childhood"
+  },
+  {
+    "Name": "Drainage",
+    "Index": 278,
+    "Visits": 412,
+    "Path": "Home/Builders and developers/Land planning/Drainage"
+  },
+  {
+    "Name": "Subiaco wastewater treatment plant upgrade",
+    "Index": 279,
+    "Visits": 407,
+    "Path": "Home/Residential/Water supply/Ongoing works/Subiaco wastewater treatment plant upgrade"
+  },
+  {
+    "Name": "Building a new home",
+    "Index": 280,
+    "Visits": 396,
+    "Path": "Home/Residential/Moving buying and building/Building a new home"
+  },
+  {
+    "Name": "What is the difference between a green and strata title",
+    "Index": 281,
+    "Visits": 396,
+    "Path": "Home/FAQs/Builders and developers/What is the difference between a green and strata title"
+  },
+  {
+    "Name": "Who is eligible for a concession on their water bill",
+    "Index": 282,
+    "Visits": 395,
+    "Path": "Home/FAQs/Accounts/Who is eligible for a concession on their water bill"
+  },
+  {
+    "Name": "Strata subdivisions",
+    "Index": 283,
+    "Visits": 393,
+    "Path": "Home/Builders and developers/Subdividing/Strata and green title subdivisions/Strata subdivisions"
+  },
+  {
+    "Name": "Water supply service fees",
+    "Index": 284,
+    "Visits": 391,
+    "Path": "Home/Builders and developers/Building/Fees and charges/Water supply service fees"
+  },
+  {
+    "Name": "Search for a Backflow Smart Tester",
+    "Index": 285,
+    "Visits": 390,
+    "Path": "Home/Builders and developers/Building/Backflow prevention/Search for a Backflow Smart Tester"
+  },
+  {
+    "Name": "Waterwise business program",
+    "Index": 286,
+    "Visits": 389,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Waterwise business program"
+  },
+  {
+    "Name": "Request maintenance",
+    "Index": 287,
+    "Visits": 388,
+    "Path": "Home/Residential/Faults/Request maintenance"
+  },
+  {
+    "Name": "Posters and maps",
+    "Index": 288,
+    "Visits": 387,
+    "Path": "Home/Education/Teaching resources/Posters and maps"
+  },
+  {
+    "Name": "Can I use a high pressure water cleaner",
+    "Index": 289,
+    "Visits": 383,
+    "Path": "Home/FAQs/Saving water/Can I use a high pressure water cleaner"
+  },
+  {
+    "Name": "Terms and conditions",
+    "Index": 290,
+    "Visits": 381,
+    "Path": "Residential/Save water/Water saving programs/Waterwise Garden Rewards/Terms and conditions"
+  },
+  {
+    "Name": "Goldfields and Agricultural",
+    "Index": 291,
+    "Visits": 381,
+    "Path": "Home/Residential/Water supply/Our regional water supply/Goldfields and Agricultural"
+  },
+  {
+    "Name": "Working near our assets",
+    "Index": 292,
+    "Visits": 379,
+    "Path": "Home/Builders and developers/Working near our assets"
+  },
+  {
+    "Name": "EProcurement",
+    "Index": 293,
+    "Visits": 377,
+    "Path": "Home/Residential/Legal/Using our systems/EProcurement"
+  },
+  {
+    "Name": "Burswood and Lathlain water main construction",
+    "Index": 294,
+    "Visits": 376,
+    "Path": "Home/Residential/Water supply/Ongoing works/Burswood and Lathlain water main construction"
+  },
+  {
+    "Name": "Fire services",
+    "Index": 295,
+    "Visits": 376,
+    "Path": "Home/Builders and developers/Building/New water services/Fire services"
+  },
+  {
+    "Name": "Why do I have to pay for my tenants water use",
+    "Index": 296,
+    "Visits": 376,
+    "Path": "Home/FAQs/Buying selling and building/Why do I have to pay for my tenants water use"
+  },
+  {
+    "Name": "New water services",
+    "Index": 297,
+    "Visits": 376,
+    "Path": "Home/Builders and developers/Building/New water services"
+  },
+  {
+    "Name": "Inspection and tests",
+    "Index": 298,
+    "Visits": 374,
+    "Path": "Home/Suppliers/Procurement/Inspection and tests"
+  },
+  {
+    "Name": "Bridge Replacement Program",
+    "Index": 299,
+    "Visits": 369,
+    "Path": "Home/Residential/Water supply/Ongoing works/Bridge Replacement Program"
+  },
+  {
+    "Name": "Cunderdin water storage facility",
+    "Index": 300,
+    "Visits": 369,
+    "Path": "Home/Residential/Water supply/Ongoing works/Cunderdin water storage facility"
+  },
+  {
+    "Name": "Land development submissions",
+    "Index": 301,
+    "Visits": 368,
+    "Path": "Home/Builders and developers/Subdividing/Land development applications and submissions/Land development submissions"
+  },
+  {
+    "Name": "News",
+    "Index": 302,
+    "Visits": 366,
+    "Path": "Home/Residential/About us/News"
+  },
+  {
+    "Name": "Install low flow taps",
+    "Index": 303,
+    "Visits": 365,
+    "Path": "Home/Business/Saving water/Water saving tips/Install low flow taps"
+  },
+  {
+    "Name": "Can I handwater my garden",
+    "Index": 304,
+    "Visits": 364,
+    "Path": "Home/FAQs/Saving water/Can I handwater my garden"
+  },
+  {
+    "Name": "Catchments",
+    "Index": 305,
+    "Visits": 363,
+    "Path": "Home/Residential/Water supply/Our water sources/Catchments"
+  },
+  {
+    "Name": "Incident alerts recent news and monthly toolbox",
+    "Index": 306,
+    "Visits": 363,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox"
+  },
+  {
+    "Name": "Engineering associate traineeship",
+    "Index": 307,
+    "Visits": 362,
+    "Path": "Residential/About us/Careers with us/Career entry programs/Engineering associate traineeship"
+  },
+  {
+    "Name": "Stay Waterwise WA water future",
+    "Index": 308,
+    "Visits": 361,
+    "Path": "Home/Residential/Landing/Summer 2016/Stay Waterwise WA water future"
+  },
+  {
+    "Name": "Site map",
+    "Index": 309,
+    "Visits": 356,
+    "Path": "Home/Footer/Quick links/Site map"
+  },
+  {
+    "Name": "Meter based contribution table",
+    "Index": 310,
+    "Visits": 355,
+    "Path": "Builders and developers/Building/Fees and charges/Infrastructure contributions/Meter based contribution table"
+  },
+  {
+    "Name": "Check your suburbs water use",
+    "Index": 311,
+    "Visits": 349,
+    "Path": "Home/Residential/Save water/Check your suburbs water use"
+  },
+  {
+    "Name": "What about my privacy",
+    "Index": 312,
+    "Visits": 346,
+    "Path": "Home/FAQs/Accounts/What about my privacy"
+  },
+  {
+    "Name": "Construction conditions",
+    "Index": 313,
+    "Visits": 337,
+    "Path": "Home/Residential/Legal/Construction conditions"
+  },
+  {
+    "Name": "Biosolids",
+    "Index": 314,
+    "Visits": 332,
+    "Path": "Residential/Water supply/Wastewater services/How wastewater is treated/Biosolids"
+  },
+  {
+    "Name": "Meet our people",
+    "Index": 315,
+    "Visits": 327,
+    "Path": "Home/Residential/About us/Careers with us/Meet our people"
+  },
+  {
+    "Name": "Hydrant standpipes form",
+    "Index": 316,
+    "Visits": 322,
+    "Path": "Home/Business/Starting up/Hydrant standpipes form"
+  },
+  {
+    "Name": "Farmlands water supply project",
+    "Index": 317,
+    "Visits": 320,
+    "Path": "Home/Residential/Water supply/Ongoing works/Farmlands water supply project"
+  },
+  {
+    "Name": "Approval for works",
+    "Index": 318,
+    "Visits": 320,
+    "Path": "Home/Builders and developers/Working near our assets/Approval for works"
+  },
+  {
+    "Name": "Pipes for Perth tell us how we did",
+    "Index": 319,
+    "Visits": 320,
+    "Path": "Home/Residential/Water supply/Ongoing works/Pipes for Perth tell us how we did"
+  },
+  {
+    "Name": "How wastewater is treated",
+    "Index": 320,
+    "Visits": 308,
+    "Path": "Home/Residential/Water supply/Wastewater services/How wastewater is treated"
+  },
+  {
+    "Name": "Sewer service fees",
+    "Index": 321,
+    "Visits": 306,
+    "Path": "Home/Builders and developers/Building/Fees and charges/Sewer service fees"
+  },
+  {
+    "Name": "My neighbour across the road has her reticulation on 3 days a week What can I do",
+    "Index": 322,
+    "Visits": 305,
+    "Path": "Home/FAQs/Saving water/My neighbour across the road has her reticulation on 3 days a week What can I do"
+  },
+  {
+    "Name": "Water in Aboriginal culture",
+    "Index": 323,
+    "Visits": 303,
+    "Path": "Home/Education/Teaching resources/Water education themes/Water in Aboriginal culture"
+  },
+  {
+    "Name": "Bottled water requests",
+    "Index": 324,
+    "Visits": 303,
+    "Path": "Home/Residential/About us/In the community/Bottled water requests"
+  },
+  {
+    "Name": "Code of Conduct",
+    "Index": 325,
+    "Visits": 302,
+    "Path": "Residential/About us/The way we work/Corporate governance/Code of Conduct"
+  },
+  {
+    "Name": "Am I eligible for a concession if I have a Health Care Card",
+    "Index": 326,
+    "Visits": 301,
+    "Path": "Home/FAQs/Accounts/Am I eligible for a concession if I have a Health Care Card"
+  },
+  {
+    "Name": "Wastewater",
+    "Index": 327,
+    "Visits": 300,
+    "Path": "Home/Education/Students/Wastewater"
+  },
+  {
+    "Name": "Locating our assets",
+    "Index": 328,
+    "Visits": 299,
+    "Path": "Home/Builders and developers/Working near our assets/Locating our assets"
+  },
+  {
+    "Name": "Landscaping",
+    "Index": 329,
+    "Visits": 297,
+    "Path": "Home/Residential/Moving buying and building/Landscaping"
+  },
+  {
+    "Name": "Temporary services",
+    "Index": 330,
+    "Visits": 294,
+    "Path": "Home/Builders and developers/Building/New water services/Temporary services"
+  },
+  {
+    "Name": "Wastewater and mains water flooding",
+    "Index": 331,
+    "Visits": 290,
+    "Path": "Home/Residential/Faults/Wastewater and mains water flooding"
+  },
+  {
+    "Name": "Household Retrofits",
+    "Index": 332,
+    "Visits": 287,
+    "Path": "Home/Residential/Save water/Water saving programs/Household Retrofits"
+  },
+  {
+    "Name": "*",
+    "Index": 333,
+    "Visits": 287,
+    "Path": "Education/Teaching resources/Ripple Effect/Activity/*"
+  },
+  {
+    "Name": "Visiting our Groundwater Replenishment Visitor Centre",
+    "Index": 334,
+    "Visits": 284,
+    "Path": "Residential/Water supply/Our water sources/Groundwater replenishment/Visiting our Groundwater Replenishment Visitor Centre"
+  },
+  {
+    "Name": "Make your evaporative air cooler water efficient",
+    "Index": 335,
+    "Visits": 281,
+    "Path": "Home/Business/Saving water/Water saving tips/Make your evaporative air cooler water efficient"
+  },
+  {
+    "Name": "Water efficiency programs",
+    "Index": 336,
+    "Visits": 281,
+    "Path": "Home/Business/Saving water/Water efficiency programs"
+  },
+  {
+    "Name": "Mulching",
+    "Index": 337,
+    "Visits": 279,
+    "Path": "Home/Residential/Save water/In the garden/Mulching"
+  },
+  {
+    "Name": "Environment and sustainability",
+    "Index": 338,
+    "Visits": 278,
+    "Path": "Home/Residential/About us/Our commitments/Environment and sustainability"
+  },
+  {
+    "Name": "Labratory chemical waste",
+    "Index": 339,
+    "Visits": 276,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Labratory chemical waste"
+  },
+  {
+    "Name": "Plants Favourites",
+    "Index": 340,
+    "Visits": 274,
+    "Path": "Home/Residential/Save water/Waterwise plants search/Plants Favourites"
+  },
+  {
+    "Name": "Greenfield subdivisions",
+    "Index": 341,
+    "Visits": 270,
+    "Path": "Home/Builders and developers/Subdividing/Greenfield subdivisions"
+  },
+  {
+    "Name": "Drop 2",
+    "Index": 342,
+    "Visits": 269,
+    "Path": "Home/Residential/Landing/Summer 2015/Drop 2"
+  },
+  {
+    "Name": "Order resources",
+    "Index": 343,
+    "Visits": 265,
+    "Path": "Home/Education/Teaching resources/Order resources"
+  },
+  {
+    "Name": "Water supply service fees",
+    "Index": 344,
+    "Visits": 265,
+    "Path": "Home/Builders and developers/Applying for services/Fees and charges/Water supply service fees"
+  },
+  {
+    "Name": "Ocean outfall",
+    "Index": 345,
+    "Visits": 262,
+    "Path": "Home/Residential/About us/Our performance/Ocean outfall"
+  },
+  {
+    "Name": "Bushfires and water supply",
+    "Index": 346,
+    "Visits": 261,
+    "Path": "Home/Residential/Water supply/Bushfires and water supply"
+  },
+  {
+    "Name": "Trade waste permits",
+    "Index": 347,
+    "Visits": 260,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Trade waste permits"
+  },
+  {
+    "Name": "Can a property have sub meters",
+    "Index": 348,
+    "Visits": 260,
+    "Path": "Home/FAQs/Buying selling and building/Can a property have sub meters"
+  },
+  {
+    "Name": "Our wastewater system",
+    "Index": 349,
+    "Visits": 258,
+    "Path": "Home/Residential/Water supply/Wastewater services/Our wastewater system"
+  },
+  {
+    "Name": "Trade waste charges",
+    "Index": 350,
+    "Visits": 257,
+    "Path": "Home/Business/Trade waste/Trade waste charges"
+  },
+  {
+    "Name": "Terms and conditions",
+    "Index": 351,
+    "Visits": 256,
+    "Path": "Home/Suppliers/Procurement/Terms and conditions"
+  },
+  {
+    "Name": "Become endorsed as Waterwise",
+    "Index": 352,
+    "Visits": 254,
+    "Path": "Home/Business/Saving water/Become endorsed as Waterwise"
+  },
+  {
+    "Name": "Maintenance and cleaning of grease arrestors",
+    "Index": 353,
+    "Visits": 253,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Maintenance and cleaning of grease arrestors"
+  },
+  {
+    "Name": "Discharge of portable toilet waste",
+    "Index": 354,
+    "Visits": 248,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Discharge of portable toilet waste"
+  },
+  {
+    "Name": "Denmark water supply upgrade",
+    "Index": 355,
+    "Visits": 248,
+    "Path": "Home/Residential/Water supply/Ongoing works/Denmark water supply upgrade"
+  },
+  {
+    "Name": "Building on a residential property",
+    "Index": 356,
+    "Visits": 246,
+    "Path": "Home/Builders and developers/Working near our assets/Building on a residential property"
+  },
+  {
+    "Name": "Selecting the right tree",
+    "Index": 357,
+    "Visits": 241,
+    "Path": "Home/Builders and developers/Working near our assets/Selecting the right tree"
+  },
+  {
+    "Name": "Water saving tips",
+    "Index": 358,
+    "Visits": 241,
+    "Path": "Home/Business/Saving water/Water saving tips"
+  },
+  {
+    "Name": "Application forms",
+    "Index": 359,
+    "Visits": 237,
+    "Path": "Home/Business/Trade waste/Applying to discharge/Application forms"
+  },
+  {
+    "Name": "Can I put my meter into a box",
+    "Index": 360,
+    "Visits": 236,
+    "Path": "Home/FAQs/Buying selling and building/Can I put my meter into a box"
+  },
+  {
+    "Name": "What not to flush",
+    "Index": 361,
+    "Visits": 235,
+    "Path": "Home/Residential/Water supply/Wastewater services/What not to flush"
+  },
+  {
+    "Name": "Waterwise lawn care",
+    "Index": 362,
+    "Visits": 234,
+    "Path": "Home/Residential/Save water/In the garden/Waterwise lawn care"
+  },
+  {
+    "Name": "Make your toilets water efficient",
+    "Index": 363,
+    "Visits": 230,
+    "Path": "Home/Business/Saving water/Water saving tips/Make your toilets water efficient"
+  },
+  {
+    "Name": "Odour buffers",
+    "Index": 364,
+    "Visits": 229,
+    "Path": "Home/Builders and developers/Land planning/Buffers/Odour buffers"
+  },
+  {
+    "Name": "Perth monitoring program",
+    "Index": 365,
+    "Visits": 226,
+    "Path": "Residential/About us/Our performance/Ocean outfall/Perth monitoring program"
+  },
+  {
+    "Name": "Freedom of information",
+    "Index": 366,
+    "Visits": 225,
+    "Path": "Home/Residential/Legal/Freedom of information"
+  },
+  {
+    "Name": "Videos",
+    "Index": 367,
+    "Visits": 224,
+    "Path": "Home/Education/Teaching resources/Videos"
+  },
+  {
+    "Name": "Our plumbing handbook",
+    "Index": 368,
+    "Visits": 223,
+    "Path": "Home/Builders and developers/Building/Our plumbing handbook"
+  },
+  {
+    "Name": "Provide feedback",
+    "Index": 369,
+    "Visits": 223,
+    "Path": "Home/Residential/About us/Contact Us/Provide feedback"
+  },
+  {
+    "Name": "Kwinana industrial area case study",
+    "Index": 370,
+    "Visits": 222,
+    "Path": "Residential/Water supply/Water recycling/Water recycling case studies/Kwinana industrial area case study"
+  },
+  {
+    "Name": "My Water",
+    "Index": 371,
+    "Visits": 221,
+    "Path": "Home/Business/Property and settlement agents/My Water"
+  },
+  {
+    "Name": "How do I get on a panel",
+    "Index": 372,
+    "Visits": 220,
+    "Path": "Home/FAQs/Suppliers/How do I get on a panel"
+  },
+  {
+    "Name": "Who is responsible for a sewer blockage",
+    "Index": 373,
+    "Visits": 219,
+    "Path": "Home/FAQs/Faults/Who is responsible for a sewer blockage"
+  },
+  {
+    "Name": "City Beach 2A infill sewerage project",
+    "Index": 374,
+    "Visits": 218,
+    "Path": "Home/Residential/Water supply/Ongoing works/City Beach 2A infill sewerage project"
+  },
+  {
+    "Name": "Is cloud seeding a viable solution to Perths water supply",
+    "Index": 375,
+    "Visits": 214,
+    "Path": "Home/FAQs/Water supply and services/Is cloud seeding a viable solution to Perths water supply"
+  },
+  {
+    "Name": "Services provided by agreement",
+    "Index": 376,
+    "Visits": 213,
+    "Path": "Residential/About us/Our commitments/Customer service commitments/Services provided by agreement"
+  },
+  {
+    "Name": "Water recycling",
+    "Index": 377,
+    "Visits": 210,
+    "Path": "Home/Education/Students/Water recycling"
+  },
+  {
+    "Name": "Early clearance of subdivision conditions",
+    "Index": 378,
+    "Visits": 208,
+    "Path": "Home/Builders and developers/Subdividing/Greenfield subdivisions/Early clearance of subdivision conditions"
+  },
+  {
+    "Name": "How to become a Waterwise School",
+    "Index": 379,
+    "Visits": 208,
+    "Path": "Home/Education/Waterwise Schools Program/How to become a Waterwise School"
+  },
+  {
+    "Name": "Residential status",
+    "Index": 380,
+    "Visits": 208,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Residential status"
+  },
+  {
+    "Name": "Our partnerships",
+    "Index": 381,
+    "Visits": 207,
+    "Path": "Home/Residential/About us/In the community/Our partnerships"
+  },
+  {
+    "Name": "Environmental",
+    "Index": 382,
+    "Visits": 207,
+    "Path": "Home/Suppliers/Health and safety for contractors/Environmental"
+  },
+  {
+    "Name": "Fees and charges",
+    "Index": 383,
+    "Visits": 206,
+    "Path": "Home/Builders and developers/Building/Fees and charges"
+  },
+  {
+    "Name": "Redeem your Waterwise Garden Rewards offers",
+    "Index": 384,
+    "Visits": 206,
+    "Path": "Residential/Save water/Water saving programs/Waterwise Garden Rewards/Redeem your Waterwise Garden Rewards offers"
+  },
+  {
+    "Name": "Point peron monitoring program",
+    "Index": 385,
+    "Visits": 206,
+    "Path": "Residential/About us/Our performance/Ocean outfall/Point peron monitoring program"
+  },
+  {
+    "Name": "Form submitted",
+    "Index": 386,
+    "Visits": 205,
+    "Path": "Residential/About us/In the community/Competitions/Form submitted"
+  },
+  {
+    "Name": "How do I change my mailing address for my water bill",
+    "Index": 387,
+    "Visits": 204,
+    "Path": "Home/FAQs/Buying selling and building/How do I change my mailing address for my water bill"
+  },
+  {
+    "Name": "Land servicing fees",
+    "Index": 388,
+    "Visits": 200,
+    "Path": "Home/Builders and developers/Subdividing/Fees and charges/Land servicing fees"
+  },
+  {
+    "Name": "Halls Head infill sewerage projects",
+    "Index": 389,
+    "Visits": 200,
+    "Path": "Home/Residential/Water supply/Ongoing works/Halls Head infill sewerage projects"
+  },
+  {
+    "Name": "Bridgetown infill sewerage project",
+    "Index": 390,
+    "Visits": 199,
+    "Path": "Home/Residential/Water supply/Ongoing works/Bridgetown infill sewerage project"
+  },
+  {
+    "Name": "Aboriginal people and communities",
+    "Index": 391,
+    "Visits": 198,
+    "Path": "Home/Residential/About us/Our commitments/Aboriginal people and communities"
+  },
+  {
+    "Name": "Financial hardship policy",
+    "Index": 392,
+    "Visits": 193,
+    "Path": "Residential/About us/Our commitments/Customer service commitments/Financial hardship policy"
+  },
+  {
+    "Name": "Contractor HSE reporting",
+    "Index": 393,
+    "Visits": 191,
+    "Path": "Home/Suppliers/Health and safety for contractors/Contractor HSE reporting"
+  },
+  {
+    "Name": "Retail food industry non compliance changes",
+    "Index": 394,
+    "Visits": 191,
+    "Path": "Home/Business/Trade waste/Retail food industry/Retail food industry non compliance changes"
+  },
+  {
+    "Name": "Having difficulty paying your water charges",
+    "Index": 395,
+    "Visits": 191,
+    "Path": "Home/Residential/About us/Our commitments/Having difficulty paying your water charges"
+  },
+  {
+    "Name": "Excursions",
+    "Index": 396,
+    "Visits": 189,
+    "Path": "Home/Education/School talks and excursions/Excursions"
+  },
+  {
+    "Name": "Car washes",
+    "Index": 397,
+    "Visits": 187,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Car washes"
+  },
+  {
+    "Name": "Process for working near our assets",
+    "Index": 398,
+    "Visits": 186,
+    "Path": "Home/Builders and developers/Working near our assets/Process for working near our assets"
+  },
+  {
+    "Name": "Virtual tours",
+    "Index": 399,
+    "Visits": 186,
+    "Path": "Home/Education/School talks and excursions/Virtual tours"
+  },
+  {
+    "Name": "Training and events",
+    "Index": 400,
+    "Visits": 182,
+    "Path": "Home/Business/Saving water/Training and events"
+  },
+  {
+    "Name": "Green title subdivisions",
+    "Index": 401,
+    "Visits": 182,
+    "Path": "Home/Builders and developers/Subdividing/Strata and green title subdivisions/Green title subdivisions"
+  },
+  {
+    "Name": "How do I view my account balance",
+    "Index": 402,
+    "Visits": 182,
+    "Path": "Home/FAQs/Accounts/How do I view my account balance"
+  },
+  {
+    "Name": "Mobile home and portable toilet cartridge dump facility",
+    "Index": 403,
+    "Visits": 181,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Mobile home and portable toilet cartridge dump facility"
+  },
+  {
+    "Name": "In the community",
+    "Index": 404,
+    "Visits": 181,
+    "Path": "Home/Residential/About us/In the community"
+  },
+  {
+    "Name": "Waterwise office program",
+    "Index": 405,
+    "Visits": 178,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Waterwise office program"
+  },
+  {
+    "Name": "What cant go down the drain",
+    "Index": 406,
+    "Visits": 177,
+    "Path": "Home/FAQs/Water supply and services/What cant go down the drain"
+  },
+  {
+    "Name": "Desalination  transcript",
+    "Index": 407,
+    "Visits": 176,
+    "Path": "Home/Residential/Legal/Accessibility/Desalination  transcript"
+  },
+  {
+    "Name": "Water recycling case studies",
+    "Index": 408,
+    "Visits": 176,
+    "Path": "Home/Residential/Water supply/Water recycling/Water recycling case studies"
+  },
+  {
+    "Name": "Waterwise development program",
+    "Index": 409,
+    "Visits": 175,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Waterwise development program"
+  },
+  {
+    "Name": "Commercial",
+    "Index": 410,
+    "Visits": 175,
+    "Path": "Home/Business/Saving water/Case studies/Commercial"
+  },
+  {
+    "Name": "At home activities",
+    "Index": 411,
+    "Visits": 174,
+    "Path": "Home/Education/Community education/At home activities"
+  },
+  {
+    "Name": "Stormwater",
+    "Index": 412,
+    "Visits": 173,
+    "Path": "Home/Education/Students/Stormwater"
+  },
+  {
+    "Name": "Fire services",
+    "Index": 413,
+    "Visits": 172,
+    "Path": "Home/Builders and developers/Applying for services/New water services/Fire services"
+  },
+  {
+    "Name": "Reducing water use",
+    "Index": 414,
+    "Visits": 171,
+    "Path": "Home/Residential/Water supply/Our water sources/Reducing water use"
+  },
+  {
+    "Name": "Water supply",
+    "Index": 415,
+    "Visits": 169,
+    "Path": "Home/Education/School talks and excursions/School talks/Water supply"
+  },
+  {
+    "Name": "Yanchep water supply",
+    "Index": 416,
+    "Visits": 169,
+    "Path": "Residential/Water supply/Our water sources/Reducing water use/Yanchep water supply"
+  },
+  {
+    "Name": "Tap In",
+    "Index": 417,
+    "Visits": 168,
+    "Path": "Home/Residential/About us/Planning for the future/Tap In"
+  },
+  {
+    "Name": "Why dont you build more dams",
+    "Index": 418,
+    "Visits": 167,
+    "Path": "Home/FAQs/Water supply and services/Why dont you build more dams"
+  },
+  {
+    "Name": "Town of Cambridge water main renewals",
+    "Index": 419,
+    "Visits": 167,
+    "Path": "Home/Residential/Water supply/Ongoing works/Town of Cambridge water main renewals"
+  },
+  {
+    "Name": "Murchison program",
+    "Index": 420,
+    "Visits": 164,
+    "Path": "Home/Residential/Water supply/Ongoing works/Murchison program"
+  },
+  {
+    "Name": "Confirm details",
+    "Index": 421,
+    "Visits": 162,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Confirm details"
+  },
+  {
+    "Name": "Our commitments",
+    "Index": 422,
+    "Visits": 162,
+    "Path": "Home/Residential/About us/Our commitments"
+  },
+  {
+    "Name": "Card Details",
+    "Index": 423,
+    "Visits": 161,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Card Details"
+  },
+  {
+    "Name": "Water conservation",
+    "Index": 424,
+    "Visits": 161,
+    "Path": "Home/Education/School talks and excursions/School talks/Water conservation"
+  },
+  {
+    "Name": "Land planning",
+    "Index": 425,
+    "Visits": 160,
+    "Path": "Home/Builders and developers/Land planning"
+  },
+  {
+    "Name": "Waterwise aquatic centre program",
+    "Index": 426,
+    "Visits": 160,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Waterwise aquatic centre program"
+  },
+  {
+    "Name": "Strata and green title subdivisions",
+    "Index": 427,
+    "Visits": 159,
+    "Path": "Home/Builders and developers/Subdividing/Strata and green title subdivisions"
+  },
+  {
+    "Name": "Corporate governance",
+    "Index": 428,
+    "Visits": 155,
+    "Path": "Home/Residential/About us/The way we work/Corporate governance"
+  },
+  {
+    "Name": "Report possible sprinkler breach",
+    "Index": 429,
+    "Visits": 155,
+    "Path": "Home/Business/Saving water/Report possible sprinkler breach"
+  },
+  {
+    "Name": "Recognised Waterwise Schools",
+    "Index": 430,
+    "Visits": 154,
+    "Path": "Home/Education/Waterwise Schools Program/Recognised Waterwise Schools"
+  },
+  {
+    "Name": "School gardener training",
+    "Index": 431,
+    "Visits": 152,
+    "Path": "Home/Education/Events/School gardener training"
+  },
+  {
+    "Name": "Action Plan",
+    "Index": 432,
+    "Visits": 152,
+    "Path": "Home/Education/Waterwise Schools Program/Staying active in the program/Action Plan"
+  },
+  {
+    "Name": "Recognition scheme",
+    "Index": 433,
+    "Visits": 151,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise council program/Recognition scheme"
+  },
+  {
+    "Name": "Risk Management Policy",
+    "Index": 434,
+    "Visits": 151,
+    "Path": "Residential/About us/The way we work/Corporate governance/Risk Management Policy"
+  },
+  {
+    "Name": "Do I need to request a special meter reading",
+    "Index": 435,
+    "Visits": 150,
+    "Path": "Home/FAQs/Buying selling and building/Do I need to request a special meter reading"
+  },
+  {
+    "Name": "Search for Waterwise Services",
+    "Index": 436,
+    "Visits": 149,
+    "Path": "Home/Business/Saving water/Search for Waterwise Services"
+  },
+  {
+    "Name": "Water and wastewater infrastructure",
+    "Index": 437,
+    "Visits": 149,
+    "Path": "Home/Builders and developers/Land planning/Water and wastewater infrastructure"
+  },
+  {
+    "Name": "Verge incentive scheme",
+    "Index": 438,
+    "Visits": 149,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise council program/Verge incentive scheme"
+  },
+  {
+    "Name": "Meet Kep",
+    "Index": 439,
+    "Visits": 146,
+    "Path": "Home/Residential/About us/In the community/Meet Kep"
+  },
+  {
+    "Name": "Warren Blackwood regional water supply scheme",
+    "Index": 440,
+    "Visits": 146,
+    "Path": "Home/Residential/Water supply/Ongoing works/Warren Blackwood regional water supply scheme"
+  },
+  {
+    "Name": "Helping you finalise a deceased estate",
+    "Index": 441,
+    "Visits": 145,
+    "Path": "Home/Residential/My account/Need help with your bill/Helping you finalise a deceased estate"
+  },
+  {
+    "Name": "Case studies",
+    "Index": 442,
+    "Visits": 143,
+    "Path": "Home/Business/Saving water/Case studies"
+  },
+  {
+    "Name": "Single residential application",
+    "Index": 443,
+    "Visits": 142,
+    "Path": "Home/Builders and developers/Building/Lodging a building application/Single residential application"
+  },
+  {
+    "Name": "Is there a way I can detect a leak",
+    "Index": 444,
+    "Visits": 140,
+    "Path": "Home/FAQs/Faults/Is there a way I can detect a leak"
+  },
+  {
+    "Name": "Know your watering days",
+    "Index": 445,
+    "Visits": 139,
+    "Path": "Home/Business/Saving water/Water saving tips/Know your watering days"
+  },
+  {
+    "Name": "Mains water flooding",
+    "Index": 446,
+    "Visits": 139,
+    "Path": "Home/Residential/Faults/Wastewater and mains water flooding/Mains water flooding"
+  },
+  {
+    "Name": "Water supply services",
+    "Index": 447,
+    "Visits": 139,
+    "Path": "Home/Builders and developers/Applying for services/New water services/Water supply services"
+  },
+  {
+    "Name": "Estimated meter reads",
+    "Index": 448,
+    "Visits": 138,
+    "Path": "Home/Residential/My account/Reading your meter/Estimated meter reads"
+  },
+  {
+    "Name": "Music",
+    "Index": 449,
+    "Visits": 137,
+    "Path": "Home/Education/Teaching resources/Music"
+  },
+  {
+    "Name": "Nicholson Road Subiaco water main renewal",
+    "Index": 450,
+    "Visits": 136,
+    "Path": "Home/Residential/Water supply/Ongoing works/Nicholson Road Subiaco water main renewal"
+  },
+  {
+    "Name": "What is a scheme",
+    "Index": 451,
+    "Visits": 136,
+    "Path": "Home/FAQs/Builders and developers/What is a scheme"
+  },
+  {
+    "Name": "Woodman Point Wastewater Treatment Plant upgrade transcript",
+    "Index": 452,
+    "Visits": 136,
+    "Path": "Home/Residential/Legal/Accessibility/Woodman Point Wastewater Treatment Plant upgrade transcript"
+  },
+  {
+    "Name": "Conduct a basic water audit",
+    "Index": 453,
+    "Visits": 136,
+    "Path": "Home/Business/Saving water/Water saving tips/Conduct a basic water audit"
+  },
+  {
+    "Name": "Water recycling",
+    "Index": 454,
+    "Visits": 135,
+    "Path": "Home/Residential/Water supply/Water recycling"
+  },
+  {
+    "Name": "Technical requirements",
+    "Index": 455,
+    "Visits": 134,
+    "Path": "Home/Builders and developers/Working near our assets/Technical requirements"
+  },
+  {
+    "Name": "What is the Gnangara Groundwater System",
+    "Index": 456,
+    "Visits": 132,
+    "Path": "Home/FAQs/Water supply and services/What is the Gnangara Groundwater System"
+  },
+  {
+    "Name": "Incursion Feedback Form",
+    "Index": 457,
+    "Visits": 131,
+    "Path": "Home/Education/School talks and excursions/School talks/Incursion Feedback Form"
+  },
+  {
+    "Name": "Inside a wastewater treatment plant",
+    "Index": 458,
+    "Visits": 131,
+    "Path": "Home/Residential/Legal/Accessibility/Inside a wastewater treatment plant"
+  },
+  {
+    "Name": "Our performance",
+    "Index": 459,
+    "Visits": 131,
+    "Path": "Home/Residential/About us/Our performance"
+  },
+  {
+    "Name": "Pemberton wastewater treatment plant",
+    "Index": 460,
+    "Visits": 131,
+    "Path": "Home/Residential/Water supply/Ongoing works/Pemberton wastewater treatment plant"
+  },
+  {
+    "Name": "Baldivis wastewater and water system upgrade",
+    "Index": 461,
+    "Visits": 130,
+    "Path": "Home/Residential/Water supply/Ongoing works/Baldivis wastewater and water system upgrade"
+  },
+  {
+    "Name": "Trade waste permits for small business",
+    "Index": 462,
+    "Visits": 130,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Trade waste permits for small business"
+  },
+  {
+    "Name": "Demolishing a house",
+    "Index": 463,
+    "Visits": 130,
+    "Path": "Home/Residential/Moving buying and building/Demolishing a house"
+  },
+  {
+    "Name": "Complaints and Dispute Resolution Policy",
+    "Index": 464,
+    "Visits": 129,
+    "Path": "Residential/About us/The way we work/Corporate governance/Complaints and Dispute Resolution Policy"
+  },
+  {
+    "Name": "Infrastructure contributions for strata subdivisions",
+    "Index": 465,
+    "Visits": 125,
+    "Path": "Builders and developers/Subdividing/Strata and green title subdivisions/Strata subdivisions/Infrastructure contributions for strata subdivisions"
+  },
+  {
+    "Name": "Our regional water supply",
+    "Index": 466,
+    "Visits": 125,
+    "Path": "Home/Residential/Water supply/Our regional water supply"
+  },
+  {
+    "Name": "Unsubscribe",
+    "Index": 467,
+    "Visits": 125,
+    "Path": "Residential/Save water/Water saving programs/Showerhead Swap Terms and Conditions/Unsubscribe"
+  },
+  {
+    "Name": "Why do you charge a transaction fee on credit card payments",
+    "Index": 468,
+    "Visits": 125,
+    "Path": "Home/FAQs/Accounts/Why do you charge a transaction fee on credit card payments"
+  },
+  {
+    "Name": "Survey thankyou",
+    "Index": 469,
+    "Visits": 123,
+    "Path": "Residential/Water supply/Our regional water supply/South West/Survey thankyou"
+  },
+  {
+    "Name": "Submit a meter reading",
+    "Index": 470,
+    "Visits": 123,
+    "Path": "Home/Business/My account/Reading your meter/Submit a meter reading"
+  },
+  {
+    "Name": "Staying active in the program",
+    "Index": 471,
+    "Visits": 123,
+    "Path": "Home/Education/Waterwise Schools Program/Staying active in the program"
+  },
+  {
+    "Name": "Report a broken link",
+    "Index": 472,
+    "Visits": 122,
+    "Path": "Home/Residential/About us/Contact Us/Report a broken link"
+  },
+  {
+    "Name": "GWRsurvey",
+    "Index": 473,
+    "Visits": 122,
+    "Path": "Home/Education/School talks and excursions/GWRsurvey"
+  },
+  {
+    "Name": "Buffers",
+    "Index": 474,
+    "Visits": 121,
+    "Path": "Home/Builders and developers/Land planning/Buffers"
+  },
+  {
+    "Name": "Demolition",
+    "Index": 475,
+    "Visits": 121,
+    "Path": "Home/Builders and developers/Building/Demolition"
+  },
+  {
+    "Name": "Why do i have to pay for drainage charges",
+    "Index": 476,
+    "Visits": 120,
+    "Path": "Home/FAQs/Accounts/Rates and charges/Why do i have to pay for drainage charges"
+  },
+  {
+    "Name": "World Water Day",
+    "Index": 477,
+    "Visits": 120,
+    "Path": "Home/Education/Events/World Water Day"
+  },
+  {
+    "Name": "When should boundary or running traps be on property connections",
+    "Index": 478,
+    "Visits": 118,
+    "Path": "Home/FAQs/Builders and developers/When should boundary or running traps be on property connections"
+  },
+  {
+    "Name": "Plants Details",
+    "Index": 479,
+    "Visits": 118,
+    "Path": "Home/Residential/Save water/Waterwise plants search/Plants Details"
+  },
+  {
+    "Name": "Stay Waterwise WA gardens",
+    "Index": 480,
+    "Visits": 118,
+    "Path": "Home/Residential/Landing/Summer 2016/Stay Waterwise WA gardens"
+  },
+  {
+    "Name": "Events calendar",
+    "Index": 481,
+    "Visits": 116,
+    "Path": "Home/Education/Events/Events calendar"
+  },
+  {
+    "Name": "Is there any fine for breaching the winter sprinkler ban",
+    "Index": 482,
+    "Visits": 112,
+    "Path": "Home/FAQs/Saving water/Is there any fine for breaching the winter sprinkler ban"
+  },
+  {
+    "Name": "Balannup wastewater main",
+    "Index": 483,
+    "Visits": 110,
+    "Path": "Home/Residential/Water supply/Ongoing works/Balannup wastewater main"
+  },
+  {
+    "Name": "I need to have a sewer main extension   What do I need to do",
+    "Index": 484,
+    "Visits": 109,
+    "Path": "Home/FAQs/Buying selling and building/I need to have a sewer main extension   What do I need to do"
+  },
+  {
+    "Name": "Strategic resource precincts",
+    "Index": 485,
+    "Visits": 109,
+    "Path": "Home/Builders and developers/Land planning/Strategic resource precincts"
+  },
+  {
+    "Name": "Services from distribution or trunk mains",
+    "Index": 486,
+    "Visits": 108,
+    "Path": "Builders and developers/Building/New water services/Non standard services/Services from distribution or trunk mains"
+  },
+  {
+    "Name": "Stay Waterwise WA soil",
+    "Index": 487,
+    "Visits": 108,
+    "Path": "Home/Residential/Landing/Summer 2016/Stay Waterwise WA soil"
+  },
+  {
+    "Name": "Newman water supply scheme upgrades",
+    "Index": 488,
+    "Visits": 107,
+    "Path": "Home/Residential/Water supply/Ongoing works/Newman water supply scheme upgrades"
+  },
+  {
+    "Name": "Backflow smart testers program",
+    "Index": 489,
+    "Visits": 107,
+    "Path": "Home/Builders and developers/Building/Backflow prevention/Backflow smart testers program"
+  },
+  {
+    "Name": "External approvals",
+    "Index": 490,
+    "Visits": 106,
+    "Path": "Home/Suppliers/External approvals"
+  },
+  {
+    "Name": "Why isnt it compulsory for all new homes to have rainwater tanks",
+    "Index": 491,
+    "Visits": 106,
+    "Path": "Home/FAQs/Water supply and services/Why isnt it compulsory for all new homes to have rainwater tanks"
+  },
+  {
+    "Name": "Water Assist application",
+    "Index": 492,
+    "Visits": 105,
+    "Path": "Home/Residential/About us/Our commitments/Water Assist application"
+  },
+  {
+    "Name": "Perths water future",
+    "Index": 493,
+    "Visits": 104,
+    "Path": "Home/Education/School talks and excursions/School talks/Perths water future"
+  },
+  {
+    "Name": "How to read an eplan",
+    "Index": 494,
+    "Visits": 104,
+    "Path": "Home/Builders and developers/Applying for services/Order eplans/How to read an eplan"
+  },
+  {
+    "Name": "Non standard services",
+    "Index": 495,
+    "Visits": 104,
+    "Path": "Home/Builders and developers/Building/New water services/Non standard services"
+  },
+  {
+    "Name": "Land development applications",
+    "Index": 496,
+    "Visits": 103,
+    "Path": "Home/Builders and developers/Subdividing/Land development applications and submissions/Land development applications"
+  },
+  {
+    "Name": "Neerabup Groundwater Scheme Expansion",
+    "Index": 497,
+    "Visits": 103,
+    "Path": "Home/Residential/Water supply/Ongoing works/Neerabup Groundwater Scheme Expansion"
+  },
+  {
+    "Name": "Serpentine Jarrahdale pipeline",
+    "Index": 498,
+    "Visits": 103,
+    "Path": "Home/Residential/Water supply/Ongoing works/Serpentine Jarrahdale pipeline"
+  },
+  {
+    "Name": "West Kimberley community grants guidelines",
+    "Index": 499,
+    "Visits": 103,
+    "Path": "Residential/About us/In the community/Grants/West Kimberley community grants guidelines"
+  },
+  {
+    "Name": "Broome nutrient management",
+    "Index": 500,
+    "Visits": 102,
+    "Path": "Residential/Water supply/Our regional water supply/North West/Broome nutrient management"
+  },
+  {
+    "Name": "Retrieve saved application",
+    "Index": 501,
+    "Visits": 102,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Retrieve saved application"
+  },
+  {
+    "Name": "Waterwise partners",
+    "Index": 502,
+    "Visits": 102,
+    "Path": "Home/Residential/About us/In the community/Waterwise partners"
+  },
+  {
+    "Name": "Customersolutionschat",
+    "Index": 503,
+    "Visits": 101,
+    "Path": "Home/Residential/Landing/Customersolutionschat"
+  },
+  {
+    "Name": "What do I do if I have low water pressure",
+    "Index": 504,
+    "Visits": 101,
+    "Path": "Home/FAQs/Faults/What do I do if I have low water pressure"
+  },
+  {
+    "Name": "What is tankering",
+    "Index": 505,
+    "Visits": 101,
+    "Path": "Home/FAQs/Builders and developers/What is tankering"
+  },
+  {
+    "Name": "Kemerton wastewater treatment plant",
+    "Index": 506,
+    "Visits": 100,
+    "Path": "Home/Residential/Water supply/Ongoing works/Kemerton wastewater treatment plant"
+  },
+  {
+    "Name": "Denham Saline Groundwater Scheme",
+    "Index": 507,
+    "Visits": 100,
+    "Path": "Residential/Water supply/Our regional water supply/Mid West/Denham Saline Groundwater Scheme"
+  },
+  {
+    "Name": "Waterwise Business Recognition 2017",
+    "Index": 508,
+    "Visits": 99,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Waterwise Business Recognition 2017"
+  },
+  {
+    "Name": "The Pawsey Centre CSIRO",
+    "Index": 509,
+    "Visits": 98,
+    "Path": "Business/Saving water/Case studies/Mining and Manufacturing/The Pawsey Centre CSIRO"
+  },
+  {
+    "Name": "Application form",
+    "Index": 510,
+    "Visits": 98,
+    "Path": "Business/Saving water/Water efficiency programs/Data logging program/Application form"
+  },
+  {
+    "Name": "I am a tenant moving house what do I need to do",
+    "Index": 511,
+    "Visits": 98,
+    "Path": "Home/FAQs/Buying selling and building/I am a tenant moving house what do I need to do"
+  },
+  {
+    "Name": "Tankering of wastewater",
+    "Index": 512,
+    "Visits": 97,
+    "Path": "Home/Builders and developers/Subdividing/Greenfield subdivisions/Tankering of wastewater"
+  },
+  {
+    "Name": "New water services",
+    "Index": 513,
+    "Visits": 96,
+    "Path": "Home/Builders and developers/Applying for services/New water services"
+  },
+  {
+    "Name": "Subiaco water main renewals",
+    "Index": 514,
+    "Visits": 95,
+    "Path": "Home/Residential/Water supply/Ongoing works/Subiaco water main renewals"
+  },
+  {
+    "Name": "Alkimos monitoring program",
+    "Index": 515,
+    "Visits": 94,
+    "Path": "Residential/About us/Our performance/Ocean outfall/Alkimos monitoring program"
+  },
+  {
+    "Name": "Where can I view current bids and tenders",
+    "Index": 516,
+    "Visits": 92,
+    "Path": "Home/FAQs/Suppliers/Where can I view current bids and tenders"
+  },
+  {
+    "Name": "City of Kwinana seedling subsidy scheme",
+    "Index": 517,
+    "Visits": 92,
+    "Path": "Business/Saving water/Case studies/Councils/City of Kwinana seedling subsidy scheme"
+  },
+  {
+    "Name": "Existing water services",
+    "Index": 518,
+    "Visits": 91,
+    "Path": "Home/Builders and developers/Applying for services/Existing water services"
+  },
+  {
+    "Name": "I am moving homes and renting out my existing home what do I need to do",
+    "Index": 519,
+    "Visits": 91,
+    "Path": "Home/FAQs/Buying selling and building/I am moving homes and renting out my existing home what do I need to do"
+  },
+  {
+    "Name": "Bruce Rock STED scheme",
+    "Index": 520,
+    "Visits": 91,
+    "Path": "Home/Residential/Water supply/Ongoing works/Bruce Rock STED scheme"
+  },
+  {
+    "Name": "Pensioner and senior concessions",
+    "Index": 521,
+    "Visits": 91,
+    "Path": "Home/Residential/About us/Contact Us/Pensioner and senior concessions"
+  },
+  {
+    "Name": "Water restrictions and exemptions",
+    "Index": 522,
+    "Visits": 90,
+    "Path": "Home/Residential/About us/Contact Us/Water restrictions and exemptions"
+  },
+  {
+    "Name": "Sampling of trade waste",
+    "Index": 523,
+    "Visits": 89,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Sampling of trade waste"
+  },
+  {
+    "Name": "Requirements for one off discharge of industrial waste",
+    "Index": 524,
+    "Visits": 89,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Requirements for one off discharge of industrial waste"
+  },
+  {
+    "Name": "City Beach 2B infill sewerage project",
+    "Index": 525,
+    "Visits": 89,
+    "Path": "Home/Residential/Water supply/Ongoing works/City Beach 2B infill sewerage project"
+  },
+  {
+    "Name": "Application saved",
+    "Index": 526,
+    "Visits": 88,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Application saved"
+  },
+  {
+    "Name": "Website disclaimer",
+    "Index": 527,
+    "Visits": 88,
+    "Path": "Home/Residential/Legal/Website disclaimer"
+  },
+  {
+    "Name": "Edible aquifers",
+    "Index": 528,
+    "Visits": 88,
+    "Path": "Home/Education/School talks and excursions/School talks/Edible aquifers"
+  },
+  {
+    "Name": "Our awards",
+    "Index": 529,
+    "Visits": 88,
+    "Path": "Home/Residential/About us/Our performance/Our awards"
+  },
+  {
+    "Name": "Major consumers framework",
+    "Index": 530,
+    "Visits": 87,
+    "Path": "Home/Residential/About us/Our commitments/Major consumers framework"
+  },
+  {
+    "Name": "Are there fines for not complying with exemption conditions",
+    "Index": 531,
+    "Visits": 86,
+    "Path": "Home/FAQs/Saving water/Are there fines for not complying with exemption conditions"
+  },
+  {
+    "Name": "Lodging a minor plan application",
+    "Index": 532,
+    "Visits": 86,
+    "Path": "Home/Builders and developers/Building/Lodging a building application/Lodging a minor plan application"
+  },
+  {
+    "Name": "Completing other building applications",
+    "Index": 533,
+    "Visits": 85,
+    "Path": "Home/Builders and developers/Building/Lodging a building application/Completing other building applications"
+  },
+  {
+    "Name": "Deferring infrastructure contributions",
+    "Index": 534,
+    "Visits": 84,
+    "Path": "Home/Builders and developers/Subdividing/Fees and charges/Deferring infrastructure contributions"
+  },
+  {
+    "Name": "Do I need to lodge a building application",
+    "Index": 535,
+    "Visits": 83,
+    "Path": "Home/Residential/Moving buying and building/Do I need to lodge a building application"
+  },
+  {
+    "Name": "Bunbury monitoring program",
+    "Index": 536,
+    "Visits": 83,
+    "Path": "Residential/About us/Our performance/Ocean outfall/Bunbury monitoring program"
+  },
+  {
+    "Name": "Drain safety",
+    "Index": 537,
+    "Visits": 83,
+    "Path": "Home/Residential/About us/In the community/Drain safety"
+  },
+  {
+    "Name": "Equity and Diversity Policy",
+    "Index": 538,
+    "Visits": 83,
+    "Path": "Residential/About us/The way we work/Corporate governance/Equity and Diversity Policy"
+  },
+  {
+    "Name": "Bunbury infill sewerage project",
+    "Index": 539,
+    "Visits": 82,
+    "Path": "Home/Residential/Water supply/Ongoing works/Bunbury infill sewerage project"
+  },
+  {
+    "Name": "Photographic waste",
+    "Index": 540,
+    "Visits": 82,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Photographic waste"
+  },
+  {
+    "Name": "Data logging program",
+    "Index": 541,
+    "Visits": 81,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Data logging program"
+  },
+  {
+    "Name": "Applying for services",
+    "Index": 542,
+    "Visits": 81,
+    "Path": "Home/Builders and developers/Applying for services"
+  },
+  {
+    "Name": "Chidlow pump station upgrade",
+    "Index": 543,
+    "Visits": 80,
+    "Path": "Home/Residential/Water supply/Ongoing works/Chidlow pump station upgrade"
+  },
+  {
+    "Name": "City of Joondalup Soil Moisture Probes",
+    "Index": 544,
+    "Visits": 79,
+    "Path": "Business/Saving water/Case studies/Councils/City of Joondalup Soil Moisture Probes"
+  },
+  {
+    "Name": "City of Capel waterwise display village",
+    "Index": 545,
+    "Visits": 78,
+    "Path": "Business/Saving water/Case studies/Councils/City of Capel waterwise display village"
+  },
+  {
+    "Name": "Community events",
+    "Index": 546,
+    "Visits": 78,
+    "Path": "Home/Education/Community education/Community events"
+  },
+  {
+    "Name": "Reading your water meter",
+    "Index": 547,
+    "Visits": 78,
+    "Path": "Home/Residential/About us/Contact Us/Reading your water meter"
+  },
+  {
+    "Name": "Previous media releases",
+    "Index": 548,
+    "Visits": 77,
+    "Path": "Home/Residential/About us/News/Previous media releases"
+  },
+  {
+    "Name": "Capel Wetlands case study",
+    "Index": 549,
+    "Visits": 76,
+    "Path": "Residential/Water supply/Water recycling/Water recycling case studies/Capel Wetlands case study"
+  },
+  {
+    "Name": "Public disclosure",
+    "Index": 550,
+    "Visits": 76,
+    "Path": "Home/Residential/Legal/Using our systems/Public disclosure"
+  },
+  {
+    "Name": "Trade Waste Monitoring Points",
+    "Index": 551,
+    "Visits": 76,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Trade Waste Monitoring Points"
+  },
+  {
+    "Name": "Grouping plants with similar watering needs",
+    "Index": 552,
+    "Visits": 75,
+    "Path": "Home/Residential/Save water/In the garden/Grouping plants with similar watering needs"
+  },
+  {
+    "Name": "Water in Aboriginal culture",
+    "Index": 553,
+    "Visits": 75,
+    "Path": "Home/Education/School talks and excursions/School talks/Water in Aboriginal culture"
+  },
+  {
+    "Name": "Minimise water loss through your cooling tower",
+    "Index": 554,
+    "Visits": 75,
+    "Path": "Home/Business/Saving water/Water saving tips/Minimise water loss through your cooling tower"
+  },
+  {
+    "Name": "Backflow Smart Testers Program registration form",
+    "Index": 555,
+    "Visits": 75,
+    "Path": "Home/Builders and developers/Building/Backflow prevention/Backflow Smart Testers Program registration form"
+  },
+  {
+    "Name": "Ripple Effect",
+    "Index": 556,
+    "Visits": 72,
+    "Path": "Home/Education/Teaching resources/Ripple Effect"
+  },
+  {
+    "Name": "Your WEMP in 5 steps",
+    "Index": 557,
+    "Visits": 72,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise business program/Your WEMP in 5 steps"
+  },
+  {
+    "Name": "Results",
+    "Index": 558,
+    "Visits": 72,
+    "Path": "Home/Business/Saving water/Search for Waterwise Services/Results"
+  },
+  {
+    "Name": "Chemical and biological additives",
+    "Index": 559,
+    "Visits": 72,
+    "Path": "Home/Business/Trade waste/Pre treatment products/Chemical and biological additives"
+  },
+  {
+    "Name": "Who is responsible for internal plumbing work",
+    "Index": 560,
+    "Visits": 71,
+    "Path": "Home/FAQs/Builders and developers/Who is responsible for internal plumbing work"
+  },
+  {
+    "Name": "Banksia Grove new water main",
+    "Index": 561,
+    "Visits": 71,
+    "Path": "Home/Residential/Water supply/Ongoing works/Banksia Grove new water main"
+  },
+  {
+    "Name": "What is the Water Corporation fitting that is on my property",
+    "Index": 562,
+    "Visits": 70,
+    "Path": "Home/FAQs/Builders and developers/What is the Water Corporation fitting that is on my property"
+  },
+  {
+    "Name": "Securing Perth supply",
+    "Index": 563,
+    "Visits": 70,
+    "Path": "Home/Residential/Water supply/Our water sources/Securing Perth supply"
+  },
+  {
+    "Name": "Can I water my new lawn or garden outside of my watering days",
+    "Index": 564,
+    "Visits": 69,
+    "Path": "Home/FAQs/Saving water/Can I water my new lawn or garden outside of my watering days"
+  },
+  {
+    "Name": "Apply for product endorsement",
+    "Index": 565,
+    "Visits": 69,
+    "Path": "Home/Business/Saving water/Become endorsed as Waterwise/Apply for product endorsement"
+  },
+  {
+    "Name": "Derby wastewater pump station",
+    "Index": 566,
+    "Visits": 69,
+    "Path": "Home/Residential/Water supply/Ongoing works/Derby wastewater pump station"
+  },
+  {
+    "Name": "Residential Details",
+    "Index": 567,
+    "Visits": 69,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Residential Details"
+  },
+  {
+    "Name": "Temporary events",
+    "Index": 568,
+    "Visits": 68,
+    "Path": "Home/Business/Starting up/Temporary events"
+  },
+  {
+    "Name": "Kununurra Drill and Equip New Standby Bore",
+    "Index": 569,
+    "Visits": 68,
+    "Path": "Home/Residential/Water supply/Ongoing works/Kununurra Drill and Equip New Standby Bore"
+  },
+  {
+    "Name": "How recycled water is used",
+    "Index": 570,
+    "Visits": 68,
+    "Path": "Home/Residential/Water supply/Water recycling/How recycled water is used"
+  },
+  {
+    "Name": "Brighton Groundwater Scheme",
+    "Index": 571,
+    "Visits": 67,
+    "Path": "Residential/Water supply/Our water sources/Groundwater/Brighton Groundwater Scheme"
+  },
+  {
+    "Name": "City of Armadale wastewater system upgrade",
+    "Index": 572,
+    "Visits": 66,
+    "Path": "Home/Residential/Water supply/Ongoing works/City of Armadale wastewater system upgrade"
+  },
+  {
+    "Name": "I want to",
+    "Index": 573,
+    "Visits": 65,
+    "Path": "Home/Business/My account/I want to"
+  },
+  {
+    "Name": "Results",
+    "Index": 574,
+    "Visits": 64,
+    "Path": "Builders and developers/Building/Backflow prevention/Search for a Backflow Smart Tester/Results"
+  },
+  {
+    "Name": "Water education themes",
+    "Index": 575,
+    "Visits": 63,
+    "Path": "Home/Education/Teaching resources/Water education themes"
+  },
+  {
+    "Name": "Seek a Leak Week",
+    "Index": 576,
+    "Visits": 62,
+    "Path": "Home/Education/Events/Seek a Leak Week"
+  },
+  {
+    "Name": "Accessibility",
+    "Index": 577,
+    "Visits": 62,
+    "Path": "Home/Residential/Legal/Accessibility"
+  },
+  {
+    "Name": "McGillivray Oval case study",
+    "Index": 578,
+    "Visits": 61,
+    "Path": "Residential/Water supply/Water recycling/Water recycling case studies/McGillivray Oval case study"
+  },
+  {
+    "Name": "Our energy use",
+    "Index": 579,
+    "Visits": 61,
+    "Path": "Residential/About us/Our commitments/Environment and sustainability/Our energy use"
+  },
+  {
+    "Name": "Dunsborough 5C and 9A",
+    "Index": 580,
+    "Visits": 61,
+    "Path": "Home/Residential/Water supply/Ongoing works/Dunsborough 5C and 9A"
+  },
+  {
+    "Name": "Active grease separators",
+    "Index": 581,
+    "Visits": 60,
+    "Path": "Home/Business/Trade waste/Pre treatment products/Active grease separators"
+  },
+  {
+    "Name": "Order eplans",
+    "Index": 582,
+    "Visits": 60,
+    "Path": "Home/Builders and developers/Applying for services/Order eplans"
+  },
+  {
+    "Name": "Waterwise Business Recognition scheme",
+    "Index": 583,
+    "Visits": 60,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise business program/Waterwise Business Recognition scheme"
+  },
+  {
+    "Name": "Why have I received an advice of adjustment",
+    "Index": 584,
+    "Visits": 59,
+    "Path": "Home/FAQs/Accounts/Bills explained/Why have I received an advice of adjustment"
+  },
+  {
+    "Name": "Access our scheme planning",
+    "Index": 585,
+    "Visits": 58,
+    "Path": "Home/Builders and developers/Subdividing/Access our scheme planning"
+  },
+  {
+    "Name": "Copyright",
+    "Index": 586,
+    "Visits": 58,
+    "Path": "Home/Residential/Legal/Copyright"
+  },
+  {
+    "Name": "Customer Reference Group",
+    "Index": 587,
+    "Visits": 58,
+    "Path": "Home/Residential/About us/The way we work/Customer Reference Group"
+  },
+  {
+    "Name": "What is the difference between water restrictions and permanent water efficiency measures",
+    "Index": 588,
+    "Visits": 58,
+    "Path": "Home/FAQs/Saving water/What is the difference between water restrictions and permanent water efficiency measures"
+  },
+  {
+    "Name": "Hospitality",
+    "Index": 589,
+    "Visits": 58,
+    "Path": "Home/Business/Saving water/Case studies/Hospitality"
+  },
+  {
+    "Name": "City of Melville showerhead swap",
+    "Index": 590,
+    "Visits": 57,
+    "Path": "Business/Saving water/Case studies/Councils/City of Melville showerhead swap"
+  },
+  {
+    "Name": "Popular garden designs for the North West",
+    "Index": 591,
+    "Visits": 57,
+    "Path": "Residential/Save water/In the garden/Garden design/Popular garden designs for the North West"
+  },
+  {
+    "Name": "Develop a water management plan",
+    "Index": 592,
+    "Visits": 56,
+    "Path": "Home/Business/Saving water/Water saving tips/Develop a water management plan"
+  },
+  {
+    "Name": "Caravan parks",
+    "Index": 593,
+    "Visits": 56,
+    "Path": "Home/Business/Saving water/Case studies/Caravan parks"
+  },
+  {
+    "Name": "I am selling my house what do I need to do",
+    "Index": 594,
+    "Visits": 56,
+    "Path": "Home/FAQs/Buying selling and building/I am selling my house what do I need to do"
+  },
+  {
+    "Name": "Looking after our wastewater system",
+    "Index": 595,
+    "Visits": 56,
+    "Path": "Home/Residential/Water supply/Wastewater services/Looking after our wastewater system"
+  },
+  {
+    "Name": "Wagin water supply improvements",
+    "Index": 596,
+    "Visits": 55,
+    "Path": "Home/Residential/Water supply/Ongoing works/Wagin water supply improvements"
+  },
+  {
+    "Name": "Regional water and wastewater schemes",
+    "Index": 597,
+    "Visits": 54,
+    "Path": "Home/Residential/Water supply/Our regional water supply/Regional water and wastewater schemes"
+  },
+  {
+    "Name": "Albany Borefields Project",
+    "Index": 598,
+    "Visits": 53,
+    "Path": "Home/Residential/Water supply/Ongoing works/Albany Borefields Project"
+  },
+  {
+    "Name": "Albany Tree Farm case study",
+    "Index": 599,
+    "Visits": 53,
+    "Path": "Residential/Water supply/Water recycling/Water recycling case studies/Albany Tree Farm case study"
+  },
+  {
+    "Name": "Why do I need to complete a contractor induction",
+    "Index": 600,
+    "Visits": 53,
+    "Path": "Home/FAQs/Suppliers/Why do I need to complete a contractor induction"
+  },
+  {
+    "Name": "Popular garden designs for the Mid West",
+    "Index": 601,
+    "Visits": 53,
+    "Path": "Residential/Save water/In the garden/Garden design/Popular garden designs for the Mid West"
+  },
+  {
+    "Name": "Leonora infill sewerage project",
+    "Index": 602,
+    "Visits": 52,
+    "Path": "Home/Residential/Water supply/Ongoing works/Leonora infill sewerage project"
+  },
+  {
+    "Name": "Endorsed Waterwise Councils",
+    "Index": 603,
+    "Visits": 52,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise council program/Endorsed Waterwise Councils"
+  },
+  {
+    "Name": "Media release",
+    "Index": 604,
+    "Visits": 52,
+    "Path": "Residential/About us/News/Media statements/Media release"
+  },
+  {
+    "Name": "Microscopes",
+    "Index": 605,
+    "Visits": 52,
+    "Path": "Home/Education/School talks and excursions/School talks/Microscopes"
+  },
+  {
+    "Name": "Starting up",
+    "Index": 606,
+    "Visits": 51,
+    "Path": "Home/Business/Starting up"
+  },
+  {
+    "Name": "Merry Christmas",
+    "Index": 607,
+    "Visits": 51,
+    "Path": "Home/Residential/Landing/Other/Merry Christmas"
+  },
+  {
+    "Name": "Minimise water loss from your pool or spa",
+    "Index": 608,
+    "Visits": 51,
+    "Path": "Home/Business/Saving water/Water saving tips/Minimise water loss from your pool or spa"
+  },
+  {
+    "Name": "Boyup Brook STED",
+    "Index": 609,
+    "Visits": 50,
+    "Path": "Home/Residential/Water supply/Ongoing works/Boyup Brook STED"
+  },
+  {
+    "Name": "How often will I have to complete the contractor induction",
+    "Index": 610,
+    "Visits": 50,
+    "Path": "Home/FAQs/Suppliers/How often will I have to complete the contractor induction"
+  },
+  {
+    "Name": "Kondinin water supply improvements",
+    "Index": 611,
+    "Visits": 50,
+    "Path": "Home/Residential/Water supply/Ongoing works/Kondinin water supply improvements"
+  },
+  {
+    "Name": "Choose water efficient kitchen appliances",
+    "Index": 612,
+    "Visits": 50,
+    "Path": "Home/Business/Saving water/Water saving tips/Choose water efficient kitchen appliances"
+  },
+  {
+    "Name": "Events",
+    "Index": 613,
+    "Visits": 50,
+    "Path": "Home/Education/Events"
+  },
+  {
+    "Name": "10 year plans",
+    "Index": 614,
+    "Visits": 49,
+    "Path": "Residential/Water supply/Our regional water supply/South West/10 year plans"
+  },
+  {
+    "Name": "Special developer infrastructure contributions",
+    "Index": 615,
+    "Visits": 49,
+    "Path": "Builders and developers/Subdividing/Fees and charges/Infrastructure contributions/Special developer infrastructure contributions"
+  },
+  {
+    "Name": "Fixed Standpipes",
+    "Index": 616,
+    "Visits": 49,
+    "Path": "Home/Business/Starting up/Fixed Standpipes"
+  },
+  {
+    "Name": "Esperance Infill 15B 18B 19A 20A and 21A sewerage",
+    "Index": 617,
+    "Visits": 48,
+    "Path": "Home/Residential/Water supply/Ongoing works/Esperance Infill 15B 18B 19A 20A and 21A sewerage"
+  },
+  {
+    "Name": "Do developers receive a reimbursement for constructing sewers",
+    "Index": 618,
+    "Visits": 47,
+    "Path": "Home/FAQs/Builders and developers/Do developers receive a reimbursement for constructing sewers"
+  },
+  {
+    "Name": "What does a SewerSmart Plumber do",
+    "Index": 619,
+    "Visits": 47,
+    "Path": "Home/FAQs/Faults/What does a SewerSmart Plumber do"
+  },
+  {
+    "Name": "How do I report a faulty meter",
+    "Index": 620,
+    "Visits": 47,
+    "Path": "Home/FAQs/Buying selling and building/How do I report a faulty meter"
+  },
+  {
+    "Name": "City of Vincent North Perth Community Garden",
+    "Index": 621,
+    "Visits": 46,
+    "Path": "Business/Saving water/Case studies/Councils/City of Vincent North Perth Community Garden"
+  },
+  {
+    "Name": "Groundwater replenishment transcript",
+    "Index": 622,
+    "Visits": 45,
+    "Path": "Home/Residential/Legal/Accessibility/Groundwater replenishment transcript"
+  },
+  {
+    "Name": "Other education programs",
+    "Index": 623,
+    "Visits": 45,
+    "Path": "Home/Education/Teaching resources/Other education programs"
+  },
+  {
+    "Name": "Paperless billing email campaign",
+    "Index": 624,
+    "Visits": 45,
+    "Path": "Home/Residential/Landing/Other/Paperless billing email campaign"
+  },
+  {
+    "Name": "Planning a waterwise home",
+    "Index": 625,
+    "Visits": 44,
+    "Path": "Home/Residential/Moving buying and building/Building a new home/Planning a waterwise home"
+  },
+  {
+    "Name": "Pipes for Perth Waterwise verge reinstatement",
+    "Index": 626,
+    "Visits": 44,
+    "Path": "Home/Residential/Water supply/Ongoing works/Pipes for Perth Waterwise verge reinstatement"
+  },
+  {
+    "Name": "Stay Waterwise WA irrigation",
+    "Index": 627,
+    "Visits": 44,
+    "Path": "Home/Residential/Landing/Summer 2016/Stay Waterwise WA irrigation"
+  },
+  {
+    "Name": "Urban development advisory committee",
+    "Index": 628,
+    "Visits": 43,
+    "Path": "Home/Builders and developers/Subdividing/Urban development advisory committee"
+  },
+  {
+    "Name": "Infrastructure contributions for green title subdivisions",
+    "Index": 629,
+    "Visits": 43,
+    "Path": "Builders and developers/Subdividing/Strata and green title subdivisions/Green title subdivisions/Infrastructure contributions for green title subdivisions"
+  },
+  {
+    "Name": "Treating groundwater for drinking transcript",
+    "Index": 630,
+    "Visits": 42,
+    "Path": "Home/Residential/Legal/Accessibility/Treating groundwater for drinking transcript"
+  },
+  {
+    "Name": "I am selling my property does the Water Corporation need to disconnect my water",
+    "Index": 631,
+    "Visits": 42,
+    "Path": "Home/FAQs/Buying selling and building/I am selling my property does the Water Corporation need to disconnect my water"
+  },
+  {
+    "Name": "Fremantle water main renewals",
+    "Index": 632,
+    "Visits": 41,
+    "Path": "Home/Residential/Water supply/Ongoing works/Fremantle water main renewals"
+  },
+  {
+    "Name": "Eligibility Status",
+    "Index": 633,
+    "Visits": 41,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Eligibility Status"
+  },
+  {
+    "Name": "Disability access and inclusion",
+    "Index": 634,
+    "Visits": 41,
+    "Path": "Home/Residential/About us/Our commitments/Disability access and inclusion"
+  },
+  {
+    "Name": "Future",
+    "Index": 635,
+    "Visits": 40,
+    "Path": "Residential/Water supply/Rainfall and dams/Sources/Future"
+  },
+  {
+    "Name": "Install a data logger",
+    "Index": 636,
+    "Visits": 40,
+    "Path": "Home/Business/Saving water/Water saving tips/Install a data logger"
+  },
+  {
+    "Name": "What is the Western Australian Planning Commission",
+    "Index": 637,
+    "Visits": 40,
+    "Path": "Home/FAQs/Builders and developers/What is the Western Australian Planning Commission"
+  },
+  {
+    "Name": "City of Cockburn case study",
+    "Index": 638,
+    "Visits": 40,
+    "Path": "Business/Saving water/Case studies/Councils/City of Cockburn case study"
+  },
+  {
+    "Name": "Where can I find a list of current tenders that are being advertised",
+    "Index": 639,
+    "Visits": 40,
+    "Path": "Home/FAQs/Suppliers/Contractor prequalification/Where can I find a list of current tenders that are being advertised"
+  },
+  {
+    "Name": "Can I water lawns and gardens using irrigation systems between the hours of 9am and 6pm",
+    "Index": 640,
+    "Visits": 40,
+    "Path": "Home/FAQs/Saving water/Can I water lawns and gardens using irrigation systems between the hours of 9am and 6pm"
+  },
+  {
+    "Name": "Make your irrigation and landscaping water efficient",
+    "Index": 641,
+    "Visits": 39,
+    "Path": "Home/Business/Saving water/Water saving tips/Make your irrigation and landscaping water efficient"
+  },
+  {
+    "Name": "Watering exemptions for businesses",
+    "Index": 642,
+    "Visits": 38,
+    "Path": "Home/Business/Saving water/Watering days/Watering exemptions for businesses"
+  },
+  {
+    "Name": "Community reference groups",
+    "Index": 643,
+    "Visits": 38,
+    "Path": "Residential/Water supply/Wastewater services/Our wastewater treatment plants/Community reference groups"
+  },
+  {
+    "Name": "Managing greasy waste in the retail food industry",
+    "Index": 644,
+    "Visits": 38,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Managing greasy waste in the retail food industry"
+  },
+  {
+    "Name": "OSH alert Cluster investigation battery rupture incidents Apr 2016",
+    "Index": 645,
+    "Visits": 38,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Cluster investigation battery rupture incidents Apr 2016"
+  },
+  {
+    "Name": "City of Stirling Joondanna Community Garden",
+    "Index": 646,
+    "Visits": 37,
+    "Path": "Business/Saving water/Case studies/Councils/City of Stirling Joondanna Community Garden"
+  },
+  {
+    "Name": "What is the difference between a strata and green title",
+    "Index": 647,
+    "Visits": 37,
+    "Path": "Home/FAQs/Buying selling and building/What is the difference between a strata and green title"
+  },
+  {
+    "Name": "Applying for Waterwise reendorsement",
+    "Index": 648,
+    "Visits": 37,
+    "Path": "Home/Business/Saving water/Become endorsed as Waterwise/Applying for Waterwise reendorsement"
+  },
+  {
+    "Name": "Large hotels resorts or construction mining camps",
+    "Index": 649,
+    "Visits": 37,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Large hotels resorts or construction mining camps"
+  },
+  {
+    "Name": "Our dam catchments and rainfall transcript",
+    "Index": 650,
+    "Visits": 37,
+    "Path": "Home/Residential/Legal/Accessibility/Our dam catchments and rainfall transcript"
+  },
+  {
+    "Name": "Community education",
+    "Index": 651,
+    "Visits": 36,
+    "Path": "Home/Education/Community education"
+  },
+  {
+    "Name": "Work in Subiaco November 2017 to April 2018",
+    "Index": 652,
+    "Visits": 36,
+    "Path": "Home/Residential/Water supply/Ongoing works/Work in Subiaco November 2017 to April 2018"
+  },
+  {
+    "Name": "Designing a waterwise garden",
+    "Index": 653,
+    "Visits": 36,
+    "Path": "Home/Residential/Moving buying and building/Building a new home/Designing a waterwise garden"
+  },
+  {
+    "Name": "Riverton Leisureplex",
+    "Index": 654,
+    "Visits": 36,
+    "Path": "Business/Saving water/Case studies/Aquatic centres/Riverton Leisureplex"
+  },
+  {
+    "Name": "Funeral parlours and mortuaries",
+    "Index": 655,
+    "Visits": 35,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Funeral parlours and mortuaries"
+  },
+  {
+    "Name": "Can a professional test my irrigation system on or outside of my allocated watering times",
+    "Index": 656,
+    "Visits": 35,
+    "Path": "Home/FAQs/Saving water/Can a professional test my irrigation system on or outside of my allocated watering times"
+  },
+  {
+    "Name": "What is the Waterwise Products endorsement program",
+    "Index": 657,
+    "Visits": 34,
+    "Path": "Home/FAQs/Saving water/What is the Waterwise Products endorsement program"
+  },
+  {
+    "Name": "Receival of third party tankered waste",
+    "Index": 658,
+    "Visits": 34,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Receival of third party tankered waste"
+  },
+  {
+    "Name": "Bindoon STED",
+    "Index": 659,
+    "Visits": 34,
+    "Path": "Home/Residential/Water supply/Ongoing works/Bindoon STED"
+  },
+  {
+    "Name": "OSH alert Excavator tip Feb 2015",
+    "Index": 660,
+    "Visits": 33,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Excavator tip Feb 2015"
+  },
+  {
+    "Name": "Rio Tinto Iron Ore Cape Lambert Port",
+    "Index": 661,
+    "Visits": 33,
+    "Path": "Business/Saving water/Case studies/Mining and Manufacturing/Rio Tinto Iron Ore Cape Lambert Port"
+  },
+  {
+    "Name": "Water recycling",
+    "Index": 662,
+    "Visits": 33,
+    "Path": "Home/Education/School talks and excursions/School talks/Water recycling"
+  },
+  {
+    "Name": "Electronic Business Conditions of Use",
+    "Index": 663,
+    "Visits": 33,
+    "Path": "Home/Residential/Legal/Using our systems/Electronic Business Conditions of Use"
+  },
+  {
+    "Name": "OSH alert 492 Working in excavation deeper than 3m",
+    "Index": 664,
+    "Visits": 32,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 492 Working in excavation deeper than 3m"
+  },
+  {
+    "Name": "Being waterwise",
+    "Index": 665,
+    "Visits": 32,
+    "Path": "Home/Residential/About us/Contact Us/Being waterwise"
+  },
+  {
+    "Name": "Bold Park Aquatic Centre",
+    "Index": 666,
+    "Visits": 32,
+    "Path": "Business/Saving water/Case studies/Aquatic centres/Bold Park Aquatic Centre"
+  },
+  {
+    "Name": "Wastewater",
+    "Index": 667,
+    "Visits": 32,
+    "Path": "Home/Education/School talks and excursions/School talks/Wastewater"
+  },
+  {
+    "Name": "Managing business accounts in My Water",
+    "Index": 668,
+    "Visits": 31,
+    "Path": "Home/Business/My account/Managing business accounts in My Water"
+  },
+  {
+    "Name": "Contact us for advice about your development",
+    "Index": 669,
+    "Visits": 31,
+    "Path": "Home/Builders and developers/Contact us for advice about your development"
+  },
+  {
+    "Name": "Other products",
+    "Index": 670,
+    "Visits": 30,
+    "Path": "Home/Business/Trade waste/Pre treatment products/Other products"
+  },
+  {
+    "Name": "Annual reendorsement",
+    "Index": 671,
+    "Visits": 30,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise council program/Annual reendorsement"
+  },
+  {
+    "Name": "New trade waste pre treatment",
+    "Index": 672,
+    "Visits": 30,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/New trade waste pre treatment"
+  },
+  {
+    "Name": "What is an agreement and why do I have to enter into one",
+    "Index": 673,
+    "Visits": 30,
+    "Path": "Home/FAQs/Builders and developers/What is an agreement and why do I have to enter into one"
+  },
+  {
+    "Name": "World Toilet Day",
+    "Index": 674,
+    "Visits": 30,
+    "Path": "Home/Education/Events/World Toilet Day"
+  },
+  {
+    "Name": "Councils",
+    "Index": 675,
+    "Visits": 29,
+    "Path": "Home/Business/Saving water/Case studies/Councils"
+  },
+  {
+    "Name": "Diversity and inclusion",
+    "Index": 676,
+    "Visits": 29,
+    "Path": "Home/Residential/About us/Careers with us/Diversity and inclusion"
+  },
+  {
+    "Name": "Reinstating work areas",
+    "Index": 677,
+    "Visits": 29,
+    "Path": "Residential/About us/Our commitments/Customer service commitments/Reinstating work areas"
+  },
+  {
+    "Name": "Beverley water supply improvements",
+    "Index": 678,
+    "Visits": 29,
+    "Path": "Home/Residential/Water supply/Ongoing works/Beverley water supply improvements"
+  },
+  {
+    "Name": "Chatters Cafe and Restaurant",
+    "Index": 679,
+    "Visits": 28,
+    "Path": "Business/Saving water/Case studies/Hospitality/Chatters Cafe and Restaurant"
+  },
+  {
+    "Name": "Evermore Heights mains scheme connection",
+    "Index": 680,
+    "Visits": 28,
+    "Path": "Home/Residential/Water supply/Ongoing works/Evermore Heights mains scheme connection"
+  },
+  {
+    "Name": "How to become endorsed",
+    "Index": 681,
+    "Visits": 28,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise council program/How to become endorsed"
+  },
+  {
+    "Name": "OSH alert 491 Near miss fall from heights",
+    "Index": 682,
+    "Visits": 28,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 491 Near miss fall from heights"
+  },
+  {
+    "Name": "Moving to Western Australia",
+    "Index": 683,
+    "Visits": 28,
+    "Path": "Home/Residential/Moving buying and building/Moving home/Moving to Western Australia"
+  },
+  {
+    "Name": "FAQs",
+    "Index": 684,
+    "Visits": 28,
+    "Path": "Home/Builders and developers/FAQs"
+  },
+  {
+    "Name": "Legal",
+    "Index": 685,
+    "Visits": 28,
+    "Path": "Home/Residential/Legal"
+  },
+  {
+    "Name": "Why does my account show interest charges",
+    "Index": 686,
+    "Visits": 28,
+    "Path": "Home/FAQs/Accounts/Bills explained/Why does my account show interest charges"
+  },
+  {
+    "Name": "Desalination",
+    "Index": 687,
+    "Visits": 27,
+    "Path": "Home/Education/School talks and excursions/School talks/Desalination"
+  },
+  {
+    "Name": "I am buying a home what do I need to do",
+    "Index": 688,
+    "Visits": 27,
+    "Path": "Home/FAQs/Buying selling and building/I am buying a home what do I need to do"
+  },
+  {
+    "Name": "OSH alert 483 Chlorine Risk Aug 2016",
+    "Index": 689,
+    "Visits": 27,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 483 Chlorine Risk Aug 2016"
+  },
+  {
+    "Name": "Cooling tower water efficiency online training promo transcript",
+    "Index": 690,
+    "Visits": 27,
+    "Path": "Home/Residential/Legal/Accessibility/Cooling tower water efficiency online training promo transcript"
+  },
+  {
+    "Name": "Using wetting agents transcript",
+    "Index": 691,
+    "Visits": 27,
+    "Path": "Home/Residential/Legal/Accessibility/Using wetting agents transcript"
+  },
+  {
+    "Name": "Yealering water supply",
+    "Index": 692,
+    "Visits": 27,
+    "Path": "Home/Residential/Water supply/Ongoing works/Yealering water supply"
+  },
+  {
+    "Name": "Can I water a commercial market garden or plant nursery",
+    "Index": 693,
+    "Visits": 26,
+    "Path": "Home/FAQs/Saving water/Can I water a commercial market garden or plant nursery"
+  },
+  {
+    "Name": "Reducing the risk",
+    "Index": 694,
+    "Visits": 26,
+    "Path": "Home/Builders and developers/Working near our assets/Reducing the risk"
+  },
+  {
+    "Name": "Aquatic centres",
+    "Index": 695,
+    "Visits": 26,
+    "Path": "Home/Business/Saving water/Case studies/Aquatic centres"
+  },
+  {
+    "Name": "City of Subiaco remote irrigation control",
+    "Index": 696,
+    "Visits": 26,
+    "Path": "Business/Saving water/Case studies/Councils/City of Subiaco remote irrigation control"
+  },
+  {
+    "Name": "National Water Week",
+    "Index": 697,
+    "Visits": 26,
+    "Path": "Home/Residential/Landing/Ongoing landing pages/National Water Week"
+  },
+  {
+    "Name": "OSH alert 489 Working at heights on scaffolding breach",
+    "Index": 698,
+    "Visits": 26,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 489 Working at heights on scaffolding breach"
+  },
+  {
+    "Name": "Scouts",
+    "Index": 699,
+    "Visits": 26,
+    "Path": "Home/Education/Community education/Scouts"
+  },
+  {
+    "Name": "Commercial climate control waste",
+    "Index": 700,
+    "Visits": 26,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Commercial climate control waste"
+  },
+  {
+    "Name": "City of Nedlands demonstration gardens",
+    "Index": 701,
+    "Visits": 25,
+    "Path": "Business/Saving water/Case studies/Councils/City of Nedlands demonstration gardens"
+  },
+  {
+    "Name": "Dish and glass washing",
+    "Index": 702,
+    "Visits": 25,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Dish and glass washing"
+  },
+  {
+    "Name": "Kulin Oval case study",
+    "Index": 703,
+    "Visits": 25,
+    "Path": "Residential/Water supply/Water recycling/Water recycling case studies/Kulin Oval case study"
+  },
+  {
+    "Name": "Turning seawater into drinking water transcript",
+    "Index": 704,
+    "Visits": 25,
+    "Path": "Home/Residential/Legal/Accessibility/Turning seawater into drinking water transcript"
+  },
+  {
+    "Name": "Waterwise water auditor program",
+    "Index": 705,
+    "Visits": 24,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Waterwise water auditor program"
+  },
+  {
+    "Name": "Why are only Smart Approved WaterMark products eligible for the Waterwise Products Program",
+    "Index": 706,
+    "Visits": 24,
+    "Path": "Home/FAQs/Saving water/Why are only Smart Approved WaterMark products eligible for the Waterwise Products Program"
+  },
+  {
+    "Name": "OSH alert Excavation near miss Dec 2015",
+    "Index": 707,
+    "Visits": 23,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Excavation near miss Dec 2015"
+  },
+  {
+    "Name": "University tours",
+    "Index": 708,
+    "Visits": 23,
+    "Path": "Home/Education/Community education/University tours"
+  },
+  {
+    "Name": "Waterwise Schools snapshot",
+    "Index": 709,
+    "Visits": 23,
+    "Path": "Home/Education/Waterwise Schools Program/Waterwise Schools snapshot"
+  },
+  {
+    "Name": "Using catch cups transcript",
+    "Index": 710,
+    "Visits": 22,
+    "Path": "Home/Residential/Legal/Accessibility/Using catch cups transcript"
+  },
+  {
+    "Name": "Buying or selling a business with trade waste conditions",
+    "Index": 711,
+    "Visits": 22,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Buying or selling a business with trade waste conditions"
+  },
+  {
+    "Name": "Professional learning",
+    "Index": 712,
+    "Visits": 22,
+    "Path": "Home/Education/Waterwise Schools Program/Professional learning"
+  },
+  {
+    "Name": "Can two or more homes connect to the same sewer connection",
+    "Index": 713,
+    "Visits": 21,
+    "Path": "Home/FAQs/Buying selling and building/Can two or more homes connect to the same sewer connection"
+  },
+  {
+    "Name": "Margaret River Wastewater Treatment Plant Upgrades",
+    "Index": 714,
+    "Visits": 21,
+    "Path": "Home/Residential/Water supply/Ongoing works/Margaret River Wastewater Treatment Plant Upgrades"
+  },
+  {
+    "Name": "OSH alert 493 Carnarvon working at heights breach",
+    "Index": 715,
+    "Visits": 21,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 493 Carnarvon working at heights breach"
+  },
+  {
+    "Name": "IKEA",
+    "Index": 716,
+    "Visits": 21,
+    "Path": "Business/Saving water/Case studies/Commercial/IKEA"
+  },
+  {
+    "Name": "Broome wastewater system upgrades",
+    "Index": 717,
+    "Visits": 21,
+    "Path": "Home/Residential/Water supply/Ongoing works/Broome wastewater system upgrades"
+  },
+  {
+    "Name": "West Perth main renewals",
+    "Index": 718,
+    "Visits": 21,
+    "Path": "Home/Residential/Water supply/Ongoing works/West Perth main renewals"
+  },
+  {
+    "Name": "*",
+    "Index": 719,
+    "Visits": 21,
+    "Path": "Home/Residential/Save water/Water saving tips/*"
+  },
+  {
+    "Name": "Stormwater pollution",
+    "Index": 720,
+    "Visits": 20,
+    "Path": "Home/Education/School talks and excursions/School talks/Stormwater pollution"
+  },
+  {
+    "Name": "Blair Street wastewater main replacement",
+    "Index": 721,
+    "Visits": 20,
+    "Path": "Home/Residential/Water supply/Ongoing works/Blair Street wastewater main replacement"
+  },
+  {
+    "Name": "Doesnt desalination use a lot of energy",
+    "Index": 722,
+    "Visits": 20,
+    "Path": "Home/FAQs/Water supply and services/Doesnt desalination use a lot of energy"
+  },
+  {
+    "Name": "How can I use the Waterwise logo if my application is approved",
+    "Index": 723,
+    "Visits": 20,
+    "Path": "Home/FAQs/Saving water/How can I use the Waterwise logo if my application is approved"
+  },
+  {
+    "Name": "Wastewater flooding",
+    "Index": 724,
+    "Visits": 20,
+    "Path": "Home/Residential/Faults/Wastewater and mains water flooding/Wastewater flooding"
+  },
+  {
+    "Name": "Beneficial land use",
+    "Index": 725,
+    "Visits": 19,
+    "Path": "Home/Builders and developers/Land planning/Strategic resource precincts/Beneficial land use"
+  },
+  {
+    "Name": "Can I water my gardens using an irrigation system on my allocated watering days",
+    "Index": 726,
+    "Visits": 19,
+    "Path": "Home/FAQs/Saving water/Can I water my gardens using an irrigation system on my allocated watering days"
+  },
+  {
+    "Name": "I live in an apartment and dont have a garden what can I do to save water",
+    "Index": 727,
+    "Visits": 18,
+    "Path": "Home/FAQs/Saving water/I live in an apartment and dont have a garden what can I do to save water"
+  },
+  {
+    "Name": "Additional Owners",
+    "Index": 728,
+    "Visits": 18,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Additional Owners"
+  },
+  {
+    "Name": "Non standard services",
+    "Index": 729,
+    "Visits": 18,
+    "Path": "Home/Builders and developers/Applying for services/New water services/Non standard services"
+  },
+  {
+    "Name": "Sutherland St Port Hedland temporary interruption to supply",
+    "Index": 730,
+    "Visits": 18,
+    "Path": "Home/Residential/Water supply/Ongoing works/Sutherland St Port Hedland temporary interruption to supply"
+  },
+  {
+    "Name": "Why is my bill so high transcript",
+    "Index": 731,
+    "Visits": 18,
+    "Path": "Home/Residential/Legal/Accessibility/Why is my bill so high transcript"
+  },
+  {
+    "Name": "Infrastructure contributions for greenfield subdivisions",
+    "Index": 732,
+    "Visits": 18,
+    "Path": "Home/Builders and developers/Subdividing/Greenfield subdivisions/Infrastructure contributions for greenfield subdivisions"
+  },
+  {
+    "Name": "Mount Romance",
+    "Index": 733,
+    "Visits": 17,
+    "Path": "Business/Saving water/Case studies/Mining and Manufacturing/Mount Romance"
+  },
+  {
+    "Name": "Install submeters",
+    "Index": 734,
+    "Visits": 17,
+    "Path": "Home/Business/Saving water/Water saving tips/Install submeters"
+  },
+  {
+    "Name": "Wastewater transcript",
+    "Index": 735,
+    "Visits": 17,
+    "Path": "Home/Residential/Legal/Accessibility/Wastewater transcript"
+  },
+  {
+    "Name": "Waterwise Water Auditor reendorsement",
+    "Index": 736,
+    "Visits": 17,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise water auditor program/Waterwise Water Auditor reendorsement"
+  },
+  {
+    "Name": "Change my details",
+    "Index": 737,
+    "Visits": 17,
+    "Path": "Home/Business/My account/I want to/Change my details"
+  },
+  {
+    "Name": "Detect and repair leaks",
+    "Index": 738,
+    "Visits": 17,
+    "Path": "Home/Business/Saving water/Water saving tips/Detect and repair leaks"
+  },
+  {
+    "Name": "Glen Huon Primary School",
+    "Index": 739,
+    "Visits": 17,
+    "Path": "Business/Saving water/Case studies/Education/Glen Huon Primary School"
+  },
+  {
+    "Name": "Related Party Transactions Policy",
+    "Index": 740,
+    "Visits": 17,
+    "Path": "Residential/About us/The way we work/Corporate governance/Related Party Transactions Policy"
+  },
+  {
+    "Name": "Western Suburbs Relining",
+    "Index": 741,
+    "Visits": 17,
+    "Path": "Home/Residential/Water supply/Ongoing works/Western Suburbs Relining"
+  },
+  {
+    "Name": "Hospitals",
+    "Index": 742,
+    "Visits": 16,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Hospitals"
+  },
+  {
+    "Name": "Terms and conditions for Backflow Smart Testers Program",
+    "Index": 743,
+    "Visits": 16,
+    "Path": "Builders and developers/Building/Backflow prevention/Backflow smart testers program/Terms and conditions for Backflow Smart Testers Program"
+  },
+  {
+    "Name": "Hanson Concrete Port Hedland Case Study",
+    "Index": 744,
+    "Visits": 16,
+    "Path": "Business/Saving water/Case studies/Mining and Manufacturing/Hanson Concrete Port Hedland Case Study"
+  },
+  {
+    "Name": "Staged land developments",
+    "Index": 745,
+    "Visits": 16,
+    "Path": "Home/Builders and developers/Subdividing/Greenfield subdivisions/Staged land developments"
+  },
+  {
+    "Name": "Disability access and inclusion",
+    "Index": 746,
+    "Visits": 16,
+    "Path": "Home/Suppliers/Disability access and inclusion"
+  },
+  {
+    "Name": "Industry self monitoring",
+    "Index": 747,
+    "Visits": 16,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Industry self monitoring"
+  },
+  {
+    "Name": "Kalgoorlie Boulder Road CI Renewal",
+    "Index": 748,
+    "Visits": 16,
+    "Path": "Home/Residential/Water supply/Ongoing works/Kalgoorlie Boulder Road CI Renewal"
+  },
+  {
+    "Name": "Sprinklers from scratch",
+    "Index": 749,
+    "Visits": 16,
+    "Path": "Home/Residential/Moving buying and building/Building a new home/Sprinklers from scratch"
+  },
+  {
+    "Name": "OSH alert 488 Confined space breach Dec 2016",
+    "Index": 750,
+    "Visits": 16,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 488 Confined space breach Dec 2016"
+  },
+  {
+    "Name": "Resources for after school centres",
+    "Index": 751,
+    "Visits": 16,
+    "Path": "Home/Education/Community education/Resources for after school centres"
+  },
+  {
+    "Name": "City of Vincent Eco Zoning",
+    "Index": 752,
+    "Visits": 15,
+    "Path": "Business/Saving water/Case studies/Councils/City of Vincent Eco Zoning"
+  },
+  {
+    "Name": "Error",
+    "Index": 753,
+    "Visits": 15,
+    "Path": "My account/I want to/Concessions/Apply for a concession/Error"
+  },
+  {
+    "Name": "Coogee Beach Holiday Park",
+    "Index": 754,
+    "Visits": 15,
+    "Path": "Business/Saving water/Case studies/Caravan parks/Coogee Beach Holiday Park"
+  },
+  {
+    "Name": "Profile",
+    "Index": 755,
+    "Visits": 15,
+    "Path": "Home/Education/Profile"
+  },
+  {
+    "Name": "Water recycling transcript",
+    "Index": 756,
+    "Visits": 15,
+    "Path": "Home/Residential/Legal/Accessibility/Water recycling transcript"
+  },
+  {
+    "Name": "Hospitals and aged care",
+    "Index": 757,
+    "Visits": 15,
+    "Path": "Home/Business/Saving water/Case studies/Hospitals and aged care"
+  },
+  {
+    "Name": "Why apply for the Waterwise Products Program",
+    "Index": 758,
+    "Visits": 15,
+    "Path": "Home/FAQs/Saving water/Why apply for the Waterwise Products Program"
+  },
+  {
+    "Name": "What is a beneficiary lot",
+    "Index": 759,
+    "Visits": 14,
+    "Path": "Home/FAQs/Builders and developers/What is a beneficiary lot"
+  },
+  {
+    "Name": "Corporate Lobbying Policy",
+    "Index": 760,
+    "Visits": 14,
+    "Path": "Residential/About us/The way we work/Corporate governance/Corporate Lobbying Policy"
+  },
+  {
+    "Name": "Erskine Retirement Village",
+    "Index": 761,
+    "Visits": 14,
+    "Path": "Business/Saving water/Case studies/Hospitals and aged care/Erskine Retirement Village"
+  },
+  {
+    "Name": "Conflicts of Interest Policy",
+    "Index": 762,
+    "Visits": 14,
+    "Path": "Residential/About us/The way we work/Corporate governance/Conflicts of Interest Policy"
+  },
+  {
+    "Name": "Radioactive Waste",
+    "Index": 763,
+    "Visits": 14,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Radioactive Waste"
+  },
+  {
+    "Name": "High water use",
+    "Index": 764,
+    "Visits": 14,
+    "Path": "Home/Residential/My account/High water use"
+  },
+  {
+    "Name": "Our incursions",
+    "Index": 765,
+    "Visits": 14,
+    "Path": "Home/Residential/Legal/Accessibility/Our incursions"
+  },
+  {
+    "Name": "Whats your water story",
+    "Index": 766,
+    "Visits": 14,
+    "Path": "Home/Residential/Legal/Accessibility/Whats your water story"
+  },
+  {
+    "Name": "Reading your bill transcript",
+    "Index": 767,
+    "Visits": 13,
+    "Path": "Home/Residential/Legal/Accessibility/Reading your bill transcript"
+  },
+  {
+    "Name": "WA Police",
+    "Index": 768,
+    "Visits": 13,
+    "Path": "Business/Saving water/Case studies/Commercial/WA Police"
+  },
+  {
+    "Name": "Form submitted",
+    "Index": 769,
+    "Visits": 13,
+    "Path": "Home/Business/Property and settlement agents/Update property management details/Form submitted"
+  },
+  {
+    "Name": "City of Melville LeisureFit Booragoon",
+    "Index": 770,
+    "Visits": 13,
+    "Path": "Business/Saving water/Case studies/Aquatic centres/City of Melville LeisureFit Booragoon"
+  },
+  {
+    "Name": "Current priorities",
+    "Index": 771,
+    "Visits": 13,
+    "Path": "Residential/About us/Our commitments/Aboriginal people and communities/Current priorities"
+  },
+  {
+    "Name": "Education",
+    "Index": 772,
+    "Visits": 13,
+    "Path": "Home/Business/Saving water/Case studies/Education"
+  },
+  {
+    "Name": "Henley Brook replacement bore",
+    "Index": 773,
+    "Visits": 13,
+    "Path": "Home/Residential/Water supply/Ongoing works/Henley Brook replacement bore"
+  },
+  {
+    "Name": "Where can I download a user manual for my specific irrigation system",
+    "Index": 774,
+    "Visits": 13,
+    "Path": "Home/FAQs/Saving water/Where can I download a user manual for my specific irrigation system"
+  },
+  {
+    "Name": "Garden City Shopping Centre",
+    "Index": 775,
+    "Visits": 13,
+    "Path": "Business/Saving water/Case studies/Commercial/Garden City Shopping Centre"
+  },
+  {
+    "Name": "Milestone Recognition",
+    "Index": 776,
+    "Visits": 13,
+    "Path": "Home/Education/Waterwise Schools Program/Staying active in the program/Milestone Recognition"
+  },
+  {
+    "Name": "Tronox Management Pty Ltd",
+    "Index": 777,
+    "Visits": 13,
+    "Path": "Business/Saving water/Case studies/Mining and Manufacturing/Tronox Management Pty Ltd"
+  },
+  {
+    "Name": "Form submitted",
+    "Index": 778,
+    "Visits": 12,
+    "Path": "Builders and developers/Subdividing/How to subdivide/Request land planning advice/Form submitted"
+  },
+  {
+    "Name": "Fremantle Caravan Park",
+    "Index": 779,
+    "Visits": 12,
+    "Path": "Business/Saving water/Case studies/Caravan parks/Fremantle Caravan Park"
+  },
+  {
+    "Name": "How are infrastructure contributions calculated",
+    "Index": 780,
+    "Visits": 12,
+    "Path": "Home/FAQs/Buying selling and building/How are infrastructure contributions calculated"
+  },
+  {
+    "Name": "Meet our people Sarah transcript",
+    "Index": 781,
+    "Visits": 12,
+    "Path": "Home/Residential/Legal/Accessibility/Meet our people Sarah transcript"
+  },
+  {
+    "Name": "Mining and Manufacturing",
+    "Index": 782,
+    "Visits": 12,
+    "Path": "Home/Business/Saving water/Case studies/Mining and Manufacturing"
+  },
+  {
+    "Name": "HPI alert 494 Foot crushed by telehandler Mar 2017",
+    "Index": 783,
+    "Visits": 12,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/HPI alert 494 Foot crushed by telehandler Mar 2017"
+  },
+  {
+    "Name": "Is your toilet or drain not working as normal transcript",
+    "Index": 784,
+    "Visits": 12,
+    "Path": "Home/Residential/Legal/Accessibility/Is your toilet or drain not working as normal transcript"
+  },
+  {
+    "Name": "City of Vincent Hyde Park lake",
+    "Index": 785,
+    "Visits": 11,
+    "Path": "Business/Saving water/Case studies/Councils/City of Vincent Hyde Park lake"
+  },
+  {
+    "Name": "Quick service restaurants",
+    "Index": 786,
+    "Visits": 11,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Quick service restaurants"
+  },
+  {
+    "Name": "When should I apply for a watering exemption",
+    "Index": 787,
+    "Visits": 11,
+    "Path": "Home/FAQs/Saving water/When should I apply for a watering exemption"
+  },
+  {
+    "Name": "Terms and Conditions competition2",
+    "Index": 788,
+    "Visits": 11,
+    "Path": "Residential/About us/In the community/Competitions/Terms and Conditions competition2"
+  },
+  {
+    "Name": "Upgrade or downgrade a service",
+    "Index": 789,
+    "Visits": 11,
+    "Path": "Home/Builders and developers/Applying for services/Existing water services/Upgrade or downgrade a service"
+  },
+  {
+    "Name": "Why do I have to pay for a plumber to move my pipes if Im moving my meter",
+    "Index": 790,
+    "Visits": 11,
+    "Path": "Home/FAQs/Buying selling and building/Why do I have to pay for a plumber to move my pipes if Im moving my meter"
+  },
+  {
+    "Name": "Is there anywhere I can view waterwise products",
+    "Index": 791,
+    "Visits": 11,
+    "Path": "Home/FAQs/Saving water/Is there anywhere I can view waterwise products"
+  },
+  {
+    "Name": "Kukerin STED",
+    "Index": 792,
+    "Visits": 11,
+    "Path": "Home/Residential/Water supply/Ongoing works/Kukerin STED"
+  },
+  {
+    "Name": "Broome Boulevard Shopping Centre",
+    "Index": 793,
+    "Visits": 10,
+    "Path": "Business/Saving water/Case studies/Commercial/Broome Boulevard Shopping Centre"
+  },
+  {
+    "Name": "OSH alert Excavation unsafe access egress",
+    "Index": 794,
+    "Visits": 10,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Excavation unsafe access egress"
+  },
+  {
+    "Name": "Program benefits",
+    "Index": 795,
+    "Visits": 10,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise council program/Program benefits"
+  },
+  {
+    "Name": "Temporary services",
+    "Index": 796,
+    "Visits": 10,
+    "Path": "Home/Builders and developers/Applying for services/New water services/Temporary services"
+  },
+  {
+    "Name": "How is a community garden defined",
+    "Index": 797,
+    "Visits": 10,
+    "Path": "Home/FAQs/Saving water/How is a community garden defined"
+  },
+  {
+    "Name": "Regional visits",
+    "Index": 798,
+    "Visits": 10,
+    "Path": "Home/Education/Events/Events calendar/Regional visits"
+  },
+  {
+    "Name": "Weed policy",
+    "Index": 799,
+    "Visits": 10,
+    "Path": "Home/Residential/Save water/Waterwise plants search/Weed policy"
+  },
+  {
+    "Name": "OSH alert 485 Unsafe work from ladder Oct 2016",
+    "Index": 800,
+    "Visits": 9,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 485 Unsafe work from ladder Oct 2016"
+  },
+  {
+    "Name": "Terry Tyzack Aquatic Centre transcript",
+    "Index": 801,
+    "Visits": 9,
+    "Path": "Home/Residential/Legal/Accessibility/Terry Tyzack Aquatic Centre transcript"
+  },
+  {
+    "Name": "What is the standard Water Corporation connection",
+    "Index": 802,
+    "Visits": 9,
+    "Path": "Home/FAQs/Builders and developers/What is the standard Water Corporation connection"
+  },
+  {
+    "Name": "Can I get a watering exemption if I have a garden bore",
+    "Index": 803,
+    "Visits": 9,
+    "Path": "Home/FAQs/Saving water/Can I get a watering exemption if I have a garden bore"
+  },
+  {
+    "Name": "Central Regional TAFE",
+    "Index": 804,
+    "Visits": 9,
+    "Path": "Business/Saving water/Case studies/Education/Central Regional TAFE"
+  },
+  {
+    "Name": "Data logging",
+    "Index": 805,
+    "Visits": 9,
+    "Path": "Business/Saving water/Case studies/Mining and Manufacturing/Data logging"
+  },
+  {
+    "Name": "Order your free reminder sticker",
+    "Index": 806,
+    "Visits": 9,
+    "Path": "Home/Residential/Save water/Watering days/Order your free reminder sticker"
+  },
+  {
+    "Name": "108 St Georges Terrace",
+    "Index": 807,
+    "Visits": 9,
+    "Path": "Business/Saving water/Case studies/Commercial/108 St Georges Terrace"
+  },
+  {
+    "Name": "I want to subdivide my land what do I do",
+    "Index": 808,
+    "Visits": 9,
+    "Path": "Home/FAQs/Buying selling and building/I want to subdivide my land what do I do"
+  },
+  {
+    "Name": "Water that looks different transcript",
+    "Index": 809,
+    "Visits": 9,
+    "Path": "Home/Residential/Legal/Accessibility/Water that looks different transcript"
+  },
+  {
+    "Name": "Other activities",
+    "Index": 810,
+    "Visits": 9,
+    "Path": "Home/Education/School talks and excursions/School talks/Other activities"
+  },
+  {
+    "Name": "Do you have any tips on how to save water in and around the home",
+    "Index": 811,
+    "Visits": 8,
+    "Path": "Home/FAQs/Saving water/Do you have any tips on how to save water in and around the home"
+  },
+  {
+    "Name": "OSH alert Truck crash Sept 2015",
+    "Index": 812,
+    "Visits": 8,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Truck crash Sept 2015"
+  },
+  {
+    "Name": "How much does it cost to participate in the program",
+    "Index": 813,
+    "Visits": 8,
+    "Path": "Home/FAQs/Saving water/How much does it cost to participate in the program"
+  },
+  {
+    "Name": "My business is changing its processes do I need to submit a new application",
+    "Index": 814,
+    "Visits": 8,
+    "Path": "Home/FAQs/Business/Trade waste/My business is changing its processes do I need to submit a new application"
+  },
+  {
+    "Name": "OSH alert MVA rollover",
+    "Index": 815,
+    "Visits": 8,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert MVA rollover"
+  },
+  {
+    "Name": "Discovery Parks Onslow",
+    "Index": 816,
+    "Visits": 8,
+    "Path": "Business/Saving water/Case studies/Caravan parks/Discovery Parks Onslow"
+  },
+  {
+    "Name": "Mount Hospital",
+    "Index": 817,
+    "Visits": 8,
+    "Path": "Business/Saving water/Case studies/Hospitals and aged care/Mount Hospital"
+  },
+  {
+    "Name": "OSH alert Truck rollover Feb 2016",
+    "Index": 818,
+    "Visits": 8,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Truck rollover Feb 2016"
+  },
+  {
+    "Name": "Sewer conversions",
+    "Index": 819,
+    "Visits": 8,
+    "Path": "Home/Builders and developers/Applying for services/Sewer conversions"
+  },
+  {
+    "Name": "Water recycling for industry Kwinana case study transcript",
+    "Index": 820,
+    "Visits": 8,
+    "Path": "Home/Residential/Legal/Accessibility/Water recycling for industry Kwinana case study transcript"
+  },
+  {
+    "Name": "Activity",
+    "Index": 821,
+    "Visits": 8,
+    "Path": "Home/Education/Teaching resources/Ripple Effect/Activity"
+  },
+  {
+    "Name": "Can my product carry both the Waterwise Approved logo and the Smart WaterMark label",
+    "Index": 822,
+    "Visits": 8,
+    "Path": "Home/FAQs/Saving water/Can my product carry both the Waterwise Approved logo and the Smart WaterMark label"
+  },
+  {
+    "Name": "Submitted",
+    "Index": 823,
+    "Visits": 8,
+    "Path": "Home/Education/School talks and excursions/Excursions/Submitted"
+  },
+  {
+    "Name": "Im about to do some digging near one of your mains and need to obtain a clearance to work permit",
+    "Index": 824,
+    "Visits": 7,
+    "Path": "Home/FAQs/Buying selling and building/Im about to do some digging near one of your mains and need to obtain a clearance to work permit"
+  },
+  {
+    "Name": "Meet our people Graham transcript",
+    "Index": 825,
+    "Visits": 7,
+    "Path": "Home/Residential/Legal/Accessibility/Meet our people Graham transcript"
+  },
+  {
+    "Name": "Request free Waterwise promo materials",
+    "Index": 826,
+    "Visits": 7,
+    "Path": "Home/Business/Saving water/Water efficiency programs/Request free Waterwise promo materials"
+  },
+  {
+    "Name": "Why have I received a bill with nil to pay",
+    "Index": 827,
+    "Visits": 7,
+    "Path": "Home/FAQs/Accounts/Bills explained/Why have I received a bill with nil to pay"
+  },
+  {
+    "Name": "Encourage behaviour change",
+    "Index": 828,
+    "Visits": 7,
+    "Path": "Home/Business/Saving water/Water saving tips/Encourage behaviour change"
+  },
+  {
+    "Name": "Non metropolitan local government development plans",
+    "Index": 829,
+    "Visits": 7,
+    "Path": "Home/Builders and developers/Land planning/Water and wastewater infrastructure/Non metropolitan local government development plans"
+  },
+  {
+    "Name": "Retrofit showerheads",
+    "Index": 830,
+    "Visits": 7,
+    "Path": "Home/Business/Saving water/Water saving tips/Retrofit showerheads"
+  },
+  {
+    "Name": "Retrofit showerheads in shared facilities",
+    "Index": 831,
+    "Visits": 7,
+    "Path": "Home/Business/Saving water/Water saving tips/Retrofit showerheads in shared facilities"
+  },
+  {
+    "Name": "Sewer junctions",
+    "Index": 832,
+    "Visits": 7,
+    "Path": "Home/Builders and developers/Applying for services/Sewer junctions"
+  },
+  {
+    "Name": "Meet our people Sarah OSH transcript",
+    "Index": 833,
+    "Visits": 7,
+    "Path": "Home/Residential/Legal/Accessibility/Meet our people Sarah OSH transcript"
+  },
+  {
+    "Name": "OSH alert Cable strike March 2015",
+    "Index": 834,
+    "Visits": 7,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Cable strike March 2015"
+  },
+  {
+    "Name": "OSH alert Fall from height March 2015",
+    "Index": 835,
+    "Visits": 7,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Fall from height March 2015"
+  },
+  {
+    "Name": "Potshot Hotel",
+    "Index": 836,
+    "Visits": 7,
+    "Path": "Business/Saving water/Case studies/Hospitality/Potshot Hotel"
+  },
+  {
+    "Name": "What is the process for constructing mains and who should I get",
+    "Index": 837,
+    "Visits": 7,
+    "Path": "Home/FAQs/Builders and developers/What is the process for constructing mains and who should I get"
+  },
+  {
+    "Name": "OSH alert 490 MVA Car hit tree",
+    "Index": 838,
+    "Visits": 6,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 490 MVA Car hit tree"
+  },
+  {
+    "Name": "Form submitted",
+    "Index": 839,
+    "Visits": 6,
+    "Path": "Residential/About us/In the community/Bottled water requests/Form submitted"
+  },
+  {
+    "Name": "I think I have a leak   where should I look",
+    "Index": 840,
+    "Visits": 6,
+    "Path": "Home/FAQs/Faults/I think I have a leak   where should I look"
+  },
+  {
+    "Name": "If I have a SewerSmart Plumber come out  who pays for this",
+    "Index": 841,
+    "Visits": 6,
+    "Path": "Home/FAQs/Faults/If I have a SewerSmart Plumber come out  who pays for this"
+  },
+  {
+    "Name": "Lesson plan",
+    "Index": 842,
+    "Visits": 6,
+    "Path": "Home/Education/Teaching resources/Find a lesson plan/Lesson plan"
+  },
+  {
+    "Name": "WaterAid Water Challenge",
+    "Index": 843,
+    "Visits": 6,
+    "Path": "Home/Education/Events/WaterAid Water Challenge"
+  },
+  {
+    "Name": "What types of products can apply to use the Waterwise label",
+    "Index": 844,
+    "Visits": 6,
+    "Path": "Home/FAQs/Saving water/What types of products can apply to use the Waterwise label"
+  },
+  {
+    "Name": "OSH alert 476 Placarding requirements May 2016",
+    "Index": 845,
+    "Visits": 6,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 476 Placarding requirements May 2016"
+  },
+  {
+    "Name": "OSH alert 484 Potential hazardous gas event Jul 2016",
+    "Index": 846,
+    "Visits": 6,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 484 Potential hazardous gas event Jul 2016"
+  },
+  {
+    "Name": "OSH alert 486 Fall prevention breach",
+    "Index": 847,
+    "Visits": 6,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 486 Fall prevention breach"
+  },
+  {
+    "Name": "Western suburbs wastewater system refurbishment",
+    "Index": 848,
+    "Visits": 6,
+    "Path": "Home/Residential/Water supply/Ongoing works/Western suburbs wastewater system refurbishment"
+  },
+  {
+    "Name": "Getting started in My Water transcript",
+    "Index": 849,
+    "Visits": 5,
+    "Path": "Home/Residential/Legal/Accessibility/Getting started in My Water transcript"
+  },
+  {
+    "Name": "Meet our people Jo transcript",
+    "Index": 850,
+    "Visits": 5,
+    "Path": "Home/Residential/Legal/Accessibility/Meet our people Jo transcript"
+  },
+  {
+    "Name": "South Fremantle Senior High School",
+    "Index": 851,
+    "Visits": 5,
+    "Path": "Business/Saving water/Case studies/Education/South Fremantle Senior High School"
+  },
+  {
+    "Name": "Using clay products transcript",
+    "Index": 852,
+    "Visits": 5,
+    "Path": "Home/Residential/Legal/Accessibility/Using clay products transcript"
+  },
+  {
+    "Name": "Why dont you collect stormwater",
+    "Index": 853,
+    "Visits": 5,
+    "Path": "Home/FAQs/Water supply and services/Why dont you collect stormwater"
+  },
+  {
+    "Name": "I own a caravan park can I water outside of my watering roster",
+    "Index": 854,
+    "Visits": 5,
+    "Path": "Home/FAQs/Saving water/I own a caravan park can I water outside of my watering roster"
+  },
+  {
+    "Name": "OSH alert Excavator struck overhead powerlines May 2016",
+    "Index": 855,
+    "Visits": 5,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Excavator struck overhead powerlines May 2016"
+  },
+  {
+    "Name": "Teachers Reference Group",
+    "Index": 856,
+    "Visits": 5,
+    "Path": "Home/Education/Events/Teachers Reference Group"
+  },
+  {
+    "Name": "Using our systems",
+    "Index": 857,
+    "Visits": 5,
+    "Path": "Home/Residential/Legal/Using our systems"
+  },
+  {
+    "Name": "What are we doing to help business and industry use less water and recycle more water",
+    "Index": 858,
+    "Visits": 5,
+    "Path": "Home/FAQs/Water supply and services/What are we doing to help business and industry use less water and recycle more water"
+  },
+  {
+    "Name": "Can I water sporting grounds using sprinklers",
+    "Index": 859,
+    "Visits": 5,
+    "Path": "Home/FAQs/Saving water/Can I water sporting grounds using sprinklers"
+  },
+  {
+    "Name": "Cannington Leisureplex waterwise aquatic centre transcript",
+    "Index": 860,
+    "Visits": 5,
+    "Path": "Home/Residential/Legal/Accessibility/Cannington Leisureplex waterwise aquatic centre transcript"
+  },
+  {
+    "Name": "Care facilities",
+    "Index": 861,
+    "Visits": 5,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Care facilities"
+  },
+  {
+    "Name": "Creating a waterwise verge transcript",
+    "Index": 862,
+    "Visits": 5,
+    "Path": "Home/Residential/Legal/Accessibility/Creating a waterwise verge transcript"
+  },
+  {
+    "Name": "OSH alert 482 prevention of falls breach Sep 2016",
+    "Index": 863,
+    "Visits": 5,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert 482 prevention of falls breach Sep 2016"
+  },
+  {
+    "Name": "Services from distribution or trunk mains",
+    "Index": 864,
+    "Visits": 5,
+    "Path": "Builders and developers/Applying for services/New water services/Non standard services/Services from distribution or trunk mains"
+  },
+  {
+    "Name": "What is an illegal building notice",
+    "Index": 865,
+    "Visits": 5,
+    "Path": "Home/FAQs/Buying selling and building/What is an illegal building notice"
+  },
+  {
+    "Name": "Crown Promenade",
+    "Index": 866,
+    "Visits": 4,
+    "Path": "Business/Saving water/Case studies/Hospitality/Crown Promenade"
+  },
+  {
+    "Name": "How do I get a water main on my property",
+    "Index": 867,
+    "Visits": 4,
+    "Path": "Home/FAQs/Builders and developers/How do I get a water main on my property"
+  },
+  {
+    "Name": "HPI alert 495 Brushcutter sparks bushfire Jan 2017",
+    "Index": 868,
+    "Visits": 4,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/HPI alert 495 Brushcutter sparks bushfire Jan 2017"
+  },
+  {
+    "Name": "Mazenod College",
+    "Index": 869,
+    "Visits": 4,
+    "Path": "Business/Saving water/Case studies/Education/Mazenod College"
+  },
+  {
+    "Name": "OSH alert Cable contact May 2015",
+    "Index": 870,
+    "Visits": 4,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Cable contact May 2015"
+  },
+  {
+    "Name": "Products Details",
+    "Index": 871,
+    "Visits": 4,
+    "Path": "Home/Residential/Save water/Water saving products search/Products Details"
+  },
+  {
+    "Name": "Meet our people Peter transcript",
+    "Index": 872,
+    "Visits": 4,
+    "Path": "Home/Residential/Legal/Accessibility/Meet our people Peter transcript"
+  },
+  {
+    "Name": "OSH alert Electric shock March 2015",
+    "Index": 873,
+    "Visits": 4,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Electric shock March 2015"
+  },
+  {
+    "Name": "When do I need a watering exemption",
+    "Index": 874,
+    "Visits": 4,
+    "Path": "Home/FAQs/Saving water/When do I need a watering exemption"
+  },
+  {
+    "Name": "Can the Water Corp build my water or sewer main for me",
+    "Index": 875,
+    "Visits": 4,
+    "Path": "Home/FAQs/Builders and developers/Can the Water Corp build my water or sewer main for me"
+  },
+  {
+    "Name": "Establishing a new lawn transcript",
+    "Index": 876,
+    "Visits": 4,
+    "Path": "Home/Residential/Legal/Accessibility/Establishing a new lawn transcript"
+  },
+  {
+    "Name": "HPI alert 496 Breach of tagging and isolation procedure Aug 2016",
+    "Index": 877,
+    "Visits": 4,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/HPI alert 496 Breach of tagging and isolation procedure Aug 2016"
+  },
+  {
+    "Name": "Summer",
+    "Index": 878,
+    "Visits": 4,
+    "Path": "Home/Residential/Landing/Summer 2015/Summer"
+  },
+  {
+    "Name": "Discovering groundwater replenishment transcript",
+    "Index": 879,
+    "Visits": 4,
+    "Path": "Home/Residential/Legal/Accessibility/Discovering groundwater replenishment transcript"
+  },
+  {
+    "Name": "Grouping plants with similar watering needs transcript",
+    "Index": 880,
+    "Visits": 4,
+    "Path": "Home/Residential/Legal/Accessibility/Grouping plants with similar watering needs transcript"
+  },
+  {
+    "Name": "Educate staff about water efficient cleaning practices",
+    "Index": 881,
+    "Visits": 3,
+    "Path": "Home/Business/Saving water/Water saving tips/Educate staff about water efficient cleaning practices"
+  },
+  {
+    "Name": "How can i reduce water use in my office",
+    "Index": 882,
+    "Visits": 3,
+    "Path": "Home/FAQs/Saving water/How can i reduce water use in my office"
+  },
+  {
+    "Name": "St Bartholomews House",
+    "Index": 883,
+    "Visits": 3,
+    "Path": "Business/Saving water/Case studies/Hospitals and aged care/St Bartholomews House"
+  },
+  {
+    "Name": "Switch to front loading washing machines",
+    "Index": 884,
+    "Visits": 3,
+    "Path": "Home/Business/Saving water/Water saving tips/Switch to front loading washing machines"
+  },
+  {
+    "Name": "Terms and conditions",
+    "Index": 885,
+    "Visits": 3,
+    "Path": "Home/Builders and developers/Building/Backflow prevention/Terms and conditions"
+  },
+  {
+    "Name": "WA Weekender My Water promo",
+    "Index": 886,
+    "Visits": 3,
+    "Path": "Home/Residential/Legal/Accessibility/WA Weekender My Water promo"
+  },
+  {
+    "Name": "Meet our people Kerrie transcript",
+    "Index": 887,
+    "Visits": 3,
+    "Path": "Home/Residential/Legal/Accessibility/Meet our people Kerrie transcript"
+  },
+  {
+    "Name": "OSH alert Faulty trigger on yoke hooks January 2017",
+    "Index": 888,
+    "Visits": 3,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Faulty trigger on yoke hooks January 2017"
+  },
+  {
+    "Name": "The journey water takes to your tap",
+    "Index": 889,
+    "Visits": 3,
+    "Path": "Home/Residential/Legal/Accessibility/The journey water takes to your tap"
+  },
+  {
+    "Name": "Radiology clinics",
+    "Index": 890,
+    "Visits": 3,
+    "Path": "Home/Business/Trade waste/Trade waste in your business/Radiology clinics"
+  },
+  {
+    "Name": "Water efficient landscape and irrigation online training promo transcript",
+    "Index": 891,
+    "Visits": 3,
+    "Path": "Home/Residential/Legal/Accessibility/Water efficient landscape and irrigation online training promo transcript"
+  },
+  {
+    "Name": "Why do I have to relocate my water service",
+    "Index": 892,
+    "Visits": 3,
+    "Path": "Home/FAQs/Builders and developers/Why do I have to relocate my water service"
+  },
+  {
+    "Name": "Install automated flushers in urinals",
+    "Index": 893,
+    "Visits": 3,
+    "Path": "Home/Business/Saving water/Water saving tips/Install automated flushers in urinals"
+  },
+  {
+    "Name": "Managing business accounts in My Water transcript",
+    "Index": 894,
+    "Visits": 3,
+    "Path": "Home/Residential/Legal/Accessibility/Managing business accounts in My Water transcript"
+  },
+  {
+    "Name": "Mulching transcript",
+    "Index": 895,
+    "Visits": 3,
+    "Path": "Home/Residential/Legal/Accessibility/Mulching transcript"
+  },
+  {
+    "Name": "School water audit transcript",
+    "Index": 896,
+    "Visits": 3,
+    "Path": "Home/Residential/Legal/Accessibility/School water audit transcript"
+  },
+  {
+    "Name": "What happens if I dont want to submit an application",
+    "Index": 897,
+    "Visits": 3,
+    "Path": "Home/FAQs/Buying selling and building/What happens if I dont want to submit an application"
+  },
+  {
+    "Name": "Case studies",
+    "Index": 898,
+    "Visits": 2,
+    "Path": "Business/Saving water/Water efficiency programs/Waterwise council program/Case studies"
+  },
+  {
+    "Name": "Hot tips",
+    "Index": 899,
+    "Visits": 2,
+    "Path": "Home/Residential/Landing/Summer 2015/Hot tips"
+  },
+  {
+    "Name": "How do I know which products are water efficient",
+    "Index": 900,
+    "Visits": 2,
+    "Path": "Home/FAQs/Saving water/How do I know which products are water efficient"
+  },
+  {
+    "Name": "OSH alert Forklift July 2015",
+    "Index": 901,
+    "Visits": 2,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Forklift July 2015"
+  },
+  {
+    "Name": "Sewer service fees",
+    "Index": 902,
+    "Visits": 2,
+    "Path": "Home/Builders and developers/Applying for services/Fees and charges/Sewer service fees"
+  },
+  {
+    "Name": "Garden City Shopping Centre",
+    "Index": 903,
+    "Visits": 2,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Commercial/Garden City Shopping Centre"
+  },
+  {
+    "Name": "OSH alert Leg caught in moving parts of cement hopper Nov 2015",
+    "Index": 904,
+    "Visits": 2,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Leg caught in moving parts of cement hopper Nov 2015"
+  },
+  {
+    "Name": "Bold Park Aquatic Centre",
+    "Index": 905,
+    "Visits": 2,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Aquatic centres/Bold Park Aquatic Centre"
+  },
+  {
+    "Name": "How to use BuilderNet",
+    "Index": 906,
+    "Visits": 2,
+    "Path": "Home/Builders and developers/Applying for services/How to use BuilderNet"
+  },
+  {
+    "Name": "OSH alert Biosolids truck rollover May 2016",
+    "Index": 907,
+    "Visits": 2,
+    "Path": "Home/Suppliers/Health and safety for contractors/Incident alerts recent news and monthly toolbox/OSH alert Biosolids truck rollover May 2016"
+  },
+  {
+    "Name": "Paperless billing FB campaign - trees - Sitecore form",
+    "Index": 908,
+    "Visits": 2,
+    "Path": "Home/Residential/Landing/Ongoing landing pages/Paperless billing FB campaign - trees - Sitecore form"
+  },
+  {
+    "Name": "Water saving tips for business - fix leaking toilets transcript",
+    "Index": 909,
+    "Visits": 2,
+    "Path": "Home/Residential/Legal/Accessibility/Water saving tips for business - fix leaking toilets transcript"
+  },
+  {
+    "Name": "Water savings tips for cooling towers - part two transcript",
+    "Index": 910,
+    "Visits": 2,
+    "Path": "Home/Residential/Legal/Accessibility/Water savings tips for cooling towers - part two transcript"
+  },
+  {
+    "Name": "What happens if I water more often to establish my lawn or garden without a watering exemption",
+    "Index": 911,
+    "Visits": 2,
+    "Path": "Home/FAQs/Saving water/What happens if I water more often to establish my lawn or garden without a watering exemption"
+  },
+  {
+    "Name": "Fremantle Caravan Park",
+    "Index": 912,
+    "Visits": 2,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Caravan parks/Fremantle Caravan Park"
+  },
+  {
+    "Name": "Caravan park case study transcript",
+    "Index": 913,
+    "Visits": 1,
+    "Path": "Home/Residential/Legal/Accessibility/Caravan park case study transcript"
+  },
+  {
+    "Name": "Central Regional TAFE",
+    "Index": 914,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Education/Central Regional TAFE"
+  },
+  {
+    "Name": "City of Joondalup Soil Moisture Probes",
+    "Index": 915,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Councils/City of Joondalup Soil Moisture Probes"
+  },
+  {
+    "Name": "Coogee Beach Holiday Park",
+    "Index": 916,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Caravan parks/Coogee Beach Holiday Park"
+  },
+  {
+    "Name": "Creating an edible aquifer water experiment",
+    "Index": 917,
+    "Visits": 1,
+    "Path": "Home/Residential/Legal/Accessibility/Creating an edible aquifer water experiment"
+  },
+  {
+    "Name": "How do I know that my application is assessed fairly",
+    "Index": 918,
+    "Visits": 1,
+    "Path": "Home/FAQs/Suppliers/Contractor prequalification/How do I know that my application is assessed fairly"
+  },
+  {
+    "Name": "Water saving tips for business - showerheads transcript",
+    "Index": 919,
+    "Visits": 1,
+    "Path": "Home/Residential/Legal/Accessibility/Water saving tips for business - showerheads transcript"
+  },
+  {
+    "Name": "2014 15 year at a glance",
+    "Index": 920,
+    "Visits": 1,
+    "Path": "Home/Residential/Legal/Accessibility/2014 15 year at a glance"
+  },
+  {
+    "Name": "Administration Feedback Reports",
+    "Index": 921,
+    "Visits": 1,
+    "Path": "Home/Education/School talks and excursions/School talks/Administration Feedback Reports"
+  },
+  {
+    "Name": "City of Nedlands demonstration gardens",
+    "Index": 922,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Councils/City of Nedlands demonstration gardens"
+  },
+  {
+    "Name": "dms 1",
+    "Index": 923,
+    "Visits": 1,
+    "Path": "Home/Residential/Landing/dms 1"
+  },
+  {
+    "Name": "Tronox Management Pty Ltd",
+    "Index": 924,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Mining and Manufacturing/Tronox Management Pty Ltd"
+  },
+  {
+    "Name": "Broome Boulevard Shopping Centre",
+    "Index": 925,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Commercial/Broome Boulevard Shopping Centre"
+  },
+  {
+    "Name": "City of Cockburn case study",
+    "Index": 926,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Councils/City of Cockburn case study"
+  },
+  {
+    "Name": "Efficiently watering your garden transcript",
+    "Index": 927,
+    "Visits": 1,
+    "Path": "Home/Residential/Legal/Accessibility/Efficiently watering your garden transcript"
+  },
+  {
+    "Name": "Training",
+    "Index": 928,
+    "Visits": 1,
+    "Path": "Home/Residential/Training"
+  },
+  {
+    "Name": "City of Capel waterwise display village",
+    "Index": 929,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Councils/City of Capel waterwise display village"
+  },
+  {
+    "Name": "City of Perth DYHS",
+    "Index": 930,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Councils/City of Perth DYHS"
+  },
+  {
+    "Name": "City of Vincent Hyde Park lake",
+    "Index": 931,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Councils/City of Vincent Hyde Park lake"
+  },
+  {
+    "Name": "Mining and Manufacturing",
+    "Index": 932,
+    "Visits": 1,
+    "Path": "Saving water/Water efficiency programs/Waterwise council program/Case studies/Mining and Manufacturing"
+  },
+  {
+    "Name": "Mount Hospital",
+    "Index": 933,
+    "Visits": 1,
+    "Path": "Water efficiency programs/Waterwise council program/Case studies/Hospitals and aged care/Mount Hospital"
+  }
+]

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> 
+<![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8"> 
+<![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9"> <![endif]--
+
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
+    
+<head>
+        
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta charset="utf-8">
+<title>Water Corporation Public Website </title>    
+        
+<link rel="stylesheet" href="./main.css">   
+</head>
+<body>
+<h1>Water Corporation Public Website</h1>
+
+<script src="./../d3/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script>
+
+var margin = {top: 20, right: 20, bottom: 50, left: 80},
+    width = 5000 - margin.left - margin.right,
+    height = 900 - margin.top - margin.bottom;
+
+var commaFormat = d3.format(",d");
+
+var x = d3.scale.ordinal()
+    .rangeBands([0,width], 0);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickFormat(commaFormat);
+
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([-10, 0])
+  .html(function(d) {
+    return "<div>Title of Page : <span style='color:#17becf'>" + d.Name + 
+        " </span><br>Nº Visits: <span style='color:#17becf'>"+ commaFormat(d.Visits)+"</span>" +
+        "<br>Index: <span style='color:#17becf'>"+ d.Index +"</span></div>";
+  })
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  svg.call(tip);
+
+  d3.json("PublicWebsiteUsage.json", function(error, data) {
+    x.domain(data.map(function(d) { return d.Index; }));
+    y.domain([0, d3.max(data, function(d) { return d.Visits; })]);
+
+  svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(2," + (height+5) + ")")
+    .call(xAxis);
+
+  svg.append("g")    
+      .attr("class", "y axis")
+      .call(yAxis) 
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("dx", -75)
+      .attr("dy", "-1em")
+      .style("text-anchor", "end")
+      .text("No Vistis");
+
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.Index)+2;} ) 
+      .attr("width", x.rangeBand()-1)
+      .attr("y", function(d) { return y(d.Visits); })
+      .attr("height", function(d) { return height - y(d.Visits); })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+
+});
+
+function type(d) {
+  d.Visits = +d.Visits;
+  return d;
+}
+
+</script>
